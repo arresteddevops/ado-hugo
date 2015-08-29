@@ -10,6 +10,6 @@ deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: 
+        domain: arresteddevops.github.io
         basedir: public
         repo: arresteddevops/ado-hugo
