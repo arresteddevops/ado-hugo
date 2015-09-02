@@ -1,7 +1,9 @@
 +++
-date = "2015-08-29T14:21:15-05:00"
-draft = false
 title = "about"
-
+description = "about this site"
+date = "2015-09-01"
 +++
 
+## about us
+
+i'm speechless
