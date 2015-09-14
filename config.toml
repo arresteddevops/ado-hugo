@@ -1,4 +1,5 @@
 baseurl = "http://arresteddevops.github.io/"
+# baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Arrested DevOps"
 theme = "ado"

@@ -9,7 +9,7 @@
 
   <h1>pages</h1>
   {{ range .Data.Pages }}
-    {{ if eq .Type "page" }}
+    {{ if eq .Type "episode" }}
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     {{ end }}
   {{ end }}

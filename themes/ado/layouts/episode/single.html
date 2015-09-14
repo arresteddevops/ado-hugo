@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <audio src="{{ .Params.podcast }}" preload="auto" />
+  {{ .Params.podcast }}
+
+{{ partial "footer.html" . }}
