@@ -1,5 +1,4 @@
-baseurl = "http://arresteddevops.github.io/"
-# baseurl = "http://localhost:1313/"
+BaseURL = "http://arresteddevops.github.io/"
 languageCode = "en-us"
 title = "Arrested DevOps"
 theme = "ado"
@@ -7,3 +6,8 @@ theme = "ado"
 [permalinks]
 	page = "/:title/"
 	about = "/:filename/"
+
+[params]
+Facebook = "//facebook.com/Arresteddevops"
+GATracker = ""
+Twitter = "//twitter.com/arresteddevops"

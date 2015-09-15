@@ -4,6 +4,6 @@
   <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
   {{ .Content }}
 
-  <div>Short Description of {{ .Site.Data.User0123.Name}}: <p>{{ index .Site.Data.User0123 "Short Description" | markdownify }}</p></div>
+<br /> Short Description of {{.Site.Data.User0123.Name}}: <p>{{index .Site.Data.User0123 "Short Description" | markdownify }}</p>
 
 {{ partial "footer.html" . }}
