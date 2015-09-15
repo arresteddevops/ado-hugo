@@ -3,6 +3,21 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
-  <audio src="{{ .Params.podcast }}" preload="auto" />
+  <div><audio src="{{ .Params.podcast }}" preload="auto" /></div>
+
+<h2>Guests</h2>
+{{ range .Params.guests }}
+  {{ $guest := . }}
+  {{ $guest }}
+  <img src = "/img/guests/{{.Site.Data.guests.$guest.Name}}.png">
+{{ end }}
+
+
+
+
+<hr />
+
+<div><a href = "{{.Site.Data.sponsors.pagerduty.url}}">{{.Site.Data.sponsors.pagerduty.Name}}</a></div>
+
 
 {{ partial "footer.html" . }}

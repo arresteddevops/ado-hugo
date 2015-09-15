@@ -2,6 +2,8 @@ BaseURL = "http://arresteddevops.github.io/"
 languageCode = "en-us"
 title = "Arrested DevOps"
 theme = "ado"
+canonifyurls = true
+dataDir = "data"
 
 [permalinks]
 	page = "/:title/"
