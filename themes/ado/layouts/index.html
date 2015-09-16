@@ -9,7 +9,6 @@
       <p>
         This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique. The rss link is {{ .RSSlink }}
       </p>
-      <p><gcse:search></gcse:search></p>
       <p>
         <a class="btn btn-primary btn-large" href="#">Learn more</a>
       </p>
@@ -27,6 +26,12 @@
         <p>
           {{ .Description | markdownify}}
         </p>
+        <div>
+          <audio controls>
+          	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
+          	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
+          </audio>
+        </div>
       </div>
     </div>
   </div>
