@@ -3,11 +3,12 @@
   <h1>{{ .Title }}</h1>
 
   {{ .Description | markdownify }}
-
+<div>
   <audio controls>
   	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
   	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
   </audio>
+</div>
 
   <h2>Show Notes</h2>
 
