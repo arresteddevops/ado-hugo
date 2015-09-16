@@ -4,6 +4,7 @@ title = "Arrested DevOps"
 theme = "ado"
 canonifyurls = true
 dataDir = "data"
+disqusShortname = "arresteddevops"
 
 [permalinks]
 	page = "/:title/"
