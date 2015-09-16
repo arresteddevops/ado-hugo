@@ -26,6 +26,12 @@
         <p>
           {{ .Description | markdownify}}
         </p>
+        <div>
+          <audio controls>
+          	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
+          	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
+          </audio>
+        </div>
       </div>
     </div>
   </div>
