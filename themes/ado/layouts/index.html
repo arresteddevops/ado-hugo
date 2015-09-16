@@ -3,9 +3,6 @@
   <h1>Arrested DevOps</h1>
 
     <div class="jumbotron">
-      <h2>
-        Hello, world!
-      </h2>
       <p>
         {{ range first 1 .Data.Pages }}
           {{ if eq .Type "episode"}}
@@ -17,6 +14,7 @@
         <a class="btn btn-primary btn-large" href="#">Learn more</a>
       </p>
     </div>
+
         {{ range first 10 .Data.Pages }}
           {{ if eq .Type "episode"}}
             <div class="row">
@@ -41,5 +39,6 @@
       {{ end }}
       {{ end }}
 </div>
+
 
 {{ partial "footer.html" . }}
