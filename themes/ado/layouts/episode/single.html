@@ -4,22 +4,30 @@
 
   {{ .Description | markdownify }}
 
+  <audio controls>
+  	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
+  	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
+  </audio>
+
   <h2>Show Notes</h2>
 
   {{ .Content }}
 
-  <div><audio src="{{ .Params.podcast }}" preload="auto" /></div>
 
 <h2>Guests</h2>
-<div>
 {{ range $person :=.Params.guests }}
-  {{ $person }}<br />
+  {{ if isset $.Site.Data.guests $person }}
+    <div class="row">
+      <div class="col-md-3">
+        <img src = "/img/guests/{{$person}}.png">
+      </div>
+      <div class="col-md-9">
+        <h2>{{ (index $.Site.Data.guests $person).FullName }}</h2>
+        <p>{{ (index $.Site.Data.guests $person).Bio }}</p>
+      </div>
+    {{ end }}
+    </div>
 {{ end }}
-</div>
-
-  <img src = "/img/guests/{{.Site.Data.guests.jhand.Name}}.png">
-  <br />
-  <a href = "https://twitter.com/{{.Site.Data.guests.jhand.Twitter}}">@{{.Site.Data.guests.jhand.Twitter}}</a>
 
 
 
