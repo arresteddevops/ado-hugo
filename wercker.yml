@@ -5,11 +5,6 @@ build:
         version: 0.14
         theme: ado
         flags: --buildDrafts=true
-  after-steps:
-    - sherzberg/slack-notify:
-        subdomain: arresteddevops
-        token: $SLACK_TOKEN
-        channel: builds
 
 deploy:
   steps:
@@ -18,8 +13,3 @@ deploy:
         domain: arresteddevops.github.io
         basedir: public
         repo: arresteddevops/arresteddevops.github.io
-  after-steps:
-    - sherzberg/slack-notify:
-        subdomain: arresteddevops
-        token: $SLACK_TOKEN
-        channel: builds
