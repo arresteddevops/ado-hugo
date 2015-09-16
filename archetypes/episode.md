@@ -6,4 +6,6 @@ categories = []
 guests = []
 sponsors = []
 friendly = ""
+episode = ""
+title = ""
 +++

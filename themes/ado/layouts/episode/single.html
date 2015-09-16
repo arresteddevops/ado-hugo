@@ -1,6 +1,11 @@
 {{ partial "header.html" . }}
 
   <h1>{{ .Title }}</h1>
+
+  {{ .Description | markdownify }}
+
+  <h2>Show Notes</h2>
+
   {{ .Content }}
 
   <div><audio src="{{ .Params.podcast }}" preload="auto" /></div>
