@@ -22,9 +22,9 @@
       <div class="col-md-3">
         <img src = "/img/guests/{{$person}}.png">
       </div>
-      <div class="col-md-9">
+      <div class="col-md-6">
         <h2>{{ (index $.Site.Data.guests $person).FullName }}</h2>
-        <p>{{ (index $.Site.Data.guests $person).Bio }}</p>
+        <p>{{ (index $.Site.Data.guests $person).Bio | markdownify}}</p>
       </div>
     {{ end }}
     </div>
