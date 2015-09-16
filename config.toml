@@ -8,6 +8,7 @@ dataDir = "data"
 [permalinks]
 	page = "/:title/"
 	about = "/:filename/"
+	episode = "/:filename/"
 
 [params]
 Facebook = "//facebook.com/Arresteddevops"

@@ -1,8 +1,9 @@
 +++
 Description = ""
 podcast = ""
-Tags = []
-Categories = []
-Guests = []
-Sponsors = []
+tags = []
+categories = []
+guests = []
+sponsors = []
+friendly = ""
 +++

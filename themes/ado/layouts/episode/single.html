@@ -6,11 +6,10 @@
   <div><audio src="{{ .Params.podcast }}" preload="auto" /></div>
 
 <h2>Guests</h2>
-{{ range .Params.guests }}
-  {{ $guest := . }}
-  {{ $guest }}
-  <img src = "/img/guests/{{.Site.Data.guests.$guest.Name}}.png">
-{{ end }}
+
+<div>{{.Site.Data.guests.jhand.Name}}</div>
+
+  <img src = "/img/guests/{{.Site.Data.guests.jhand.Name}}.png">
 
 
 
