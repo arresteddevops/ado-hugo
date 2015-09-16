@@ -1,0 +1,35 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Arrested DevOps</title>
+    <link>{{ .Permalink }}</link>
+    <language>en-us</language>
+    <copyright>Copyright 2015 Arrested DevOps</copyright>
+    <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
+    <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+    <itunes:summary>Arrested DevOps is a high-level, bi-weekly panel discussion of DevOps concepts. We give our listeners a tantalizing taste of the basic technologies and ideas of DevOps to entice them to try more.</itunes:summary>
+    <description>Arrested DevOps is a high-level, bi-weekly panel discussion of DevOps concepts. We give our listeners a tantalizing taste of the basic technologies and ideas of DevOps to entice them to try more.</description>
+    <itunes:owner>
+    <itunes:name>Matt Stratton</itunes:name>
+    <itunes:email>matt.stratton@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://arresteddevops.com/app/uploads/powerpress/ado-podcast-logo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    {{ range first 50 .Data.Pages }}
+    {{ if eq .Type "episode"}}
+    <item>
+      <title>{{ .Title }}</title>
+      <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+      <itunes:summary><![CDATA[{{ .Description }}]</itunes:summary>
+      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
+      <guid>{{ .Params.podcast }}</guid>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
+      <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
+    </item>
+    {{ end }}
+    {{ end }}
+  </channel>
+</rss>
