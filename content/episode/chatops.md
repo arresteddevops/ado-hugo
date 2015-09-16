@@ -2,7 +2,7 @@
 Categories = []
 Description = "Matt & Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps."
 Tags = ["chatops", "jason"]
-Guests = ["jhand"]
+Guests = ["jhand", "srosenbaum"]
 Sponsors = ["pagerduty"]
 date = "2015-09-14T13:00:13-05:00"
 title = "ChatOps Extravaganza"
@@ -10,6 +10,11 @@ podcast = "http://media.blubrry.com/arresteddevops/podcasts.arresteddevops.com/a
 friendly = "chatops"
 podcast_bytes = "39090204"
 podcast_duration = "46:32"
+episode = "42"
+images = ["http://localhost:1313/episode/chatops.png"]
+news_keywords = ["chatops", "devops"]
+author = "Matt"
+
 
 +++
 

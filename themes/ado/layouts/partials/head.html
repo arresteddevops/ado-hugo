@@ -3,6 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 {{ partial "meta.html" . }}
+{{ partial "head/seo.html" . }}
 <base href="{{ .Site.BaseURL }}">
 <title>
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}

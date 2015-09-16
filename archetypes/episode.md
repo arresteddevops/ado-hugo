@@ -10,4 +10,7 @@ sponsors = []
 friendly = ""
 episode = ""
 title = ""
+images = []
+news_keywords = []
+author = ""
 +++

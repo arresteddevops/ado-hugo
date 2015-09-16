@@ -11,10 +11,15 @@
   <div><audio src="{{ .Params.podcast }}" preload="auto" /></div>
 
 <h2>Guests</h2>
-
-<div>{{.Site.Data.guests.jhand.Name}}</div>
+<div>
+{{ range $person :=.Params.guests }}
+  {{ $person }}<br />
+{{ end }}
+</div>
 
   <img src = "/img/guests/{{.Site.Data.guests.jhand.Name}}.png">
+  <br />
+  <a href = "https://twitter.com/{{.Site.Data.guests.jhand.Twitter}}">@{{.Site.Data.guests.jhand.Twitter}}</a>
 
 
 
