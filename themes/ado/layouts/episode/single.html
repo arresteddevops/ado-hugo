@@ -18,13 +18,14 @@
 <h2>Guests</h2>
 {{ range $person :=.Params.guests }}
   {{ if isset $.Site.Data.guests $person }}
+  {{ $p :=  (index $.Site.Data.guests $person) }}
     <div class="row">
       <div class="col-md-3">
         <img src = "/img/guests/{{$person}}.png">
       </div>
       <div class="col-md-6">
-        <h2>{{ (index $.Site.Data.guests $person).FullName }}</h2>
-        <p>{{ (index $.Site.Data.guests $person).Bio | markdownify}}</p>
+        <h2>{{ $p.FullName }}</h2>
+        <p>{{ $p.Bio | markdownify }}</p>
       </div>
     {{ end }}
     </div>

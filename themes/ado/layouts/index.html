@@ -7,7 +7,11 @@
         Hello, world!
       </h2>
       <p>
-        This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique. The rss link is {{ .RSSlink }}
+        {{ range first 1 .Data.Pages }}
+          {{ if eq .Type "episode"}}
+            <h2>{{ .Title }}</h2>
+          {{ end }}
+        {{ end }}
       </p>
       <p>
         <a class="btn btn-primary btn-large" href="#">Learn more</a>
@@ -15,28 +19,27 @@
     </div>
         {{ range first 10 .Data.Pages }}
           {{ if eq .Type "episode"}}
-    <div class="row">
-      <div class="col-md-3">
-        <div margin = 30px>
-        <img src = "/episode/{{ .Params.friendly }}.png" width = 200px height = 200px class="img-rounded">
-      </div>
-      </div>
-      <div class="col-md-9">
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <p>
-          {{ .Description | markdownify}}
-        </p>
-        <div>
-          <audio controls>
-          	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
-          	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
-          </audio>
-        </div>
-      </div>
-    </div>
-  </div>
+            <div class="row">
+              <div class="col-md-3">
+                <div margin-left = 30px>
+                  <img src = "/episode/{{ .Params.friendly }}.png" width = 200px height = 200px class="img-rounded">
+                </div>
+              </div>
+            <div class="col-md-3">
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+              <p>
+                {{ .Description | markdownify}}
+              </p>
+              <div>
+                <audio controls>
+          	       <source src="{{ .Params.podcast }}" type="audio/mpeg" />
+          	        <a href="{{ .Params.podcast }}">{{ .Title }}</a>
+                </audio>
+              </div>
+            </div>
+          </div>
+      {{ end }}
+      {{ end }}
 </div>
-  {{ end }}
-{{ end }}
 
 {{ partial "footer.html" . }}
