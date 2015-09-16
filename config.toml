@@ -15,3 +15,24 @@ disqusShortname = "arresteddevops"
 Facebook = "//facebook.com/Arresteddevops"
 GATracker = ""
 Twitter = "//twitter.com/arresteddevops"
+	[params.social]
+		github = "arresteddevops"
+		facebook = "Arresteddevops"
+		facebook_admin = "10152479056542138"  # This needs to be a page admin to get domain insights
+		twitter = "arresteddevops"
+		twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+		googleplus = "ArrestedDevOps"
+		pinterest = "nozzleio"
+		instagram = "nozzleio"
+		youtube = "arresteddevops"
+		linkedin = "nozzleio"
+	[params.authors]
+	  [params.authors.Matt]
+			name	= "Matt Stratton"
+			thumbnail = "http://arresteddevops.github.io/img/matt.png"
+			bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
+			[params.authors.Matt.social]
+				github = "mattstratton"
+				facebook = "matt.stratton"
+				twitter = "mattstratton"
+				linkedin = "mattstratton"
