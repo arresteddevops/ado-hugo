@@ -11,4 +11,4 @@ friendly = "chatops"
 
 +++
 
-Matt and Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps.
+Matt & Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps.
