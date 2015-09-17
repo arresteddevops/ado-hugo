@@ -23,7 +23,7 @@
 
         {{ range first 10 .Data.Pages }}
           {{ if eq .Type "episode"}}
-          <div class="col-xs-6 col-lg-4">
+          <div class="col-xs-6 col-lg-5">
             <img src = "/episode/{{ .Params.friendly }}.png" width = 200px height = 200px class="img-rounded">
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <p>
