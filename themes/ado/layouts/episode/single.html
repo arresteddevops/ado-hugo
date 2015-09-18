@@ -1,14 +1,23 @@
 {{ partial "header.html" . }}
 
   <h1>{{ .Title }}</h1>
-
-  {{ .Description | markdownify }}
 <div>
-  <audio controls>
-  	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
-  	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
-  </audio>
+  {{ .Description | markdownify }}
 </div>
+{{ if isset .Params "youtube" }}
+      <div class="embed video-player">
+      <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/{{ .Params.youtube }}" allowfullscreen frameborder="0">
+      </iframe>
+      </div>
+  {{ end }}
+  {{ if isset .Params "podcast" }}
+  <div>
+    <audio controls>
+    	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
+    	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
+    </audio>
+  </div>
+  {{ end }}
 
   <h2>Show Notes</h2>
 
