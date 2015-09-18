@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
     <div class="row">
-  <h1>{{ .Title }}</h1>
+  <h1>{{ title (.Title) }}</h1>
 <div>
   {{ .Description | markdownify }}
 </div>

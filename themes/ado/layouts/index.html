@@ -18,7 +18,7 @@
         {{ $index := add $index 1 }}
           <div class="col-xs-6 col-lg-5">
             <img src = "/episode/{{ .Params.friendly }}.png" width = 200px height = 200px class="img-rounded">
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <h2><a href="{{ .Permalink }}">{{ title (.Title) }}</a></h2>
             <p>
               {{ .Description | markdownify}}
             </p>
