@@ -11,6 +11,7 @@ archetypedir = "archetypes"
 	page = "/:title/"
 	about = "/:filename/"
 	episode = "/:filename/"
+	sponsor = "/:filename"
 
 [params]
 Facebook = "//facebook.com/Arresteddevops"
