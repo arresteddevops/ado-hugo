@@ -13,4 +13,5 @@ title = ""
 images = []
 news_keywords = []
 author = ""
+aliases = []
 +++
