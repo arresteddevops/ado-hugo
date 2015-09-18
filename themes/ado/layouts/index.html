@@ -3,12 +3,7 @@
 
     <div class="jumbotron">
       <p>
-        {{ range first 1 .Data.Pages }}
-          {{ if eq .Type "episode"}}
-            <h2>{{ .Title }}</h2>
-            <p>{{ .Description | markdownify}}</p>
-          {{ end }}
-        {{ end }}
+Some stuff will go here that talks about the show. Maybe the most recent episode?
       </p>
     </div>
     <div class="row">
