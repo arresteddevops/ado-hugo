@@ -14,9 +14,7 @@ episode = "42"
 images = ["http://arresteddevops.github.io/episode/chatops.png"]
 news_keywords = ["chatops", "devops"]
 author = "Matt"
-aliases = [
-    "/42"
-]
+aliases = ["/42"]
 
 +++
 
