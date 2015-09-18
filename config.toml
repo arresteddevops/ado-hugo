@@ -38,3 +38,15 @@ Twitter = "//twitter.com/arresteddevops"
 				facebook = "matt.stratton"
 				twitter = "mattstratton"
 				linkedin = "mattstratton"
+		[params.authors.Trevor]
+			name = "Trevor Hess"
+			thumbnail = "http://arresteddevops.github.io/img/trevor.png"
+			bio = ""
+				[params.authors.Trevor.social]
+					twitter = "trevorghess"
+			[params.authors.Bridget]
+				name = "Bridget Kromhout"
+				thumbnail = "http://arresteddevops.github.io/img/Bridget.png"
+				bio = ""
+				[params.authors.Bridget.social]
+					twitter = "bridgetkromhout"
