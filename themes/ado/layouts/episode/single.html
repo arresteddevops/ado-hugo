@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-
+    <div class="row">
   <h1>{{ .Title }}</h1>
 <div>
   {{ .Description | markdownify }}
@@ -48,6 +48,7 @@
 <div><a href = "{{.Site.Data.sponsors.pagerduty.url}}">{{.Site.Data.sponsors.pagerduty.Name}}</a></div>
 <div>
 {{ template "_internal/disqus.html" . }}
+</div>
 </div>
 
 {{ partial "footer.html" . }}
