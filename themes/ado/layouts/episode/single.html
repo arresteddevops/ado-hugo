@@ -46,9 +46,15 @@
 <hr />
 
 <div><a href = "{{.Site.Data.sponsors.pagerduty.url}}">{{.Site.Data.sponsors.pagerduty.Name}}</a></div>
+<hr />
+<div>
+  {{ partial "share.html" . }}
+</div>
+</hr />
 <div>
 {{ template "_internal/disqus.html" . }}
 </div>
+
 </div>
 
 {{ partial "footer.html" . }}
