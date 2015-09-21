@@ -11,9 +11,8 @@
     </div>
     <div class="row">
 
-
-        {{ range $index, $page := first 10 (where .Data.Pages "Type" "episode") }}
-        {{ $index := add $index 1 }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "episode") }}
+        {{ range $paginator.Pages }}
           <div class="col-md-4">
             <div class="thumbnail">
               <img src = "{{ .Site.BaseURL }}/episode/img/{{ .Params.friendly }}.png" class="img-responsive">
@@ -28,7 +27,8 @@
     <!--pagination-->
     <div class="row">
   		<div class="col-md-12">
-  			<ul class="pagination pagination-lg">
+        {{ template "_internal/pagination.html" . }}
+  			<!-- <ul class="pagination pagination-lg">
   				<li>
   					<a href="#">Prev</a>
   				</li>
@@ -50,7 +50,7 @@
   				<li>
   					<a href="#">Next</a>
   				</li>
-  			</ul>
+  			</ul> -->
   		</div>
   	</div>
     <!--pagination-->
