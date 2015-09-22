@@ -15,6 +15,5 @@ podcast_duration = ""
 sponsors = ["pagerduty"]
 tags = []
 title = "devopsdays chicago"
-youtube = ""
 
 +++
