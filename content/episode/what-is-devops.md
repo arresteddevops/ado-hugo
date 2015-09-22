@@ -1,13 +1,13 @@
 +++
 Description = "Matt and Trevor talk about the reason for Arrested DevOps, the format of the show (sort of), and then 'what does DevOps mean?'' Then somehow the topic devolves into open floorspaces and Matt puts his foot in his mouth a few times."
-aliases = []
+aliases = ["/1"]
 author = "Matt"
 categories = []
 date = "2013-12-05T20:52:00-05:00"
-episode = ""
-friendly = "{{slug .}}"
+episode = "1"
+friendly = "what-is-devops"
 guests = []
-images = ["{{ .Site.BaseURL }}/episode/{{friendly}}.png"]
+images = ["http://arresteddevops.github.io/img/social/fb/what-is-devops-job.png", ""]
 news_keywords = []
 podcast = "http://media.blubrry.com/arresteddevops/podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3"
 podcast_bytes = ""
@@ -15,6 +15,7 @@ podcast_duration = ""
 sponsors = []
 tags = []
 title = "What Is DevOps?"
+youtube = "88iUXN5cCas"
 
 +++
 
