@@ -6,7 +6,6 @@ categories = []
 date = "2013-12-05T20:52:00-05:00"
 episode = "1"
 friendly = "what-is-devops"
-guests = []
 images = ["http://arresteddevops.github.io/img/social/fb/what-is-devops-job.png", ""]
 news_keywords = []
 podcast = "http://media.blubrry.com/arresteddevops/podcasts.arresteddevops.com/arrested-devops-podcast-episode001.mp3"

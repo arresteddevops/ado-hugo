@@ -1,30 +1,45 @@
 {{ partial "header.html" . }}
-    <div class="row">
-  <h1>{{ title (.Title) }}</h1>
+{{ if isset .Params "podcast" }}
 <div>
-  {{ .Description | markdownify }}
+  <audio controls>
+    <source src="{{ .Params.podcast }}" type="audio/mpeg" />
+    <a href="{{ .Params.podcast }}">{{ .Title }}</a>
+  </audio>
 </div>
-{{ if isset .Params "youtube" }}
-      <div class="embed video-player">
-      <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/{{ .Params.youtube }}" allowfullscreen frameborder="0">
-      </iframe>
+    <div class="row">
+      <div class="col-md-8">
+        <img alt="{{ title (.Title) }}" src="/episode/img/{{ .Params.friendly}}.png" />
       </div>
+      <div class="col-md-4">
+        {{ if isset .Params "youtube" }}
+              <div class="embed-responsive embed-responsive-4by3">
+              <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ .Params.youtube }}">
+              </iframe>
+              </div>
+          {{ end }}
+      </div>
+    </row>
+
+    <div class = "row">
+      <div class="col-md-8">
+        <div class="well">
+        {{ .Description | markdownify }}
+      </div>
+        <h2>Show Notes</h2>
+
+        {{ .Content }}
+      </div>
+      <div class="col-md-4">
+        {{ partial "sidebar.html" . }}
+
+
+      </div>
+    </row>
+
   {{ end }}
-  {{ if isset .Params "podcast" }}
-  <div>
-    <audio controls>
-    	<source src="{{ .Params.podcast }}" type="audio/mpeg" />
-    	<a href="{{ .Params.podcast }}">{{ .Title }}</a>
-    </audio>
-  </div>
-  {{ end }}
-
-  <h2>Show Notes</h2>
-
-  {{ .Content }}
 
 
-<h2>Guests</h2>
+
 {{ range $person :=.Params.guests }}
   {{ if isset $.Site.Data.guests $person }}
   {{ $p :=  (index $.Site.Data.guests $person) }}
@@ -44,8 +59,13 @@
 
 
 <hr />
+{{ range $sponsor :=.Params.sponsors }}
+  {{ if isset $.Site.Data.sponsors $sponsor }}
+  {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
+  <div><a href = "/{{$sponsor}}"><img src = "{{ $s.ad}}"></a></div>
+  {{end}}
+{{end}}
 
-<div><a href = "{{.Site.Data.sponsors.pagerduty.url}}">{{.Site.Data.sponsors.pagerduty.Name}}</a></div>
 <hr />
 <div>
   {{ partial "share.html" . }}

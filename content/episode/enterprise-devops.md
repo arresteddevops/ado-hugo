@@ -14,7 +14,7 @@ podcast_bytes = ""
 podcast_duration = ""
 sponsors = ["victorops","redgate"]
 tags = []
-title = "enterprise devops"
+title = "DevOps in the Enterprise"
 youtube = "NbtTG3K0YrM"
 
 +++

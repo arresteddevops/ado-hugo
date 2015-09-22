@@ -15,7 +15,6 @@ images = ["http://arresteddevops.github.io/img/social/fb/chatops.png"]
 news_keywords = ["chatops", "devops"]
 author = "Matt"
 aliases = ["/42"]
-youtube = "88iUXN5cCas"
 
 +++
 
