@@ -26,6 +26,10 @@
   <!-- end new jumbo -->
 </div>
     </div>
+    <div class="col-md-12 episode-list">
+      <div class="col-md-12 episode-list-header">
+        <h3>All Episodes</h3>
+      </div>
     <div class="row">
 
         {{ $paginator := .Paginate (where .Data.Pages "Type" "episode") }}
@@ -41,6 +45,7 @@
           </div>
         {{ end }}
       </div>
+    </div>
     <!--pagination-->
     <div class="row">
   		<div class="col-md-12">

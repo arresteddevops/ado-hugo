@@ -27,3 +27,12 @@
     padding: 5px;
     font-size: larger;
   }
+
+.episode-list {
+  /*background-color: grey;*/
+}
+
+.episode-list-header {
+  background-color: black;
+  color: white;
+}
