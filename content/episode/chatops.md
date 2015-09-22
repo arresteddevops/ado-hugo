@@ -2,7 +2,7 @@
 Categories = []
 Description = "Matt & Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps."
 Tags = ["chatops", "jason"]
-Guests = ["jhand", "srosenbaum"]
+Guests = ["jhand", "srosenbaum","pburkholder"]
 Sponsors = ["pagerduty"]
 date = "2015-09-10T13:00:13-05:00"
 title = "ChatOps Extravaganza with Jason Hand, Sasha Rosenbaum, and Peter Burkholder"
