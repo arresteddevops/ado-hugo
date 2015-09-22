@@ -34,6 +34,7 @@
 
         {{ $paginator := .Paginate (where .Data.Pages "Type" "episode") }}
         {{ range $paginator.Pages }}
+        <a href="{{ .Permalink }}">
           <div class="col-md-4">
             <div class="thumbnail">
               <img src = "{{ .Site.BaseURL }}/episode/img/{{ .Params.friendly }}.png" class="img-responsive">
@@ -43,6 +44,7 @@
               </div>
             </div>
           </div>
+        </a>
         {{ end }}
       </div>
     </div>
