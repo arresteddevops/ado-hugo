@@ -36,12 +36,13 @@
         {{ range $paginator.Pages }}
         <a href="{{ .Permalink }}">
           <div class="col-md-4">
-            <div class="thumbnail">
+            <div class="episode-image-homepage">
               <img src = "{{ .Site.BaseURL }}/episode/img/{{ .Params.friendly }}.png" class="img-responsive">
               <div class="caption post-content"></div>
               <div class="details">
                 {{ title .Title }}
               </div>
+
             </div>
           </div>
         </a>

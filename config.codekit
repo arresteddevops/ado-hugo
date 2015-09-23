@@ -809,7 +809,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/a-year-of-ado.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/all-together-now.png": {
 		"fileType": 32768,
@@ -820,7 +820,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/all-together-now.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/blameless.png": {
 		"fileType": 32768,
@@ -831,7 +831,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/blameless.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/building-an-ops-team.png": {
 		"fileType": 32768,
@@ -842,7 +842,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/building-an-ops-team.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/career-devops.png": {
 		"fileType": 32768,
@@ -853,7 +853,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/career-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/chatops-front.png": {
 		"fileType": 32768,
@@ -864,7 +864,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/chatops-front.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/chatops.png": {
 		"fileType": 32768,
@@ -875,7 +875,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/chatops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/chefconf-2015.png": {
 		"fileType": 32768,
@@ -886,7 +886,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/chefconf-2015.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/cloud-scaling.png": {
 		"fileType": 32768,
@@ -897,7 +897,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/cloud-scaling.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/configuration-management.png": {
 		"fileType": 32768,
@@ -908,7 +908,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/configuration-management.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/continuous-delivery-database.png": {
 		"fileType": 32768,
@@ -919,7 +919,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-delivery-database.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/continuous-delivery.png": {
 		"fileType": 32768,
@@ -930,7 +930,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-delivery.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/continuous-integration.png": {
 		"fileType": 32768,
@@ -941,7 +941,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-integration.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/dev-to-ops.png": {
 		"fileType": 32768,
@@ -952,7 +952,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/dev-to-ops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devops-and-marketing.png": {
 		"fileType": 32768,
@@ -963,7 +963,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-and-marketing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devops-at-etsy.png": {
 		"fileType": 32768,
@@ -974,7 +974,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-at-etsy.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devops-conferences.png": {
 		"fileType": 32768,
@@ -985,7 +985,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-conferences.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devops-culture-change.png": {
 		"fileType": 32768,
@@ -996,7 +996,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-culture-change.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devops-mythbusters.png": {
 		"fileType": 32768,
@@ -1007,7 +1007,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-mythbusters.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devops-security.png": {
 		"fileType": 32768,
@@ -1018,7 +1018,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-security.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devopsdays-chicago.png": {
 		"fileType": 32768,
@@ -1029,7 +1029,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-chicago.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/devopsdays-minneapolis.png": {
 		"fileType": 32768,
@@ -1040,7 +1040,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-minneapolis.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/disasters.png": {
 		"fileType": 32768,
@@ -1051,7 +1051,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/disasters.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/DISCPROFILE.png": {
 		"fileType": 32768,
@@ -1062,7 +1062,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/DISCPROFILE.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/docker.png": {
 		"fileType": 32768,
@@ -1073,7 +1073,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/docker.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake.png": {
 		"fileType": 32768,
@@ -1084,7 +1084,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/eating-sushi-with-andrew-clay-shafer.png": {
 		"fileType": 32768,
@@ -1095,7 +1095,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/eating-sushi-with-andrew-clay-shafer.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/enterprise-devops.png": {
 		"fileType": 32768,
@@ -1106,7 +1106,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/enterprise-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/get-help.png": {
 		"fileType": 32768,
@@ -1117,7 +1117,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/get-help.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/git-101.png": {
 		"fileType": 32768,
@@ -1128,7 +1128,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/git-101.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/hiring-for-devops.png": {
 		"fileType": 32768,
@@ -1139,7 +1139,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/hiring-for-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/how-to-eff-up-devops.png": {
 		"fileType": 32768,
@@ -1150,7 +1150,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/how-to-eff-up-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/implementing-devops.png": {
 		"fileType": 32768,
@@ -1161,7 +1161,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/implementing-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/managing-systems-in-the-cloud.png": {
 		"fileType": 32768,
@@ -1172,7 +1172,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/managing-systems-in-the-cloud.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/managing-your-mental-stack.png": {
 		"fileType": 32768,
@@ -1183,7 +1183,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/managing-your-mental-stack.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/microsoft-devops.png": {
 		"fileType": 32768,
@@ -1194,7 +1194,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/microsoft-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/podcast-me-maybe.png": {
 		"fileType": 32768,
@@ -1205,7 +1205,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/podcast-me-maybe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/reformed-bofh.png": {
 		"fileType": 32768,
@@ -1216,7 +1216,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/reformed-bofh.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/software-deployment.png": {
 		"fileType": 32768,
@@ -1227,7 +1227,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/software-deployment.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/starting-a-new-devops-job.png": {
 		"fileType": 32768,
@@ -1238,7 +1238,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/starting-a-new-devops-job.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/sysadmins.png": {
 		"fileType": 32768,
@@ -1249,7 +1249,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/sysadmins.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/the-dev-show.png": {
 		"fileType": 32768,
@@ -1260,7 +1260,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/the-dev-show.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/what-is-devops.png": {
 		"fileType": 32768,
@@ -1271,7 +1271,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/what-is-devops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/implementing-devops.md": {
 		"criticStyle": 0,
@@ -1726,7 +1726,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/ado-logo-150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/bridget.png": {
 		"fileType": 32768,
@@ -1737,7 +1737,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/bridget.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/jhackert.png": {
 		"fileType": 32768,
@@ -1748,7 +1748,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/jhackert.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/jhand.png": {
 		"fileType": 32768,
@@ -1759,7 +1759,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/jhand.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/kkingsbury.png": {
 		"fileType": 32768,
@@ -1770,7 +1770,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/kkingsbury.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/pburkholder.png": {
 		"fileType": 32768,
@@ -1781,7 +1781,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/pburkholder.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/srosenbaum.png": {
 		"fileType": 32768,
@@ -1792,7 +1792,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/srosenbaum.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/itunes-subscribe.png": {
 		"fileType": 32768,
@@ -1803,7 +1803,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/itunes-subscribe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/matt.jpg": {
 		"fileType": 16384,
@@ -1814,7 +1814,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/matt.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/matt.png": {
 		"fileType": 32768,
@@ -1825,7 +1825,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/matt.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/social\/fb\/chatops.png": {
 		"fileType": 32768,
@@ -1836,7 +1836,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/chatops.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/sponsors\/awesome_boss1.png": {
 		"fileType": 32768,
@@ -1847,7 +1847,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/sponsors\/awesome_boss1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/sponsors\/datadog.png": {
 		"fileType": 32768,
@@ -1858,7 +1858,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/sponsors\/datadog.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/sponsors\/pagerduty.jpg": {
 		"fileType": 16384,
@@ -1869,7 +1869,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/sponsors\/pagerduty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/sponsors\/trueability.jpg": {
 		"fileType": 16384,
@@ -1880,7 +1880,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/sponsors\/trueability.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/sponsors\/victorops.jpg": {
 		"fileType": 16384,
@@ -1891,7 +1891,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/sponsors\/victorops.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/stitcher-subscribe.png": {
 		"fileType": 32768,
@@ -1902,7 +1902,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/stitcher-subscribe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/trevor.png": {
 		"fileType": 32768,
@@ -1913,7 +1913,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/trevor.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/layouts\/404.html": {
 		"fileType": 8192,
@@ -2107,7 +2107,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/android-chrome-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/android-chrome-192x192.png": {
 		"fileType": 32768,
@@ -2118,7 +2118,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/android-chrome-192x192.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/android-chrome-36x36.png": {
 		"fileType": 32768,
@@ -2129,7 +2129,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/android-chrome-36x36.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/android-chrome-48x48.png": {
 		"fileType": 32768,
@@ -2140,7 +2140,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/android-chrome-48x48.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/android-chrome-72x72.png": {
 		"fileType": 32768,
@@ -2151,7 +2151,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/android-chrome-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/android-chrome-96x96.png": {
 		"fileType": 32768,
@@ -2162,7 +2162,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/android-chrome-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-114x114.png": {
 		"fileType": 32768,
@@ -2173,7 +2173,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-114x114.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-120x120.png": {
 		"fileType": 32768,
@@ -2184,7 +2184,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-120x120.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-144x144.png": {
 		"fileType": 32768,
@@ -2195,7 +2195,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-152x152.png": {
 		"fileType": 32768,
@@ -2206,7 +2206,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-152x152.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-180x180.png": {
 		"fileType": 32768,
@@ -2217,7 +2217,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-180x180.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-57x57.png": {
 		"fileType": 32768,
@@ -2228,7 +2228,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-57x57.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-60x60.png": {
 		"fileType": 32768,
@@ -2239,7 +2239,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-60x60.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-72x72.png": {
 		"fileType": 32768,
@@ -2250,7 +2250,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-72x72.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-76x76.png": {
 		"fileType": 32768,
@@ -2261,7 +2261,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-76x76.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -2272,7 +2272,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -2283,7 +2283,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/css\/bootstrap.css": {
 		"fileType": 16,
@@ -2299,6 +2299,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/themes\/ado\/static\/css\/bootstrap3_player.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/themes\/ado\/static\/css\/offcanvas.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/themes\/ado\/static\/css\/offcanvas.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2330,7 +2339,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/favicon-16x16.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/favicon-32x32.png": {
 		"fileType": 32768,
@@ -2341,7 +2350,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/favicon-32x32.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/favicon-96x96.png": {
 		"fileType": 32768,
@@ -2352,7 +2361,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/favicon-96x96.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/font-awesome\/css\/font-awesome.css": {
 		"fileType": 16,
@@ -4379,7 +4388,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/mstile-144x144.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/mstile-150x150.png": {
 		"fileType": 32768,
@@ -4390,7 +4399,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/mstile-150x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/mstile-310x150.png": {
 		"fileType": 32768,
@@ -4401,7 +4410,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/mstile-310x150.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/mstile-310x310.png": {
 		"fileType": 32768,
@@ -4412,7 +4421,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/mstile-310x310.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/themes\/ado\/static\/mstile-70x70.png": {
 		"fileType": 32768,
@@ -4423,7 +4432,7 @@
 		"outputAbbreviatedPath": "\/themes\/ado\/static\/mstile-70x70.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		}
 	},
 "hooks": [
