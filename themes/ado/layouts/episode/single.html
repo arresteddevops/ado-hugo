@@ -1,60 +1,58 @@
 {{ partial "header.html" . }}
 {{ if isset .Params "podcast" }}
-<div>
-  <audio controls>
-    <source src="{{ .Params.podcast }}" type="audio/mpeg" />
-    <a href="{{ .Params.podcast }}">{{ .Title }}</a>
-  </audio>
-</div>
     <div class="row">
       <div class="col-md-8">
-        <img alt="{{ title (.Title) }}" src="/episode/img/{{ .Params.friendly}}.png" class="img-responsive" />
+        <img alt="{{ title (.Title) }}" src="/episode/img/{{ .Params.friendly}}-banner.png" class="img-responsive" />
       </div>
       <div class="col-md-4">
-        {{ if isset .Params "youtube" }}
-              <div class="embed-responsive embed-responsive-4by3">
-              <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ .Params.youtube }}">
-              </iframe>
-              </div>
-          {{ end }}
+        {{ partial "sidebar.html" . }}
+
       </div>
     </row>
 
     <div class = "row">
       <div class="col-md-8">
-        <div class="well">
+        <div class = "well">
         {{ .Description | markdownify }}
+      </div>
+      <div>
+        <audio controls>
+          <source src="{{ .Params.podcast }}" type="audio/mpeg" />
+          <a href="{{ .Params.podcast }}">{{ .Title }}</a>
+        </audio>
       </div>
         <h2>Show Notes</h2>
 
         {{ .Content }}
       </div>
       <div class="col-md-4">
-        {{ partial "sidebar.html" . }}
-
-
       </div>
     </row>
+    <div class="clearfix"></div>
 
   {{ end }}
 
-
-
-{{ range $person :=.Params.guests }}
-  {{ if isset $.Site.Data.guests $person }}
-  {{ $p :=  (index $.Site.Data.guests $person) }}
-    <div class="row">
-      <div class="col-md-3">
-        <img src = "/img/guests/{{$person}}.png" class="img-responsive">
-      </div>
-      <div class="col-md-6">
-        <h2>{{ $p.FullName }}</h2>
-        <p>{{ $p.Bio | markdownify }}</p>
-      </div>
+  {{ if isset .Params "youtube" }}
+        <div class="embed-responsive embed-responsive-4by3">
+        <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ .Params.youtube }}">
+        </iframe>
+        </div>
     {{ end }}
-    </div>
-{{ end }}
 
+    {{ range $person :=.Params.guests }}
+      {{ if isset $.Site.Data.guests $person }}
+      {{ $p :=  (index $.Site.Data.guests $person) }}
+        <div class="row">
+          <div class="col-md-3">
+            <img src = "/img/guests/{{$person}}.png" class="img-responsive">
+          </div>
+          <div class="col-md-6">
+            <h2>{{ $p.FullName }}</h2>
+            <p>{{ $p.Bio | markdownify }}</p>
+          </div>
+        {{ end }}
+        </div>
+    {{ end }}
 
 
 
