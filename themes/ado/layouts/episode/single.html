@@ -45,7 +45,7 @@
   {{ $p :=  (index $.Site.Data.guests $person) }}
     <div class="row">
       <div class="col-md-3">
-        <img src = "/img/guests/{{$person}}.png">
+        <img src = "/img/guests/{{$person}}.png" class="img-responsive">
       </div>
       <div class="col-md-6">
         <h2>{{ $p.FullName }}</h2>
@@ -62,7 +62,7 @@
 {{ range $sponsor :=.Params.sponsors }}
   {{ if isset $.Site.Data.sponsors $sponsor }}
   {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-  <div><a href = "/{{$sponsor}}"><img src = "{{ $s.ad}}"></a></div>
+  <div><a href = "/{{$sponsor}}"><img src = "{{ $s.ad}}" class="img-responsive"></a></div>
   {{end}}
 {{end}}
 
