@@ -10,6 +10,6 @@ deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: arresteddevops.github.io
+        domain: new.arresteddevops.com
         basedir: public
         repo: arresteddevops/arresteddevops.github.io
