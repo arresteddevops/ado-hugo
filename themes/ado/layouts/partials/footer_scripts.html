@@ -1,16 +1,5 @@
-<!-- Google Analytics -->
-{{ if .Site.Params.GATracker }}
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-    var pageTracker = _gat._getTracker("{{ .Site.Params.GATracker }}");
-    pageTracker._trackPageview();
-} catch(err) {}
-</script>
-{{ end }}
+{{ partial "google-analytics.html" . }}
+
 <script src="{{ .Site.BaseURL }}/js/jquery.min.js"></script>
 <!-- <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
