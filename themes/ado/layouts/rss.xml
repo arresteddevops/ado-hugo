@@ -22,7 +22,7 @@
     <item>
       <title>{{ .Title }}</title>
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
-      <itunes:summary><![CDATA[{{ .Description }}]</itunes:summary>
+      <itunes:summary><![CDATA[{{ .Description }}]></itunes:summary>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
       <guid>{{ .Params.podcast }}</guid>
       <link>{{ .Permalink }}</link>
