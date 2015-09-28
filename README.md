@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/arresteddevops/ado-hugo)
+[![Stories in Ready](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=Ready&title=Ready)](http://waffle.io/arresteddevops/ado-hugo)[![Stories in Progress](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/arresteddevops/ado-hugo)
 
 This is the thing that drives the new ADO website.
 
