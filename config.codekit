@@ -854,6 +854,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/building-an-ops-team-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 578849,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/building-an-ops-team-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/building-an-ops-team-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/building-an-ops-team.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1760,6 +1771,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/static\/img\/ado-logo-150.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1866,6 +1898,17 @@
 		"initialSize": 75464,
 		"inputAbbreviatedPath": "\/static\/img\/matt.png",
 		"outputAbbreviatedPath": "\/static\/img\/matt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/building-an-ops-team.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.13608e+06,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/building-an-ops-team.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/building-an-ops-team.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
