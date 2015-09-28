@@ -885,7 +885,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/chatops-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/chatops-front.png": {
 		"fileType": 32768,
@@ -1224,6 +1224,17 @@
 		"initialSize": 264935,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/microsoft-devops.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/microsoft-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/podcast-me-maybe-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 517864,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/podcast-me-maybe-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/podcast-me-maybe-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1887,6 +1898,17 @@
 		"initialSize": 390502,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/chatops.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/chatops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/podcast-me-maybe.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 994151,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/podcast-me-maybe.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/podcast-me-maybe.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
