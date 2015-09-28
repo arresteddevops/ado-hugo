@@ -38,3 +38,9 @@
   background-color: black;
   color: white;
 }
+
+.sidebar {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}

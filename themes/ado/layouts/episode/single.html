@@ -1,55 +1,51 @@
 {{ partial "header.html" . }}
-{{ if isset .Params "podcast" }}
-    <div class="row">
-      <div class="col-md-8">
-        <img alt="{{ title (.Title) }}" src="/episode/img/{{ .Params.friendly}}-banner.png" class="img-responsive" />
-      </div>
-      <div class="col-md-4">
-        {{ partial "sidebar.html" . }}
-
-      </div>
-    </row>
-
-    <div class = "row">
-      <div class="col-md-8">
-        <div class = "well">
-        {{ .Description | markdownify }}
-      </div>
-      <div>
-        <audio controls>
-          <source src="{{ .Params.podcast }}" type="audio/mpeg" />
-          <a href="{{ .Params.podcast }}">{{ .Title }}</a>
-        </audio>
-      </div>
-        <h2>Show Notes</h2>
-
-        {{ .Content }}
-      </div>
-      <div class="col-md-4">
-      </div>
-    </row>
-    <div class="clearfix"></div>
+{{ if isset .Params "podcast" }} <!--figure this out later -->
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-8">
+            <img alt="{{ title (.Title) }}" src="/episode/img/{{ .Params.friendly}}-banner.png" class="img-responsive" />
+          </div>
+          <div class="col-md-8">
+            <div class = "well">
+              {{ .Description | markdownify }}
+            </div>
+            <div>
+              <audio controls>
+                <source src="{{ .Params.podcast }}" type="audio/mpeg" />
+                <a href="{{ .Params.podcast }}">{{ .Title }}</a>
+              </audio>
+            </div>
+            <div>
+              <h2>Show Notes</h2>
+              {{ .Content }}
+            </div>
 
   {{ end }}
 
-  {{ if isset .Params "youtube" }}
-        <div class="embed-responsive embed-responsive-4by3">
-        <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ .Params.youtube }}">
-        </iframe>
-        </div>
-    {{ end }}
+          {{ if isset .Params "youtube" }}
+          <div class="row">
+              <div class="col-md-8">
+                <div class="embed-responsive embed-responsive-4by3">
+                <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ .Params.youtube }}">
+                </iframe>
+                </div>
+              </div>
+            </div>
+          {{ end }}
 
     {{ range $person :=.Params.guests }}
       {{ if isset $.Site.Data.guests $person }}
       {{ $p :=  (index $.Site.Data.guests $person) }}
-        <div class="row">
-          <div class="col-md-3">
-            <img src = "/img/guests/{{$person}}.png" class="img-responsive">
-          </div>
-          <div class="col-md-6">
+      <div class="row">
+          <div>
+            <div class="col-md-3">
+              <img src = "/img/guests/{{$person}}.png" class="img-responsive">
+            </div>
+          <div>
             <h2>{{ $p.FullName }}</h2>
             <p>{{ $p.Bio | markdownify }}</p>
           </div>
+        </div>
         {{ end }}
         </div>
     {{ end }}
@@ -73,6 +69,9 @@
 {{ template "_internal/disqus.html" . }}
 </div>
 
+</div>
+<div class="col-md-4 sidebar">
+  {{ partial "sidebar.html" }}
 </div>
 
 {{ partial "footer.html" . }}
