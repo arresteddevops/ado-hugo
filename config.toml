@@ -7,7 +7,7 @@ canonifyurls = false
 dataDir = "data"
 disqusShortname = "arresteddevops"
 archetypedir = "archetypes"
-paginate = 10
+paginate = 9
 
 [permalinks]
 	page = "/:title/"
