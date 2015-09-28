@@ -14,6 +14,7 @@ paginate = 10
 	about = "/:filename/"
 	episode = "/:filename/"
 	sponsor = "/:filename"
+	redirect = "/:filename"
 
 [params]
 Facebook = "//facebook.com/Arresteddevops"
