@@ -1,6 +1,6 @@
 +++
 Description = ""
-podcast = "http://media.blubrry.com/arresteddevops/podcasts.arresteddevops.com/arrested-devops-podcast-episode008.mp3"
+podcast = "http://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode008.mp3"
 podcast_bytes = ""
 podcast_duration = ""
 tags = []
