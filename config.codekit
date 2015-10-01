@@ -876,6 +876,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/career-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79318,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/career-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/career-devops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/career-devops.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -916,6 +927,17 @@
 		"initialSize": 110485,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/chatops.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/chatops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/chefconf-2015-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115564,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/chefconf-2015-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/chefconf-2015-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -997,6 +1019,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/devops-and-marketing-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-and-marketing-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-and-marketing-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/devops-and-marketing.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1026,6 +1059,17 @@
 		"initialSize": 533617,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-conferences.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-conferences.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/devops-culture-change-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115033,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-culture-change-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-culture-change-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1085,6 +1129,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/disasters-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85547,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/disasters-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/disasters-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/disasters.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1125,6 +1180,17 @@
 		"initialSize": 340013,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/eating-sushi-with-andrew-clay-shafer-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79651,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/eating-sushi-with-andrew-clay-shafer-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/eating-sushi-with-andrew-clay-shafer-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1261,6 +1327,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/reformed-bofh-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73889,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/reformed-bofh-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/reformed-bofh-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/reformed-bofh.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1279,6 +1356,17 @@
 		"initialSize": 245458,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/software-deployment.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/software-deployment.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/starting-a-new-devops-job-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149569,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/starting-a-new-devops-job-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/starting-a-new-devops-job-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1913,6 +2001,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/career-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146719,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/career-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/career-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/chatops.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1924,6 +2023,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/chefconf-2015.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251846,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/chefconf-2015.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/chefconf-2015.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devops-and-marketing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144178,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-and-marketing.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-and-marketing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devops-culture-change.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244362,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-culture-change.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-culture-change.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/disasters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151561,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/disasters.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/disasters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147938,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/podcast-me-maybe.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1931,6 +2085,28 @@
 		"initialSize": 994151,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/podcast-me-maybe.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/podcast-me-maybe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/reformed-bofh.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142815,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/reformed-bofh.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/reformed-bofh.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/starting-a-new-devops-job.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 321607,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/starting-a-new-devops-job.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/starting-a-new-devops-job.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
