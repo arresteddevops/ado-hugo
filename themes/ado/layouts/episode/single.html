@@ -43,7 +43,9 @@
             </div>
           <div>
             <h2>{{ $p.FullName }}</h2>
-            <p>{{ $p.Bio | markdownify }}</p>
+            {{ if isset $p "Bio" }}
+              <p>{{ $p.Bio | markdownify }}</p>
+            {{ end }}
           </div>
         </div>
         {{ end }}
