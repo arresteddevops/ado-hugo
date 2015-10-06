@@ -2776,13 +2776,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/guests\/nharvery.png": {
+	"\/static\/img\/guests\/nharvey.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 46459,
-		"inputAbbreviatedPath": "\/static\/img\/guests\/nharvery.png",
-		"outputAbbreviatedPath": "\/static\/img\/guests\/nharvery.png",
+		"inputAbbreviatedPath": "\/static\/img\/guests\/nharvey.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/nharvey.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2849,6 +2849,17 @@
 		"initialSize": 86375,
 		"inputAbbreviatedPath": "\/static\/img\/guests\/rdey.png",
 		"outputAbbreviatedPath": "\/static\/img\/guests\/rdey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/guests\/rharper.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90060,
+		"inputAbbreviatedPath": "\/static\/img\/guests\/rharper.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/rharper.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
