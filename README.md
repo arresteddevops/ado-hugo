@@ -22,7 +22,7 @@ Every episode needs a few images. You need the following
 3. **Facebook sharing image** - These need to be PNG, 1600px by 630 px, and named after the episode (i.e., `devops-at-etsy.png`). They are stored in `static/img/social/fb` folder
 
 When you create a new episode, Hugo will populate the frontmatter of the .md file with a bunch of stuff for you. These are the required items to be sure to populate:
-* **Description** - A string in double quotes. (do NOT use quotation marks in the content of this item. If you need to, use single quotes.)
+* **Description** - A string in double quotes. Please make sure that any double quotes are escaped, as such: `\"DevOps\"`
 * **podcast** - this is the URL to the podcast MP3. You may not have this at the time you are creating an epiosde page, so that's okay.
 * **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"jhand", "srosenbaum"`). The names should line up to .yml files in `data/guests`
 * **sponsors** - comma separated list of the sponsors for the episode. Same rules apply as guests, but the data files are in `data/sponsors`
