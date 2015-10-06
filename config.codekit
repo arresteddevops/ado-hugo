@@ -2424,13 +2424,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/guests\/damon.png": {
+	"\/static\/img\/guests\/dedwards.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 138938,
-		"inputAbbreviatedPath": "\/static\/img\/guests\/damon.png",
-		"outputAbbreviatedPath": "\/static\/img\/guests\/damon.png",
+		"inputAbbreviatedPath": "\/static\/img\/guests\/dedwards.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/dedwards.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
