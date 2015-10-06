@@ -2260,6 +2260,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/static\/img\/ado-logo-150.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2733,13 +2754,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/static\/img\/guests\/nbrendle.png": {
+	"\/static\/img\/guests\/nbrengle.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 73903,
-		"inputAbbreviatedPath": "\/static\/img\/guests\/nbrendle.png",
-		"outputAbbreviatedPath": "\/static\/img\/guests\/nbrendle.png",
+		"inputAbbreviatedPath": "\/static\/img\/guests\/nbrengle.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/nbrengle.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
