@@ -1162,6 +1162,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/docker-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291752,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/docker-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/docker-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/episode\/img\/docker.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1239,6 +1250,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/hiring-for-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197019,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/hiring-for-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/hiring-for-devops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/episode\/img\/hiring-for-devops.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1293,6 +1315,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/content\/episode\/img\/microsoft-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/microsoft-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/microsoft-devops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/content\/episode\/img\/microsoft-devops.png": {
 		"fileType": 32768,
@@ -2425,6 +2458,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/docker.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 619944,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/docker.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/docker.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2435,6 +2479,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/hiring-for-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 412829,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/hiring-for-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/hiring-for-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/static\/img\/social\/fb\/microsoft-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 513372,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/microsoft-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/microsoft-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/social\/fb\/podcast-me-maybe.png": {
 		"fileType": 32768,
