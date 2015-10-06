@@ -37,7 +37,7 @@
         <a href="{{ .Permalink }}">
           <div class="col-md-4">
             <div class="episode-image-homepage">
-              <img src = "{{ .Site.BaseURL }}/episode/img/{{ .Params.friendly }}.png" class="img-responsive">
+              <img src = "{{ .Site.BaseURL }}/episode/img/{{ .Params.friendly }}.png" class="img-responsive" alt="{{ .Title }}">
               <div class="caption post-content"></div>
               <div class="details">
                 {{ title .Title }}
