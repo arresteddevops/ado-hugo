@@ -2271,6 +2271,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/guests\/mstratton.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66491,
+		"inputAbbreviatedPath": "\/static\/img\/guests\/mstratton.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/mstratton.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/guests\/pburkholder.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2292,6 +2303,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/guests\/thess.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87109,
+		"inputAbbreviatedPath": "\/static\/img\/guests\/thess.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/thess.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/itunes-subscribe.png": {
 		"fileType": 32768,
