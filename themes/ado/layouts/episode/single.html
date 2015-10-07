@@ -32,7 +32,7 @@
               </div>
             </div>
           {{ end }}
-
+<div class="container">
     {{ range $person :=.Params.guests }}
       {{ if isset $.Site.Data.guests $person }}
       {{ $p :=  (index $.Site.Data.guests $person) }}
@@ -51,7 +51,7 @@
         {{ end }}
         </div>
     {{ end }}
-
+</div>
 
 
 <hr />
