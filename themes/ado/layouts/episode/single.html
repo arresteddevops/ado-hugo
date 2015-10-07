@@ -7,7 +7,7 @@
           </div>
           <div class="col-md-8">
             <div class = "well">
-              <h2>{{ .Title }} </h2>
+              <h1>{{ .Title }} </h1>
               {{ .Description | markdownify }}
             </div>
             <div>
@@ -38,11 +38,10 @@
       {{ if isset $.Site.Data.guests $person }}
       {{ $p :=  (index $.Site.Data.guests $person) }}
       <div class="row">
-          <div>
             <div class="col-md-3">
               <img alt = "{{ $p.FullName }}" src = "/img/guests/{{$person}}.png" class="img-responsive">
             </div>
-          <div>
+          <div class= "col-md-6">
             <h2>{{ $p.FullName }}</h2>
             {{ if isset $p "Bio" }}
               <p>{{ $p.Bio | markdownify }}</p>
@@ -63,9 +62,8 @@
               <a href = "{{ $p.Facebook}}"><i class="fa fa-facebook-square fa-2x"></i></a>
             {{ end }}
           </div>
-        </div>
         {{ end }}
-        </div>
+      </div>
     {{ end }}
 </div>
 
@@ -74,7 +72,7 @@
 {{ range $sponsor :=.Params.sponsors }}
   {{ if isset $.Site.Data.sponsors $sponsor }}
   {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-  <div><a href = "/{{$sponsor}}"><img src = "{{ $s.ad}}" class="img-responsive"></a></div>
+  <div><a href = "/{{$sponsor}}"><img src = "{{ $s.ad}}" class="img-responsive"></a></div><br />
   {{end}}
 {{end}}
 
@@ -84,7 +82,7 @@
 </div>
 </hr />
 <div>
-{{ template "_internal/disqus.html" . }}
+  {{ template "_internal/disqus.html" . }}
 </div>
 
 </div>
