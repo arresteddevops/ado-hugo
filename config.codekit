@@ -886,6 +886,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/brains.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.65099e+06,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/brains.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/brains.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/episode\/img\/building-an-ops-team-banner.png": {
 		"fileType": 32768,
 		"ignore": 0,
