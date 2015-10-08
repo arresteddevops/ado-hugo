@@ -7,13 +7,13 @@
           </div>
           <div class="col-md-8">
             <div class = "well">
-              <h1>{{ .Title }} </h1>
+              <h1>{{ title .Title }} </h1>
               {{ .Description | markdownify }}
             </div>
             <div>
               <audio controls>
                 <source src="{{ .Params.podcast }}" type="audio/mpeg" />
-                <a href="{{ .Params.podcast }}">{{ .Title }}</a>
+                <a href="{{ .Params.podcast }}">{{ title .Title }}</a>
               </audio>
             </div>
             <div>
