@@ -275,6 +275,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/content\/episode\/brains.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/brains.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/content\/episode\/brains.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/content\/episode\/building-an-ops-team.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -885,6 +906,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/content\/episode\/img\/brains.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.65099e+06,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/brains.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/brains.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/content\/episode\/img\/building-an-ops-team-banner.png": {
 		"fileType": 32768,
