@@ -51,7 +51,7 @@ When you make the decision to mandate, or in this case, influence change, it is 
 <h2><strong>Identify Your Audience: It’s all in the personality</strong></h2>
 One of the most popular personality tests around is the MBIT (Myers Briggs) which identifies the strengths and weaknesses of a person’s general personality. There are a bunch of alternatives to the test, but one that works really well with change management is the <a href="http://www.discoveryreport.com/DiscoveryReportForm_quick.php">DiSC Profile, which you can take for free here</a>. The test measures your strengths in four areas: Dominance; Influencing; Steadiness; and Compliance. All of which have different traits associated with them.
 
-<a href="/episode/img/DISCPROFILE.png"><img class="aligncenter wp-image-600 size-medium" src="/episode/img/DISCPROFILE.png" alt="decops culture" width="300" height="298" /></a>
+<a href="/episode/img/DISCPROFILE.png"><img class="aligncenter wp-image-600 size-medium" src="/episode/img/DISCPROFILE.png" alt="DISC Profile" width="300" height="298" /></a>
 
 &nbsp;
 
