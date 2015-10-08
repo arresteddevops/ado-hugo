@@ -50,6 +50,3 @@ youtube = "EJeccu3Lcis"
 	<li>Amazon Instant Video is F&amp;$king finally on Android (still needs Chromecast support built in, but screencast works just fine)</li>
 	<li>Rampage the boardgame. <a href="http://boardgamegeek.com/boardgame/97903/rampage">http://boardgamegeek.com/boardgame/97903/rampage</a></li>
 </ul>
-This episode is sponsored by PagerDuty. Sign up for a free 30-Day trial at <a href="http://arresteddevops.com/pagerduty">http://www.pagerduty.com</a>.
-
-<a href="http://arresteddevops.com/pagerduty"><img class="alignleft size-full wp-image-395" src="http://arresteddevops.com/app/uploads/2014/08/on-call_burnout_podcast.jpg" alt="on-call_burnout_podcast" width="600" height="110" /></a>

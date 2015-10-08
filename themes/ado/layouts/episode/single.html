@@ -72,7 +72,7 @@
 {{ range $sponsor :=.Params.sponsors }}
   {{ if isset $.Site.Data.sponsors $sponsor }}
   {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-  <div><a href = "/{{$sponsor}}"><img src = "{{ $s.ad}}" class="img-responsive"></a></div><br />
+  <div><a href = "/{{$sponsor}}"><img alt = "{{$sponsor}}" src = "{{ $s.ad}}" class="img-responsive"></a></div><br />
   {{end}}
 {{end}}
 
