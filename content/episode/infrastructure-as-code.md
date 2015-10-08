@@ -1,6 +1,6 @@
 +++
 Description = "What does \"infrastructure as code\" actually mean? How is it different from configuration management? Special guests Joshua Timberman (Chef), Eric Sorenson (Puppet Labs), and Robyn Bergeron (Ansible) talk with Matt and Trevor about this very topic."
-aliases = []
+aliases = ["/44"]
 author = "Matt"
 categories = []
 date = "2015-10-01T08:31:42-05:00"
