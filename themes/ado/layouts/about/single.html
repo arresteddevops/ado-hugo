@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+
+<h1>Hosts</h1>
+
+<div class="container">
+    {{ range $person :=.Params.hosts }}
+      {{ if isset $.Site.Data.hosts $person }}
+      {{ $p :=  (index $.Site.Data.hosts $person) }}
+      <div class="row">
+            <div class="col-md-3">
+              <img alt = "{{ $p.FullName }}" src = "/img/guests/{{$person}}.png" class="img-responsive">
+            </div>
+          <div class= "col-md-6">
+            <h2>{{ $p.FullName }}</h2>
+            {{ if isset $p "Bio" }}
+              <p>{{ $p.Bio | markdownify }}</p>
+            {{ end }}
+            {{ if isset $p "Site" }}
+              <a href = "{{ $p.Site}}"><i class="fa fa-home fa-2x"></i></a>
+            {{ end }}
+            {{ if isset $p "Twitter" }}
+              <a href = "https://twitter.com/{{ $p.Twitter }}"><i class="fa fa-twitter-square fa-2x"></i></a>
+            {{ end }}
+            {{ if isset $p "GitHub"}}
+              <a href = "https://github.com/{{ $p.GitHub}}"><i class="fa fa-github-square fa-2x"></i></a>
+            {{ end }}
+            {{ if isset $p "LinkedIn" }}
+              <a href = "{{ $p.LinkedIn}}"><i class="fa fa-linkedin-square fa-2x"></i></a>
+            {{ end }}
+            {{ if isset $p "Facebook" }}
+              <a href = "{{ $p.Facebook}}"><i class="fa fa-facebook-square fa-2x"></i></a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+</div>
+{{ partial "footer.html" . }}
