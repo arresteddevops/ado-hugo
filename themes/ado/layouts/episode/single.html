@@ -9,23 +9,27 @@
             <div class = "well">
               <h1>{{ title .Title }} </h1>
               {{ .Description | markdownify }}
+              <div>
+                {{ partial "share.html" . }}
+              </div>
             </div>
+
             <div>
               <audio controls>
                 <source src="{{ .Params.podcast }}" type="audio/mpeg" />
                 <a href="{{ .Params.podcast }}">{{ title .Title }}</a>
               </audio>
             </div>
-            <div>
+            <section>
               <h2>Show Notes</h2>
               {{ .Content }}
-            </div>
+            </section>
 
   {{ end }}
 
           {{ if isset .Params "youtube" }}
           <div class="row">
-              <div class="col-md-8">
+              <div class="col-md-8 youtube-video">
                 <div class="embed-responsive embed-responsive-4by3">
                 <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/{{ .Params.youtube }}">
                 </iframe>
@@ -39,9 +43,9 @@
       {{ $p :=  (index $.Site.Data.guests $person) }}
       <div class="row">
             <div class="col-md-3">
-              <img alt = "{{ $p.FullName }}" src = "/img/guests/{{$person}}.png" class="img-responsive">
+              <img alt = "{{ $p.FullName }}" src = "/img/guests/{{$person}}.png" class="img-responsive" width = "250px">
             </div>
-          <div class= "col-md-6">
+          <div class= "col-md-8">
             <h2>{{ $p.FullName }}</h2>
             {{ if isset $p "Bio" }}
               <p>{{ $p.Bio | markdownify }}</p>
@@ -72,7 +76,7 @@
 {{ range $sponsor :=.Params.sponsors }}
   {{ if isset $.Site.Data.sponsors $sponsor }}
   {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-  <div><a href = "/{{$sponsor}}"><img alt = "{{$sponsor}}" src = "{{ $s.ad}}" class="img-responsive"></a></div><br />
+  <div><a href = "/{{ $sponsor }}"><img alt = "{{ $sponsor }}" src = "{{ $s.ad }}" class="img-responsive"></a></div><br />
   {{end}}
 {{end}}
 
