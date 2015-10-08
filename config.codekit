@@ -2408,6 +2408,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/android-subscribe-menu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6560,
+		"inputAbbreviatedPath": "\/static\/img\/android-subscribe-menu.png",
+		"outputAbbreviatedPath": "\/static\/img\/android-subscribe-menu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/bridget.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3122,6 +3133,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/itunes-subscribe-menu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8629,
+		"inputAbbreviatedPath": "\/static\/img\/itunes-subscribe-menu.png",
+		"outputAbbreviatedPath": "\/static\/img\/itunes-subscribe-menu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/itunes-subscribe.png": {
 		"fileType": 32768,
