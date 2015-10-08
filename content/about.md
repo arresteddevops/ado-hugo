@@ -9,7 +9,7 @@ date = "2015-09-01"
 <div class="row">
   <div class="col-md-3">
     <div margin = 30px>
-      <img src = "/img/matt.png" class="img-rounded">
+      <img alt = "Matt Stratton" src = "/img/matt.png" class="img-rounded">
     </div>
   </div>
   <div class="col-md-9">
@@ -23,7 +23,7 @@ date = "2015-09-01"
 <div class="row">
   <div class="col-md-3">
     <div margin = 30px>
-      <img src = "/img/trevor.png" class="img-rounded">
+      <img alt = "Trevor Hess" src = "/img/trevor.png" class="img-rounded">
     </div>
   </div>
   <div class="col-md-9">
@@ -37,7 +37,7 @@ date = "2015-09-01"
 <div class="row">
   <div class="col-md-3">
     <div margin = 30px>
-      <img src = "/img/bridget.png" class="img-rounded">
+      <img alt = "Bridget Kromhout" src = "/img/bridget.png" class="img-rounded">
     </div>
   </div>
   <div class="col-md-9">
