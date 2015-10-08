@@ -20,7 +20,7 @@
     {{ range first 50 .Data.Pages }}
     {{ if eq .Type "episode"}}
     <item>
-      <title>{{ .Title }}</title>
+      <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
       <itunes:summary><![CDATA[{{ .Description }}]></itunes:summary>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
