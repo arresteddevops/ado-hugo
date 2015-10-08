@@ -15,6 +15,6 @@ podcast_duration = "01:05:20"
 sponsors = ["pagerduty", "datadog"]
 tags = []
 title = "Cognitive Neuroscience with Courtney Nash & Lindsay Holmwood"
-youtube = "https://youtu.be/cTN62ERlHNY"
+youtube = "cTN62ERlHNY"
 
 +++
