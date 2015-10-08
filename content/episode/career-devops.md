@@ -12,7 +12,7 @@ news_keywords = []
 podcast = "http://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode038.mp3"
 podcast_bytes = "56170864"
 podcast_duration = "1:06:52"
-sponsors = []
+sponsors = ["pagerduty"]
 tags = []
 youtube = "FeKZIsrj4EM"
 

@@ -11,8 +11,8 @@ images = ["http://arresteddevops.github.io/img/social/fb/chefconf-2015.png", ""]
 news_keywords = []
 podcast = "http://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode034.mp3"
 podcast_bytes = "36511606"
-podcast_duration = ""
-sponsors = []
+podcast_duration = "43:28"
+sponsors = ["victorops", "datadog"]
 tags = []
 title = "What's New At Chef?"
 
