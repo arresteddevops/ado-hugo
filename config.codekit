@@ -1358,6 +1358,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/infrastructure-as-code-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/infrastructure-as-code-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/infrastructure-as-code-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/infrastructure-as-code.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 409019,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/infrastructure-as-code.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/infrastructure-as-code.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/managing-systems-in-the-cloud.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1524,6 +1546,27 @@
 		"inputAbbreviatedPath": "\/content\/episode\/implementing-devops.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/content\/episode\/implementing-devops.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/content\/episode\/infrastructure-as-code.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/infrastructure-as-code.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/content\/episode\/infrastructure-as-code.html",
 		"outputFormat": 0,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -2584,6 +2627,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/guests\/esorenson.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90020,
+		"inputAbbreviatedPath": "\/static\/img\/guests\/esorenson.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/esorenson.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/guests\/ewestby.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2782,6 +2836,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/guests\/jtimberman.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103518,
+		"inputAbbreviatedPath": "\/static\/img\/guests\/jtimberman.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/jtimberman.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/guests\/kdaniels.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2957,6 +3022,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/guests\/rbergeron.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85823,
+		"inputAbbreviatedPath": "\/static\/img\/guests\/rbergeron.png",
+		"outputAbbreviatedPath": "\/static\/img\/guests\/rbergeron.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/guests\/rclanton.png": {
 		"fileType": 32768,
@@ -3295,6 +3371,17 @@
 		"initialSize": 412829,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/hiring-for-devops.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/hiring-for-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/infrastructure-as-code.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11066e+06,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/infrastructure-as-code.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/infrastructure-as-code.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
