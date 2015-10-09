@@ -907,6 +907,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/brains-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 411959,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/brains-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/brains-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/content\/episode\/img\/brains.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3296,6 +3307,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/brains.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 911905,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/brains.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/brains.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/static\/img\/social\/fb\/building-an-ops-team.png": {
 		"fileType": 32768,
