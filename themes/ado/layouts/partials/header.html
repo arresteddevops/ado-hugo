@@ -31,21 +31,21 @@
               </li>
               <li><a href = "/bananastand">Subscribe to newsletter</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right social-links">
+      <ul class="nav navbar-nav navbar-right">
         <li>
-          <i class="fa fa-facebook-square fa-2x"></i> &nbsp;
+          <a class = "social-links" href="https://facebook.com/{{ .Site.Params.social.facebook }}"><i class="fa fa-facebook-square fa-2x"></i></a>
         </li>
         <li>
-          <i class="fa fa-twitter-square fa-2x"></i> &nbsp;
+          <a class = "social-links" href="https://twitter.com/{{ .Site.Params.social.twitter }}"><i class="fa fa-twitter-square fa-2x"></i></a>
         </li>
         <li>
-          <i class="fa fa-youtube fa-2x"></i> &nbsp;
+          <a class = "social-links"  href="https://youtube.com/{{ .Site.Params.social.youtube }}"><i class="fa fa-youtube fa-2x"></i></a>
         </li>
         <li>
-          <i class="fa fa-google-plus-square fa-2x"></i> &nbsp;
+          <a class = "social-links" href="https://plus.google.com/+{{ .Site.Params.social.googleplus }}"><i class="fa fa-google-plus-square fa-2x"></i></a>
         </li>
         <li>
-          <i class="fa fa-github fa-2x"></i> &nbsp;
+          <a class = "social-links" href="https://github.com/{{ .Site.Params.social.github }}"><i class="fa fa-github fa-2x"></i></a>
         </li>
       </ul>
     </div><!-- /.nav-collapse -->
