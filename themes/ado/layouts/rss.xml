@@ -12,7 +12,7 @@
     <itunes:name>Matt Stratton</itunes:name>
     <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://arresteddevops.com/app/uploads/powerpress/ado-podcast-logo.png" />
+    <itunes:image href="http://arresteddevops.com/img/ado-podcast-logo.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />

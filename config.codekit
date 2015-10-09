@@ -2451,6 +2451,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/ado-podcast-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128974,
+		"inputAbbreviatedPath": "\/static\/img\/ado-podcast-logo.png",
+		"outputAbbreviatedPath": "\/static\/img\/ado-podcast-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/android-subscribe-menu.png": {
 		"fileType": 32768,
 		"ignore": 0,
