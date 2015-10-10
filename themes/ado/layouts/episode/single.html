@@ -1,11 +1,10 @@
 {{ partial "header.html" . }}
 {{ if isset .Params "podcast" }} <!--figure this out later -->
-      <div class="col-md-12">
         <div class="row">
-          <div class="col-md-8">
+          <div class="col-md-8 col-md-offset-2">
             <img alt="{{ title (.Title) }}" src="/episode/img/{{ .Params.friendly}}-banner.png" class="img-responsive" />
           </div>
-          <div class="col-md-8">
+          <div class="col-md-8 col-md-offset-2">
             <div class = "well">
               <h1>{{ title .Title }} </h1>
               {{ .Description | markdownify }}
@@ -37,7 +36,7 @@
               </div>
             </div>
           {{ end }}
-<div class="container">
+<!-- <div class="container"> -->
     {{ range $person :=.Params.guests }}
       {{ if isset $.Site.Data.guests $person }}
       {{ $p :=  (index $.Site.Data.guests $person) }}
@@ -69,7 +68,7 @@
         {{ end }}
       </div>
     {{ end }}
-</div>
+<!-- </div> -->
 
 
 <hr />
@@ -104,7 +103,4 @@
 <div>
   {{ template "_internal/disqus.html" . }}
 </div>
-
-</div>
-
 {{ partial "footer.html" . }}
