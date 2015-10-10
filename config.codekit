@@ -3558,6 +3558,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/sponsors\/codeship.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11032,
+		"inputAbbreviatedPath": "\/static\/img\/sponsors\/codeship.png",
+		"outputAbbreviatedPath": "\/static\/img\/sponsors\/codeship.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/static\/img\/sponsors\/datadog.png": {
 		"fileType": 32768,
 		"ignore": 0,
