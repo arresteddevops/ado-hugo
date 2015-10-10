@@ -863,6 +863,17 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/content\/episode\/img\/a-year-of-ado-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 537900,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/a-year-of-ado-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/a-year-of-ado-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/a-year-of-ado.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -870,6 +881,39 @@
 		"initialSize": 42356,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/a-year-of-ado.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/a-year-of-ado.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/agile-and-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/agile-and-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/agile-and-devops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/agile-and-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122938,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/agile-and-devops.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/agile-and-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/all-together-now-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/all-together-now-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/all-together-now-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -916,7 +960,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/brains-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/brains.png": {
 		"fileType": 32768,
@@ -927,7 +971,7 @@
 		"outputAbbreviatedPath": "\/content\/episode\/img\/brains.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/content\/episode\/img\/building-an-ops-team-banner.png": {
 		"fileType": 32768,
@@ -1028,6 +1072,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/cloud-scaling-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 364115,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/cloud-scaling-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/cloud-scaling-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/cloud-scaling.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1039,6 +1094,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/configuration-management-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 284487,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/configuration-management-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/configuration-management-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/configuration-management.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1046,6 +1112,28 @@
 		"initialSize": 316128,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/configuration-management.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/configuration-management.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/continuous-delivery-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 417407,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/continuous-delivery-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-delivery-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/continuous-delivery-database-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 358699,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/continuous-delivery-database-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-delivery-database-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1072,6 +1160,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/continuous-integration-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/continuous-integration-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-integration-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/continuous-integration.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1079,6 +1178,17 @@
 		"initialSize": 428002,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/continuous-integration.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/continuous-integration.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/dev-to-ops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/dev-to-ops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/dev-to-ops-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1116,6 +1226,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/devops-at-etsy-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109204,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-at-etsy-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-at-etsy-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/devops-at-etsy.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1123,6 +1244,17 @@
 		"initialSize": 81134,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-at-etsy.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-at-etsy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/devops-conferences-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-conferences-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-conferences-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1160,6 +1292,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/devops-mythbusters-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-mythbusters-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-mythbusters-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/devops-mythbusters.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1167,6 +1310,17 @@
 		"initialSize": 64736,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-mythbusters.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-mythbusters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/devops-security-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devops-security-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devops-security-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1182,6 +1336,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/devopsdays-chicago-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129836,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-chicago-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-chicago-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/devopsdays-chicago.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1189,6 +1354,17 @@
 		"initialSize": 106355,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-chicago.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-chicago.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/devopsdays-minneapolis-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115927,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-minneapolis-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/devopsdays-minneapolis-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1259,6 +1435,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269275,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/does-testing-keep-you-from-making-a-huge-mistake.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1292,6 +1479,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/enterprise-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/enterprise-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/enterprise-devops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/enterprise-devops.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1303,6 +1501,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/get-help-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188696,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/get-help-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/get-help-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/get-help.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1310,6 +1519,17 @@
 		"initialSize": 181325,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/get-help.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/get-help.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/git-101-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/git-101-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/git-101-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1347,6 +1567,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/how-to-eff-up-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/how-to-eff-up-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/how-to-eff-up-devops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/how-to-eff-up-devops.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1354,6 +1585,17 @@
 		"initialSize": 274392,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/how-to-eff-up-devops.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/how-to-eff-up-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/implementing-devops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 229000,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/implementing-devops-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/implementing-devops-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1391,6 +1633,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/managing-systems-in-the-cloud-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/managing-systems-in-the-cloud-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/managing-systems-in-the-cloud-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/managing-systems-in-the-cloud.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1398,6 +1651,17 @@
 		"initialSize": 244953,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/managing-systems-in-the-cloud.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/managing-systems-in-the-cloud.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/managing-your-mental-stack-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226239,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/managing-your-mental-stack-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/managing-your-mental-stack-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -1479,6 +1743,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/software-deployment-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235416,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/software-deployment-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/software-deployment-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/software-deployment.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1512,6 +1787,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/content\/episode\/img\/sysadmins-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/sysadmins-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/sysadmins-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/content\/episode\/img\/sysadmins.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1519,6 +1805,17 @@
 		"initialSize": 432802,
 		"inputAbbreviatedPath": "\/content\/episode\/img\/sysadmins.png",
 		"outputAbbreviatedPath": "\/content\/episode\/img\/sysadmins.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/content\/episode\/img\/the-dev-show-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/content\/episode\/img\/the-dev-show-banner.png",
+		"outputAbbreviatedPath": "\/content\/episode\/img\/the-dev-show-banner.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -2566,7 +2863,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/android-subscribe-menu.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/bridget.png": {
 		"fileType": 32768,
@@ -2742,7 +3039,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/esorenson.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/ewestby.png": {
 		"fileType": 32768,
@@ -2951,7 +3248,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/jtimberman.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/kdaniels.png": {
 		"fileType": 32768,
@@ -3138,7 +3435,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/guests\/rbergeron.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/guests\/rclanton.png": {
 		"fileType": 32768,
@@ -3325,7 +3622,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/itunes-subscribe-menu.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/itunes-subscribe.png": {
 		"fileType": 32768,
@@ -3360,6 +3657,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/a-year-of-ado.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11681e+06,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/a-year-of-ado.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/a-year-of-ado.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/agile-and-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300029,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/agile-and-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/agile-and-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/all-together-now.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 989322,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/all-together-now.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/all-together-now.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/blameless.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3380,7 +3710,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/brains.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/social\/fb\/building-an-ops-team.png": {
 		"fileType": 32768,
@@ -3426,6 +3756,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/cloud-scaling.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 805739,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/cloud-scaling.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/cloud-scaling.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/configuration-management.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 599894,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/configuration-management.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/configuration-management.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/continuous-delivery-database.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 806951,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/continuous-delivery-database.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/continuous-delivery-database.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/continuous-delivery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 947303,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/continuous-delivery.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/continuous-delivery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/continuous-integration.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 730729,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/continuous-integration.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/continuous-integration.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/dev-to-ops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 628256,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/dev-to-ops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/dev-to-ops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/devops-and-marketing.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3437,6 +3833,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/devops-at-etsy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233915,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-at-etsy.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-at-etsy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devops-conferences.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 884361,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-conferences.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-conferences.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/devops-culture-change.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3444,6 +3862,50 @@
 		"initialSize": 244362,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-culture-change.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-culture-change.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devops-mythbusters.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205801,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-mythbusters.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-mythbusters.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devops-security.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 731132,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-security.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devops-security.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devopsdays-chicago.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280630,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devopsdays-chicago.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devopsdays-chicago.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/devopsdays-minneapolis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252841,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/devopsdays-minneapolis.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/devopsdays-minneapolis.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -3470,6 +3932,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/does-testing-keep-you-from-making-a-huge-mistake.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 594638,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/does-testing-keep-you-from-making-a-huge-mistake.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/does-testing-keep-you-from-making-a-huge-mistake.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3477,6 +3950,39 @@
 		"initialSize": 147938,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/eating-sushi-with-andrew-clay-shafer.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/enterprise-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 628341,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/enterprise-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/enterprise-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/get-help.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 391095,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/get-help.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/get-help.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/git-101.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 283597,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/git-101.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/git-101.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -3492,6 +3998,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/how-to-eff-up-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 521250,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/how-to-eff-up-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/how-to-eff-up-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/implementing-devops.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 500294,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/implementing-devops.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/implementing-devops.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/infrastructure-as-code.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3499,6 +4027,28 @@
 		"initialSize": 1.11066e+06,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/infrastructure-as-code.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/infrastructure-as-code.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/manage-systems-in-the-cloud.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 485825,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/manage-systems-in-the-cloud.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/manage-systems-in-the-cloud.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/managing-your-mental-stack.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 494365,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/managing-your-mental-stack.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/managing-your-mental-stack.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -3536,6 +4086,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/static\/img\/social\/fb\/software-deployment.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 501101,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/software-deployment.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/software-deployment.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/static\/img\/social\/fb\/starting-a-new-devops-job.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3543,6 +4104,28 @@
 		"initialSize": 321607,
 		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/starting-a-new-devops-job.png",
 		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/starting-a-new-devops-job.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/sysadmins.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 713538,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/sysadmins.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/sysadmins.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/static\/img\/social\/fb\/the-dev-show.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273438,
+		"inputAbbreviatedPath": "\/static\/img\/social\/fb\/the-dev-show.png",
+		"outputAbbreviatedPath": "\/static\/img\/social\/fb\/the-dev-show.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
@@ -3567,7 +4150,7 @@
 		"outputAbbreviatedPath": "\/static\/img\/sponsors\/codeship.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/static\/img\/sponsors\/datadog.png": {
 		"fileType": 32768,
