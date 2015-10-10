@@ -3,7 +3,7 @@ Categories = []
 Description = ""
 Tags = []
 date = "2015-09-17T20:19:20-05:00"
-title = "privacy"
+title = "Privacy Policy"
 
 +++
 

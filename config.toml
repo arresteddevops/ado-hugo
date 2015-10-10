@@ -10,7 +10,7 @@ archetypedir = "archetypes"
 paginate = 9
 
 [permalinks]
-	page = "/:title/"
+	page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
 	sponsor = "/:filename"
