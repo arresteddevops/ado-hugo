@@ -1,15 +1,31 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+/* TEAM */
+	Co-Host and Pretend Front-End Developer: Matt Stratton
+	Contact: matt.stratton [at] gmail.com
+	Twitter: @mattstratton
+	From: Chicago, Illinois, USA
 
-    <name> -- <role> -- <twitter>
+	Co-Host and Graphics Whiz: Trevor Hess
+	Twitter: @trevorghess
+	From: Chicago, Illinois, USA
 
-# THANKS
+	Co-host and awk/sed genius: Bridget Kromhout
+	Twitter: @bridgetkromhout
+	From: Minneapolis, Minnesota, USA
 
-    <name>
+/* THANKS */
 
-# TECHNOLOGY COLOPHON
+	Show Note Writer: Mary Thengvall
+  Twitter: mary_grace
 
-    HTML5, CSS3
-    jQuery, Modernizr
+  Show Note Writer: Bellamy Smith
+  Twitter: bellamysmith
+  Contact: bellamysmith1 [at] gmail.com
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+  Site Generator: Hugo (http://gohugo.io)
+	IDE: Atom, Vim, Photoshop
