@@ -18,6 +18,8 @@ aliases = ["/42"]
 
 +++
 
+[Transcript](http://transcripts.castingwords.com/zw00/211594.html)
+
 #### Recording Live from DevOpsDays Chicago!
 
 ChatOps is used by many teams and companies as the main communication tool for day to day chat, and their most important activities. In fact, ChatOps may be taking the place of email in the workplace for internal communication for tech teams as it helps communication during DevOps activities like deploys, code pushes, etc. This episode discusses best practices (if there are any) of ChatOps and how to make sure you are getting the most from your team communication tools.

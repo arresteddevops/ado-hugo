@@ -19,6 +19,8 @@ youtube = "7voRnzzUZb4"
 
 +++
 
+[Transcript](http://transcripts.castingwords.com/zvtP/212126.html)
+
 ## Check Outs
 
 ### Joshua:

@@ -17,3 +17,5 @@ tags = []
 title = "eating sushi with andrew clay shafer"
 
 +++
+
+[Transcript](http://transcripts.castingwords.com/zvzu/211640.html)

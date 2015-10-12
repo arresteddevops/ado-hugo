@@ -18,6 +18,8 @@ title = "how to eff up devops"
 youtube = "3Z-_aeby-3g"
 
 +++
+[Transcript](http://transcripts.castingwords.com/zvzw/211665.html)
+
 <ul>
 	<li>What are some common misconceptions about what DevOps is?</li>
 	<li>What are some symptoms of "DevOps Smell"[1]?</li>

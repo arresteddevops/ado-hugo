@@ -18,6 +18,9 @@ title = "DevOps in the Enterprise"
 youtube = "NbtTG3K0YrM"
 
 +++
+
+[Transcript](http://transcripts.castingwords.com/zvzw/211654.html)
+
 <h2>Checkouts</h2>
 <h3>Ducy</h3>
 <ul>
