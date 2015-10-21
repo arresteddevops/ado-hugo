@@ -5,6 +5,7 @@
 {{ partial "meta.html" . }}
 {{ partial "newrelic.html" . }}
 {{ partial "head/seo.html" . }}
+{{ .Hugo.Generator }}
 <base href="{{ .Site.BaseURL }}">
 <title>
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
