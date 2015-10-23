@@ -29,8 +29,7 @@
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
     </itunes:category>
-    {{ range first 50 .Data.Pages }}
-    {{ if eq .Type "episode"}}
+    {{ range first 50 (where .Site.Pages "Type" "episode") }}
     <item>
       <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
@@ -41,7 +40,6 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
       <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
     </item>
-    {{ end }}
     {{ end }}
   </channel>
 </rss>
