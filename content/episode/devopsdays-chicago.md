@@ -1,5 +1,5 @@
 +++
-Description = "Recorded on Day 2 of DevOpsDays Chicago</a>. Matt and Trevor are joined by a panel of attendees and organizers to talk about their experiences at the first ever DevOpsDays to take place in the Windy City. #deepdishdevops for everyone!"
+Description = "Recorded on Day 2 of DevOpsDays Chicago. Matt and Trevor are joined by a panel of attendees and organizers to talk about their experiences at the first ever DevOpsDays to take place in the Windy City. #deepdishdevops for everyone!"
 aliases = ["/22"]
 author = "Matt"
 categories = []
