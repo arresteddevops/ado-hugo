@@ -18,6 +18,13 @@ title = "Disasters!"
 youtube = "E_DdM-pGHb8"
 
 +++
+
+**Stephanie Van Dyk** [@sevandyk](https://twitter.com/sevandyk) is an SRE at Google, and has also worked on [healthcare.gov](http://healthcare.gov).
+
+**Mark Imbriaco** [@markimbriaco](http://twitter.com/markimbriaco) is co-founder and CEO of OperableInc. He's worked previously at DigitalOcean, GitHub, LivingSocial, Heroku, and 37signals.
+
+Bridget starts by asking Operable is all about. Mark explains that Operable is trying to help people who are on the "pointy end" of incidents. They're trying to build tools that help people collaboratively fix problems. "There's a lot of tools these days that do things like wake you up and alert when you when there _is_ a problem," says Mark, "but we think there's a lot of room to help people actually _solve_ problems."
+
 <h2>Checkouts</h2>
 <h3>Stephanie</h3>
 <ul>
