@@ -20,7 +20,7 @@ title = "eating sushi with andrew clay shafer"
 
 **Andrew Clay Shafer** ([@littleidea](http://twitter.com/littleidea)).
 
-Coming to you live from [DevOpsDays Minneapolis](http://www.devopsdays.org/events/2015-minneapolis/), Matt and Bridget sit down with Andrew Clay Shafer in front of a live audience, to talk about the growth of DevOps, explain some commonly heard but not always understood terms, and more (after a brief detour on why episode numbers on podcasts are obnoxious, and why this episode is titled "Eating Sushi with Andrew Clay Shafer").
+Coming to you live from [DevOpsDays Minneapolis](http://www.devopsdays.org/events/2015-minneapolis/), Matt and Bridget sit down with Andrew Clay Shafer in front of a live audience to talk about the growth of DevOps, explain some commonly heard but not always understood terms, and more (after a brief detour on why episode numbers on podcasts are obnoxious, and why this episode is titled "Eating Sushi with Andrew Clay Shafer").
 
 Don't know who Andrew is? He suggests you [Google him](https://www.google.com/search?q=andrew+clay+shafer&oq=andrew+clay+shafer&aqs=chrome..69i57j0l2j69i61j0l2.2642j0j1&sourceid=chrome&es_sm=91&ie=UTF-8), but then goes on to give a little bit of his background: he's been involved in software development and technology for almost 20 years. After rooming with [Luke Kanies](http://twitter.com/puppetmasterd), founder of [Puppet Labs](http://puppetlabs.com) in college, Andrew got interested in operations and system administration.
 
