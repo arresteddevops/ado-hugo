@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "What does the journey from a background based in Development and moving to an Ops role feel like?"
 aliases = [":/19"]
 author = "Matt"
 categories = []
