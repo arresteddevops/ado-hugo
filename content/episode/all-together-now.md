@@ -1,5 +1,5 @@
 +++
-Description = "Angela Dugan of Polaris Solutions and Todd Vernon, CEO &amp; co-founder of VictorOps, join the ADO crew to chat about the challenges of collaborating in a cross-functional team. How can tools help facilitate communication among developers, testers, and operations? What are some of the best practices to keep in mind? And, of course, there just might be some 'horror stories' of communication gone horribly wrong."
+Description = "Angela Dugan of Polaris Solutions and Todd Vernon, CEO & co-founder of VictorOps, join the ADO crew to chat about the challenges of collaborating in a cross-functional team. How can tools help facilitate communication among developers, testers, and operations? What are some of the best practices to keep in mind? And, of course, there just might be some \"horror stories\" of communication gone horribly wrong."
 aliases = ["/7"]
 author = "Matt"
 categories = []
