@@ -11,7 +11,7 @@
     <title>{{ .Site.Title }}</title>
     <atom:link href="{{ .Site.BaseURL }}/index.xml" rel="self" type="application/rss+xml" />
     <link>{{ .Site.BaseURL }}</link>
-    <lastBuildDate>{{ .Date }}</lastBuildDate>
+    <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
