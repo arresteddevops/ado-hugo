@@ -23,7 +23,22 @@ youtube = "E_DdM-pGHb8"
 
 **Mark Imbriaco** [@markimbriaco](http://twitter.com/markimbriaco) is co-founder and CEO of OperableInc. He's worked previously at DigitalOcean, GitHub, LivingSocial, Heroku, and 37signals.
 
-Bridget starts by asking Operable is all about. Mark explains that Operable is trying to help people who are on the "pointy end" of incidents. They're trying to build tools that help people collaboratively fix problems. "There's a lot of tools these days that do things like wake you up and alert when you when there _is_ a problem," says Mark, "but we think there's a lot of room to help people actually _solve_ problems."
+Bridget starts by asking Mark what Operable is all about. Mark explains that Operable is trying to help people who are on the "pointy end" of incidents. They're trying to build tools that help people collaboratively fix problems. "There's a lot of tools these days that do things like wake you up and alert when you when there _is_ a problem," says Mark, "but we think there's a lot of room to help people actually _solve_ problems."
+
+Stephanie briefly goes through some of the history of [healthcare.gov](http://healthcare.gov), and how she first learned about it. Her position was unique, she points out. "We worked very hard, and very long hours... We were also in the fortunate position of having a lot of authority, which is important if you're trying to fix a disaster. There's a lot of problems to solve, and you don't want any of your additional problems to be 'Well, who gave you permission to do that?'"
+
+"That's a really good point -- not all disasters are created equal," Bridget notes, "and maybe we should take a step back and think, what are the ingredients that make something a disaster?"
+
+Mark: I'm used to catestrophic problems that last for a few hours at most, or in the really bad case, mabe it lasts for two or three or four days, not something that goes on for weeks or months, so that's a different perspective from what I have, so I'm super interested to hear about [healthcare.gov].
+
+Matt: I think there's the disasters where there's a thing that happens, that's maybe localized to one type of scenario; then there is what happens in [an episode of This American Life](http://www.thisamericanlife.org/radio-archives/episode/61/fiasco), where it's just one thing after another and everything unravels. There's a quote from the episode that I like to think about when we think about these bigger disasters that are more than just an outage that may be far reaching:
+<BLOCKQUOTE>"One ingredient of many fiascos is that great, massive, heart-wrenching chaos and failure, are more likely to fail, when great ambition has come into play, when plans are big, expectations are great, and hopes are at their highest."</BLOCKQUOTE>
+
+Stephanie: I think you're certainly right, that in order for something to be a disaster, the stakes have to be quite high... An outage that you find, and fix, and write a postmortem, and everyone learns something, and the users all get over their hurt, that's not a disaster. That's just life.
+
+"The gutwrenching terror there is, are we going to get our customers' data back? Or is it just gone? So that, as an ops person, there's almost nothing more terrifying than losing data.
+
+
 
 <h2>Checkouts</h2>
 <h3>Stephanie</h3>
