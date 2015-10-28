@@ -1,4 +1,4 @@
-BaseURL = "http://www.arresteddevops.com/"
+BaseURL = "https://www.arresteddevops.com/"
 # BaseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Arrested DevOps"
