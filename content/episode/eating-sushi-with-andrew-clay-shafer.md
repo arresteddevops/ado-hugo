@@ -10,13 +10,15 @@ guests = ['ashafer']
 images = ["http://arresteddevops.github.io/img/social/fb/eating-sushi-with-andrew-clay-shafer.png", ""]
 news_keywords = []
 podcast = "http://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode039.mp3"
-podcast_bytes = ""
-podcast_duration = ""
-sponsors = []
+podcast_bytes = "34589773"
+podcast_duration = "41:11"
+sponsors = ["pagerduty"]
 tags = []
 title = "eating sushi with andrew clay shafer"
 
 +++
+
+[Transcript](http://transcripts.castingwords.com/zvzu/211640.html)
 
 **Andrew Clay Shafer** ([@littleidea](http://twitter.com/littleidea)).
 
