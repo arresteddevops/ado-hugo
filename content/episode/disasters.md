@@ -32,7 +32,8 @@ Stephanie briefly goes through some of the history of [healthcare.gov](http://he
 Mark: I'm used to catestrophic problems that last for a few hours at most, or in the really bad case, mabe it lasts for two or three or four days, not something that goes on for weeks or months, so that's a different perspective from what I have, so I'm super interested to hear about [healthcare.gov].
 
 Matt: I think there's the disasters where there's a thing that happens, that's maybe localized to one type of scenario; then there is what happens in [an episode of This American Life](http://www.thisamericanlife.org/radio-archives/episode/61/fiasco), where it's just one thing after another and everything unravels. There's a quote from the episode that I like to think about when we think about these bigger disasters that are more than just an outage that may be far reaching:
-> "One ingredient of many fiascos is that great, massive, heart-wrenching chaos and failure, are more likely to fail, when great ambition has come into play, when plans are big, expectations are great, and hopes are at their highest."
+
+*"One ingredient of many fiascos is that great, massive, heart-wrenching chaos and failure, are more likely to fail, when great ambition has come into play, when plans are big, expectations are great, and hopes are at their highest."*
 
 "I think you're certainly right," agrees Stephanie. "In order for something to be a disaster, the stakes have to be quite high... An outage that you find, and fix, and write a postmortem, and everyone learns something, and the users all get over their hurt, that's not a disaster. That's just life.
 
@@ -50,9 +51,10 @@ Stephanie: There are definitely rings of communication. You have to be able to t
 Mike agrees emphatically, and also noted that wording is incredibly important -- not only what you say, but how you say it, and the words that you use. "There are three things I want to get across. The first thing is, I want to apologize to people. It has to be a sincere apology. The other thing I need to do is make sure people feel confident that I understand what happened. I need to display confidence, and a really firm grasp about the problem. The last thing I need to do is tell them what I'll do to try to reduce the likelihood of something like this happening again."
 
 The conversation turns a corner as Matt asks how you plan for outages and prevent disasters. Stephanie jumps in, and reminds us all:
-> "If you don't test your backups, you don't really have backups. Similarly, if you don't test your outage plan, you don't have an outage plan."
 
-She suggests setting up brainstorming sessions with a handful of people from your team, appointing a "DM" (dubbed "Disaster Master" rather than "Dungeon Master" by Tyler), and running through possible scenarios. Keep an eye out for a Kickstarter in the near future ;) 
+*"If you don't test your backups, you don't really have backups. Similarly, if you don't test your outage plan, you don't have an outage plan."*
+
+She suggests setting up brainstorming sessions with a handful of people from your team, appointing a "DM" (dubbed "Disaster Master" rather than "Dungeon Master" by Tyler), and running through possible scenarios. Keep an eye out for a Kickstarter in the near future ;)
 
 _There are definitely advantages to documenting incident reports along the way, but how do you balance the speed of talking through a solution out loud, and the value of face-to-face communication to build trust vs. the need to document things for posterity?_
 Mike: How you interact on a day-to-day basis is also how you should communicate during an outage. The last thing you want to do is change your mode of communication when everything is falling apart and you've got high stress.
@@ -67,37 +69,32 @@ Mike agrees, and adds that being able to quantify how many users are affected, a
 <h2>Checkouts</h2>
 <h3>Stephanie</h3>
 <ul>
-	<li>catehuston.com, Accidentally in Code
-<a href="http://www.catehuston.com">www.catehuston.com</a></li>
+	<li><a href="http://www.catehuston.com">catehuston.com, Accidentally in Code</a></li>
 </ul>
 <ul>
-	<li>USDS
-<a href="https://www.whitehouse.gov/digital/united-states-digital-service">https://www.whitehouse.gov/digital/united-states-digital-service</a></li>
+	<li><a href="https://www.whitehouse.gov/digital/united-states-digital-service">USDS</a></li>
 </ul>
 <h3>Mark</h3>
 <ul>
-	<li>Pre-Accident Podcast
-<a href="http://preaccidentpodcast.podbean.com/e/pre-accident-podcast/">http://preaccidentpodcast.podbean.com/e/pre-accident-podcast/</a></li>
-	<li><b></b>Destiny (the Game)<b>
-</b><a href="http://www.destinythegame.com">http://www.destinythegame.com</a></li>
+	<li><a href="http://preaccidentpodcast.podbean.com/e/pre-accident-podcast/">Pre-Accident Podcast</a></li>
+	<li><a href="http://www.destinythegame.com">Destiny (the Game)</a></li>
 </ul>
 <h3>Bridget</h3>
 <ul>
-	<li><a href="http://www.seedsavers.org">http://www.seedsavers.org</a> - Organic heirloom seeds</li>
-	<li><a href="http://csel.eng.ohio-state.edu/woods/distributed/CG%20final.pdf">http://csel.eng.ohio-state.edu/woods/distributed/CG%20final.pdf</a> “Common Ground and Coordination in Joint Activity” by David Woods et al</li>
+	<li><a href="http://www.seedsavers.org">seedsavers.org</a> - Organic heirloom seeds</li>
+	<li><a href="http://csel.eng.ohio-state.edu/woods/distributed/CG%20final.pdf"> “Common Ground and Coordination in Joint Activity” by David Woods et al</a></li>
 </ul>
 <h3>Trevor</h3>
 <ul>
-	<li>Pocket chainsaw <a href="http://www.amazon.com/Chainmate-CM-24SSP-24-Inch-Survival-Pocket/dp/B0026OOS60/ref=sr_1_1?ie=UTF8&amp;qid=1432065575&amp;sr=8-1&amp;keywords=hand+chain+saw">http://www.amazon.com/Chainmate-CM-24SSP-24-Inch-Survival-Pocket/dp/B0026OOS60/ref=sr_1_1?ie=UTF8&amp;qid=1432065575&amp;sr=8-1&amp;keywords=hand+chain+saw</a></li>
-	<li>Dragonball Z XENOVERSE
-<a href="http://www.dragonballxenoverse.com/en/">http://www.dragonballxenoverse.com/en/</a></li>
-	<li>MSOffice for Android Smartphones (Excel, Powerpoint, Word) Preview <a href="https://plus.google.com/communities/115302484554583402046">https://plus.google.com/communities/115302484554583402046</a></li>
+	<li><a href="http://www.amazon.com/Chainmate-CM-24SSP-24-Inch-Survival-Pocket/dp/B0026OOS60/ref=sr_1_1?ie=UTF8&amp;qid=1432065575&amp;sr=8-1&amp;keywords=hand+chain+saw">Pocket chainsaw</a></li>
+	<li><a href="http://www.dragonballxenoverse.com/en/">Dragonball Z XENOVERSE</a></li>
+	<li><a href="https://plus.google.com/communities/115302484554583402046">MSOffice for Android Smartphones (Excel, Powerpoint, Word) Preview</a></li>
 </ul>
 &nbsp;
 <h3>Matt</h3>
 <ul>
-	<li>Does Not Commute - iOS/Android game <a href="https://itunes.apple.com/us/app/does-not-commute/id971756507?mt=8">https://itunes.apple.com/us/app/does-not-commute/id971756507?mt=8
-</a><a href="https://play.google.com/store/apps/details?id=com.mediocre.commute&amp;hl=en">https://play.google.com/store/apps/details?id=com.mediocre.commute&amp;hl=en</a></li>
-	<li>Recreating highlights of Breaking Bad in GTA5 editor - <a href="http://www.avclub.com/article/these-are-impressive-breaking-bad-highlights-recre-219640">http://www.avclub.com/article/these-are-impressive-breaking-bad-highlights-recre-219640</a></li>
+	<li>Does Not Commute - iOS/Android game <a href="https://itunes.apple.com/us/app/does-not-commute/id971756507?mt=8">iOS
+</a> | <a href="https://play.google.com/store/apps/details?id=com.mediocre.commute&amp;hl=en">Android</a></li>
+	<li><a href="http://www.avclub.com/article/these-are-impressive-breaking-bad-highlights-recre-219640">Recreating highlights of Breaking Bad in GTA5 editor</a></li>
 	<li>I’m also obsessed with Hearthstone on iOS now (World of Warcraft card game thingy)</li>
 </ul>

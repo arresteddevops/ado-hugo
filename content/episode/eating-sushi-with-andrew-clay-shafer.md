@@ -51,11 +51,13 @@ Andrew counters that in order to do that properly, we need to first frame the co
 However, if you model the world as everything is an agent trying to maximize some function, then the basic premise of your decisions is cause and effect. "Looking at the way people behave, and how this plays out within organizations, you might have very different patterns of interactions and patterns of health." Andrew continues, "Therefore, what you'll tell people do is very different from context to context."
 
 Despite all of the different scenarios, Andrew argues that there are three things you can always do:
-* Understand the incintives that people are motivated by
-* Align the incintives with behaviors
+
+* Understand the incentives that people are motivated by
+* Align the incentives with behaviors
 * Radiate information to help people make different choices
 
 Wondering what the Nash equilibrium and Pareto efficiency game theories are? Here are a few links:
+
 * [Nash equilibrium: Wikipedia](https://en.wikipedia.org/wiki/Nash_equilibrium)
 * [Pareto efficiency: Wikipedia](https://en.wikipedia.org/wiki/Pareto_efficiency)
 * Andrew's slides on [Leading a Learning Organization](https://prezi.com/bh84olgmbcqm/leading-a-learning-organization-stretch/)
