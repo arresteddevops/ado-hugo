@@ -4,6 +4,7 @@ aliases = ["/48"]
 author = "Matt"
 categories = []
 date = "2015-11-19T01:27:31-06:00"
+publishdate = "2015-11-19T01:27:31-06:00"
 episode = "48"
 friendly = "tdi"
 guests = ["amaltson","mgoetz"]
