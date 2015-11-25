@@ -2,6 +2,8 @@
 
 This is the thing that drives the new ADO website. You can see our progress on tasks at http://waffle.io/arresteddevops/ado-hugo
 
+[![Throughput Graph](https://graphs.waffle.io/arresteddevops/ado-hugo/throughput.svg)](https://waffle.io/arresteddevops/ado-hugo/metrics)
+
 ## Contributing
 
 Here are the steps to follow to get going as an ADO content contributor (or heck, even a code contributor)
