@@ -12,7 +12,7 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode050.mp3"
 podcast_bytes = ""
 podcast_duration = "42:46"
-sponsors = ["datadog"]
+sponsors = ["datadog", "10thmagnitude"]
 tags = []
 title = "Switching Teams: From Linux to Windows and Windows to Linux"
 
