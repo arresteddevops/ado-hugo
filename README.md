@@ -8,7 +8,7 @@ This is the thing that drives the new ADO website. You can see our progress on t
 
 Here are the steps to follow to get going as an ADO content contributor (or heck, even a code contributor)
 
-1. Install [Hugo](http://gohugo.io)
+1. Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.15*
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go, enter this command `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running. The -w watches for any changes and rebuilds on the fly. You have to reset the baseUrl or it will try to go to new.arresteddevops.com
