@@ -13,7 +13,7 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode048.mp3"
 podcast_bytes = ""
 podcast_duration = "58:23"
-sponsors = ["datadog"]
+sponsors = ["datadog","10thmagnitude"]
 tags = []
 title = "Test Drive Infrastructure with Arthur Maltson and Michael Goetz"
 

@@ -12,7 +12,7 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode033.mp3"
 podcast_bytes = "53877921"
 podcast_duration = "1:04:08"
-sponsors = ["pagerduty", "datadog"]
+sponsors = ["pagerduty", "datadog","10thmagnitude"]
 tags = []
 title = "DevOps Culture Change with Bill Joy"
 

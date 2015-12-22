@@ -12,7 +12,7 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode039.mp3"
 podcast_bytes = "34589773"
 podcast_duration = "41:11"
-sponsors = ["pagerduty"]
+sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "eating sushi with andrew clay shafer"
 
