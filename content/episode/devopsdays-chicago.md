@@ -12,7 +12,7 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode022.mp3"
 podcast_bytes = "56464322"
 podcast_duration = "39:13"
-sponsors = ["pagerduty"]
+sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "devopsdays chicago"
 

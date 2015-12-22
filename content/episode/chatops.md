@@ -12,7 +12,7 @@ podcast_bytes = "39090204"
 podcast_duration = "46:32"
 episode = "42"
 images = ["http://arresteddevops.com/img/social/fb/chatops.png"]
-news_keywords = ["chatops", "devops"]
+news_keywords = ["chatops", "devops","10thmagnitude"]
 author = "Matt"
 aliases = ["/42"]
 

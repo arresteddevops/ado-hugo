@@ -12,7 +12,7 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode034.mp3"
 podcast_bytes = "36511606"
 podcast_duration = "43:28"
-sponsors = ["victorops", "datadog"]
+sponsors = ["victorops", "datadog","10thmagnitude"]
 tags = []
 title = "What's New At Chef?"
 
