@@ -18,5 +18,6 @@ title = "Measurement and Sharing with Nicole Forsgren"
 
 +++
 
+- [Metrics For DevOps Initiatives](http://devopsenterprise.io/media/DOES_forum_metrics_102015.pdf) from the DevOps Enterprise Summit 2015
 - [Nicole's Working Papers](http://ssrn.com/author=2468935)
 - [Nicole's Google Scholar Page](https://scholar.google.com/citations?user=vis0ZxUAAAAJ&hl=en)
