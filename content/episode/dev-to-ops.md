@@ -1,6 +1,6 @@
 +++
 Description = "What does the journey from a background based in Development and moving to an Ops role feel like?"
-aliases = [":/19"]
+aliases = ["/19"]
 author = "Matt"
 categories = []
 date = "2014-08-28T18:17:34-05:00"
