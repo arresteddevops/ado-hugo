@@ -11,8 +11,8 @@ images = ["http://arresteddevops.com/img/social/fb/measurement-and-sharing.png"]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode052.mp3"
 podcast_bytes = ""
-podcast_duration = ""
-sponsors = []
+podcast_duration = "42:52"
+sponsors = ["10thmagnitude","datadog"]
 tags = []
 title = "Measurement and Sharing with Nicole Forsgren"
 
