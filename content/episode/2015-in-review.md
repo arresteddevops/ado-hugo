@@ -78,9 +78,6 @@ youtube = "X56Bt2zDNyA"
 - *The Force Awakens*. Period.
 - [devopsconferences.org](http://devopsconferences.org/) You can follow the list at [@devopsconfs](https://twitter.com/devopsconfs). This account tweets alerts about CFP dates.
 - Speaking of people who got promoted after being on the show, recommend Sasha Rosenbaum’s talk [“Single Person of Failure” at Devopsdays SV](https://www.youtube.com/watch?v=IUoEiDT1nXY)
-<<<<<<< HEAD
 
 ## Podcast Recommendation
 [Software Defined Talk](http://cote.io/podcasts/sdt/) (they need a more memorable URL)
-=======
->>>>>>> ce70649c4b2b3833c286d6472b34fb511fa21005
