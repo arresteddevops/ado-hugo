@@ -11,7 +11,7 @@ deploy:
     - script:
         name: Install packages
         code: |
-          apt-get update && apt-get upgrade -y
+          apt-get update
     - install-packages:
         packages: git ssh-client
 
