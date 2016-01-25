@@ -8,8 +8,13 @@ build:
 
 deploy:
   steps:
+    - script
+      name: Install packages
+      code: |
+        apt-get update && apt-get upgrade -y
     - install-packages:
-      packages: git
+        packages: git ssh-client
+
     - burrbd/gh-pages@0.2.3:
         token: $GIT_TOKEN
         domain: www.arresteddevops.com
