@@ -9,9 +9,9 @@ build:
 deploy:
   steps:
     - script
-      name: Install packages
-      code: |
-        apt-get update && apt-get upgrade -y
+        name: Install packages
+        code: |
+          apt-get update && apt-get upgrade -y
     - install-packages:
         packages: git ssh-client
 
