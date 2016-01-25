@@ -8,7 +8,7 @@ build:
 
 deploy:
   steps:
-    - lukevivier/gh-pages@0.2.1:
+    - burrbd/gh-pages@0.2.3:
         token: $GIT_TOKEN
         domain: www.arresteddevops.com
         basedir: public
