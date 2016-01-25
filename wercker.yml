@@ -10,7 +10,7 @@ deploy:
   steps:
     - install-packages:
       packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
+    - burrbd/gh-pages@0.2.3:
         token: $GIT_TOKEN
         domain: www.arresteddevops.com
         basedir: public
