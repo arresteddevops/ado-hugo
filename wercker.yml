@@ -8,6 +8,8 @@ build:
 
 deploy:
   steps:
+    - install-packages:
+      packages: git ssh-client
     - burrbd/gh-pages@0.2.3:
         token: $GIT_TOKEN
         domain: www.arresteddevops.com
