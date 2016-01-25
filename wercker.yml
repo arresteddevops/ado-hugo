@@ -8,7 +8,7 @@ build:
 
 deploy:
   steps:
-    - script
+    - script:
         name: Install packages
         code: |
           apt-get update && apt-get upgrade -y
