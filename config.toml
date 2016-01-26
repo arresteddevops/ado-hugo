@@ -5,6 +5,7 @@ title = "Arrested DevOps"
 theme = "ado"
 canonifyurls = false
 buildFuture = false
+buildDrafts = false
 dataDir = "data"
 disqusShortname = "arresteddevops"
 archetypedir = "archetypes"

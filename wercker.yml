@@ -4,7 +4,7 @@ build:
     - arjen/hugo-build:
         version: 0.15
         theme: ado
-        flags: --buildDrafts=true
+        flags: --buildDrafts=false
 
 deploy:
   steps:
