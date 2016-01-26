@@ -10,10 +10,9 @@ guests = ["ashafer", "khightower"]
 images = ["http://arresteddevops.com/img/social/fb/platforms.png"]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode054.mp3"
-podcast_duration = "01:01:30"
+podcast_duration = "01:02:11"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Platforms with Kelsey Hightower and Andrew Clay Shafer"
 youtube = "-1qhT4hcofY"
-draft = true
 +++
