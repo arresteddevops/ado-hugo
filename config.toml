@@ -20,7 +20,7 @@ paginate = 9
 
 [params]
 Facebook = "//facebook.com/Arresteddevops"
-GATracker = "UA-45939822-2"
+GATracker = "UA-45939822-1"
 Twitter = "//twitter.com/arresteddevops"
 	[params.social]
 		github = "arresteddevops"
