@@ -3,4 +3,9 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-{{ if .Site.Params.Description }}<meta name="description" content="{{ .Site.Params.Description }}">{{ end }}
+{{ if .Description}}
+  <meta name="description" content="{{ .Description }}">
+{{ else }}
+  {{ if .Site.Params.Description }}<meta name="description" content="{{ .Site.Params.Description }}">
+  {{ end }}
+{{ end }}
