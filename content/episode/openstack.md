@@ -1,9 +1,9 @@
 +++
-Description = ""
+Description = "JJ Asghar joins us to help school Matt about what is going on in the OpenStack world"
 aliases = ["/58"]
 author = "Matt"
 categories = []
-date = "2016-03-11T22:09:46-06:00"
+date = "2016-02-25T22:09:46-06:00"
 episode = "58"
 friendly = "openstack"
 guests = ["jjasghar"]
@@ -13,7 +13,7 @@ podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arrested
 podcast_duration = "40:27"
 sponsors = ["datadog", "10thmagnitude"]
 tags = []
-title = "openstack"
+title = "Open Your Stack with JJ Asghar"
 
 +++
 
