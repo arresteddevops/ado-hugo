@@ -34,6 +34,7 @@
       <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
       <itunes:summary>{{ .Description }}</itunes:summary>
+      <description>{{ .Description }}</description>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
       <guid>{{ .Params.podcast }}</guid>
       <link>{{ .Permalink }}</link>
