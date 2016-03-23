@@ -1,17 +1,17 @@
 +++
 Description = ""
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode008.mp3"
+podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode0XX.mp3"
 podcast_duration = ""
 tags = []
 categories = []
 guests = []
 sponsors = []
-friendly = "managing-your-mental-stack"
+friendly = "friendly"
 episode = ""
 title = ""
-images = ["http://arresteddevops.com/img/social/fb/"]
+images = ["http://arresteddevops.com/img/social/fb/friendly.png"]
 news_keywords = []
 author = "Matt"
-aliases = []
+aliases = ["/##"]
 youtube = ""
 +++
