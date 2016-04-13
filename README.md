@@ -38,7 +38,7 @@ When you create a new episode, Hugo will populate the frontmatter of the .md fil
 
 ## Contributing Code
 
-Until you get your legs under you with the code (you'll need things like a LESS compiler, etc), I highly recommend just sticking with the content items. However, if you want to fix/enhance any of the Hugo code or CSS/Bootstrap stuff, please fork the repo and sumbit a PR for [@mattstratton](https://github.com/mattstratton) to evaluate.
+Until you get your legs under you with the code (you'll need things like a LESS compiler, etc), I highly recommend just sticking with the content items. However, if you want to fix/enhance any of the Hugo code or CSS/Bootstrap stuff, please fork the repo and submit a PR for [@mattstratton](https://github.com/mattstratton) to evaluate.
 
 
 ### Credits
