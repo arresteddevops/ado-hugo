@@ -44,7 +44,7 @@ For any <a href="http://devopsdays.org">devopsdays</a>, try the code ADO2016! It
 
 * DOD Washington DC open until April 15
 * DOD Salt Lake City open until April 19
-* [Puppetconf](http://2016.puppetconf.com/cfp-registration) open until May 2 http://2016.puppetconf.com/cfp-registration
+* [Puppetconf](http://2016.puppetconf.com/cfp-registration) open until May 2
 * [Texas Linux Fest](http://2016.texaslinuxfest.org) open until May 5
 * DOD Amsterdam open until May 30
 * DOD Chicago open until May 30
