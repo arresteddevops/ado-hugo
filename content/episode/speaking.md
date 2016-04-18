@@ -9,11 +9,11 @@ friendly = "speaking"
 guests = ["kdaniels"]
 images = ["http://arresteddevops.com/img/social/fb/friendly.png"]
 news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode0XX.mp3"
-podcast_duration = ""
+podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode062.mp3"
+podcast_duration = "1:06:06"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
-title = "Speaking at Conferences, with Katherine Daniels"
+title = "Speaking at Conferences With Katherine Daniels"
 youtube = "R4Cy86jcoSw"
 
 +++
@@ -36,18 +36,18 @@ For any <a href="http://devopsdays.org">devopsdays</a>, try the code ADO2016! It
 * DevOpsDays Rockies April 21st-22nd
 * DevOpsDays Atlanta April 26-27
 * DevOpsDays Seattle May 12-13
-* DevOpsDays Silicon Valley June 24, 2016 - June 25
-* DevOpsDays Minneapolis is July 20-21 -
+* DevOpsDays Silicon Valley June 24 - June 25
+* DevOpsDays Minneapolis is July 20-21
+* DevOpsDays Chicago is August 30-31
 
 ### Open CFPs
 
 * DOD Washington DC open until April 15
 * DOD Salt Lake City open until April 19
-* Puppetconf open until May 2 http://2016.puppetconf.com/cfp-registration
-* Texas Linux Fest open until May 5 - http://2016.texaslinuxfest.org
+* [Puppetconf](http://2016.puppetconf.com/cfp-registration) open until May 2 http://2016.puppetconf.com/cfp-registration
+* [Texas Linux Fest](http://2016.texaslinuxfest.org) open until May 5
 * DOD Amsterdam open until May 30
 * DOD Chicago open until May 30
 
 
 We have t-shirts now! And mugs! They are available at <a href="http://store.arresteddevops.com">store.arresteddevops.com</a>! Only unisex for now, but more styles coming! Buy one today. Or not. We’re not the boss of you.
-
