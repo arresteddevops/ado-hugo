@@ -33,12 +33,14 @@ youtube = "R4Cy86jcoSw"
 ### Upcoming conferences
 
 For any <a href="http://devopsdays.org">devopsdays</a>, try the code ADO2016! It should get you 20% off.
+
 * DevOpsDays Rockies April 21st-22nd
-* DevOpsDays Atlanta April 26-27
-* DevOpsDays Seattle May 12-13
-* DevOpsDays Silicon Valley June 24 - June 25
-* DevOpsDays Minneapolis is July 20-21
-* DevOpsDays Chicago is August 30-31
+* [DevOpsDays Atlanta](http://www.devopsdays.org/events/2016-atlanta/) April 26-27
+* [DevOpsDays Seattle](http://www.devopsdays.org/events/2016-seattle) May 12-13
+* [DevOpsDays Salt Lake City](http://www.devopsdays.org/events/2016-saltlakecity/) June 14 - June 15
+* [DevOpsDays Silicon Valley](http://www.devopsdays.org/events/2016-siliconvalley) June 24 - June 25
+* [DevOpsDays Minneapolis](http://www.devopsdays.org/events/2016-minneapolis) is July 20-21
+* [DevOpsDays Chicago](http://www.devopsdays.org/events/2016-chicago) is August 30-31
 
 ### Open CFPs
 
@@ -46,8 +48,9 @@ For any <a href="http://devopsdays.org">devopsdays</a>, try the code ADO2016! It
 * DOD Salt Lake City open until April 19
 * [Puppetconf](http://2016.puppetconf.com/cfp-registration) open until May 2
 * [Texas Linux Fest](http://2016.texaslinuxfest.org) open until May 5
-* DOD Amsterdam open until May 30
-* DOD Chicago open until May 30
+* [DOD Amsterdam](http://www.devopsdays.org/events/2016-amsterdam/propose/) open until May 30
+* [DOD Chicago](http://www.devopsdays.org/events/2016-chicago/propose/) open until May 30
 
+### ADO Merchandise
 
 We have t-shirts now! And mugs! They are available at <a href="http://store.arresteddevops.com">store.arresteddevops.com</a>! Only unisex for now, but more styles coming! Buy one today. Or not. We’re not the boss of you.
