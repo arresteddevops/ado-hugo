@@ -7,14 +7,14 @@ date = "2016-05-12T18:16:10-05:00"
 episode = "63"
 friendly = "containers-security"
 guests = ["bhughes", "jfrazelle"]
-images = [""]
+images = ["http://arresteddevops.com/img/social/fb/containers-security.png"]
 news_keywords = []
-podcast = ""
-podcast_duration = ""
+podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode063.mp3"
+podcast_duration = "55:55"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Containers and Security with Ben Hughes and Jessie Frazelle"
-youtube = ""
+youtube = "qPs5U5hdciM"
 
 +++
 
