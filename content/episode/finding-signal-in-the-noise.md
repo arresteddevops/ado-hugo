@@ -10,10 +10,11 @@ guests = ["jdixon2", "alakhani"]
 images = ["http://arresteddevops.com/img/social/fb/devopsdays-toronto-2016.png"]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode065.mp3"
-podcast_duration = "41:01"
+podcast_duration = ""
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Finding Signal in the Noise, with Jason Dixon and Aneel Lakhani"
+youtube = "6YYVayCRfgI"
 
 +++
 
