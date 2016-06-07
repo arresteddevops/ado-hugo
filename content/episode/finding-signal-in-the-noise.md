@@ -1,5 +1,5 @@
 +++
-Description = "Bridget and Matt (in his triumphant return) chat with Jason Dixon and Aneel Lakhani (SignalFX) about modern monitoring, alerting, event streams, and more."
+Description = "Bridget and Matt (in his triumphant return) chat with Aneel Lakhani (SignalFX) and Jason Dixon about modern monitoring, alerting, event streams, and more."
 aliases = ["/65"]
 author = "Bridget"
 categories = []
@@ -13,7 +13,7 @@ podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arrested
 podcast_duration = "56:26"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
-title = "Finding Signal in the Noise, with Jason Dixon and Aneel Lakhani"
+title = "Finding Signal in the Noise, with Aneel Lakhani and Jason Dixon"
 youtube = "6YYVayCRfgI"
 
 +++
