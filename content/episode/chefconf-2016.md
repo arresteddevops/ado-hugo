@@ -1,19 +1,19 @@
 +++
-Description = "Recorded at ChefConf 2016 in Austin, Texas, with delightful guests Annie Hedgepeth, Fletcher Nichol, and Jon Cowie. We talk about all the new hotness of Habitat and Chef Automate, as well as cover the experiences of five years span of ChefConf attendee experience. Plus, Trevor throws shade at 'DevOps 2.0'."
+Description = "Recorded at ChefConf 2016 in Austin, Texas, with delightful guests Annie Hedgpeth, Fletcher Nichol, and Jon Cowie. We talk about all the new hotness of Habitat and Chef Automate, as well as cover the experiences of five years span of ChefConf attendee experience. Plus, Trevor throws shade at 'DevOps 2.0'."
 aliases = ["/67"]
 author = "Matt"
 categories = []
 date = "2016-07-26T20:55:48-05:00"
 episode = "67"
 friendly = "chefconf-2016"
-guests = ["ahedgepeth", "fnichol", "jcowie"]
+guests = ["ahedgpeth", "fnichol", "jcowie"]
 images = ["http://arresteddevops.com/img/social/fb/chefconf-2016.png"]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode067.mp3"
 podcast_duration = "52:43"
 sponsors = []
 tags = []
-title = "ChefConf 2016 with Jon Cowie, Fletcher Nichol, and Annie Hedgepeth"
+title = "ChefConf 2016 with Jon Cowie, Fletcher Nichol, and Annie Hedgpeth"
 youtube = "U7i4JE4Zk7w"
 
 +++
