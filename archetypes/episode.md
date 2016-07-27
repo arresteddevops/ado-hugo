@@ -14,4 +14,5 @@ news_keywords = []
 author = "Matt"
 aliases = ["/##"]
 youtube = ""
+explicit = "false"
 +++
