@@ -36,6 +36,7 @@
               </div>
             </div>
           {{ end }}
+          <div class = "well">
 <!-- <div class="container"> -->
     {{ range $person :=.Params.guests }}
       {{ if isset $.Site.Data.guests $person }}
@@ -68,6 +69,7 @@
         {{ end }}
       </div>
     {{ end }}
+  </div>
 <!-- </div> -->
 
 
