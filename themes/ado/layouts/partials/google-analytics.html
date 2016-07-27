@@ -6,7 +6,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-45939822-1', 'auto');
+  ga('create', '{{ .Site.Params.GATracker }}', 'auto');
   ga('send', 'pageview');
 
 </script>
@@ -62,7 +62,7 @@ $(document).ready(function() {
 		var text = $(this).text();
 		$(this).click(function(event) { // when someone clicks these links
 			event.preventDefault(); // don't open the link yet
-			if (href.indexOf("arresteddevops.com")==-1) {
+			if (href.indexOf("{{ .Site.Params.social.twitter_domain }}")==-1) {
 				_gaq.push(["_trackEvent", "outbound-links", "Clicked", href, , false]); // create a custom event
 			}
 			setTimeout(function() { // now wait 300 milliseconds...
