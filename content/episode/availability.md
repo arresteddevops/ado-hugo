@@ -15,6 +15,7 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Who owns your availability? With Charity Majors and Pete Cheslock"
 youtube = "fZsYnGpIgIU"
+explicit = "true"
 
 +++
 
@@ -35,4 +36,3 @@ youtube = "fZsYnGpIgIU"
 * DOD Salt Lake City open until April 19
 * DOD Amsterdam open until May 30
 * CFP for [That Conference](https://www.thatconference.com/) Opens March 1- 31
-
