@@ -20,8 +20,9 @@ Here are the steps to follow to get going as an ADO content contributor (or heck
 Every episode needs a few images. You need the following
 
 1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. As of right now, these must be named EXACTLY the same as the episode file name (i.e., `devops-at-etsy.png`). They will live in the `content/episode/img` folder.
-2. **Episode banner** - These need to be PNG, 800px by 420 px. The need to be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in `content/episode/img` folder.
-3. **Facebook sharing image** - These need to be PNG, 1200px by 630 px, and named after the episode (i.e., `devops-at-etsy.png`). They are stored in `static/img/social/fb` folder
+2. **Episode banner** - These need to be PNG, 800px by 420 px. The need to be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in the `content/episode/img` folder.
+3. **Facebook sharing image** - These need to be PNG, 1200px by 630 px, and named after the episode (i.e., `devops-at-etsy.png`). They are stored in the `static/img/social/fb` folder.
+4. **Guest image(s)** - These need to be PNG, 500px x 500px, and named after the guest data file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder
 
 When you create a new episode, Hugo will populate the frontmatter of the .md file with a bunch of stuff for you. These are the required items to be sure to populate:
 * **Description** - A string in double quotes. Please make sure that any double quotes are escaped, as such: `\"DevOps\"`
