@@ -22,5 +22,9 @@ How do large enterprises transform the way they do IT? What does it mean for eve
 
 - [devopsdays Minneapolis](http://www.devopsdays.org/events/2016-minneapolis/welcome/)
 
+- [Alice Goldfuss - Rockstars, Builders, Janitors: You're doing it wrong](https://www.youtube.com/watch?v=posb7CzWSFc)
+
 - [2016 State of DevOps Report](https://puppet.com/resources/white-paper/2016-state-of-devops-report)
+
+
 
