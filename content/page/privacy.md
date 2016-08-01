@@ -7,7 +7,7 @@ title = "Privacy Policy"
 
 +++
 
-This Privacy Policy governs the manner in which Arrested DevOps collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://arresteddevops.com">http://arresteddevops.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Arrested DevOps.
+This Privacy Policy governs the manner in which Arrested DevOps collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="https://www.arresteddevops.com">https://www.arresteddevops.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Arrested DevOps.
 
 <b>Personal identification information</b>
 
@@ -63,9 +63,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-<a href="http://arresteddevops.com">Arrested DevOps</a>
+<a href="https://www.arresteddevops.com">Arrested DevOps</a>
 
-<a href="http://arresteddevops.com">http://arresteddevops.com</a>
+<a href="https://www.arresteddevops.com">https://www.arresteddevops.com</a>
 
 feedback@arresteddevops.com
 

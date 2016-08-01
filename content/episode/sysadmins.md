@@ -7,7 +7,7 @@ date = "2014-08-20T18:09:40-05:00"
 episode = "18"
 friendly = "sysadmins"
 guests = ["cread","mfiedler","bwagner"]
-images = ["http://arresteddevops.com/img/social/fb/sysadmins.png", ""]
+images = ["https://www.arresteddevops.com/img/social/fb/sysadmins.png", ""]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode018.mp3"
 podcast_bytes = "62732447"
@@ -60,5 +60,5 @@ Amazon Certified Sysops Admin Associate <a href="http://aws.amazon.com/certifica
 <ul>
 	<li><a href="http://lolroot.ca/" target="_blank">LOLRoot</a> - self signed cert authority (lolroot is actually from snorby,org, which is now owned by threatstack. all roads lead to Peak Cheslock)</li>
 	<li>Bastard Operator from Hell - <a href="http://bofh.ntk.net/BOFH/" target="_blank">http://bofh.ntk.net/BOFH/</a></li>
-	<li>Registration is open for <a href="http://arresteddevops.com/chefcommunity" target="_blank">Chef Community Summit</a> - ADO listeners can get 10% off their registration with the code ARRESTEDDEVOPS</li>
+	<li>Registration is open for <a href="https://www.arresteddevops.com/chefcommunity" target="_blank">Chef Community Summit</a> - ADO listeners can get 10% off their registration with the code ARRESTEDDEVOPS</li>
 </ul>

@@ -37,7 +37,7 @@ Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Brid
 	[params.authors]
 	  [params.authors.Matt]
 			name	= "Matt Stratton"
-			thumbnail = "http://arresteddevops.com/img/matt.png"
+			thumbnail = "https://www.arresteddevops.com/img/matt.png"
 			bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
 			[params.authors.Matt.social]
 				github = "mattstratton"
@@ -46,13 +46,13 @@ Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Brid
 				linkedin = "mattstratton"
 		[params.authors.Trevor]
 			name = "Trevor Hess"
-			thumbnail = "http://arresteddevops.com/img/trevor.png"
+			thumbnail = "https://www.arresteddevops.com/img/trevor.png"
 			bio = ""
 				[params.authors.Trevor.social]
 					twitter = "trevorghess"
 			[params.authors.Bridget]
 				name = "Bridget Kromhout"
-				thumbnail = "http://arresteddevops.com/img/Bridget.png"
+				thumbnail = "https://www.arresteddevops.com/img/Bridget.png"
 				bio = ""
 				[params.authors.Bridget.social]
 					twitter = "bridgetkromhout"
