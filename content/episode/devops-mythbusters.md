@@ -7,7 +7,7 @@ date = "2014-02-10T09:56:24-05:00"
 episode = "6"
 friendly = "devops-mythbusters"
 guests = ["dedwards","sbates"]
-images = ["http://arresteddevops.com/img/social/fb/devops-mythbusters.png", ""]
+images = ["https://www.arresteddevops.com/img/social/fb/devops-mythbusters.png", ""]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode006.mp3"
 podcast_bytes = "126781303"
@@ -66,7 +66,7 @@ Developers cannot be trusted.
 </ul>
 <h4>Trevor</h4>
 <ul>
-	<li>Trevor's cat, <a href="http://arresteddevops.com/2014/02/10/devops-mythbusters/dax/">Dax</a></li>
+	<li>Trevor's cat, <a href="https://www.arresteddevops.com/2014/02/10/devops-mythbusters/dax/">Dax</a></li>
 	<li><a href="http://developer.marvel.com/">Marvel Comics API</a></li>
 </ul>
 <h4>Sascha</h4>

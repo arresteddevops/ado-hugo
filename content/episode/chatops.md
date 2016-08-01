@@ -11,7 +11,7 @@ friendly = "chatops"
 podcast_bytes = "39090204"
 podcast_duration = "46:32"
 episode = "42"
-images = ["http://arresteddevops.com/img/social/fb/chatops.png"]
+images = ["https://www.arresteddevops.com/img/social/fb/chatops.png"]
 news_keywords = ["chatops", "devops","10thmagnitude"]
 author = "Matt"
 aliases = ["/42"]
@@ -66,4 +66,4 @@ The panel comes to the conclusion that important decisions should lean away from
 - If you are considering it, do it. But be careful what you use, and how you use it.
 - Jason: It's new tech, but its the old problem. ChatOps is just the newest efficiency on the line.
 
-###### Sign up for the [Banana Stand](http://arresteddevops.com/bananastand) for the latest ADO news.
+###### Sign up for the [Banana Stand](https://www.arresteddevops.com/bananastand) for the latest ADO news.

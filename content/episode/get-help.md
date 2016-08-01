@@ -7,7 +7,7 @@ date = "2014-08-04T18:06:38-05:00"
 episode = "17"
 friendly = "get-help"
 guests = ["srosenbaum", "derding"]
-images = ["http://arresteddevops.com/img/social/fb/get-help.png", ""]
+images = ["https://www.arresteddevops.com/img/social/fb/get-help.png", ""]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode017.mp3"
 podcast_bytes = "49094463"
@@ -32,5 +32,5 @@ youtube = "AGpQd_ub36Q"
 <ul>
 	<li>Chef Meetup - Testing Cookbooks and Chef Hack day (aug 19) <a href="http://www.meetup.com/Chicago-Chef-User-Group/events/193996782/" target="_blank">http://www.meetup.com/Chicago-Chef-User-Group/events/193996782/</a></li>
 	<li>Scroll Down To Riker <a href="http://scrolldowntoriker.com">http://scrolldowntoriker.com</a></li>
-	<li>Registration is open for Chef Community Summit <a href="http://arresteddevops.com/chefcommunity">http://arresteddevops.com/chefcommunity</a></li>
+	<li>Registration is open for Chef Community Summit <a href="https://www.arresteddevops.com/chefcommunity">https://www.arresteddevops.com/chefcommunity</a></li>
 </ul>
