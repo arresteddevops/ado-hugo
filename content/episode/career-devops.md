@@ -3,6 +3,7 @@ Description = "In this episode, Jeff Hackert discusses developing your career in
 author = "Matt"
 categories = []
 date = "2015-06-25T12:38:23-05:00"
+aliases = ["/38"]
 episode = "38"
 friendly = "career-devops"
 title = "Career Devops with Jeff Hackert"
