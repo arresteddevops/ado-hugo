@@ -9,8 +9,8 @@
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ .Site.Title }}</title>
-    <atom:link href="{{ .Site.BaseURL }}/index.xml" rel="self" type="application/rss+xml" />
-    <link>{{ .Site.BaseURL }}</link>
+    <atom:link href="https://www.arresteddevops.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.arresteddevops.com</link>
     <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -24,7 +24,7 @@
     <itunes:name>Matt Stratton</itunes:name>
     <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ .Site.BaseURL }}img/ado-podcast-logo.png" />
+    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
