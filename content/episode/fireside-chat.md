@@ -14,7 +14,7 @@ podcast_duration = ""
 sponsors = ["10thmagnitude", "victorops"]
 tags = []
 title = "Fireside Chat with Bryan Cantrill"
-youtube = ""
+youtube = "lybeocYXujU"
 
 +++
 
