@@ -20,6 +20,9 @@ youtube = "lybeocYXujU"
 
 Bridget sits down for a classic fireside chat with Bryan Cantrill (Joyent), ranging from containers to social justice to lawn care.
 
+* [Container Summit](http://containersummit.io/)
+* [Design of a Computer: The Control Data 6600 by J. E. Thornton](http://ygdes.com/CDC/DesignOfAComputer_CDC6600.pdf)
+
 [photo credit](https://www.flickr.com/photos/wasabicube/2270557648/)
 
 
