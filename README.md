@@ -46,4 +46,4 @@ Until you get your legs under you with the code (you'll need things like a LESS 
 
 Thanks to <a href = "https://github.com/nozzle">nozzle</a> for the <a href = "https://github.com/nozzle/hugo-snippets">hugo-snippets</a> repo, which we use for adding wonderful SEO and social sharing markup!
 
-Thanks to Jess Frazelle for clueing us into the awesome previews with Netlify!
+Thanks to Jess Frazelle [@jfrazelle](https://github.com/jfrazelle) for clueing us into the awesome previews with [Netlify](https://www.netlify.com)!
