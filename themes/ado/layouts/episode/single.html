@@ -6,7 +6,7 @@
           </div>
           <div class="col-md-8 col-md-offset-2">
             <div class = "well">
-              <h1>{{ title .Title }} </h1>
+              <h1>{{ title .Title }} (ADO {{ .Params.episode }})</h1>
               {{ .Description | markdownify }}
               <div>
                 {{ partial "share.html" . }}
