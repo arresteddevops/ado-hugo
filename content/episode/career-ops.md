@@ -28,9 +28,8 @@ Severance agreement timelines:
 How to bounce back:
 Let folks know - Mike Fiedler and Annie Hedgpeth had good examples on Twitter recently.
 
-- https://twitter.com/anniehedgie/status/748643963431587840
-- https://twitter.com/mikefiedler/status/739868414324449280
-
+{{< tweet 748643963431587840 >}}
+{{< tweet 739868414324449280 >}}
 
 Use all your networks
 
