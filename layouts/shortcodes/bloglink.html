@@ -1,0 +1,4 @@
+<a href='{{ .Get "url"}}' target = '_new'>{{ .Get "title"}}</a>
+{{ if .Get "rss" }}
+ <a href='{{ .Get "rss" }}' target = '_new'><i class="fa fa-rss" aria-hidden="true"></i></a>
+{{ end }}
