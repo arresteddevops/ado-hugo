@@ -15,7 +15,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
-    <copyright>Copyright 2014-2016 Arrested DevOps</copyright>
+    <copyright>2014-2016 Arrested DevOps</copyright>
     <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
     <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
     <itunes:summary>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.</itunes:summary>
@@ -35,7 +35,7 @@
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
       <itunes:summary>{{ .Description }}</itunes:summary>
       <description>{{ .Description }}</description>
-      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/x-m4a" />
+      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/mpeg" />
       <guid>{{ .Params.podcast }}</guid>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
