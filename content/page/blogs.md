@@ -9,7 +9,7 @@ title = "DevOps Blogs"
 
 This is a list of DevOps-related blogs that we think are pretty cool.
 
-- [Ansible Blog](https://www.ansible.com/blog)
+- {{< bloglink url="https://www.ansible.com/blog" title="Ansible Blog" rss="https://www.ansible.com/blog/rss.xml" >}}
 - [Chef Blog](https://blog.chef.io/)
 - [Docker Blog](https://blog.docker.com/)
 - [Puppet Blog](https://puppet.com/blog/)
@@ -17,7 +17,7 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 - [VictorOps Blog](https://victorops.com/blog/)
 - [10th Magnitude Tech Blog](https://www.10thmagnitude.com/resources/tech-blog/)
 - [Michael S. Collier's Blog](https://michaelcollier.wordpress.com/) - Microsoft development, Azure and more fun stuff!
-- [Code as Craft](https://codeascraft.com/) - Etsy's engineering
+- {{< bloglink url="https://codeascraft.com" title="Code as Craft" rss="view-source:https://codeascraft.com/feed/" >}} - Etsy's engineering
 - [UpGuard](https://www.upguard.com/blog)
 - [DevOpsGuys](https://blog.devopsguys.com/)
 - [IT Revolution](http://itrevolution.com/devops-blog/)
