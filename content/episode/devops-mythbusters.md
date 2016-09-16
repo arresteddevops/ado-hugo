@@ -66,7 +66,6 @@ Developers cannot be trusted.
 </ul>
 <h4>Trevor</h4>
 <ul>
-	<li>Trevor's cat, <a href="https://www.arresteddevops.com/2014/02/10/devops-mythbusters/dax/">Dax</a></li>
 	<li><a href="http://developer.marvel.com/">Marvel Comics API</a></li>
 </ul>
 <h4>Sascha</h4>

@@ -45,9 +45,9 @@ This was a special co-production with [The Goat Farm](http:///goatcan.com). Don'
 
 ## Upcoming CFP's
 * [DevOpsDays Rockies](http://www.devopsdays.org/events/2016-denver/) and [DevOpsDays Seattle](http://www.devopsdays.org/events/2016-seattle/) CFP open until February 28th
-* [ChefConf](chefconf.chef.io) CFP open until February 29
+* [ChefConf](http://chefconf.chef.io) CFP open until February 29
 * [DevOpsDays Atlanta](http://www.devopsdays.org/events/2016-atlanta/) CFP open until March 1
-* [Dockercon](2016.dockercon.com) CFP open until March 18
+* [Dockercon](http://2016.dockercon.com) CFP open until March 18
 * [Platform/Spring One](http://platformspringone.io/) CFP open until March 24
 * [DevOpsDays Vancouver](http://www.devopsdays.org/events/2016-vancouver/) and [DevOpsDays Minneapolis](http://www.devopsdays.org/events/2016-minneapolis/) CFP and Abstractions open until March 31
 * [DevOpsDays Washington, D.C.](http://www.devopsdays.org/events/2016-washington-dc/) open until April 15

@@ -21,7 +21,7 @@ title = "Test Driven Infrastructure with Arthur Maltson and Michael Goetz"
 
 - Arthur's DevOpsDays Toronto [talk on TDI](https://youtu.be/IEQUfo0eUiI?t=248)
 - [Chef Compliance](https://www.chef.io/solutions/audit-compliance/)
-- [InSpec](chef.io/inspec)
+- [InSpec](https://chef.io/inspec)
 - [kitchen-inspec](https://github.com/chef/kitchen-inspec)
 - [train](https://github.com/chef/train)
 - [The Road to InSpec](https://www.chef.io/blog/2015/11/04/the-road-to-inspec/)

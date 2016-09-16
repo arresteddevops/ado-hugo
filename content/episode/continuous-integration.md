@@ -49,11 +49,11 @@ Want to learn more about Configuration Management? Check out <a href="http://foo
 <h4>Trevor</h4>
 <ul>
 	<li><a href="http://thenextweb.com/socialmedia/2014/01/29/lost-50000-twitter-username/#!tV5eY" target="_blank">How I lost my $50,000 Twitter username</a></li>
-	<li><a href="http://www.amazon.com/gp/product/1452109745/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1452109745&amp;linkCode=as2&amp;tag=arrdev-20">Drink More Whiskey!: Everything You Need to Know About Your New Favorite Drink</a><img style="border: none !important; margin: 0px !important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=arrdev-20&amp;l=as2&amp;o=1&amp;a=1452109745" alt="" width="1" height="1" border="0" /></li>
+	<li><a href="http://www.amazon.com/gp/product/1452109745/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1452109745&amp;linkCode=as2&amp;tag=arrdev-20"><i>Drink More Whiskey!: Everything You Need to Know About Your New Favorite Drink</i></a></li>
 </ul>
 <h4>Mathias</h4>
 <ul>
-	<li><a href="http://www.amazon.com/gp/product/1594484805/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594484805&amp;linkCode=as2&amp;tag=arrdev-20">Drive: The Surprising Truth About What Motivates Us</a><img style="border: none !important; margin: 0px !important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=arrdev-20&amp;l=as2&amp;o=1&amp;a=1594484805" alt="" width="1" height="1" border="0" /></li>
+	<li><a href="http://www.amazon.com/gp/product/1594484805/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594484805&amp;linkCode=as2&amp;tag=arrdev-20"><i>Drive: The Surprising Truth About What Motivates Us</i></a></li>
 	<li><a href="http://www.greenmountaincoffee.com/Coffee/FTOEthiopianY" target="_blank">Ethiopian Yirgacheffe</a> coffee roasted by <a href="http://www.caravanonexmouth.co.uk/" target="_blank">Caravan</a> in London</li>
 </ul>
 <h4>Joe</h4>
