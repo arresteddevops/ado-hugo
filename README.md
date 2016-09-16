@@ -12,7 +12,7 @@ Here are the steps to follow to get going as an ADO content contributor (or heck
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go, enter this command `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running. The -w watches for any changes and rebuilds on the fly. You have to reset the baseUrl or it will try to go to new.arresteddevops.com
-5. If you want to make a new episode, type in `hugo new episode/my-episode-name.md`
+5. If you want to make a new episode, type in `hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 6. When you push to master on github, wercker will automatically build the site and publish it to http://new.arresteddevops.com
 
 ## Episodes
@@ -30,12 +30,25 @@ When you create a new episode, Hugo will populate the frontmatter of the .md fil
 * **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"jhand", "srosenbaum"`). The names should line up to .yml files in `data/guests`
 * **sponsors** - comma separated list of the sponsors for the episode. Same rules apply as guests, but the data files are in `data/sponsors`
 * **friendly** - this is the shortname of the episode. It should be the name of the file minus the .md extension. I tried to automate this without success so far. Sorry :(
+* **explicit** - this is a "true" or "false" (in quotes) value depending on if the episode has explicit language. If you are not sure, please set it to "true".
 * **episode** - a string for the episode number, i.e., `"42"`
 * **title** - the title of the episode. It's a string inside double quotes.
 * **images** - Array of images for social sharing. You should be able to just take the default and replace the slug with the "friendly" for that episode.
 * **author** - A string that contains either "Matt", "Bridget", or "Trevor"
 * **aliases** - Array of strings for redirects. The only one you should ever need is for the episode number, i.e., `aliases = ["/27"]`
 * **youtube** - the URL of the YouTube video, if there is one. If not, delete this line from the frontmatter of the episode.
+
+## Show Notes
+
+When writing show notes, here are a few things to consider:
+
+### Avoid using plain-text URL's
+Just pasting in a URL is much worse for us SEO-wise, and it's also less delightful for the reader. For example, `[Jill’s awesome talk about recruiting](http://www.thing.com/stuff)` is better than `http://www.thing.com/stuff`
+
+### Embedding tweets
+If you are referencing a tweet, please use the built-in shortcode to create a pretty embed for the tweet. You can do this by using the code `{{< tweet 666616452582129664 >}}` where the number is the ID of the tweet (which is the end of the tweeet's URL, for example, `https://twitter.com/spf13/status/666616452582129664`.
+
+The exception to this rule is if you suspect that the tweet might be deleted due to controversy; at that point you might consider a screenshot of the tweet. 
 
 ## Contributing Code
 
