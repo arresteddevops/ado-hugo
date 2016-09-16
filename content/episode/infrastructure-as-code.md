@@ -33,8 +33,8 @@ The Reddit post referenced in the episode:
 - Fat Scotch Ale - Silver City Brewing get it at SEA TAC! :D
 
 ### Eric:
-- [http://soundcloud.com/samuraimusicgroup/](Dark techno/dnb from Grey Area in the UK)
-- Ansible :) especially people using Ansible in conjunction with puppet and chef - @ me on twitter!
+- [Dark techno/dnb from Grey Area in the UK](http://soundcloud.com/samuraimusicgroup/)
+- [Ansible](https://www.ansible.com) :) especially people using Ansible in conjunction with puppet and chef - @ me on twitter!
 
 ### Robyn:
 - Eric: Lots of those peeps :) I am happy to help connect folks.
