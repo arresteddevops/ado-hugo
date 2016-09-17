@@ -16,3 +16,10 @@ tags = []
 title = "Open Source with Phil Dibowitz"
 
 +++
+
+* [Panel Discussion from ChefConf 2015: Have Your Bets on Open Paid Off?](https://www.youtube.com/watch?v=HZnbGNtcyMc)
+Moderated by Cade Metz, Wired Magazine
+Panelists: Mark Russinovich (Microsoft), Jeff Arcuri (Gap), Phil Dibowitz (Facebook)
+
+* Errata: "We're no longer an airline. We're a software company with wings." Matt's quote at 17:02 was from Alaska Airlines, not United Airlines.
+
