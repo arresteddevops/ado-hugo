@@ -16,5 +16,6 @@ sponsors = []
 tags = []
 title = "Scaling the Application Mountains"
 youtube = "Ae2usrwum2E"
+explicit = "yes"
 
 +++

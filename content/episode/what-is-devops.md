@@ -15,6 +15,7 @@ sponsors = []
 tags = []
 title = "What Is DevOps?"
 youtube = "88iUXN5cCas"
+explicit = "no"
 
 +++
 

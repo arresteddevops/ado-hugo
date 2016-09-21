@@ -15,6 +15,7 @@ images = ["https://www.arresteddevops.com/img/social/fb/chatops.png"]
 news_keywords = ["chatops", "devops","10thmagnitude"]
 author = "Matt"
 aliases = ["/42"]
+explicit = "yes"
 
 +++
 

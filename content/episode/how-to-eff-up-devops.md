@@ -14,6 +14,7 @@ podcast_bytes = "57069959"
 podcast_duration = "59:27"
 sponsors = ["pagerduty","10thmagnitude"]
 tags = []
+explicit = "yes"
 title = "how to eff up devops"
 youtube = "3Z-_aeby-3g"
 

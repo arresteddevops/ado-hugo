@@ -5,6 +5,7 @@ author = "Matt"
 categories = []
 date = "2015-12-31T13:18:51-08:00"
 episode = "53"
+explicit = "yes"
 friendly = "2015-in-review"
 guests = ["bkromhout","thess","mstratton"]
 images = ["https://www.arresteddevops.com/img/social/fb/2015-in-review.png"]

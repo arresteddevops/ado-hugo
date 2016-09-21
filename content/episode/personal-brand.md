@@ -15,6 +15,7 @@ sponsors = ["datadog", "10thmagnitude"]
 tags = []
 title = "Building Your Personal Brand with Andrea Javor and Michael Hedgpeth"
 youtube = "TO8xiV2pXdw"
+explicit = "yes"
 
 +++
 

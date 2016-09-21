@@ -16,6 +16,7 @@ sponsors = []
 tags = []
 title = "Continuous Integration – CI Told You So!"
 youtube = "v7iS906NPOw"
+explicit = "yes"
 
 +++
 <h2>Retro</h2>

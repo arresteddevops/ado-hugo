@@ -15,6 +15,7 @@ podcast_duration = "41:11"
 sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "eating sushi with andrew clay shafer"
+explicit = "yes"
 
 +++
 

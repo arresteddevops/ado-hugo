@@ -16,6 +16,7 @@ sponsors = []
 tags = []
 title = "the dev show"
 youtube = "25235P0tOJo"
+explicit = "yes"
 
 +++
 <h2>Retro</h2>

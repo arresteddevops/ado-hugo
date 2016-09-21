@@ -14,6 +14,7 @@ podcast_duration = "40:27"
 sponsors = ["datadog", "10thmagnitude"]
 tags = []
 title = "Open Your Stack with JJ Asghar"
+explicit = "yes"
 
 +++
 

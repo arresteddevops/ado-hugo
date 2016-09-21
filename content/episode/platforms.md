@@ -15,4 +15,6 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Platforms with Kelsey Hightower and Andrew Clay Shafer"
 youtube = "-1qhT4hcofY"
+explicit = "yes"
+
 +++

@@ -16,6 +16,7 @@ sponsors = []
 tags = []
 title = "managing your mental stack"
 youtube = "oE-9shO_-1o"
+explicit = "yes"
 
 +++
 * Matt's popular blog post - [Configuring SharePoint 2010 Search in a one-way trust scenario](http://www.mattstratton.com/tech-tips/configuring-sharepoint-2010-search-in-a-one-way-trust-scenario/)

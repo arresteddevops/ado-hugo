@@ -16,6 +16,7 @@ sponsors = ["victrops", "datadog","10thmagnitude"]
 tags = []
 title = "Docker! Docker! Docker!"
 youtube = "2AqE6KMCAK4"
+explicit = "yes"
 
 +++
 James Turnbull describes Docker as “a solution that is built by people to be usable by people, as opposed to some of the previous containerized solutions which were built by engineers to be usable by a very small subset of other engineers”.

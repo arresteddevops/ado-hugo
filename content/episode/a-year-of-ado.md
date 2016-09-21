@@ -5,6 +5,7 @@ author = "Matt"
 categories = []
 date = "2014-12-31T19:47:02-05:00"
 episode = "27"
+explicit = "yes"
 friendly = "a-year-of-ado"
 guests = []
 images = ["https://www.arresteddevops.com/img/social/fb/a-year-of-ado.png", ""]

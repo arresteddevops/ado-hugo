@@ -16,5 +16,5 @@ sponsors = ["pagerduty", "datadog", "codeship","10thmagnitude"]
 tags = []
 title = "continuous delivery"
 youtube = "AITXRdswz2A"
-
+explicit = "yes"
 +++

@@ -15,6 +15,7 @@ podcast_duration = "42:52"
 sponsors = ["10thmagnitude","datadog"]
 tags = []
 title = "Measurement and Sharing with Nicole Forsgren"
+explicit = "yes"
 
 +++
 

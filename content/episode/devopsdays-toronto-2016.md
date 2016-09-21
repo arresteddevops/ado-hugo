@@ -14,6 +14,7 @@ podcast_duration = "41:01"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "devopsdays Toronto 2016"
+explicit = "yes"
 
 +++
 
@@ -36,4 +37,3 @@ New York July 15
 * Singapore Aug 15, Detroit Aug 31
 * New cities: Porto Alegre in Brazil, Baltimore
 * We have t-shirts now! And mugs! They are available at store.arresteddevops.com! Only unisex for now, but more styles coming! Buy one today. Or not. We’re not the boss of you.
-

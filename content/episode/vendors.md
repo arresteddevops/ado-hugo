@@ -15,6 +15,7 @@ sponsors = ["datadog", "10thmagnitude"]
 tags = []
 title = "Vendors: Frenemies or Friends? with Michael Ducy of The Goat Farm"
 youtube = "3NBD0NQucv0"
+explicit = "yes"
 
 +++
 This was a special co-production with [The Goat Farm](http:///goatcan.com). Don't forget to subscribe to their Enterprise DevOps podcast on [iTunes](https://itunes.apple.com/us/podcast/the-goat-farm/id963113606) or [Stitcher](http://www.stitcher.com/podcast/the-goat-farm/the-goat-farm?refid=stpr)!

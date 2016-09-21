@@ -16,6 +16,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "Dr. BOFH, or How I Learned To Stop Worrying and Love the DevOps"
 youtube = "zMd8H7lDBcU"
+explicit = "yes"
 
 +++
 <h2>Checkouts</h2>

@@ -15,7 +15,7 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Who owns your availability? With Charity Majors and Pete Cheslock"
 youtube = "fZsYnGpIgIU"
-explicit = "true"
+explicit = "yes"
 
 +++
 

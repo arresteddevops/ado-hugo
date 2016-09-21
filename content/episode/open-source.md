@@ -14,6 +14,7 @@ podcast_duration = "32:55"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Open Source with Phil Dibowitz"
+explicit = "yes"
 
 +++
 
@@ -22,4 +23,3 @@ Moderated by Cade Metz, Wired Magazine
 Panelists: Mark Russinovich (Microsoft), Jeff Arcuri (Gap), Phil Dibowitz (Facebook)
 
 * Errata: "We're no longer an airline. We're a software company with wings." Matt's quote at 17:02 was from Alaska Airlines, not United Airlines.
-

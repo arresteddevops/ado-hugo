@@ -16,6 +16,7 @@ sponsors = ["victorops","datadog","10thmagnitude"]
 tags = []
 title = "dev to ops"
 youtube = "weF8jrcSU7s"
+explicit = "yes"
 
 +++
 [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)

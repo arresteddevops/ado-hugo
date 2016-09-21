@@ -16,6 +16,7 @@ sponsors = ["victorops","datadog","10thmagnitude"]
 tags = []
 title = "Creating DevOps Communities and Events with Andy Burgin, Dustin Collins, and Nathen Harvey"
 youtube = "rQlZaCiLvSc"
+explicit = "yes"
 
 +++
 

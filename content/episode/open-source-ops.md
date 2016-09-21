@@ -15,6 +15,7 @@ sponsors = ["10thmagnitude", "datadog", "hired"]
 tags = []
 title = "Operationalizing Open Source with Michael Hedgpeth and Doug Ireton"
 youtube = "UGUg6F4gCuM"
+explicit = "yes"
 
 +++
 
@@ -65,4 +66,3 @@ Also now works on O'Reilly [Security](http://conferences.oreilly.com/security) a
 
 * Bridget - Canoeing with no phone or internet, and then Velocity NY/devopsdays NY.
 * Matt - DevOpsDays Chicago Aug 30-31
-

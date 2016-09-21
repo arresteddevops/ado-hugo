@@ -16,6 +16,7 @@ sponsors = ["victorops","redgate","10thmagnitude"]
 tags = []
 title = "DevOps in the Enterprise"
 youtube = "NbtTG3K0YrM"
+explicit = "yes"
 
 +++
 

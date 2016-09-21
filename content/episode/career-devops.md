@@ -16,6 +16,7 @@ podcast_duration = "1:06:52"
 sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 youtube = "FeKZIsrj4EM"
+explicit = "yes"
 
 +++
 

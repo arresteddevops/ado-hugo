@@ -16,6 +16,7 @@ sponsors = ["pagerduty","datadog","10thmagnitude"]
 tags = []
 title = "starting a new devops job"
 youtube = "5OSJ_X3FeAA"
+explicit = "yes"
 
 +++
 

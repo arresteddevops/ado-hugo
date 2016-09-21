@@ -15,6 +15,7 @@ podcast_duration = "49:21"
 sponsors = ["victorops","10thmagnitude"]
 tags = []
 title = "managing systems in the cloud"
+explicit = "yes"
 youtube = "_SddIa6iej0"
 
 +++

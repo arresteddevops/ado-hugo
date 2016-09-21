@@ -16,5 +16,6 @@ sponsors = ["victorops", "stackexchange","10thmagnitude"]
 tags = []
 title = "DevOps and Marketing"
 youtube = "wwt03VMosIA"
+explicit = "yes"
 
 +++

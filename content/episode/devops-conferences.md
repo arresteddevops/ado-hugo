@@ -16,6 +16,7 @@ sponsors = ["victorops", "datadog","10thmagnitude"]
 tags = []
 title = "Conference Love"
 youtube = "dSU0j8ORafw"
+explicit = "yes"
 
 +++
 
