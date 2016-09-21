@@ -6,7 +6,6 @@
 {{ partial "newrelic.html" . }}
 {{ partial "head/seo.html" . }}
 {{ .Hugo.Generator }}
-<base href="">
 <title>
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ if eq $url "/" }}
