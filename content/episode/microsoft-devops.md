@@ -16,6 +16,7 @@ sponsors = ["pagerduty", "datadog","10thmagnitude"]
 tags = []
 title = "DevOps in a Microsoft World with Jessica DeVita and Jeffrey Snover"
 youtube = "9qfX_K-5gTk"
+explicit = "yes"
 
 +++
 #### What are some of the challenges traditional Microsoft IT Pro’s deal with moving to a more automated DevOps pattern?

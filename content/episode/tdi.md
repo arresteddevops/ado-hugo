@@ -16,6 +16,7 @@ podcast_duration = "58:23"
 sponsors = ["datadog","10thmagnitude"]
 tags = []
 title = "Test Driven Infrastructure with Arthur Maltson and Michael Goetz"
+explicit = "yes"
 
 +++
 

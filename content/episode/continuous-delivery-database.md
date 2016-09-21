@@ -16,5 +16,6 @@ sponsors = ["pagerduty", "redgate","10thmagnitude"]
 tags = []
 title = "The Database: The Elephant in the Room"
 youtube = "QLKx3M06Tm8"
+explicit = "yes"
 
 +++

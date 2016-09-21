@@ -16,6 +16,7 @@ sponsors = ["victrops", "datadog","10thmagnitude"]
 tags = []
 title = "Hiring in a Post-DevOps World"
 youtube = "3AqNTU93gME"
+explicit = "yes"
 
 +++
 

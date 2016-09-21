@@ -16,6 +16,7 @@ sponsors = ["10thmagnitude","datadog"]
 tags = []
 title = "DevOpsDays 2015 Year In Review With John Willis"
 youtube = "TJrqh6Z9ghw"
+explicit = "yes"
 
 +++
 

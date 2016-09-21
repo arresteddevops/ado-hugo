@@ -16,6 +16,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "The Sysadmin Show"
 youtube = "KwdRZOcSEWk"
+explicit = "yes"
 
 +++
 What exactly does it mean to be a sysadmin? How do you define “sysadmin”?

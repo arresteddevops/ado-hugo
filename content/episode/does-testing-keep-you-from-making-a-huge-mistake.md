@@ -16,6 +16,7 @@ sponsors = []
 tags = []
 title = "Does Testing Keep you from making a huge mistake?"
 youtube = "uVge4fkjF8w"
+explicit = "yes"
 
 +++
 Things get off to a great start during the retro, where Trevor complains about destroying his USB 3.0 drivers due to a Win 8.1 upgrade and Matt turns into a Cylon.

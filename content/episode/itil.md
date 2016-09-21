@@ -16,6 +16,7 @@ sponsors = ["victorops", "datadog","10thmagnitude"]
 tags = []
 title = "ITIL Eye for the DevOps Folks with Steven Boyd"
 youtube = "SuaZcx4BuVA"
+explicit = "yes"
 
 +++
 

@@ -16,6 +16,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "software deployment"
 youtube = "qFLkBEGnOfk"
+explicit = "yes"
 
 +++
 

@@ -15,6 +15,7 @@ podcast_duration = "42:46"
 sponsors = ["datadog", "10thmagnitude"]
 tags = []
 title = "Switching Teams: From Linux to Windows and Windows to Linux"
+explicit = "yes"
 
 +++
 

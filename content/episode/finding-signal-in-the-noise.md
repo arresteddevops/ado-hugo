@@ -15,7 +15,7 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Finding Signal in the Noise, with Aneel Lakhani and Jason Dixon"
 youtube = "6YYVayCRfgI"
-
+explicit = "yes"
 +++
 
 * Jason's Graphite book: [Monitoring with Graphite: Tracking Dynamic Host and Application Metrics at Scale](http://shop.oreilly.com/product/0636920035794.do)
@@ -44,5 +44,3 @@ For any [devopsdays](http://devopsdays.org), try the code ADO2016! It should get
 
 
 We have t-shirts now! And mugs! They are available at store.arresteddevops.com! Only unisex for now, but more styles coming! Buy one today. Or not. We’re not the boss of you.
-
-

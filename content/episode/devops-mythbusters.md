@@ -16,6 +16,7 @@ sponsors = []
 tags = []
 title = "DevOps mythbusters"
 youtube = "haufNRriE70"
+explicit = "no"
 
 +++
 <h3>Myths!</h3>

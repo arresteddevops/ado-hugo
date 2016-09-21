@@ -15,6 +15,7 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Application Configuration with Tim Gross and Adam Jacob"
 youtube = "Nbu8bqJFM1E"
+explicit = "yes"
 
 +++
 
@@ -60,4 +61,3 @@ For any [devopsdays](http://devopsdays.org), try the code ADO2016! It should get
 
 * Bridget - SpringOne Platform in Vegas Aug 1-4
 * Matt - in Chicago. I am boring now. But you should all come see me at DevOpsDays Chicago Aug 30-31...a few tickets left, ADO2016. Plus now with extra Adam!
-

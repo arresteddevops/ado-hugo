@@ -16,6 +16,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "Making The DevOps Transition"
 youtube = "QjKbSPCyKUk"
+explicit = "yes"
 
 +++
 <h3>Agenda</h3>

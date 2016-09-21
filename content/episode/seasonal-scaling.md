@@ -16,6 +16,7 @@ sponsors = ["datadog","10thmagnitude"]
 tags = []
 title = "Tis The Season...For Scaling! with Rob Cummings and Matt Curry"
 youtube = "c4uiiSj2SPU"
+explicit = "yes"
 
 +++
 

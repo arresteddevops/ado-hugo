@@ -15,6 +15,7 @@ sponsors = ["10thmagnitude", "hired"]
 tags = []
 title = "CareerOps with Jill Jubinski and Peter Burkholder"
 youtube = "iZe01eSgba8"
+explicit = "yes"
 
 +++
 

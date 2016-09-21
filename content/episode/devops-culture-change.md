@@ -15,6 +15,7 @@ podcast_duration = "1:04:08"
 sponsors = ["pagerduty", "datadog","10thmagnitude"]
 tags = []
 title = "DevOps Culture Change with Bill Joy"
+explicit = "yes"
 
 +++
 

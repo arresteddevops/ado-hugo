@@ -15,7 +15,7 @@ sponsors = []
 tags = []
 title = "ChefConf 2016 with Jon Cowie, Fletcher Nichol, and Annie Hedgpeth"
 youtube = "U7i4JE4Zk7w"
-
+explicit = "yes"
 +++
 Awesome videos from ChefConf:
 

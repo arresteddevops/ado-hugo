@@ -16,5 +16,6 @@ sponsors = []
 tags = []
 title = "Fast and Furious: Configuration Drift"
 youtube = "btr9WWi8hsc"
+explicit = "yes"
 
 +++

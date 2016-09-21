@@ -16,6 +16,7 @@ sponsors = ["trueability","10thmagnitude"]
 tags = []
 title = "Something About Security With Ben Hughes"
 youtube = "EJeccu3Lcis"
+explicit = "yes"
 
 +++
 

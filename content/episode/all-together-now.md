@@ -16,6 +16,7 @@ sponsors = []
 tags = []
 title = "all together now"
 youtube = "lDf2s44f7W0"
+explicit = "yes"
 
 +++
 

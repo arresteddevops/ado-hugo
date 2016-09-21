@@ -15,6 +15,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "Podcast Me Maybe with Kyle Kingsbury"
 youtube = "cSUd0sQEWNU"
+explicit = "yes"
 
 +++
 

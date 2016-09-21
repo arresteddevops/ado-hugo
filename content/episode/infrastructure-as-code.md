@@ -16,6 +16,7 @@ sponsors = ["victorops", "datadog","10thmagnitude"]
 tags = []
 title = "infrastructure as code with Joshua Timberman, Eric Sorenson, and Robyn Bergeron"
 youtube = "7voRnzzUZb4"
+explicit = "yes"
 
 +++
 

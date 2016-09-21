@@ -15,6 +15,7 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Containers and Security with Ben Hughes and Jessie Frazelle"
 youtube = "qPs5U5hdciM"
+explicit = "yes"
 
 +++
 
@@ -59,4 +60,3 @@ Jessie:
 Bridget:
 
 * Having a lot of fun with terraform lately - be sure to read [the great posts Charity Majors wrote about it](https://charity.wtf/tag/terraform/)
-

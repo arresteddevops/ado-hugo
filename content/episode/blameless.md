@@ -16,6 +16,7 @@ sponsors = ["pagerduty", "redgate","10thmagnitude"]
 tags = []
 title = "Incidents and Accidents: Examining Failure Without Blame"
 youtube = "mD6zBfAvC-A"
+explicit = "yes"
 
 +++
 Dave is at Next Big Sound, which does analytics for creative industries, and he’s seen a few orgs handle failure well, and a lot of organizations handle it poorly. He got interested in blameless postmortems and human factors in discussions with John Allspaw of Etsy, and Allspaw influenced him to read the work of David Wood and Sidney Dekker on human factors. He is writing a book for O’Reilly called <a href="http://shop.oreilly.com/product/0636920033981.do">Being Blameless</a>.

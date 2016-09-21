@@ -15,6 +15,7 @@ sponsors = ["victorops","10thmagnitude"]
 tags = []
 title = "Building An Ops Team with Charity Majors, Patrick McDonnell, and MCR"
 youtube = "ujBDaN1xIsE"
+explicit = "yes"
 +++
 
 **Charity Majors (Parse/Facebook)** is an “Accidental Computerer.” She was the first infrastructure hire at Parse, which was acquired by Facebook in April 2013. Charity handles all of the backend operations and DBA work, and manages a team of 7 engineers.

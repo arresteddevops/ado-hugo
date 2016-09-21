@@ -15,5 +15,6 @@ podcast_duration = "48:14"
 sponsors = []
 tags = []
 title = "DevOpsDays Minneapolis"
+explicit = "yes"
 
 +++

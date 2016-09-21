@@ -16,6 +16,7 @@ sponsors = ["victorops","10thmagnitude"]
 tags = []
 title = "Disasters!"
 youtube = "E_DdM-pGHb8"
+explicit = "yes"
 
 +++
 

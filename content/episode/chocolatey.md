@@ -14,6 +14,7 @@ podcast_duration = "53:44"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Chocolatey Goodness With Rob Reynolds"
+explicit = "yes"
 +++
 * [Chocolatey.org](https://chocolatey.org)
 * [Chocolatey Mailing List](https://groups.google.com/forum/#!forum/chocolatey)

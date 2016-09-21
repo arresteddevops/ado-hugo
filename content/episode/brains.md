@@ -16,5 +16,6 @@ sponsors = ["pagerduty", "datadog","10thmagnitude"]
 tags = []
 title = "Cognitive Neuroscience with Courtney Nash & Lindsay Holmwood"
 youtube = "cTN62ERlHNY"
+explicit = "yes"
 
 +++

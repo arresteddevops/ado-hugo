@@ -15,6 +15,7 @@ podcast_duration = "56:44"
 sponsors = ["victorops", "datadog", "10thmagnitude"]
 tags = []
 title = "What Is New At Puppet? with Eric Sorenson"
+explicit = "yes"
 
 +++
 

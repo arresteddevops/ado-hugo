@@ -15,5 +15,6 @@ podcast_duration = "39:13"
 sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "devopsdays chicago"
+explicit = "yes"
 
 +++

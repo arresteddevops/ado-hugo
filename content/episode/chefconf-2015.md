@@ -15,5 +15,6 @@ podcast_duration = "43:28"
 sponsors = ["victorops", "datadog","10thmagnitude"]
 tags = []
 title = "What's New At Chef?"
+explicit = "yes"
 
 +++

@@ -16,6 +16,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "Help! I Need Somebody"
 youtube = "AGpQd_ub36Q"
+explicit = "yes"
 
 +++
 

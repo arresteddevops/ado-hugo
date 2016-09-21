@@ -15,6 +15,7 @@ sponsors = ["10thmagnitude", "datadog"]
 tags = []
 title = "Speaking at Conferences With Katherine Daniels"
 youtube = "R4Cy86jcoSw"
+explicit = "yes"
 
 +++
 

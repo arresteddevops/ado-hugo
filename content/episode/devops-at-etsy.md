@@ -16,6 +16,7 @@ sponsors = ["pagerduty","10thmagnitude"]
 tags = []
 title = "DevOps at Etsy: Not a Unicorn, Just a Sparkly Horse"
 youtube = "IDmqD-xuzOI"
+explicit = "yes"
 
 +++
 

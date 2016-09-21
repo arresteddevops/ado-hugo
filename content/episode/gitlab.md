@@ -14,6 +14,7 @@ podcast_duration = "59:16"
 sponsors = ["datadog", "10thmagnitude"]
 tags = []
 title = "Getting Down With GitLab with Job van der Voort"
+explicit = "yes"
 
 +++
 
