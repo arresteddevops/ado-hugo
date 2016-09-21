@@ -30,7 +30,7 @@ When you create a new episode, Hugo will populate the frontmatter of the .md fil
 * **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"jhand", "srosenbaum"`). The names should line up to .yml files in `data/guests`
 * **sponsors** - comma separated list of the sponsors for the episode. Same rules apply as guests, but the data files are in `data/sponsors`
 * **friendly** - this is the shortname of the episode. It should be the name of the file minus the .md extension. I tried to automate this without success so far. Sorry :(
-* **explicit** - this is a "true" or "false" (in quotes) value depending on if the episode has explicit language. If you are not sure, please set it to "true".
+* **explicit** - this is a "yes" or "no" (in quotes) value depending on if the episode has explicit language. If you are not sure, please set it to "yes".
 * **episode** - a string for the episode number, i.e., `"42"`
 * **title** - the title of the episode. It's a string inside double quotes.
 * **images** - Array of images for social sharing. You should be able to just take the default and replace the slug with the "friendly" for that episode.
