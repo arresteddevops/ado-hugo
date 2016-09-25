@@ -13,7 +13,6 @@ Here are the steps to follow to get going as an ADO content contributor (or heck
 3. If you want to fire up a local copy to see your changes as you go, enter this command `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running. The -w watches for any changes and rebuilds on the fly. You have to reset the baseUrl or it will try to go to new.arresteddevops.com
 5. If you want to make a new episode, type in `hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
-6. When you push to master on github, wercker will automatically build the site and publish it to http://new.arresteddevops.com
 
 ## Episodes
 
