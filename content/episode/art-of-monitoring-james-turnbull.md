@@ -1,6 +1,6 @@
 +++
 Description = "Friend of the podcast James Turbull joins us to talk about his new book, The Art of Monitoring...and a little bit about this whole functional programming thing"
-aliases = ["/74"]
+aliases = ["/74,"/artofmonitoring"]
 author = "Matt"
 categories = []
 date = "2016-10-01T20:55:48-05:00"
@@ -39,6 +39,11 @@ Also mentioned:
 
 
 ## Community & Event Stuff
+
+Where we’ll be for the upcoming fortnight
+- Matt is [getting married](https://www.bourbonwedding.com/) at the Jim Beam distillery on Saturday
+- Bridget will miss the bourbon wedding as she’s heading to Joe’s family reunion followed by [GOTO Copenhagen](https://gotocon.com/cph-2016/).
+
 If you have an upcoming conference you would like to see promoted on ADO, you can fill out the handy form at [arresteddevops.com/conf](https://arresteddevops.com/conf)
 
 ### Upcoming conferences
@@ -47,7 +52,6 @@ For any [devopsdays](http://devopsdays.org), try the code **ADO2016**! It should
 Also now works on O'Reilly [Security](http://conferences.oreilly.com/security) conference.
 
 For more DevOps awesomeness, check out the Chef Community Summit, October 26th and 27th in Seattle, WA. This Open Space event provides a great opportunity to connect with the DevOps Community and Chef Engineers over two days of engaging sessions and hallway discussions. Bring your ideas, passion and excitement for Chef and DevOps to this highly interactive event. Go to [summit.chef.io](http://summit.chef.io) to register for this awesome event and use the code **ARRESTEDDEVOPS** to get 10% off your ticket!
-
 
 ### Open CFPs
 
