@@ -1,6 +1,6 @@
 +++
 Description = "Friend of the podcast James Turbull joins us to talk about his new book, The Art of Monitoring...and a little bit about this whole functional programming thing"
-aliases = ["/74,"/artofmonitoring"]
+aliases = ["/74","/artofmonitoring"]
 author = "Matt"
 categories = []
 date = "2016-10-01T20:55:48-05:00"
