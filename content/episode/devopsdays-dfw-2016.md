@@ -13,7 +13,7 @@ podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arrested
 podcast_duration = "55:52"
 sponsors = ["10thmagnitude", "victorops"]
 tags = []
-title = "DevOpsDays DFW 2016
+title = "DevOpsDays DFW 2016"
 explicit = "yes"
 
 +++
