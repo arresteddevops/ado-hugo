@@ -1,5 +1,5 @@
 +++
-Description = "Friend of the podcast James Turbull joins us to talk about his new book, The Art of Monitoring...and a little bit about this whole functional programming thing"
+Description = "Friend of the podcast James Turnbull joins us to talk about his new book, The Art of Monitoring...and a little bit about this whole functional programming thing"
 aliases = ["/74","/artofmonitoring"]
 author = "Matt"
 categories = []
