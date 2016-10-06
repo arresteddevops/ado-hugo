@@ -3,7 +3,7 @@ Categories = []
 Description = "The Supporters of Arrested DevOps"
 Tags = []
 date = "2015-09-17T19:20:38-05:00"
-title = "Podcasts"
+title = "Thanks, Pals!"
 
 +++
 
