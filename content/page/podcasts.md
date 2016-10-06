@@ -15,5 +15,6 @@ This is a list of podcasts that we recommend. Click the icons next to each one t
 - {{< podcast title="DevOps Cafe" url="http://devopscafe.org/" rss="http://devopscafe.libsyn.com/rss" android="http://subscribeonandroid.com/devopscafe.libsyn.com/rss" itunes="http://itunes.apple.com/us/podcast/devops-cafe-podcast/id371931111" >}}
 - {{< podcast title="Dockercast" url="http://devopscafe.org/" rss="http://feeds.soundcloud.com/users/soundcloud:users:237456957/sounds.rss" android="http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:237456957/sounds.rss" itunes="https://itunes.apple.com/us/podcast/dockercast/id1141133179?mt=2" >}}
 - {{< podcast title="Kubecast" url="https://www.kubecast.com/" rss="https://www.spreaker.com/show/1854371/episodes/feed" android="http://subscribeonandroid.com/www.spreaker.com/show/1854371/episodes/feed" itunes="https://itunes.apple.com/gb/podcast/kubecast/id1130787164" >}}
+- {{< podcast title="Greater Than Code" url="http://www.greaterthancode.com/" rss="https://www.greaterthancode.com/feed/podcast" android="http://subscribeonandroid.com/www.greaterthancode.com/feed/podcast" >}}
 
 > If you know of any other awesome DevOps podcasts you think should be included here, please [submit a pull request](https://github.com/arresteddevops/ado-hugo/blob/master/content/page/podcasts.md)!
