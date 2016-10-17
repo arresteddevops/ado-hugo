@@ -89,7 +89,7 @@ Bridget's money-back guarantee: "If you're less BOFH-y, I promise you'll be happ
 &nbsp;
 <h3>Kevin</h3>
 <ul>
-	<li>[Stache](http://www.trekbikes.com/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/stache/stache-9-8/p/2025000-2017/) - new Trek mountain bike</a></li>
+	<li>[Stache](http://www.trekbikes.com/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/stache/stache-9-8/p/2025000-2017/) - new Trek mountain bike</li>
 </ul>
 &nbsp;
 <h3>Yvo</h3>
