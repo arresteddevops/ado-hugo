@@ -18,6 +18,7 @@ title = "What's New At Chef?"
 explicit = "yes"
 
 +++
+
 [Seth Falcon](https://twitter.com/sfalcon) is the Engineering General Manager for Chef Delivery.
 
 [Julian Dunn](https://twitter.com/julian_dunn) is the Product Manager for Chef Analytics.
