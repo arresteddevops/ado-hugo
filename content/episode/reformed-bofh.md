@@ -79,8 +79,11 @@ Bridget's money-back guarantee: "If you're less BOFH-y, I promise you'll be happ
 ### Chris
 * [Liz Keogh - Perverse Incentives](http://www.infoq.com/presentations/Learning-and-Perverse-Incentives)
 * [GOTO Conference Chicago 2015](https://gotocon.com/chicago-2015)
+
     [Closing Keynote by Anita Sengupta](https://www.youtube.com/watch?v=BT6nwP1CofU) from NASA JPL was awesome
+
     [James Lewis - "How I finally stopped worrying and learnt to love Conway’s Law"](https://www.youtube.com/watch?v=l1tyfb5we7I)
+
 * [DRW is hiring!](http://drw.com/careers/)
 
 ### Kevin
