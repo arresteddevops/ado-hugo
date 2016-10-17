@@ -19,6 +19,7 @@ youtube = "zMd8H7lDBcU"
 explicit = "yes"
 
 +++
+
 [Chris Read](https://twitter.com/cread), [Kevin Hubbard](https://twitter.com/kj_hubbard), and [Yvo van Doorn](https://twitter.com/yvov) are reformed BOFH's (Basterd Operator's From Hell).
 
 Chris is back on the podcast again, this time talking about his expereince as a SysAdmin in past lives.
@@ -74,37 +75,24 @@ We've done a great job of bringing in the greater teams of operations and develo
 Bridget's money-back guarantee: "If you're less BOFH-y, I promise you'll be happier, or else we'll pay for your therapy."
 
 
-<h2>Checkouts</h2>
-<h3>Chris</h3>
-<ul>
-	<li>[Liz Keogh - Perverse Incentives](http://www.infoq.com/presentations/Learning-and-Perverse-Incentives)</li>
-	<li>[GOTO Conference Chicago 2015](https://gotocon.com/chicago-2015)
-<ul>
-	<li>[Closing Keynote by Anita Sengupta](https://www.youtube.com/watch?v=BT6nwP1CofU) from NASA JPL was awesome</li>
-	<li>[James Lewis - "How I finally stopped worrying and learnt to love Conway’s Law"](https://www.youtube.com/watch?v=l1tyfb5we7I)</li>
-</ul>
-</li>
-	<li>[DRW is hiring!](http://drw.com/careers/)</li>
-</ul>
-&nbsp;
-<h3>Kevin</h3>
-<ul>
-	<li>[Stache](http://www.trekbikes.com/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/stache/stache-9-8/p/2025000-2017/) - new Trek mountain bike</li>
-</ul>
-&nbsp;
-<h3>Yvo</h3>
-<ul>
-	<li>[Hop Venom Double IPA - Boneyard](http://www.beeradvocate.com/beer/profile/23066/72750/)</a></li>
-</ul>
-&nbsp;
-<h3>Bridget</h3>
-<ul>
-	<li>[Organic heirloom seeds](http://www.seedsavers.org)</li>
-	<li>[<i>Common Ground and Coordination in Joint Activity</i>](http://csel.eng.ohio-state.edu/woods/distributed/CG%20final.pdf) by David Woods et al</li>
-</ul>
-&nbsp;
-<h3>Matt</h3>
-<ul>
-	<li>[<i>Effective DevOps</i>](http://shop.oreilly.com/product/0636920039846.do) by Jennifer Davis and Katherine Daniels</li>
-	<li>[asciinema](https://asciinema.org/)</li>
-</ul>
+## Checkouts
+### Chris
+* [Liz Keogh - Perverse Incentives](http://www.infoq.com/presentations/Learning-and-Perverse-Incentives)
+* [GOTO Conference Chicago 2015](https://gotocon.com/chicago-2015)
+    [Closing Keynote by Anita Sengupta](https://www.youtube.com/watch?v=BT6nwP1CofU) from NASA JPL was awesome
+    [James Lewis - "How I finally stopped worrying and learnt to love Conway’s Law"](https://www.youtube.com/watch?v=l1tyfb5we7I)
+* [DRW is hiring!](http://drw.com/careers/)
+
+### Kevin
+* [Stache](http://www.trekbikes.com/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/stache/stache-9-8/p/2025000-2017/) - new Trek mountain bike
+
+### Yvo
+* [Hop Venom Double IPA - Boneyard](http://www.beeradvocate.com/beer/profile/23066/72750/)</a
+
+### Bridget
+* [Organic heirloom seeds](http://www.seedsavers.org)
+* [_Common Ground and Coordination in Joint Activity_](http://csel.eng.ohio-state.edu/woods/distributed/CG%20final.pdf) by David Woods et al
+
+### Matt
+* [_Effective DevOps_](http://shop.oreilly.com/product/0636920039846.do) by Jennifer Davis and Katherine Daniels
+* [asciinema](https://asciinema.org/)
