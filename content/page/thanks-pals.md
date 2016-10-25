@@ -11,5 +11,6 @@ These folks help support Arrested DevOps via Patreon.
 
 - Reuben Garrett
 - [Xander Grzywinski](https://twitter.com/XanderGrzy)
+- Derek Morr
 
 Want to see your name on this list? [Become a Patreon](https://www.patreon.com/arresteddevops) of ADO!
