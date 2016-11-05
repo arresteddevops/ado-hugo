@@ -46,3 +46,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/config.codekit3
