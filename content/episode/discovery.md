@@ -15,6 +15,7 @@ podcast_duration = ""
 sponsors = ["10thmagnitude", "victorops", "hired"]
 tags = []
 title = "Discovery with Julia Evans"
+youtube = "d1P7HGo4fg4"
 
 +++
 
