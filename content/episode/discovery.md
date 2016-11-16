@@ -1,5 +1,5 @@
 +++
-Description = "Bridget chats with Julia Evans about learning, service discovery, CAP theorem, distributed systems, remote work, zines, and more!"
+Description = "Bridget chats with Julia Evans (Stripe) about learning, service discovery, CAP theorem, distributed systems, remote work, zines, and more!"
 aliases = ["/77"]
 author = "Bridget"
 categories = []
