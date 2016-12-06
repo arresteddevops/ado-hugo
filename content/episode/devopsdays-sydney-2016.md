@@ -18,8 +18,7 @@ title = "devopsdays Sydney 2016"
 
 +++
 
-Bridget and special guest host Matt Ray of Software Defined Talk chat with Matthew Jones, Lindsay Holmwood, Mi
-ck Pollard, and Katie McLaughlin at devopsdays Sydney 2016.
+Bridget and special guest host Matt Ray of Software Defined Talk chat with Matthew Jones, Lindsay Holmwood, Mick Pollard, and Katie McLaughlin at devopsdays Sydney 2016.
 
 ## Community & Event Stuff
 
