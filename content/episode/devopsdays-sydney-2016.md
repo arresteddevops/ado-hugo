@@ -12,7 +12,7 @@ images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-sydney-2016.p
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode078.mp3"
 podcast_duration = ""
-sponsors = ["10thmagnitude", "victorops", "hired"]
+sponsors = ["10thmagnitude", "datadog", "victorops"]
 tags = []
 title = "devopsdays Sydney 2016"
 
