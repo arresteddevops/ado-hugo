@@ -17,7 +17,7 @@ title = "devopsdays Cuba 2016"
 
 +++
 
-Bridget and Joe discuss their experiences at devopsdays Cuba and share audio from the closing session. 
+Bridget and [Joe](https://twitter.com/joelaha) discuss their experiences at devopsdays Cuba and share audio from the closing session. 
 
 ### Dramatis Personae
 - Rudy Gevaert [@rgevaert](https://twitter.com/rgevaert)
