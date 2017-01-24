@@ -23,8 +23,8 @@ We will mention your event on episodes leading up to it, along with the URL for 
 *What do I need to provide to ADO in exchange for media sponsorship?*<br />
 
 1. Display the ADO logo on your event's page as a "media sponsor" along with whatever else you do with media sponsors on marketing materials for your event.
-2. Provide ADO with a discount code for your event. The amount of discount must be 20%. Please also use the discount code "ADO2016", as it gets confusing for our listeners if there are multiple codes across events.
-3. Provide ADO with at least one free ticket to your event that we will give away via a contest of some kind to a listener.
+2. Provide ADO with a discount code for your event. The amount of discount must be 20%. Please also use the discount code "ADO2017", as it gets confusing for our listeners if there are multiple codes across events.
+3. *OPTIONAL* Provide ADO with at least one free ticket to your event that we will give away via a contest of some kind to a listener.
 
 If you want to set this up, send us an email at shows [at] arresteddevops [dot] com.
 
