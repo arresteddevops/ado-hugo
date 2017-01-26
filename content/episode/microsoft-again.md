@@ -39,7 +39,8 @@ author = "Matt"
 - [neo4j](https://www.neo4j.com) Graph database- Works on Windows too!  
 [Free OReilly ebook on graphdatabases](http://graphdatabases.com/)
 - [Flow Perth](http://www.flowperth.org) create unique events in the technology community bringing skilled volunteers and not-for-profits together
-Chris
+
+### Chris
 - I’m a big fan of [GitKraken](https://www.gitkraken.com/). I can actually do some useful things with Git without spending a couple hours reading man pages.
 - [termeter](https://github.com/atsaki/termeter) - A Go app for “rendering” ascii graphs in the console.
 
