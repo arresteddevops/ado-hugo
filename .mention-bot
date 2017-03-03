@@ -15,14 +15,14 @@
       "skipTeamPrs": false
      }
   ],
-  "findPotentialReviewers": false,
+  "findPotentialReviewers": true,
   "userBlacklist": [], 
   "userBlacklistForPR": [],
   "requiredOrgs": ["arresteddevops"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
   "assignToReviewer": true,
-  "createReviewRequest": false, 
+  "createReviewRequest": true, 
   "createComment": true, 
   "skipTitle": "", 
   "skipCollaboratorPR": false 
