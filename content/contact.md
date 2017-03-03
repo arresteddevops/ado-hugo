@@ -10,6 +10,8 @@ date = "2015-09-01"
 
 <p>Or use this handy form!</p>
 
+stuff and junk!
+
 <p><form accept-charset="UTF-8" action="https://formkeep.com/f/fc571852cb92" method="POST" id="contactForm">
 <input type="email" name="email" placeholder="Your Email" required><br />
 <input type="text" name="name" placeholder="Your Name" required><br />
