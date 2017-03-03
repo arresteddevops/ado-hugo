@@ -21,8 +21,8 @@
   "requiredOrgs": ["arresteddevops"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
-  "assignToReviewer": false,
-  "createReviewRequest": true, 
+  "assignToReviewer": true,
+  "createReviewRequest": false, 
   "createComment": true, 
   "skipTitle": "", 
   "skipCollaboratorPR": false 
