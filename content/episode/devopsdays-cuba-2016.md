@@ -12,7 +12,7 @@ images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-cuba-2016.png
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode080.mp3"
 podcast_duration = "17:45"
-tags = []
+tags = ["me"]
 title = "devopsdays Cuba 2016"
 
 +++
