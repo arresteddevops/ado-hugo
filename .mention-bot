@@ -18,11 +18,12 @@
   "findPotentialReviewers": false,
   "userBlacklist": [], 
   "userBlacklistForPR": [],
+  "actions": ["opened", "assigned"],
   "requiredOrgs": ["arresteddevops"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
   "assignToReviewer": true,
-  "createReviewRequest": false, 
+  "createReviewRequest": true, 
   "createComment": true, 
   "skipTitle": "", 
   "skipCollaboratorPR": false 
