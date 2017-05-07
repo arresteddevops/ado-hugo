@@ -18,8 +18,8 @@ Here are the steps to follow to get going as an ADO content contributor (or heck
 
 Every episode needs a few images. You need the following
 
-1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. As of right now, these must be named EXACTLY the same as the episode file name (i.e., `devops-at-etsy.png`). They will live in the `content/episode/img` folder.
-2. **Episode banner** - These need to be PNG, 800px by 420 px. The need to be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in the `content/episode/img` folder.
+1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. As of right now, these must be named EXACTLY the same as the episode file name (i.e., `devops-at-etsy.png`). They will live in the `static/episode/img` folder.
+2. **Episode banner** - These need to be PNG, 800px by 420 px. The need to be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in the `static/episode/img` folder.
 3. **Facebook sharing image** - These need to be PNG, 1200px by 630 px, and named after the episode (i.e., `devops-at-etsy.png`). They are stored in the `static/img/social/fb` folder.
 4. **Guest image(s)** - These need to be PNG, 500px x 500px, and named after the guest data file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder
 
@@ -47,7 +47,7 @@ Just pasting in a URL is much worse for us SEO-wise, and it's also less delightf
 ### Embedding tweets
 If you are referencing a tweet, please use the built-in shortcode to create a pretty embed for the tweet. You can do this by using the code `{{< tweet 666616452582129664 >}}` where the number is the ID of the tweet (which is the end of the tweeet's URL, for example, `https://twitter.com/spf13/status/666616452582129664`.
 
-The exception to this rule is if you suspect that the tweet might be deleted due to controversy; at that point you might consider a screenshot of the tweet. 
+The exception to this rule is if you suspect that the tweet might be deleted due to controversy; at that point you might consider a screenshot of the tweet.
 
 ## Contributing Code
 

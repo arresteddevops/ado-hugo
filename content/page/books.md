@@ -16,4 +16,4 @@ This is a list of DevOps-related books that we think are pretty cool.
 - {{< booklink url="https://www.amazon.com/Art-Monitoring-James-Turnbull-ebook/dp/B01GU387MS/" title="The Art Of Monitoring" author="James Turnbull" >}}
 - {{< booklink url="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/" title="Clean Code: A Handbook of Agile Software Craftsmanship" author="Robert C. Martin" >}}
 
-> If you know of any other awesome DevOps podcasts you think should be included here, please [submit a pull request](https://github.com/arresteddevops/ado-hugo/blob/master/content/page/books.md)!
+> If you know of any other awesome DevOps books you think should be included here, please [submit a pull request](https://github.com/arresteddevops/ado-hugo/blob/master/content/page/books.md)!
