@@ -21,6 +21,15 @@ youtube = "RFY_8Q3pk20"
 
 Bridget and Matt chat with Nicole Forsgren (DORA) and Tim Gross (Joyent).
 
+### Nicole
+* [Be Awesome With DevOps (Through Data!)](https://gotochgo.com/2017/sessions/42)
+* [State of DevOps Report](https://devops-research.com/research.html)
+* [Westrum model of organizational culture](https://continuousdelivery.com/implementing/culture/)
+
+### Tim
+* [Software-Defined Culture](https://gotochgo.com/2017/sessions/43)
+* [ContainerPilot](https://www.joyent.com/containerpilot)
+
 
 ## Community & Event Stuff
 
