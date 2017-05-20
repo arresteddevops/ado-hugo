@@ -18,11 +18,81 @@ paginate = 9
 	sponsor = "/:filename"
 	redirect = "/:filename"
 
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# SectionPagesMenu = "Main"
+# About section of menu
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
+[[Menu.Main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "contact"
+
+[[Menu.Main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "#!"
+[[Menu.Main]]
+    name = "Blogs"
+    identifier = "blogs"
+    url = "blogs"
+    parent = "resources"
+[[Menu.Main]]
+    name = "Podcasts"
+    identifier = "podcasts"
+    url = "podcasts"
+    parent = "resources"
+[[Menu.Main]]
+    name = "Books"
+    identifier = "books"
+    url = "books"
+    parent = "resources"
+
+[[Menu.Main]]
+    name = "Subscribe to Newsletter"
+    identifier = "bananastand"
+    url = "bananastand"
+
+[[Menu.Main]]
+    name = "ADO FAQ"
+    identifier = "faq"
+    url = "faq"
+
+[[Menu.Main]]
+    name = "ADO Supporters"
+    identifier = "thanks-pals"
+    url = "thanks-pals"
+
 [params]
 Facebook = "//facebook.com/Arresteddevops"
 GATracker = "UA-45939822-1"
 Twitter = "//twitter.com/arresteddevops"
 Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
+site_theme = "grey"
+enable_jumbo = "true"
+copyright_notice = "[Copyright 2013-2017 Arrested DevOps](/copyright/)"
+itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
+android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
+google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
+sticher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
+mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
+rss_subscribe = "http://feeds.podtrac.com/VGAulpN7MY1U"
+media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+  [params.feed]
+  feed_copyright = "Copyright 2013-2017 Arrested DevOps" #do not use markdown in this field; it is used in the feed
+  itunes_subtitle = "There's always DevOps in the Banana Stand"
+  itunes_author = "Matt Stratton, Trevor Hess, and Bridget Kromhout" #no markdown or HTML
+  itunes_summary = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
+  itunes_owner_name = "Matt Stratton"
+  itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+  itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+  itunes_top_category = "Technology"
+  itunes_first_sub_category = "Software How-To"
+  itunes_second_sub_category = "Tech News"
 	[params.social]
 		github = "arresteddevops"
 		facebook = "Arresteddevops"
@@ -30,29 +100,33 @@ Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Brid
 		twitter = "arresteddevops"
 		twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
 		googleplus = "ArrestedDevOps"
-		pinterest = "nozzleio"
-		instagram = "nozzleio"
+		instagram = "arresteddevops"
 		youtube = "arresteddevops"
-		linkedin = "nozzleio"
 	[params.authors]
 	  [params.authors.Matt]
 			name	= "Matt Stratton"
 			thumbnail = "https://www.arresteddevops.com/img/matt.png"
 			bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
 			[params.authors.Matt.social]
-				github = "mattstratton"
-				facebook = "matt.stratton"
-				twitter = "mattstratton"
-				linkedin = "mattstratton"
+        github = "mattstratton"
+        facebook = "matt.stratton"
+        twitter = "mattstratton"
+        linkedin = "mattstratton"
+        homepage = "https://www.mattstratton.io"
+        pinterest = "mattstratton"
+        instagram = "instagram"
+        youtube = "mattstratton"
 		[params.authors.Trevor]
 			name = "Trevor Hess"
 			thumbnail = "https://www.arresteddevops.com/img/trevor.png"
-			bio = ""
+			bio = "Adding his bio late enough for it to be a cutout stuffed in the playbill, Trevor Hess is a Software Consultant at 10th Magnitude. Usually writing .NET applications on Azure, he always appreciates new challenges. Between exceedingly nerdy anecdotes and useless facts lay some opinions and thoughts about how we build software and teams. Trevor has been seen previously in such shows as \"The Fantasticks\" and \"Joseph And the Amazing Technicolor Computer Screen\"."
 				[params.authors.Trevor.social]
 					twitter = "trevorghess"
+          github = "trevorghess"
 			[params.authors.Bridget]
 				name = "Bridget Kromhout"
 				thumbnail = "https://www.arresteddevops.com/img/Bridget.png"
-				bio = ""
+				bio = "Bridget Kromhout is a Principal Technologist for [Cloud Foundry](https://pivotal.io/platform) at [Pivotal](https://pivotal.io/). Her CS degree emphasis was in theory, but she now deals with the concrete (if ‘cloud’ can be considered tangible). After years as an operations engineer (most recently at DramaFever), she traded in oncall for more travel. A frequent speaker at tech conferences, she helps organize tech meetups at home in Minneapolis, serves on the program committee for Velocity, and acts as a global core organizer for [devopsdays](https://www.devopsdays.org/). She occasionally blogs at [bridgetkromhout.com](http://bridgetkromhout.com/) and is active in a [Twitterverse](https://twitter.com/bridgetkromhout) near you."
 				[params.authors.Bridget.social]
 					twitter = "bridgetkromhout"
+          homepage = "http://bridgetkromhout.com/"

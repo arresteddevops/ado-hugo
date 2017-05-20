@@ -14,7 +14,7 @@ explicit = "yes"
 news_keywords = []
 friendly = "microsoft-again"
 date = "2017-01-26T12:35:30-06:00"
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode081.mp3"
+podcast_file = "arrested-devops-podcast-episode081.mp3"
 author = "Matt"
 
 +++
