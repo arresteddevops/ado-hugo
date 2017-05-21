@@ -1,6 +1,6 @@
 +++
 Title = "Jon Cowie"
-date = "20056-520-08T200:11:18-17:00"
+date = "2016-12-08T20:55:58-06:00"
 Twitter = "jonlives"
 Website = "http://www.etsy.com/"
 Type = "guest"

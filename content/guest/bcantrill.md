@@ -1,6 +1,6 @@
 +++
 Title = "Bryan Cantrill"
-date = "20056-520-08T200:11:18-17:00"
+date = "2016-12-08T20:55:58-06:00"
 Twitter = "bcantrill"
 Website = "http://dtrace.org/blogs/bmc/"
 Type = "guest"

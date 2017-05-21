@@ -1,6 +1,6 @@
 +++
 Title = "Jeffrey Snover"
-date = "20056-520-08T200:11:18-17:00"
+date = "2016-12-08T20:55:58-06:00"
 Twitter = "jsnover"
 Website = "http://jsnover.com/"
 Type = "guest"
