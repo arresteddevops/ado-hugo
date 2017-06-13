@@ -33,6 +33,11 @@ paginate = 9
     url = "contact"
 
 [[Menu.Main]]
+    name = "Guests"
+    identifier = "guests"
+    url = "guest"
+
+[[Menu.Main]]
     name = "Resources"
     identifier = "resources"
     url = "#!"
@@ -59,12 +64,12 @@ paginate = 9
 
 [[Menu.Main]]
     name = "ADO FAQ"
-    identifier = "faq"
+    identifier = "zfaq"
     url = "faq"
 
 [[Menu.Main]]
     name = "ADO Supporters"
-    identifier = "thanks-pals"
+    identifier = "zthanks-pals"
     url = "thanks-pals"
 
 [params]
@@ -73,6 +78,7 @@ GATracker = "UA-45939822-1"
 Twitter = "//twitter.com/arresteddevops"
 Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
 site_theme = "grey"
+site_layout = "row"
 enable_jumbo = "true"
 copyright_notice = "[Copyright 2013-2017 Arrested DevOps](/copyright/)"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"

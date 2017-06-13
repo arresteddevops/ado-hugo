@@ -12,5 +12,6 @@ Thumbnail = "img/guests/kdaniels.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+aka = "kdaniels2"
 +++
 A 28-year-old beer drinker. A sparkly devops princess. A philosophy. A quest for a beer-ops-work-life-bourbon-happiness-dev-beer balance. Loving the work being complained about and the process of complaining. Brewing beer and making a perfectly reasonable amount of hot sauce. Post-devops. A pink-haired thought leader. Available for parties, weddings, bar mitzvahs, and bar crawls.

@@ -12,5 +12,6 @@ Thumbnail = "img/guests/ahedgpeth.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+Aka = "ahedgpeth2"
 +++
 I&#39;m totally new to technology, and I&#39;m learning all there is to know about security and compliance. I started a blog to teach others about InSpec in hopes of making it more accessible to non-developers. I&#39;m excited about playing a role in removing security as a bottleneck!
