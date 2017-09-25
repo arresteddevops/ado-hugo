@@ -1,5 +1,5 @@
 +++
-Description = "Bridget chats with Velocity chairs Inés Sombra (Fastly) and James Turnbull (Empacito)."
+Description = "Bridget chats with Velocity chairs Inés Sombra (Fastly) and James Turnbull (Empatico)."
 aliases = ["/94"]
 author = "Bridget"
 categories = []
@@ -19,7 +19,7 @@ youtube = "9sDggm6-L3Y"
 
 +++
 
-Ines Sombra (Fastly) and James Turnbull (Empacito) are chairs of the <a href="https://conferences.oreilly.com/velocity">Velocity</a> conference series, which is celebrating its 10th year in 2017. They joined Bridget to talk about the events next month in New York and London, and share tips for making the most of your conference as well as submitting talks to future conferences.
+Ines Sombra (Fastly) and James Turnbull (Empatico) are chairs of the <a href="https://conferences.oreilly.com/velocity">Velocity</a> conference series, which is celebrating its 10th year in 2017. They joined Bridget to talk about the events next month in New York and London, and share tips for making the most of your conference as well as submitting talks to future conferences.
 
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/) by [Camille Fournier](https://twitter.com/skamille)
 
