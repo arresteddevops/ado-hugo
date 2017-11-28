@@ -6,6 +6,8 @@ categories = []
 sponsors = ["10thmagnitude","victorops","hired"]
 guests = ["lbennett","bolin","rdunn","gsarti","chunt"]
 episode = "81"
+episode_image = "episode/img/microsoft-again.png"
+episode_banner = "episode/img/microsoft-again-banner.png"
 tags = []
 aliases = ["/81","microsoft2","windows-redux", "microsoft-redux"]
 images = ["https://www.arresteddevops.com/img/social/fb/microsoft-again.png"]
@@ -14,7 +16,7 @@ explicit = "yes"
 news_keywords = []
 friendly = "microsoft-again"
 date = "2017-01-26T12:35:30-06:00"
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode081.mp3"
+podcast_file = "arrested-devops-podcast-episode081.mp3"
 author = "Matt"
 
 +++
