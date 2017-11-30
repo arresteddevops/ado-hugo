@@ -12,6 +12,8 @@ news_keywords = []
 author = "Matt"
 aliases = ["/97"]
 explicit = "yes"
+date = "2017-11-30T04:55:48-05:00"
+
 +++
 
 * https://en.wikipedia.org/wiki/Cynefin_framework
