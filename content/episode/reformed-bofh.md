@@ -97,5 +97,5 @@ Bridget's money-back guarantee: "If you're less BOFH-y, I promise you'll be happ
 * [_Common Ground and Coordination in Joint Activity_](http://csel.eng.ohio-state.edu/woods/distributed/CG%20final.pdf) by David Woods et al
 
 ### Matt
-* [_Effective DevOps_](http://shop.oreilly.com/product/0636920039846.do) by Jennifer Davis and Katherine Daniels
+* [_Effective DevOps_](http://shop.oreilly.com/product/0636920039846.do) by Jennifer Davis and Ryn Daniels
 * [asciinema](https://asciinema.org/)

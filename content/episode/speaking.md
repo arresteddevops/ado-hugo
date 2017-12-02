@@ -1,28 +1,28 @@
 +++
-Description = "Speaking at tech conferences: how do you get started? What should you expect? Katherine Daniels of Etsy (author, engineer, and frequent public speaker) chats with Bridget, offering insights about speaking at conferences."
+Description = "Speaking at tech conferences: how do you get started? What should you expect? Ryn Daniels of Etsy (author, engineer, and frequent public speaker) chats with Bridget, offering insights about speaking at conferences."
 aliases = ["/62"]
 author = "Bridget"
 categories = []
 date = "2016-04-16T17:14:10-05:00"
 episode = "62"
 friendly = "speaking"
-guests = ["kdaniels2"]
+guests = ["rdaniels2"]
 images = ["https://www.arresteddevops.com/img/social/fb/friendly.png"]
 news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode062.mp3"
 podcast_duration = "1:06:06"
 sponsors = ["10thmagnitude", "datadog"]
 tags = []
-title = "Speaking at Conferences With Katherine Daniels"
+title = "Speaking at Conferences With Ryn Daniels"
 youtube = "R4Cy86jcoSw"
 explicit = "yes"
 
 +++
 
-* <a href="http://shop.oreilly.com/product/0636920039846.do">Effective DevOps</a> by Katherine Daniels & Jennifer Davis
+* <a href="http://shop.oreilly.com/product/0636920039846.do">Effective DevOps</a> by Ryn Daniels & Jennifer Davis
 * Lara Hogan - <a href="https://storify.com/larahogan/day-of-talk-countdown">Day-of-talk countdown</a>
 * Bridget - <a href="http://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/">tl;dr: Your Talk is Accepted</a>
-* Katherine Daniels - <a href="https://beero.ps/2016/04/14/on-a-conference-speaking-routine/">On a Conference Speaking Routine</a>
+* Ryn Daniels - <a href="https://beero.ps/2016/04/14/on-a-conference-speaking-routine/">On a Conference Speaking Routine</a>
 * <a href="https://teespring.com/nekro-atsume">Nekro Atsume shirts</a>
 
 * <a href="http://www.angrymetalguy.com/draconian-sovran-review/">Draconian - Sovran</a> (Oct 2015)
