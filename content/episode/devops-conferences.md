@@ -72,5 +72,5 @@ explicit = "yes"
 <ul>
 	<li>Tech Douchebags podcast - <a href="http://5by5.tv/tdb">http://5by5.tv/tdb</a></li>
 	<li>Spoonium (containers for Windows) - <a href="http://spoonium.net/">http://spoonium.net/</a></li>
-	<li>Columbia Treadlite 10L Backbpack - <a href="http://www.amazon.com/Columbia-Treadlite-Backpack-Black-Size/dp/B0058XJXZW">http://www.amazon.com/Columbia-Treadlite-Backpack-Black-Size/dp/B0058XJXZW</a> (hattip to Katherine Daniels <a href="http://twitter.com/beerops" target="_blank">@beerops</a>)</li>
+	<li>Columbia Treadlite 10L Backbpack - <a href="http://www.amazon.com/Columbia-Treadlite-Backpack-Black-Size/dp/B0058XJXZW">http://www.amazon.com/Columbia-Treadlite-Backpack-Black-Size/dp/B0058XJXZW</a> (hattip to Ryn Daniels <a href="http://twitter.com/beerops" target="_blank">@beerops</a>)</li>
 </ul>
