@@ -11,7 +11,7 @@ guests = ["arinehart"]
 images = ["https://www.arresteddevops.com/img/social/fb/inner-source-to-open-source.png"]
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode098.mp3"
 podcast_duration = "50:48"
-sponsors = ["chef", "victorops, "datadog", "thoughtworks"]
+sponsors = ["chef", "victorops", "datadog", "thoughtworks"]
 tags = []
 title = "inner source to open source with aaron rinehart"
 
