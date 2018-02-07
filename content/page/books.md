@@ -15,5 +15,7 @@ This is a list of DevOps-related books that we think are pretty cool.
 - {{< booklink url="https://amzn.com/1449368425" title="Lean Enterprise: How High Performance Organizations Innovate at Scale" author="Jez Humble, Joanne Molesky, Barry O'Reilly" >}}
 - {{< booklink url="https://www.amazon.com/Art-Monitoring-James-Turnbull-ebook/dp/B01GU387MS/" title="The Art Of Monitoring" author="James Turnbull" >}}
 - {{< booklink url="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/" title="Clean Code: A Handbook of Agile Software Craftsmanship" author="Robert C. Martin" >}}
+- {{< booklink url="https://www.packtpub.com/application-development/devops-20-toolkit" title="The DevOps Toolkit 2.0" author="Viktor Farcic" >}}
+- {{< booklink url="https://www.packtpub.com/application-development/devops-21-toolkit-docker-swarm" title="The DevOps 2.1 Toolkit: Docker Swarm" author="Viktor Farcic" >}}
 
 > If you know of any other awesome DevOps books you think should be included here, please [submit a pull request](https://github.com/arresteddevops/ado-hugo/blob/master/content/page/books.md)!
