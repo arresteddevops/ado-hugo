@@ -1,16 +1,16 @@
 +++
 Description = "Bridget and Matt discuss the past and future of tech with Andrew Clay Shafer."
-aliases = ["/102"]
+aliases = ["/103"]
 author = "Bridget"
 categories = []
 date = "2018-02-07T14:55:48-05:00"
-episode = "102"
+episode = "103"
 explicit = "yes"
 friendly = "fireside-chat-littleidea"
 guests = ["ashafer"]
 images = ["https://www.arresteddevops.com/img/social/fb/fireside-chat-littleidea.png"]
 news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode102.mp3"
+podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode103.mp3"
 podcast_duration = "ADD"
 sponsors = ["chef", "datadog"]
 tags = []
