@@ -11,6 +11,7 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 
 - {{< bloglink url="https://www.ansible.com/blog" title="Ansible Blog" rss="https://www.ansible.com/blog/rss.xml" >}}
 - [Chef Blog](https://blog.chef.io/)
+- [Codefresh Blog](https://codefresh.io/blog/)
 - [Docker Blog](https://blog.docker.com/)
 - [Puppet Blog](https://puppet.com/blog/)
 - [PagerDuty Blog](https://www.pagerduty.com/blog/)
