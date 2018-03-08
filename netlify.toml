@@ -12,7 +12,7 @@
   publish = "public/"
   command = "bin/netlify.sh"
 
-[context.castanet]
+[context.castanet-migration]
  command = "bin/netlify-castanet.sh"
  publish = "public/"
 
