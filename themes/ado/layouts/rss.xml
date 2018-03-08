@@ -39,7 +39,9 @@
       <description>{{ .Description }}</description>
       <itunes:image href="{{ (printf "/episode/img/%s.png" .File.BaseFileName) | absURL}}"></itunes:image>
       <googleplay:image href="{{ (printf "/episode/img/%s.png" .File.BaseFileName) | absURL }}"></googleplay:image>
-      <content:encoded><![CDATA[{{ .Content }}]></content:encoded>
+      <content:encoded>
+          <![CDATA[{{ .Content }}]>
+      </content:encoded>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/mpeg" />
       <guid>{{ .Params.podcast }}</guid>
       <link>{{ .Permalink }}</link>
