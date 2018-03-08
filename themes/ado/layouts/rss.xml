@@ -15,7 +15,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
-    <copyright>2014-2016 Arrested DevOps</copyright>
+    <copyright>2014-2018 Arrested DevOps</copyright>
     <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
     <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
     <itunes:summary>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.</itunes:summary>
@@ -25,15 +25,17 @@
     <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
+    <itunes:new-feed-url>https://www.arresteddevops.com/episode/index.xml</itunes:new-feed-url>
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
     </itunes:category>
     {{ range (where .Site.Pages "Type" "episode") }}
+    {{ if isset .Params "podcast" }}
     <item>
       <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
-      <itunes:summary>{{ .Description }}</itunes:summary>
+      <itunes:summary><![CDATA[{{ .Description | markdownify }}]></itunes:summary>
       <description>{{ .Description }}</description>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/mpeg" />
       <guid>{{ .Params.podcast }}</guid>
@@ -42,6 +44,7 @@
       <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
       <itunes:explicit>{{ .Params.explicit}}</itunes:explicit>
     </item>
+    {{ end }}
     {{ end }}
   </channel>
 </rss>
