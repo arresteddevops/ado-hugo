@@ -2,8 +2,9 @@ sudo: true
 dist: trusty
 
 env:
-  - HUGO_THEME=ado
-  - HUGO_BASEURL="https://www.arresteddevops.com"
+  global:
+    - HUGO_THEME=ado
+    - HUGO_BASEURL="https://www.arresteddevops.com"
 
 services:
   - docker
