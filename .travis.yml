@@ -1,10 +1,13 @@
 sudo: true
 dist: trusty
 
-install:
-  - sudo apt-get --yes install snapd
-  - sudo snap install hugo
+env:
+  global:
+    - HUGO_THEME=ado
+    - HUGO_BASEURL="https://www.arresteddevops.com"
+
+services:
+  - docker
 
 script:
-  - /snap/bin/hugo version
-  - /snap/bin/hugo
+  - docker run --name "ado-hugo" -P -v $(pwd):/src jojomi/hugo
