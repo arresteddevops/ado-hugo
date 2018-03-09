@@ -1,14 +1,14 @@
-[![Stories in Ready](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=Ready&title=Ready)](http://waffle.io/arresteddevops/ado-hugo) [![Stories in Progress](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/arresteddevops/ado-hugo) [![wercker status](https://app.wercker.com/status/dfa492ce79ae5083723b53a07e98c8f4/s "wercker status")](https://app.wercker.com/project/bykey/dfa492ce79ae5083723b53a07e98c8f4)
 
-This is the thing that drives the new ADO website. You can see our progress on tasks at http://waffle.io/arresteddevops/ado-hugo
-
-[![Throughput Graph](https://graphs.waffle.io/arresteddevops/ado-hugo/throughput.svg)](https://waffle.io/arresteddevops/ado-hugo/metrics)
+![Twitter Follow](https://img.shields.io/twitter/follow/arresteddevops.svg?style=social&logo=twitter&label=Follow) 
+![GitHub issues](https://img.shields.io/github/issues-raw/badges/shields.svg)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+![Travis](https://img.shields.io/travis/arresteddevops/ado-hugo.svg)
 
 ## Contributing
 
 Here are the steps to follow to get going as an ADO content contributor (or heck, even a code contributor)
 
-1. Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.16*
+1. Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.36.1*
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go, enter this command `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running. The -w watches for any changes and rebuilds on the fly. You have to reset the baseUrl or it will try to go to new.arresteddevops.com
