@@ -1,9 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=Ready&title=Ready)](http://waffle.io/arresteddevops/ado-hugo) [![Stories in Progress](https://badge.waffle.io/arresteddevops/ado-hugo.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/arresteddevops/ado-hugo) [![wercker status](https://app.wercker.com/status/dfa492ce79ae5083723b53a07e98c8f4/s "wercker status")](https://app.wercker.com/project/bykey/dfa492ce79ae5083723b53a07e98c8f4)
-
-This is the thing that drives the new ADO website. You can see our progress on tasks at http://waffle.io/arresteddevops/ado-hugo
-
-[![Throughput Graph](https://graphs.waffle.io/arresteddevops/ado-hugo/throughput.svg)](https://waffle.io/arresteddevops/ado-hugo/metrics)
-
 ## Contributing
 
 Here are the steps to follow to get going as an ADO content contributor (or heck, even a code contributor)
