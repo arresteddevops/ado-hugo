@@ -9,5 +9,5 @@ env:
 services:
   - docker
 
-before_install:
+script:
   - docker run --name "ado-hugo" -P -v $(pwd):/src jojomi/hugo
