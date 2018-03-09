@@ -1,3 +1,9 @@
+
+![Twitter Follow](https://img.shields.io/twitter/follow/arresteddevops.svg?style=social&logo=twitter&label=Follow) 
+![GitHub issues](https://img.shields.io/github/issues-raw/badges/shields.svg)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+![Travis](https://img.shields.io/travis/arresteddevops/ado-hugo.svg)
+
 ## Contributing
 
 Here are the steps to follow to get going as an ADO content contributor (or heck, even a code contributor)
