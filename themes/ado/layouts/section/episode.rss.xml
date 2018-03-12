@@ -38,10 +38,10 @@
     <item>
         <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
         <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
-        <itunes:summary>{{ .Description | html }}</itunes:summary>
-        <description><![CDATA[{{ .Description  | html  }}]></description>
-        <googleplay:description><![CDATA[{{ .Description  | html  }}]></googleplay:description>
-        <content:encoded><![CDATA[{{ .Content | html }}]></content:encoded>
+        <itunes:summary>{{ .Description | plainify }}</itunes:summary>
+        <description>{{ .Description  | plainify  }}</description>
+        <googleplay:description>{{ .Description  | plainify }}</googleplay:description>
+        {{ "<content:encoded><![CDATA[" | safeHTML }}{{ .Content | safeHTML }}{{"]]></content:encoded>" | safeHTML}}
         <itunes:image href="{{ (printf "/episode/img/%s.png" .File.BaseFileName) | absURL}}"></itunes:image>
         <googleplay:image href="{{ (printf "/episode/img/%s.png" .File.BaseFileName) | absURL }}"></googleplay:image>
         <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/mpeg" />
