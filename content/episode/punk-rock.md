@@ -20,6 +20,7 @@ title = "Punk Rock DevOps with Jay Gordon"
 
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) - Ashley McNamara
 - [Community Pulse podcast](http://communitypulse.io/)
+- [Developer Avocados: The Good Kind Of Fat](https://www.marythengvall.com/blog/2018/1/31/developer-avocados-the-good-kind-of-fat)
 - [The GitHub Memcached DDoS: It shouldn’t have happened](https://www.synopsys.com/blogs/software-security/github-memcached-ddos/)
 - [AW.. Sh*t: Amazon S3 borkage takes down GitHub, Yahoo Mail and more](https://www.theinquirer.net/inquirer/news/3005581/aw-sh-t-amazon-s3-borkage-takes-down-github-yahoo-mail-and-more)
 
