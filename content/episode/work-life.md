@@ -14,7 +14,7 @@ podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arrested
 podcast_duration = "52:04"
 sponsors = ["chef", "victorops"]
 tags = []
-title = "Work/Live Balance With Sasha Rosenbaum, Bill Weiss, and Katie Prizy"
+title = "Work/Life Balance With Sasha Rosenbaum, Bill Weiss, and Katie Prizy"
 
 +++
 
