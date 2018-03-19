@@ -12,5 +12,6 @@ Thumbnail = "img/guests/spereira2.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+aka = ["spereira"]
 +++
 Steve is an automation fanatic with 15 years of experience in IT and software development, CTO of Statflo - making wireless customer service awesome. Runs DevOpsTO and OpenStackTO meetups. Organizing DevOpsDays Toronto's 4th conference next May.

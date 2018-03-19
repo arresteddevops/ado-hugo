@@ -12,5 +12,6 @@ Thumbnail = "img/guests/ahedgpeth3.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+aka = ["ahedgpeth2","ahedgpeth"]
 +++
 Annie Hedgpeth is a Cloud Automation Engineer at 10th Magnitude, a leading Azure consultancy, and is busy bringing healthy Chef and InSpec practices to her clients daily. Annie has long been a fan and proponent of InSpec, seeking to prove its accessibility to non-developers. She blogs about InSpec and other DevOps topics at [http://www.anniehedgie.com](http://www.anniehedgie.com)
