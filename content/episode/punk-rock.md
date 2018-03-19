@@ -14,6 +14,7 @@ images = ["/img/social/fb/punk-rock.png"]
 aliases = ["/106",]
 explicit = "yes" # values are "yes" or "no"
 +++
+
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) - Ashley McNamara
 - [Community Pulse podcast](http://communitypulse.io/)
 - [Developer Avocados: The Good Kind Of Fat](https://www.marythengvall.com/blog/2018/1/31/developer-avocados-the-good-kind-of-fat)
@@ -62,3 +63,4 @@ Lots of devopsdays: https://www.devopsdays.org/speaking/
 
 - [Muzzle](https://muzzleapp.com/) - simple mac app that turns off notifications when you are screen sharing
 - [Tailor](https://itunes.apple.com/us/app/tailor-screenshot-stitching/id926653095?mt=8) - iOS app that automatically detects overlapping screenshots and merges them
+
