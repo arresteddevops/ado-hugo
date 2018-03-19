@@ -117,7 +117,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
 			twitter = "trevorghess"
     [params.authors.Bridget]
       name = "Bridget Kromhout"
-      thumbnail = "img/Bridget.png"
+      thumbnail = "img/bridget.png"
       bio = ""
 		[params.authors.Bridget.social]
 			twitter = "bridgetkromhout"
