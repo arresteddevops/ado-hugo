@@ -1,25 +1,21 @@
 +++
-Description = "In this episode, 'reformed' Bastard Operators From Hell Yvo van Doorn, Chris Read, and Kevin Hubbard discuss how the industry and their jobs have changed over time, especially with the advent of DevOps."
-aliases = ["/36"]
-author = "Matt"
-categories = []
-date = "2015-05-14T21:58:42-05:00"
-episode = "36"
-friendly = "reformed-bofh"
-guests = ["yvandoorn","cread","khubbard"]
-images = ["https://www.arresteddevops.com/img/social/fb/reformed-bofh.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode036.mp3"
-podcast_bytes = "55009467"
-podcast_duration = "1:05:29"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "Dr. BOFH, or How I Learned To Stop Worrying and Love the DevOps"
+Description = "In this episode, 'reformed' Bastard Operators From Hell Yvo van Doorn, Chris Read, and Kevin Hubbard discuss how the industry and their jobs have changed over time, especially with the advent of DevOps."
+Date = 2015-05-14T21:58:42-05:00
+PublishDate = 2015-05-14T21:58:42-05:00
+podcast_file = "arrested-devops-podcast-episode036.mp3"
+episode_image = "/episode/img/reformed-bofh.png"
+episode_banner = "/episode/img/reformed-bofh-banner.png"
+guests = ["yvandoorn","cread","khubbard",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "36"
+images = ["/img/social/fb/reformed-bofh.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/36",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "zMd8H7lDBcU"
-explicit = "yes"
 
 +++
-
 [Chris Read](https://twitter.com/cread), [Kevin Hubbard](https://twitter.com/kj_hubbard), and [Yvo van Doorn](https://twitter.com/yvov) are reformed BOFH's (Basterd Operator's From Hell).
 
 Chris is back on the podcast again, this time talking about his expereince as a SysAdmin in past lives.

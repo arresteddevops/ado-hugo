@@ -1,25 +1,21 @@
 +++
-Description = "In this episode, Jeff Hackert discusses developing your career in DevOps."
-author = "Matt"
-categories = []
-date = "2015-06-25T12:38:23-05:00"
-aliases = ["/38"]
-episode = "38"
-friendly = "career-devops"
 title = "Career Devops with Jeff Hackert"
-guests = ["jhackert"]
-images = ["https://www.arresteddevops.com/episode/career-devops.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode038.mp3"
-podcast_bytes = "56170864"
-podcast_duration = "1:06:52"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
+Description = "In this episode, Jeff Hackert discusses developing your career in DevOps."
+Date = 2015-06-25T12:38:23-05:00
+PublishDate = 2015-06-25T12:38:23-05:00
+podcast_file = "arrested-devops-podcast-episode038.mp3"
+episode_image = "/episode/img/career-devops.png"
+episode_banner = "/episode/img/career-devops-banner.png"
+guests = ["jhackert",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "38"
+images = ["/img/social/fb/career-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/38",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "FeKZIsrj4EM"
-explicit = "yes"
 
 +++
-
 Jeff’s background includes 30 years of experience working in people management. Specifically in developing the management skills, and careers of Software Engineering teams. He now works at Chef as the Director of Learning Experiences.
 #### What is Career Development
 Just thinking about career development in the workplace is not very common. Jeff discusses statistics around the specifics of Career Development and implementation strategies. For example, in one study, more than 60% of respondents said that Career Development was of “little to no” importance to their current employer. Less than 5% of employees at some organizations surveyed receive any career feedback from their current bosses.

@@ -1,20 +1,17 @@
 +++
-Description = "Matt was joined by guest co-host Julian Dunn, as well as some awesome panelists for an on-site recording of ADO at the very first DevOpsDays Minneapolis!"
-aliases = ["/16"]
-author = "Matt"
-categories = []
-date = "2014-07-18T12:40:35-05:00"
-episode = "16"
-friendly = "devopsdays-minneapolis"
-guests = ["jdunn", "rdaniels", "jmorgenthal", "bkromhout", "pdebois"]
-images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-minneapolis.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode016.mp3"
-podcast_bytes = "57885173"
-podcast_duration = "48:14"
-sponsors = []
-tags = []
 title = "DevOpsDays Minneapolis"
-explicit = "yes"
-
+Description = "Matt was joined by guest co-host Julian Dunn, as well as some awesome panelists for an on-site recording of ADO at the very first DevOpsDays Minneapolis!"
+Date = 2014-07-18T12:40:35-05:00
+PublishDate = 2014-07-18T12:40:35-05:00
+podcast_file = "arrested-devops-podcast-episode016.mp3"
+episode_image = "/episode/img/devopsdays-minneapolis.png"
+episode_banner = "/episode/img/devopsdays-minneapolis-banner.png"
+guests = ["jdunn","rdaniels","jmorgenthal","bkromhout","pdebois",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "16"
+images = ["/img/social/fb/devopsdays-minneapolis.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/16",]
+explicit = "yes" # values are "yes" or "no"
 +++
+

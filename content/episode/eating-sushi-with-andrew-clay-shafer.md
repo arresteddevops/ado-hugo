@@ -1,24 +1,19 @@
 +++
-Description = "Matt and Bridget sit down with Andrew Clay Shafer (finally!) at DevOpsDays Minneapolis to discuss his thoughts on what's going on with the DevOps world since 2009, as well as his opinions on podcasts having episode numbers. Sadly, no sushi was actually consumed."
-aliases = ["/39"]
-author = "Matt"
-categories = []
-date = "2015-07-17T22:28:34-05:00"
-episode = "39"
-friendly = "eating-sushi-with-andrew-clay-shafer"
-guests = ['ashafer']
-images = ["https://www.arresteddevops.com/img/social/fb/eating-sushi-with-andrew-clay-shafer.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode039.mp3"
-podcast_bytes = "34589773"
-podcast_duration = "41:11"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "eating sushi with andrew clay shafer"
-explicit = "yes"
-
+Description = "Matt and Bridget sit down with Andrew Clay Shafer (finally!) at DevOpsDays Minneapolis to discuss his thoughts on what's going on with the DevOps world since 2009, as well as his opinions on podcasts having episode numbers. Sadly, no sushi was actually consumed."
+Date = 2015-07-17T22:28:34-05:00
+PublishDate = 2015-07-17T22:28:34-05:00
+podcast_file = "arrested-devops-podcast-episode039.mp3"
+episode_image = "/episode/img/eating-sushi-with-andrew-clay-shafer.png"
+episode_banner = "/episode/img/eating-sushi-with-andrew-clay-shafer-banner.png"
+guests = ["ashafer",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "39"
+images = ["/img/social/fb/eating-sushi-with-andrew-clay-shafer.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/39",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 [Transcript](http://transcripts.castingwords.com/zvzu/211640.html)
 
 **Andrew Clay Shafer** ([@littleidea](http://twitter.com/littleidea)).

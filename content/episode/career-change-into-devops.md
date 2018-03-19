@@ -1,23 +1,19 @@
 +++
-Description = "What is it like to change careers and get into tech later in life? Annie Hedgpeth and Megan Bohl tell their stories. This episode also features special guest Sonia Gupta!"
-aliases = ["/102"]
-author = "Matt"
-categories = []
-date = "2018-02-08T12:55:48-05:00"
-episode = "102"
-explicit = "yes"
-friendly = "career-change-into-devops"
-guests = ["ahedgpeth3","mbohl","mhedgpeth2","sgupta"]
-images = ["https://www.arresteddevops.com/img/social/fb/career-change-into-devops.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode102.mp3"
-podcast_duration = "47:53"
-sponsors = ["chef"]
-tags = []
 title = "Career Change Into DevOps with Michael Hedgpeth, Annie Hedgpeth, and Megan Bohl"
-
+Description = "What is it like to change careers and get into tech later in life? Annie Hedgpeth and Megan Bohl tell their stories. This episode also features special guest Sonia Gupta!"
+Date = 2018-02-08T12:55:48-05:00
+PublishDate = 2018-02-08T12:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode102.mp3"
+episode_image = "/episode/img/career-change-into-devops.png"
+episode_banner = "/episode/img/career-change-into-devops-banner.png"
+guests = ["ahedgpeth3","mbohl","mhedgpeth2","sgupta",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef",]
+episode = "102"
+images = ["/img/social/fb/career-change-into-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/102",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 What is it like to change careers and get into tech later in life? Annie Hedgpeth and Megan Bohl tell their stories.
 
 This episode also features special guest Sonia Gupta!
@@ -51,7 +47,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 
 - [Time Series meetup in Denver](https://www.meetup.com/Time-Series-Denver/events/vjqrgpyxdblc/), Feb 28
 - [Minneapolis DevOps Meetup](https://www.meetup.com/DevOps-Minneapolis/events/247091630/), March 20
-
-
-
-

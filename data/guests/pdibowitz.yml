@@ -1,4 +1,0 @@
-Name: pdibowitz
-"FullName": "Phil Dibowitz"
-"Bio": "Phil Dibowitz has been working in systems engineering for 12 years and is currently a production engineer at Facebook. Initially, he worked on the traffic infrastructure team, automating load balancer configuration management, as well as designing and building the production IPv6 infrastructure. He now leads the team responsible for rebuilding the configuration management system from the ground up. Prior to Facebook, he worked at Google, where he managed the large Gmail environment, and at Ticketmaster, where he co-authored and open sourced a configuration management tool called Spine. He also contributes to, and maintains, various open source projects and has spoken at conferences and LUG’s on a variety of topics from Path MTU Discovery to X509."
-"Twitter": "ThePhilD"

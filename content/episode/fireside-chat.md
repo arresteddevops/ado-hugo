@@ -1,24 +1,21 @@
 +++
-Description = "Bridget sits down for a classic fireside chat with Bryan Cantrill (Joyent), ranging from containers to social justice to lawn care."
-aliases = ["/72"]
-author = "Bridget"
-categories = []
-date = "2016-09-13T20:55:48-05:00"
-episode = "72"
-friendly = "fireside-chat"
-guests = ["bcantrill"]
-images = ["http://arresteddevops.com/img/social/fb/fireside-chat.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode072.mp3"
-podcast_duration = "1:17:48"
-sponsors = ["10thmagnitude", "victorops"]
-tags = []
 title = "Fireside Chat with Bryan Cantrill"
+Description = "Bridget sits down for a classic fireside chat with Bryan Cantrill (Joyent), ranging from containers to social justice to lawn care."
+Date = 2016-09-13T20:55:48-05:00
+PublishDate = 2016-09-13T20:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode072.mp3"
+episode_image = "/episode/img/fireside-chat.png"
+episode_banner = "/episode/img/fireside-chat-banner.png"
+guests = ["bcantrill",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops",]
+episode = "72"
+images = ["/img/social/fb/fireside-chat.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/72",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "lybeocYXujU"
-explicit = "yes"
 
 +++
-
 Bridget sits down for a classic fireside chat with Bryan Cantrill (Joyent), ranging from containers to social justice to lawn care.
 
 * [Container Summit](http://containersummit.io/)

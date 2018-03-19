@@ -1,23 +1,19 @@
 +++
-Description = "In the same week that the Chicago Cubs finally won the World Series, Pauly Comtois is finally a guest on Arrested DevOps! Pauly is the VP of DevOps for Heart Business Media, and he shares with us some of the challenges (and successes) of effecting a DevOps transformation at a large enterprise."
-aliases = ["/76", "/pauly"]
-author = "Matt"
-categories = []
-date = "2016-11-05T16:59:40-05:00"
-episode = "76"
-explicit = "yes"
-friendly = "chatting-with-pauly"
-guests = ["pcomtois"]
-images = ["https://www.arresteddevops.com/img/social/fb/chatting-with-pauly.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode076.mp3"
-podcast_duration = "01:09:12"
-sponsors = ["10thmagnitude", "datadog", "victorops"]
-tags = []
 title = "chatting with pauly comtois"
-
+Description = "In the same week that the Chicago Cubs finally won the World Series, Pauly Comtois is finally a guest on Arrested DevOps! Pauly is the VP of DevOps for Heart Business Media, and he shares with us some of the challenges (and successes) of effecting a DevOps transformation at a large enterprise."
+Date = 2016-11-05T16:59:40-05:00
+PublishDate = 2016-11-05T16:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode076.mp3"
+episode_image = "/episode/img/chatting-with-pauly.png"
+episode_banner = "/episode/img/chatting-with-pauly-banner.png"
+guests = ["pcomtois",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog","victorops",]
+episode = "76"
+images = ["/img/social/fb/chatting-with-pauly.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/76","/pauly",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 - *[Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752)*
 - [Little’s Law](https://en.wikipedia.org/wiki/Little%27s_law)
 - [Dan Pink: The puzzle of motivation](https://www.ted.com/talks/dan_pink_on_motivation?language=en) (aka "the Drive TED talk")

@@ -1,24 +1,21 @@
 +++
-Description = "Friend of the podcast James Turnbull joins us to talk about his new book, The Art of Monitoring...and a little bit about this whole functional programming thing"
-aliases = ["/74","/artofmonitoring"]
-author = "Matt"
-categories = []
-date = "2016-10-02T09:54:48-05:00"
-episode = "74"
-friendly = "art-of-monitoring-james-turnbull"
-guests = ["jturnbull2"]
-images = ["http://arresteddevops.com/img/social/fb/art-of-monitoring-james-turnbull.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode074.mp3"
-podcast_duration = "1:10:39"
-sponsors = ["10thmagnitude", "victorops"]
-tags = []
 title = "The Art of Monitoring with James Turnbull"
+Description = "Friend of the podcast James Turnbull joins us to talk about his new book, The Art of Monitoring...and a little bit about this whole functional programming thing"
+Date = 2016-10-02T09:54:48-05:00
+PublishDate = 2016-10-02T09:54:48-05:00
+podcast_file = "arrested-devops-podcast-episode074.mp3"
+episode_image = "/episode/img/art-of-monitoring-james-turnbull.png"
+episode_banner = "/episode/img/art-of-monitoring-james-turnbull-banner.png"
+guests = ["jturnbull2",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops",]
+episode = "74"
+images = ["/img/social/fb/art-of-monitoring-james-turnbull.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/74","/artofmonitoring",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "IRGMztl1Qs8"
-explicit = "yes"
 
 +++
-
 Don't forget to check out the book itself! *[The Art of Monitoring](https://www.artofmonitoring.com/)*.
 
 Back in the day, James also wrote a book called *[Pro Nagios 2.0](https://www.amazon.com/Nagios-Experts-Voice-Open-Source/dp/1590596099)*.

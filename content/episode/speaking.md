@@ -1,24 +1,21 @@
 +++
-Description = "Speaking at tech conferences: how do you get started? What should you expect? Ryn Daniels of Etsy (author, engineer, and frequent public speaker) chats with Bridget, offering insights about speaking at conferences."
-aliases = ["/62"]
-author = "Bridget"
-categories = []
-date = "2016-04-16T17:14:10-05:00"
-episode = "62"
-friendly = "speaking"
-guests = ["rdaniels2"]
-images = ["https://www.arresteddevops.com/img/social/fb/friendly.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode062.mp3"
-podcast_duration = "1:06:06"
-sponsors = ["10thmagnitude", "datadog"]
-tags = []
 title = "Speaking at Conferences With Ryn Daniels"
+Description = "Speaking at tech conferences: how do you get started? What should you expect? Ryn Daniels of Etsy (author, engineer, and frequent public speaker) chats with Bridget, offering insights about speaking at conferences."
+Date = 2016-04-16T17:14:10-05:00
+PublishDate = 2016-04-16T17:14:10-05:00
+podcast_file = "arrested-devops-podcast-episode062.mp3"
+episode_image = "/episode/img/speaking.png"
+episode_banner = "/episode/img/speaking-banner.png"
+guests = ["rdaniels2",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "62"
+images = ["/img/social/fb/speaking.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/62",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "R4Cy86jcoSw"
-explicit = "yes"
 
 +++
-
 * <a href="http://shop.oreilly.com/product/0636920039846.do">Effective DevOps</a> by Ryn Daniels & Jennifer Davis
 * Lara Hogan - <a href="https://storify.com/larahogan/day-of-talk-countdown">Day-of-talk countdown</a>
 * Bridget - <a href="http://bridgetkromhout.com/blog/2016/04/06/tl-dr-your-talk-is-accepted/">tl;dr: Your Talk is Accepted</a>

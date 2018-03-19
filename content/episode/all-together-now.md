@@ -1,25 +1,21 @@
 +++
-Description = "Angela Dugan of Polaris Solutions and Todd Vernon, CEO & co-founder of VictorOps, join the ADO crew to chat about the challenges of collaborating in a cross-functional team. How can tools help facilitate communication among developers, testers, and operations? What are some of the best practices to keep in mind? And, of course, there just might be some \"horror stories\" of communication gone horribly wrong."
-aliases = ["/7"]
-author = "Matt"
-categories = []
-date = "2014-02-23T09:57:34-05:00"
-episode = "7"
-friendly = "all-together-now"
-guests = []
-images = []
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode007.mp3"
-podcast_bytes = "72491801"
-podcast_duration = "1:00:24"
-sponsors = []
-tags = []
 title = "all together now"
+Description = "Angela Dugan of Polaris Solutions and Todd Vernon, CEO & co-founder of VictorOps, join the ADO crew to chat about the challenges of collaborating in a cross-functional team. How can tools help facilitate communication among developers, testers, and operations? What are some of the best practices to keep in mind? And, of course, there just might be some \"horror stories\" of communication gone horribly wrong."
+Date = 2014-02-23T09:57:34-05:00
+PublishDate = 2014-02-23T09:57:34-05:00
+podcast_file = "arrested-devops-podcast-episode07.mp3"
+episode_image = "/episode/img/all-together-now.png"
+episode_banner = "/episode/img/all-together-now-banner.png"
+guests = [] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "7"
+images = ["/img/social/fb/all-together-now.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/7",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "lDf2s44f7W0"
-explicit = "yes"
 
 +++
-
 <h3>Check-Outs</h3>
 <h4>Angela</h4>
 <ul>

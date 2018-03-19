@@ -1,25 +1,21 @@
 +++
-Description = "Holiday! It’s a time of merriment… and terror. Let’s talk about how to prepare for a known spike in traffic, and what’s worked (and hasn’t)!"
-aliases = ["/47"]
-author = "Matt"
-categories = []
-date = "2015-11-13T15:51:25-06:00"
-episode = "47"
-friendly = "seasonal-scaling"
-guests = ["rcummings", "mcurry"]
-images = ["https://www.arresteddevops.com/img/social/fb/seasonal-scaling.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode047.mp3"
-podcast_bytes = "52743372"
-podcast_duration = "01:02:44"
-sponsors = ["datadog","10thmagnitude"]
-tags = []
 title = "Tis The Season...For Scaling! with Rob Cummings and Matt Curry"
+Description = "Holiday! It’s a time of merriment… and terror. Let’s talk about how to prepare for a known spike in traffic, and what’s worked (and hasn’t)!"
+Date = 2015-11-13T15:51:25-06:00
+PublishDate = 2015-11-13T15:51:25-06:00
+podcast_file = "arrested-devops-podcast-episode047.mp3"
+episode_image = "/episode/img/seasonal-scaling.png"
+episode_banner = "/episode/img/seasonal-scaling-banner.png"
+guests = ["rcummings","mcurry",] # The names of your guests, based on the filename without extension.
+sponsors = ["datadog","10thmagnitude",]
+episode = "47"
+images = ["/img/social/fb/seasonal-scaling.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/47",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "c4uiiSj2SPU"
-explicit = "yes"
 
 +++
-
 ## Checkouts
 
 ### Rob:

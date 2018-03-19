@@ -1,22 +1,19 @@
 +++
-Description = "What role does testing play in DevOps?"
-aliases = ["/2"]
-author = "Matt"
-categories = []
-date = "2013-12-16T09:45:16-05:00"
-episode = "2"
-friendly = "does-testing-keep-you-from-making-a-huge-mistake"
-guests = ["lcreamer","nbrengle","jsheehan"]
-images = []
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode002.mp3"
-podcast_bytes = "129279863"
-podcast_duration = "1:07:20"
-sponsors = []
-tags = []
 title = "Does Testing Keep you from making a huge mistake?"
+Description = "What role does testing play in DevOps?"
+Date = 2013-12-16T09:45:16-05:00
+PublishDate = 2013-12-16T09:45:16-05:00
+podcast_file = "arrested-devops-podcast-episode02.mp3"
+episode_image = "/episode/img/does-testing-keep-you-from-making-a-huge-mistake.png"
+episode_banner = "/episode/img/does-testing-keep-you-from-making-a-huge-mistake-banner.png"
+guests = ["lcreamer","nbrengle","jsheehan",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "2"
+images = ["/img/social/fb/does-testing-keep-you-from-making-a-huge-mistake.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/2",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "uVge4fkjF8w"
-explicit = "yes"
 
 +++
 Things get off to a great start during the retro, where Trevor complains about destroying his USB 3.0 drivers due to a Win 8.1 upgrade and Matt turns into a Cylon.

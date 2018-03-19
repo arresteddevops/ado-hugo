@@ -1,24 +1,21 @@
 +++
-Description = "Bridget chats with Jez Humble (DORA) about continuous everything."
-aliases = ["/92"]
-author = "Bridget"
-categories = []
-date = "2017-08-23T17:55:48-05:00"
-episode = "92"
-explicit = "yes"
-friendly = "ci-cd"
-guests = ["jhumble2"]
-images = ["https://www.arresteddevops.com/img/social/fb/ci-cd.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode092.mp3"
-podcast_duration = "57:40"
-sponsors = ["thoughtworks", "victorops", "10thmagnitude"]
-tags = []
 title = "CI, CD, Oh My! with Jez Humble"
+Description = "Bridget chats with Jez Humble (DORA) about continuous everything."
+Date = 2017-08-23T17:55:48-05:00
+PublishDate = 2017-08-23T17:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode092.mp3"
+episode_image = "/episode/img/ci-cd.png"
+episode_banner = "/episode/img/ci-cd-banner.png"
+guests = ["jhumble2",] # The names of your guests, based on the filename without extension.
+sponsors = ["thoughtworks","victorops","10thmagnitude",]
+episode = "92"
+images = ["/img/social/fb/ci-cd.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/92",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "qKQ7pqQwRmM"
 
 +++
-
 Bridget chats with Jez Humble (DORA) about continuous... everything!
 
 

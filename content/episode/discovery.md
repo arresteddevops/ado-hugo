@@ -1,24 +1,21 @@
 +++
-Description = "Bridget chats with Julia Evans (Stripe) about learning, service discovery, CAP theorem, distributed systems, remote work, zines, and more!"
-aliases = ["/77"]
-author = "Bridget"
-categories = []
-date = "2016-11-15T20:59:40-05:00"
-episode = "77"
-explicit = "yes"
-friendly = "discovery"
-guests = ["jevans"]
-images = ["https://www.arresteddevops.com/img/social/fb/discovery.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode077.mp3"
-podcast_duration = "1:05:29"
-sponsors = ["10thmagnitude", "victorops", "hired"]
-tags = []
 title = "Discovery with Julia Evans"
+Description = "Bridget chats with Julia Evans (Stripe) about learning, service discovery, CAP theorem, distributed systems, remote work, zines, and more!"
+Date = 2016-11-15T20:59:40-05:00
+PublishDate = 2016-11-15T20:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode077.mp3"
+episode_image = "/episode/img/discovery.png"
+episode_banner = "/episode/img/discovery-banner.png"
+guests = ["jevans",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","hired",]
+episode = "77"
+images = ["/img/social/fb/discovery.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/77",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "d1P7HGo4fg4"
 
 +++
-
 Distributed systems, service discovery, load balancing: [Service Discovery at Stripe](https://stripe.com/blog/service-discovery-at-stripe)
 
 ## Community & Event Stuff

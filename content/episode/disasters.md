@@ -1,25 +1,21 @@
 +++
-Description = "In this episode, Stephanie Van Dyk and Mark Imbriaco discuss how to communicate and how to recover in the event of complete disasters."
-aliases = ["/37"]
-author = "Matt"
-categories = []
-date = "2015-05-28T22:23:56-05:00"
-episode = "37"
-friendly = "disasters"
-guests = ["svandyk", "mimbriaco"]
-images = ["https://www.arresteddevops.com/img/social/fb/disasters.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode037.mp3"
-podcast_bytes = "50064172"
-podcast_duration = "59:36"
-sponsors = ["victorops","10thmagnitude"]
-tags = []
 title = "Disasters!"
+Description = "In this episode, Stephanie Van Dyk and Mark Imbriaco discuss how to communicate and how to recover in the event of complete disasters."
+Date = 2015-05-28T22:23:56-05:00
+PublishDate = 2015-05-28T22:23:56-05:00
+podcast_file = "arrested-devops-podcast-episode037.mp3"
+episode_image = "/episode/img/disasters.png"
+episode_banner = "/episode/img/disasters-banner.png"
+guests = ["svandyk","mimbriaco",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","10thmagnitude",]
+episode = "37"
+images = ["/img/social/fb/disasters.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/37",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "E_DdM-pGHb8"
-explicit = "yes"
 
 +++
-
 **Stephanie Van Dyk** [@sevandyk](https://twitter.com/sevandyk) is an SRE at Google, and has also worked on [healthcare.gov](http://healthcare.gov).
 
 **Mark Imbriaco** [@markimbriaco](http://twitter.com/markimbriaco) is co-founder and CEO of OperableInc. He's worked previously at DigitalOcean, GitHub, LivingSocial, Heroku, and 37signals.

@@ -1,23 +1,19 @@
 +++
-Description = "JJ Asghar joins us to help school Matt about what is going on in the OpenStack world"
-aliases = ["/58"]
-author = "Matt"
-categories = []
-date = "2016-02-25T22:09:46-06:00"
-episode = "58"
-friendly = "openstack"
-guests = ["jjasghar"]
-images = ["https://www.arresteddevops.com/img/social/fb/openstack.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode058.mp3"
-podcast_duration = "40:27"
-sponsors = ["datadog", "10thmagnitude"]
-tags = []
 title = "Open Your Stack with JJ Asghar"
-explicit = "yes"
-
+Description = "JJ Asghar joins us to help school Matt about what is going on in the OpenStack world"
+Date = 2016-02-25T22:09:46-06:00
+PublishDate = 2016-02-25T22:09:46-06:00
+podcast_file = "arrested-devops-podcast-episode058.mp3"
+episode_image = "/episode/img/openstack.png"
+episode_banner = "/episode/img/openstack-banner.png"
+guests = ["jjasghar",] # The names of your guests, based on the filename without extension.
+sponsors = ["datadog","10thmagnitude",]
+episode = "58"
+images = ["/img/social/fb/openstack.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/58",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 * [OpenStack OSOps](https://wiki.openstack.org/wiki/Osops)
 * [Check out this tool library for OpenStack operators](http://superuser.openstack.org/articles/check-out-this-tool-library-for-openstack-operators)
 * [OpenStack-model-t](https://github.com/chef-partners/openstack-model-t)

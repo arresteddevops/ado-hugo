@@ -1,23 +1,21 @@
 +++
-Description = "Bridget and Matt (in his triumphant return) chat with Aneel Lakhani (SignalFX) and Jason Dixon about modern monitoring, alerting, event streams, and more."
-aliases = ["/65"]
-author = "Bridget"
-categories = []
-date = "2016-06-05T13:36:25-04:00"
-episode = "65"
-friendly = "finding-signal-in-the-noise"
-guests = ["jdixon2", "alakhani"]
-images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-toronto-2016.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode065.mp3"
-podcast_duration = "56:26"
-sponsors = ["10thmagnitude", "datadog"]
-tags = []
 title = "Finding Signal in the Noise, with Aneel Lakhani and Jason Dixon"
+Description = "Bridget and Matt (in his triumphant return) chat with Aneel Lakhani (SignalFX) and Jason Dixon about modern monitoring, alerting, event streams, and more."
+Date = 2016-06-05T13:36:25-04:00
+PublishDate = 2016-06-05T13:36:25-04:00
+podcast_file = "arrested-devops-podcast-episode065.mp3"
+episode_image = "/episode/img/finding-signal-in-the-noise.png"
+episode_banner = "/episode/img/finding-signal-in-the-noise-banner.png"
+guests = ["jdixon2","alakhani",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "65"
+images = ["/img/social/fb/finding-signal-in-the-noise.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/65",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "6YYVayCRfgI"
-explicit = "yes"
-+++
 
++++
 * Jason's Graphite book: [Monitoring with Graphite: Tracking Dynamic Host and Application Metrics at Scale](http://shop.oreilly.com/product/0636920035794.do)
 * James Turnbull's [Art of Monitoring](https://artofmonitoring.com/)
 

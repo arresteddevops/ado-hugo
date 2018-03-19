@@ -1,24 +1,21 @@
 +++
-Description = "Matt and Bridget chat with Michael Hedgpeth (NCR) and Doug Ireton (1Strategy) about organizations adopting open source."
-aliases = ["/70"]
-author = "Bridget"
-categories = []
-date = "2016-08-29T20:55:48-05:00"
-episode = "70"
-friendly = "open-source-ops"
-guests = ["mhedgpeth", "direton"]
-images = ["http://arresteddevops.com/img/social/fb/open-source-ops.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode070.mp3"
-podcast_duration = "1:09:32"
-sponsors = ["10thmagnitude", "datadog", "hired"]
-tags = []
 title = "Operationalizing Open Source with Michael Hedgpeth and Doug Ireton"
+Description = "Matt and Bridget chat with Michael Hedgpeth (NCR) and Doug Ireton (1Strategy) about organizations adopting open source."
+Date = 2016-08-29T20:55:48-05:00
+PublishDate = 2016-08-29T20:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode070.mp3"
+episode_image = "/episode/img/open-source-ops.png"
+episode_banner = "/episode/img/open-source-ops-banner.png"
+guests = ["mhedgpeth","direton",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog","hired",]
+episode = "70"
+images = ["/img/social/fb/open-source-ops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/70",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "UGUg6F4gCuM"
-explicit = "yes"
 
 +++
-
 Matt and Bridget chat with Michael Hedgpeth (NCR) and Doug Ireton (1Strategy) about organizations adopting open source.
 
 

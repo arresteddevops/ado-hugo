@@ -1,21 +1,19 @@
 +++
-Description = "Arrested DevOps teams up with The Goat Farm (http://goatcan.do) to talk about the ways that sales folks, solution architects, and other vendor roles can help be a partner to your organization and not just a necessary evil"
-aliases = ["/57"]
-author = "Matt"
-categories = []
-date = "2016-02-11T19:54:25-06:00"
-episode = "57"
-friendly = "vendors"
-guests = ["mducy"]
-images = ["https://www.arresteddevops.com/img/social/fb/vendors.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode057.mp3"
-podcast_duration = "1:03:43"
-sponsors = ["datadog", "10thmagnitude"]
-tags = []
 title = "Vendors: Frenemies or Friends? with Michael Ducy of The Goat Farm"
+Description = "Arrested DevOps teams up with The Goat Farm (http://goatcan.do) to talk about the ways that sales folks, solution architects, and other vendor roles can help be a partner to your organization and not just a necessary evil"
+Date = 2016-02-11T19:54:25-06:00
+PublishDate = 2016-02-11T19:54:25-06:00
+podcast_file = "arrested-devops-podcast-episode057.mp3"
+episode_image = "/episode/img/vendors.png"
+episode_banner = "/episode/img/vendors-banner.png"
+guests = ["mducy",] # The names of your guests, based on the filename without extension.
+sponsors = ["datadog","10thmagnitude",]
+episode = "57"
+images = ["/img/social/fb/vendors.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/57",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "3NBD0NQucv0"
-explicit = "yes"
 
 +++
 This was a special co-production with [The Goat Farm](http:///goatcan.com). Don't forget to subscribe to their Enterprise DevOps podcast on [iTunes](https://itunes.apple.com/us/podcast/the-goat-farm/id963113606) or [Stitcher](http://www.stitcher.com/podcast/the-goat-farm/the-goat-farm?refid=stpr)!

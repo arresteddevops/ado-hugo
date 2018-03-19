@@ -1,21 +1,18 @@
 +++
-Description = "DevOps 'Thought Leaders' Pete Cheslock, Nathen Harvey, and Randi Harper help us understand all the things you can do wrong when 'doing the DevOps'."
-aliases = ["/14"]
-author = "Matt"
-categories = []
-date = "2014-07-07T12:27:03-05:00"
-episode = "14"
-friendly = "how-to-eff-up-devops"
-guests = ["pcheslock", "nharvey", "rharper"]
-images = ["https://www.arresteddevops.com/img/social/fb/how-to-eff-up-devops.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode014.mp3"
-podcast_bytes = "57069959"
-podcast_duration = "59:27"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
-explicit = "yes"
 title = "how to eff up devops"
+Description = "DevOps 'Thought Leaders' Pete Cheslock, Nathen Harvey, and Randi Harper help us understand all the things you can do wrong when 'doing the DevOps'."
+Date = 2014-07-07T12:27:03-05:00
+PublishDate = 2014-07-07T12:27:03-05:00
+podcast_file = "arrested-devops-podcast-episode014.mp3"
+episode_image = "/episode/img/how-to-eff-up-devops.png"
+episode_banner = "/episode/img/how-to-eff-up-devops-banner.png"
+guests = ["pcheslock","nharvey","rharper",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "14"
+images = ["/img/social/fb/how-to-eff-up-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/14",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "3Z-_aeby-3g"
 
 +++
