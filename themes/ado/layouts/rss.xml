@@ -6,7 +6,9 @@
      xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
      xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
   <channel>
     <title>{{ .Site.Title }}</title>
     <atom:link href="https://www.arresteddevops.com/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
-    <copyright>2014-2016 Arrested DevOps</copyright>
+    <copyright>2014-2018 Arrested DevOps</copyright>
     <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
     <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
     <itunes:summary>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.</itunes:summary>
@@ -25,16 +27,22 @@
     <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
+    <itunes:new-feed-url>https://www.arresteddevops.com/episode/index.xml</itunes:new-feed-url>
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" />
       <itunes:category text="Tech News" />
     </itunes:category>
     {{ range (where .Site.Pages "Type" "episode") }}
+    {{ if isset .Params "podcast" }}
     <item>
       <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
       <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
-      <itunes:summary>{{ .Description }}</itunes:summary>
-      <description>{{ .Description }}</description>
+      <itunes:summary><![CDATA[{{ .Description | markdownify }}]></itunes:summary>
+      <description><![CDATA[{{ .Description | markdownify }}]></description>
+      <googleplay:description><![CDATA[{{ .Description | markdownify }}]></googleplay:description>
+      <content:encoded><![CDATA[{{ .Content }}]></content:encoded>
+      <itunes:image href="{{ (printf "/episode/img/%s.png" .File.BaseFileName) | absURL}}"></itunes:image>
+      <googleplay:image href="{{ (printf "/episode/img/%s.png" .File.BaseFileName) | absURL }}"></googleplay:image>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes}}" type="audio/mpeg" />
       <guid>{{ .Params.podcast }}</guid>
       <link>{{ .Permalink }}</link>
@@ -42,6 +50,7 @@
       <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
       <itunes:explicit>{{ .Params.explicit}}</itunes:explicit>
     </item>
+    {{ end }}
     {{ end }}
   </channel>
 </rss>
