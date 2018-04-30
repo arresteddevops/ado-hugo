@@ -15,6 +15,7 @@ podcast_duration = "31:11"
 sponsors = ["chef", "datadog"]
 tags = []
 title = "GOTO Chicago 2018"
+youtube = "rT_cPdMqg5A"
 
 +++
 
