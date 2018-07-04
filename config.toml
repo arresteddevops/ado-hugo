@@ -22,7 +22,7 @@ paginate = 9
 Facebook = "//facebook.com/Arresteddevops"
 GATracker = "UA-45939822-1"
 Twitter = "//twitter.com/arresteddevops"
-Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
+Description = "Arrested DevOps is hosted by Matty Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
 	[params.social]
 		github = "arresteddevops"
 		facebook = "Arresteddevops"
@@ -36,9 +36,9 @@ Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Brid
 		linkedin = "nozzleio"
 	[params.authors]
 	  [params.authors.Matt]
-			name	= "Matt Stratton"
+			name	= "Matty Stratton"
 			thumbnail = "https://www.arresteddevops.com/img/matt.png"
-			bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
+			bio = "Matty Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
 			[params.authors.Matt.social]
 				github = "mattstratton"
 				facebook = "matt.stratton"

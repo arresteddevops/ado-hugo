@@ -11,5 +11,5 @@ features = ["", ""]
 min_version = 0.13
 
 [author]
-  name = "Matt Stratton"
+  name = "Matty Stratton"
   homepage = "http://mattstratton.io"
