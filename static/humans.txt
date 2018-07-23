@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 /* TEAM */
-	Co-Host and Pretend Front-End Developer: Matt Stratton
+	Co-Host and Pretend Front-End Developer: Matty Stratton
 	Contact: matt.stratton [at] gmail.com
 	Twitter: @mattstratton
 	From: Chicago, Illinois, USA

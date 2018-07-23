@@ -20,11 +20,11 @@
     <copyright>2014-2018 Arrested DevOps</copyright>
     <generator>Hugo -- gohugo.io</generator>
     <itunes:subtitle>There's always DevOps in the Banana Stand</itunes:subtitle>
-    <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+    <itunes:author>Matty Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
     <itunes:summary>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness.</itunes:summary>
     <description>Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and business for maximum DevOps awesomeness.</description>
     <itunes:owner>
-    <itunes:name>Matt Stratton</itunes:name>
+    <itunes:name>Matty Stratton</itunes:name>
     <itunes:email>matt.stratton@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
@@ -37,7 +37,7 @@
         {{ if isset .Params "podcast" }}
     <item>
         <title>{{ title .Title }} - ADO{{ .Params.episode }}</title>
-        <itunes:author>Matt Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
+        <itunes:author>Matty Stratton, Trevor Hess, and Bridget Kromhout</itunes:author>
         <itunes:summary>{{ .Description | plainify }}</itunes:summary>
         <description>{{ .Description  | plainify  }}</description>
         <googleplay:description>{{ .Description  | plainify }}</googleplay:description>
