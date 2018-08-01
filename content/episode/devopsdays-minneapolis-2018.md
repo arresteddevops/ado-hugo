@@ -1,10 +1,10 @@
 +++
 Description = "Bridget and Matty chat about organizing conferences with guests Jamesha \"Jam\" Fisher, Debbie Gillespie, and Christian Herro, in front of a live studio audience at devopsdays Minneapolis 2018."
-aliases = ["/110"]
+aliases = ["/111"]
 author = "Bridget"
 categories = []
 date = "2018-07-22T17:55:48-05:00"
-episode = "110"
+episode = "111"
 explicit = "yes"
 friendly = "devopsdays-minneapolis-2018"
 guests = ["jfisher", "dgillespie", "cherro"]
