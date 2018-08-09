@@ -15,7 +15,7 @@ podcast_duration = "38:24"
 sponsors = ["chef", "datadog", "pagerduty"]
 tags = []
 title = "devopsdays Minneapolis 2018"
-youtube = "LINK"
+youtube = "SOe29S_q9jM"
 
 +++
 
