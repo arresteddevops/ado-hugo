@@ -26,7 +26,7 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 - [Scott Hanselman's Blog](http://www.hanselman.com/blog/)
 - [blog dot lusis](http://blog.lusis.org/)
 - [Bridget Kromhout's Blog](http://bridgetkromhout.com/)
-- [Matt Stratton's sorta-tech blog](https://www.mattstratton.io)
+- [Matty Stratton's sorta-tech blog](https://www.mattstratton.io)
 - [Cote.io](https://cote.io/)
 - [The IT Skeptic](http://www.itskeptic.org/)
 - [The New Dromologue](http://www.dromologue.com/)
