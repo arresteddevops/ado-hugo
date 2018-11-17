@@ -1,23 +1,19 @@
 +++
-Description = "Guests J. Paul Reed and Mary Thengvall talk about resiliency, safety, and a great new conference - REdeploy"
-aliases = ["/110"]
-author = "Matty"
-categories = []
-date = "2018-08-01T15:55:48-05:00"
-episode = "110"
-explicit = "no"
-friendly = "safety"
-guests = ["jreed", "mthengvall"]
-images = ["https://www.arresteddevops.com/img/social/fb/safety.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode110.mp3"
-podcast_duration = "01:07:49"
-sponsors = ["datadog", "pagerduty"]
-tags = []
 title = "Let’s be careful out there"
-
+Description = "Guests J. Paul Reed and Mary Thengvall talk about resiliency, safety, and a great new conference - REdeploy"
+Date = 2018-08-01T15:55:48-05:00
+PublishDate = 2018-08-01T15:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode110.mp3"
+episode_image = "/episode/img/safety.png"
+episode_banner = "/episode/img/safety-banner.png"
+guests = ["jreed","mthengvall",] # The names of your guests, based on the filename without extension.
+sponsors = ["datadog","pagerduty",]
+episode = "110"
+images = ["/img/social/fb/safety.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/110",]
+explicit = "no" # values are "yes" or "no"
 +++
-
 Guests J. Paul Reed and Mary Thengvall talk about resiliency, safety, and a great new conference - [REdeploy](https://re-deploy.io)!
 
 ## Community & Event Stuff

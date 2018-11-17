@@ -1,21 +1,18 @@
 +++
-Description = "How do Agile and DevOps relate?"
-aliases = ["/4"]
-author = "Matt"
-categories = []
-date = "2014-01-03T09:52:25-05:00"
-episode = "4"
-friendly = "agile-and-devops"
-guests = ["pobrien","llagestee"]
-images = ["https://www.arresteddevops.com/img/social/fb/agile-and-devops.png", ""]
-news_keywords = []
-explicit = "yes"
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode004.mp3"
-podcast_bytes = "118724721"
-podcast_duration = "1:01:50"
-sponsors = []
-tags = []
 title = "agile and devops"
+Description = "How do Agile and DevOps relate?"
+Date = 2014-01-03T09:52:25-05:00
+PublishDate = 2014-01-03T09:52:25-05:00
+podcast_file = "arrested-devops-podcast-episode04.mp3"
+episode_image = "/episode/img/agile-and-devops.png"
+episode_banner = "/episode/img/agile-and-devops-banner.png"
+guests = ["pobrien","llagestee",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "4"
+images = ["/img/social/fb/agile-and-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/4",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "dYzbqgACh4g"
 
 +++

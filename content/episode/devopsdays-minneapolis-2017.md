@@ -1,24 +1,21 @@
 +++
-Description = "Bridget and Matt chat about enterprise transformation and open source with guests Bryan Liles, Jessie Frazelle, and Andrew Clay Shafer, in front of a live studio audience at devopsdays Minneapolis 2017."
-aliases = ["/91"]
-author = "Bridget"
-categories = []
-date = "2017-07-29T07:55:48-05:00"
-episode = "91"
-explicit = "yes"
-friendly = "devopsdays-minneapolis-2017"
-guests = ["bliles", "jfrazelle2", "ashafer"]
-images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-minneapolis-2017.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode091.mp3"
-podcast_duration = "48:28"
-sponsors = ["thoughtworks", "victorops", "10thmagnitude"]
-tags = []
 title = "devopsdays Minneapolis 2017 with Bryan Liles, Jessie Frazelle, and Andrew Clay Shafer"
+Description = "Bridget and Matt chat about enterprise transformation and open source with guests Bryan Liles, Jessie Frazelle, and Andrew Clay Shafer, in front of a live studio audience at devopsdays Minneapolis 2017."
+Date = 2017-07-29T07:55:48-05:00
+PublishDate = 2017-07-29T07:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode091.mp3"
+episode_image = "/episode/img/devopsdays-minneapolis-2017.png"
+episode_banner = "/episode/img/devopsdays-minneapolis-2017-banner.png"
+guests = ["bliles","jfrazelle2","ashafer",] # The names of your guests, based on the filename without extension.
+sponsors = ["thoughtworks","victorops","10thmagnitude",]
+episode = "91"
+images = ["/img/social/fb/devopsdays-minneapolis-2017.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/91",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "nlOIxfLBok4"
 
 +++
-
 Bridget and Matt chat about enterprise transformation and open source with guests Bryan Liles, Jessie Frazelle, and Andrew Clay Shafer, in front of a live studio audience at devopsdays Minneapolis 2017.
 
 * [devopsdays Minneapolis 2017](http://www.devopsdays.org/events/2017-minneapolis/welcome/)

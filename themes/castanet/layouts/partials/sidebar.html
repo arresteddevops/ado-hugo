@@ -1,0 +1,155 @@
+<div class="row"><!-- subscribe begin -->
+  <div class="col-md-12 sidebar_general">
+    <div class = "row">
+      <div class = "col-md-12">
+        <h3 class="sidebar_headline text-uppercase">Subscribe</h3>
+      </div>
+    </div>
+    <div class="row">
+      {{ if (isset .Site.Params "itunes_subscribe") }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{ .Site.Params.itunes_subscribe}}"><i class="fab fa-itunes-note"></i>&nbsp;iTunes</a>
+        </div>
+      {{ end }}
+      {{ if (isset .Site.Params "android_subscribe") }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default subscribe_buttons" href="{{ .Site.Params.android_subscribe }}"><i class="fab fa-android"></i>&nbsp;Android</a>
+        </div>
+      {{ end }}
+      {{ if (isset .Site.Params "google_play_subscribe") }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{ .Site.Params.google_play_subscribe }}"><i class="fab fa-google-play"></i>&nbsp;Google Play Music</a>
+        </div>
+      {{ end }}
+      {{ with .Site.Params.stitcher_subscribe }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{ . }}"><i class="fa fa-podcast"></i>&nbsp;Stitcher</a>
+        </div>
+      {{ end }}
+      {{ if (isset .Site.Params "soundcloud_subscribe") }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{ .Site.Params.soundcloud_subscribe }}"><i class="fab fa-soundcloud"></i>&nbsp;Soundcloud</a>
+        </div>
+      {{ end }}
+      {{ if (isset .Site.Params "pocketcasts_subscribe") }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{ .Site.Params.pocketcasts_subscribe }}"><i class="fa fa-podcast"></i>&nbsp;PocketCasts</a>
+        </div>
+      {{ end }}
+      {{ if (isset .Site.Params "rss_subscribe" )}}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{ .Site.Params.rss_subscribe }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
+        </div>
+      {{ else }}
+        <div class = "col-md-12 subscribe_buttons">
+          <a class="btn btn-default" href="{{"episode/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;Subscribe via RSS</a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div><!-- subscribe end -->
+
+{{ if (isset .Site.Params "mailchimp_subscribe") }} <!-- mailchimp begin -->
+  <div class="row">
+    <div class="col-md-12 sidebar_general">
+      <div class = "row">
+        <div class = "col-md-12">
+          <h3 class="sidebar_headline text-uppercase">Join Our Mailing List</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <!-- Begin MailChimp Signup Form -->
+          <!-- <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css"> -->
+          <div id="mc_embed_signup">
+          <form action="{{ .Site.Params.mailchimp_subscribe }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+          	<label for="mce-EMAIL">Subscribe to our mailing list</label>
+          	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5e4cbcac996bb9df25f970a89_154fa76bcc" tabindex="-1" value=""></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+              </div>
+          </form>
+          </div>
+
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}<!-- mailchimp end -->
+
+<!-- links sidebar -->
+{{ if isset $.Site.Params "links" }}
+  <div class = "row">
+    <div class="col-md-12 sidebar_general">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="sidebar_headline text-uppercase">
+            {{/* {{ $.Site.Params.links.title }} */}}
+            Links
+          </h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class = "col-md-12">
+          <div class="sidebar_content">
+            <ul>
+              {{ range $l:= $.Site.Params.links }}
+                <li><a href = "{{ $l.url }}">{{ $l.name}}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
+
+
+{{ if (isset .Site.Params "description") }} <!-- about begin -->
+  <div class="row">
+    <div class="col-md-12 sidebar_general">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="sidebar_headline text-uppercase">About {{ .Site.Params.title }}</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="sidebar_content">
+            {{ .Site.Params.description | markdownify }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }} <!-- end about -->
+
+<!-- host sidebar -->
+<div class = "row">
+  <div class="col-md-12 sidebar_general">
+    <div class="row">
+      <div class="col-md-12">
+        <h3 class="sidebar_headline text-uppercase">
+        {{ if eq (len $.Site.Params.authors) 1 }}
+          Host
+        {{ else }}
+          Hosts
+        {{ end }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class = "col-md-12">
+        <div class="sidebar_content">
+          {{ range $p:= $.Site.Params.authors }}
+            <img alt = "{{ $p.name }}" src = "{{ $p.thumbnail | absURL }}" class="img-fluid">
+            <br />
+            {{ $p.name }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

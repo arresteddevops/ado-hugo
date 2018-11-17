@@ -1,22 +1,17 @@
 +++
-Description = "Trevor is joined by Steven Murawski at Microsoft Ignite 2018, and have a quick catch up on the event and the state of the DevOps world."
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode116.mp3"
-podcast_duration = "32:49"
-tags = []
-categories = []
-guests = ["smurawski1"]
-sponsors = ["chef","datadog"]
-friendly = "ignite-2018-smurawski"
-episode = "116"
 title = "Ignite 2018 Catch Up with Steven Murawski"
-images = ["https://www.arresteddevops.com/img/social/fb/ignite-2018-smurawski.png"]
-news_keywords = []
-author = "Trevor"
-aliases = ["/116","smurawski-ignite18"]
-explicit = "yes"
-date = "2018-10-15T18:55:48-05:00"
+Description = "Trevor is joined by Steven Murawski at Microsoft Ignite 2018, and have a quick catch up on the event and the state of the DevOps world."
+Date = 2018-10-15T18:55:48-05:00
+PublishDate = 2018-10-15T18:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode116.mp3"
+episode_image = "/episode/img/ignite-2018-smurawski.png"
+episode_banner = "/episode/img/ignite-2018-smurawski-banner.png"
+guests = ["smurawski1",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "116"
+images = ["/img/social/fb/ignite-2018-smurawski.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/116","smurawski-ignite18",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 Trevor is joined by Steven Murawski at Microsoft Ignite 2018, and have a quick catch up on the event and the state of the DevOps world.
-
-

@@ -1,24 +1,21 @@
 +++
-Description = "Bridget and Matt discuss the past and future of tech with Andrew Clay Shafer."
-aliases = ["/103"]
-author = "Bridget"
-categories = []
-date = "2018-02-10T08:55:48-05:00"
-episode = "103"
-explicit = "yes"
-friendly = "fireside-chat-littleidea"
-guests = ["ashafer"]
-images = ["https://www.arresteddevops.com/img/social/fb/fireside-chat-littleidea.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode103.mp3"
-podcast_duration = "1:08:12"
-sponsors = ["chef", "datadog"]
-tags = []
 title = "Fireside Chat with Andrew Clay Shafer"
+Description = "Bridget and Matt discuss the past and future of tech with Andrew Clay Shafer."
+Date = 2018-02-10T08:55:48-05:00
+PublishDate = 2018-02-10T08:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode103.mp3"
+episode_image = "/episode/img/fireside-chat-littleidea.png"
+episode_banner = "/episode/img/fireside-chat-littleidea-banner.png"
+guests = ["ashafer",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "103"
+images = ["/img/social/fb/fireside-chat-littleidea.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/103",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "8Cvd8sae00Q"
 
 +++
-
 Bridget and Matt discuss the past and future of tech with Andrew Clay Shafer.
 
 ## Previous episodes with Andrew Clay Shafer
@@ -52,5 +49,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 
 ### Discount codes
 - ADO2018 for 20% off lots of devopsdays, 10% off ChefConf, 5% off GopherCon.
-
-

@@ -1,24 +1,21 @@
 +++
-Description = "Bridget and Matt chat about devops in a large enterprise with Bryan Liles (Capital One)."
-aliases = ["/83"]
-author = "Bridget"
-categories = []
-date = "2017-04-17T14:59:40-05:00"
-episode = "83"
-explicit = "yes"
-friendly = "enterprise"
-guests = ["bliles"]
-images = ["https://www.arresteddevops.com/img/social/fb/enterprise.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode083.mp3"
-podcast_duration = "49:49"
-sponsors = ["10thmagnitude", "victorops", "datadog"]
-tags = []
 title = "Enterprises with Bryan Liles"
+Description = "Bridget and Matt chat about devops in a large enterprise with Bryan Liles (Capital One)."
+Date = 2017-04-17T14:59:40-05:00
+PublishDate = 2017-04-17T14:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode083.mp3"
+episode_image = "/episode/img/enterprise.png"
+episode_banner = "/episode/img/enterprise-banner.png"
+guests = ["bliles",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","datadog",]
+episode = "83"
+images = ["/img/social/fb/enterprise.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/83",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "9V0bfPLeYvo"
 
 +++
-
 Bridget and Matt chat about devops in a large enterprise with Bryan Liles (Capital One).
 
 

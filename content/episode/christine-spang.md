@@ -1,20 +1,18 @@
 +++
-Description = "Matty chats with Nylas CTO Christine Spang"
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode113.mp3"
-podcast_duration = ""
-tags = []
-categories = []
-guests = ["cspang"]
-sponsors = ["chef","datadog"]
-friendly = "christine-spang"
-episode = "113"
 title = "Fireside Chat with Christine Spang"
-images = ["https://www.arresteddevops.com/img/social/fb/christine-spang.png"]
-news_keywords = []
-author = "Matt"
-aliases = ["/113","spang"]
-explicit = "no"
-date = "2018-08-22T17:55:48-05:00"
+Description = "Matty chats with Nylas CTO Christine Spang"
+Date = 2018-08-22T17:55:48-05:00
+PublishDate = 2018-08-22T17:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode113.mp3"
+episode_image = "/episode/img/christine-spang.png"
+episode_banner = "/episode/img/christine-spang-banner.png"
+guests = ["cspang",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "113"
+images = ["/img/social/fb/christine-spang.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/113","spang",]
+explicit = "no" # values are "yes" or "no"
 +++
 Matty has a chat with Christine Spang of Nylas about company culture and on-call techniques and war stories.
 

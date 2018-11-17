@@ -1,25 +1,21 @@
 +++
-Description = "Starting any new job can be a mix of fun, excitement, and nervousness. But what about when you're coming into a DevOps-oriented organization? What are some of the special challenges entering a collaborative, 'blameless' place of work? Ryn Daniels and Jake Champlin join us to discuss their recent experiences of starting at some pretty exciting workplaces."
-aliases = ["/32"]
-author = "Matt"
-categories = []
-date = "2015-03-13T21:28:13-05:00"
-episode = "32"
-friendly = "starting-a-new-devops-job"
-guests = ["rdaniels","jchamplin"]
-images = ["https://www.arresteddevops.com/img/social/fb/starting-a-new-devops-job.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode032.mp3"
-podcast_bytes = "46342020"
-podcast_duration = "55:10"
-sponsors = ["pagerduty","datadog","10thmagnitude"]
-tags = []
 title = "starting a new devops job"
+Description = "Starting any new job can be a mix of fun, excitement, and nervousness. But what about when you're coming into a DevOps-oriented organization? What are some of the special challenges entering a collaborative, 'blameless' place of work? Ryn Daniels and Jake Champlin join us to discuss their recent experiences of starting at some pretty exciting workplaces."
+Date = 2015-03-13T21:28:13-05:00
+PublishDate = 2015-03-13T21:28:13-05:00
+podcast_file = "arrested-devops-podcast-episode032.mp3"
+episode_image = "/episode/img/starting-a-new-devops-job.png"
+episode_banner = "/episode/img/starting-a-new-devops-job-banner.png"
+guests = ["rdaniels","jchamplin",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","datadog","10thmagnitude",]
+episode = "32"
+images = ["/img/social/fb/starting-a-new-devops-job.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/32",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "5OSJ_X3FeAA"
-explicit = "yes"
 
 +++
-
 Tonight's episode featured a special guest host, Julian Dunn of Chef.
 
 Our panel:

@@ -1,24 +1,19 @@
 +++
-Description = "DevOps revolves a lot around what an organization and culture should look like. We talk about it on just about every episode of this podcast. Something we tend to skate around though is the how. How do you change the culture of an organization?"
-aliases = ["/33"]
-author = "Matt"
-categories = []
-date = "2015-03-31T21:34:20-05:00"
-episode = "33"
-friendly = "devops-culture-change"
-guests = ["bjoy"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-culture-change.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode033.mp3"
-podcast_bytes = "53877921"
-podcast_duration = "1:04:08"
-sponsors = ["pagerduty", "datadog","10thmagnitude"]
-tags = []
 title = "DevOps Culture Change with Bill Joy"
-explicit = "yes"
-
+Description = "DevOps revolves a lot around what an organization and culture should look like. We talk about it on just about every episode of this podcast. Something we tend to skate around though is the how. How do you change the culture of an organization?"
+Date = 2015-03-31T21:34:20-05:00
+PublishDate = 2015-03-31T21:34:20-05:00
+podcast_file = "arrested-devops-podcast-episode033.mp3"
+episode_image = "/episode/img/devops-culture-change.png"
+episode_banner = "/episode/img/devops-culture-change-banner.png"
+guests = ["bjoy",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","datadog","10thmagnitude",]
+episode = "33"
+images = ["/img/social/fb/devops-culture-change.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/33",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 <h1><strong>How to Change the Culture of an Organization</strong></h1>
 <strong><em>“Change management rests with the how”</em></strong> – Bill Joy
 

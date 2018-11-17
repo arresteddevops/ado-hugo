@@ -1,24 +1,21 @@
 +++
-Description = "Bridget chats about startups with Charity Majors (Honeycomb) and Nicole Forsgren (DORA)"
-aliases = ["/82"]
-author = "Bridget"
-categories = []
-date = "2017-03-04T14:59:40-05:00"
-episode = "82"
-explicit = "yes"
-friendly = "startups"
-guests = ["cmajors2","nforsgren2"]
-images = ["https://www.arresteddevops.com/img/social/fb/startups.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode082.mp3"
-podcast_duration = "55:44"
-sponsors = ["10thmagnitude", "victorops", "datadog"]
-tags = []
 title = "Startups with Charity Majors & Nicole Forsgren"
+Description = "Bridget chats about startups with Charity Majors (Honeycomb) and Nicole Forsgren (DORA)"
+Date = 2017-03-04T14:59:40-05:00
+PublishDate = 2017-03-04T14:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode082.mp3"
+episode_image = "/episode/img/startups.png"
+episode_banner = "/episode/img/startups-banner.png"
+guests = ["cmajors2","nforsgren2",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","datadog",]
+episode = "82"
+images = ["/img/social/fb/startups.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/82",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "fZ4SvRqPrq0"
 
 +++
-
 Bridget chats about startups with Charity Majors ([Honeycomb](https://honeycomb.io)) and Nicole Forsgren ([DORA](https://devops-research.com/)).
 
 
@@ -50,4 +47,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 ### Open CFPs
 
 * [lots of DevOpsDays](https://devopsdays.org/speaking)
-

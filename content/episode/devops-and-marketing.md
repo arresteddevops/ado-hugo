@@ -1,25 +1,21 @@
 +++
-Description = "Marketing departments are often told, 'Don't use the term DevOps incorrectly!'' But exactly HOW should our marketing peers use that term? How can we effectively talk about DevOps in the marketing space? Shannon Smith from 10th Magnitude and Jason Hand from VictorOps joined us to discuss this heated topic."
-aliases = ["/35"]
-author = "Matt"
-categories = []
-date = "2015-04-29T21:48:23-05:00"
-episode = "35"
-friendly = "devops-and-marketing"
-guests = ["jhand","ssmith"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-and-marketing.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode035.mp3"
-podcast_bytes = "58634033"
-podcast_duration = "1:09:48"
-sponsors = ["victorops", "stackexchange","10thmagnitude"]
-tags = []
 title = "DevOps and Marketing"
+Description = "Marketing departments are often told, 'Don't use the term DevOps incorrectly!'' But exactly HOW should our marketing peers use that term? How can we effectively talk about DevOps in the marketing space? Shannon Smith from 10th Magnitude and Jason Hand from VictorOps joined us to discuss this heated topic."
+Date = 2015-04-29T21:48:23-05:00
+PublishDate = 2015-04-29T21:48:23-05:00
+podcast_file = "arrested-devops-podcast-episode035.mp3"
+episode_image = "/episode/img/devops-and-marketing.png"
+episode_banner = "/episode/img/devops-and-marketing-banner.png"
+guests = ["jhand","ssmith",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","stackexchange","10thmagnitude",]
+episode = "35"
+images = ["/img/social/fb/devops-and-marketing.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/35",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "wwt03VMosIA"
-explicit = "yes"
 
 +++
-
 [Shannon Smith](https://twitter.com/shannonlly) is the marketing manager for [10th Magnitude](https://www.arresteddevops.com/tenthmagnitude), a consulting firm based in Chicago. She's a self-described "liberal arts nerd" and fell into the tech world through her job at 10th Magnitude. She has a love for well-crafted sentences, song parodies, and general cleverness, which has translated into a love for marketing and the challenges that come with getting an effective message delivered to the "great abyss."
 
 [Jason Hand](https://twitter.com/jasonhand) is a DevOps Evangelist at [VictorOps](https://www.arresteddevops.com/victorops/). He's been in the IT space since college, but it wasn't until joining VictorOps that he's ventured into a wider role, working closely with both marketing and product.

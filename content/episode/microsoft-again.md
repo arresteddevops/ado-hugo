@@ -1,24 +1,21 @@
 +++
-podcast_duration = "01:08:14"
-Description = "It's been almost two years since we've talked about doing DevOps in Microsoft environments, so it's about time to do it again. And it's one of our largest panels yet!"
-youtube = "rsnxc1l3Fz8&t=3s"
-categories = []
-sponsors = ["10thmagnitude","victorops","hired"]
-guests = ["lbennett","bolin","rdunn","gsarti","chunt"]
-episode = "81"
-tags = []
-aliases = ["/81","microsoft2","windows-redux", "microsoft-redux"]
-images = ["https://www.arresteddevops.com/img/social/fb/microsoft-again.png"]
 title = "Microsoft Redux with Liam Bennett, Brandon Olin, Reuben Dunn, Glenn Sarti, and Chris Hunt"
-explicit = "yes"
-news_keywords = []
-friendly = "microsoft-again"
-date = "2017-01-26T12:35:30-06:00"
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode081.mp3"
-author = "Matt"
+Description = "It's been almost two years since we've talked about doing DevOps in Microsoft environments, so it's about time to do it again. And it's one of our largest panels yet!"
+Date = 2017-01-26T12:35:30-06:00
+PublishDate = 2017-01-26T12:35:30-06:00
+podcast_file = "arrested-devops-podcast-episode081.mp3"
+episode_image = "/episode/img/microsoft-again.png"
+episode_banner = "/episode/img/microsoft-again-banner.png"
+guests = ["lbennett","bolin","rdunn","gsarti","chunt",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","hired",]
+episode = "81"
+images = ["/img/social/fb/microsoft-again.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/81","microsoft2","windows-redux","microsoft-redux",]
+explicit = "yes" # values are "yes" or "no"
+youtube = "rsnxc1l3Fz8&t=3s"
 
 +++
-
 [DevOps Cafe w/ Jeffery Snover](http://devopscafe.org/show/2012/11/27/devops-cafe-episode-36.html) - Linux is docs based, Windows is API based
 
 ## Check Outs

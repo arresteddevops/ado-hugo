@@ -1,25 +1,21 @@
 +++
-Description = "'It doesn't count until it's in production.'' How can organizations level-up at delivering software and features to their customers? What are some of the good practices that DevOps can bring to your company? Matt and Trevor are joined by Ranjib Dey, system administrator at PagerDuty, to talk about 'shipping that software.'"
-aliases = ["/13"]
-author = "Matt"
-categories = []
-date = "2014-06-23T12:23:24-05:00"
-episode = "13"
-friendly = "software-deployment"
-guests = ["rdey"]
-images = ["https://www.arresteddevops.com/img/social/fb/software-deployment.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode013.mp3"
-podcast_bytes = "44516568"
-podcast_duration = "46:22"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "software deployment"
+Description = "'It doesn't count until it's in production.'' How can organizations level-up at delivering software and features to their customers? What are some of the good practices that DevOps can bring to your company? Matt and Trevor are joined by Ranjib Dey, system administrator at PagerDuty, to talk about 'shipping that software.'"
+Date = 2014-06-23T12:23:24-05:00
+PublishDate = 2014-06-23T12:23:24-05:00
+podcast_file = "arrested-devops-podcast-episode013.mp3"
+episode_image = "/episode/img/software-deployment.png"
+episode_banner = "/episode/img/software-deployment-banner.png"
+guests = ["rdey",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "13"
+images = ["/img/social/fb/software-deployment.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/13",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "qFLkBEGnOfk"
-explicit = "yes"
 
 +++
-
 What is software delivery? There are a lot of approaches to this subject- what does "software delivery" mean at PagerDuty?
 
 What is your idea of "best" way to deliver software, or line of best fit?

@@ -1,25 +1,21 @@
 +++
-Description = "We’ve made it through two years of ADO! It seems like only yesterday that we recorded our first year-end episode (which you can listen to at arresteddevops.com/27). And we’re back again to talk about what 2015 was for us, in the world of DevOps, and the world of ADO. Plus, Matt and Bridget wax nostalgic about cable management from when we managed data centers."
-aliases = ["/53"]
-author = "Matt"
-categories = []
-date = "2015-12-31T13:18:51-08:00"
-episode = "53"
-explicit = "yes"
-friendly = "2015-in-review"
-guests = ["bkromhout2","thess","mstratton"]
-images = ["https://www.arresteddevops.com/img/social/fb/2015-in-review.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode053.mp3"
-podcast_bytes = ""
-podcast_duration = "1:08:22"
-sponsors = ["10thmagnitude", "datadog"]
-tags = []
 title = "2015 in review"
+Description = "We’ve made it through two years of ADO! It seems like only yesterday that we recorded our first year-end episode (which you can listen to at arresteddevops.com/27). And we’re back again to talk about what 2015 was for us, in the world of DevOps, and the world of ADO. Plus, Matt and Bridget wax nostalgic about cable management from when we managed data centers."
+Date = 2015-12-31T13:18:51-08:00
+PublishDate = 2015-12-31T13:18:51-08:00
+podcast_file = "arrested-devops-podcast-episode053.mp3"
+episode_image = "/episode/img/2015-in-review.png"
+episode_banner = "/episode/img/2015-in-review-banner.png"
+guests = ["bkromhout2","thess","mstratton",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "53"
+images = ["/img/social/fb/2015-in-review.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/53",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "X56Bt2zDNyA"
 
 +++
-
 ## Events
 
 - ChefConf (all three hosts were speakers, and we actually were in the same place at the same time!)
