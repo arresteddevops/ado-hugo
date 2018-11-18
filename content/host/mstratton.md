@@ -1,11 +1,11 @@
 +++
-Title = "Matt Stratton"
+Title = "Matty Stratton"
 date = "2016-12-08T20:55:58-06:00"
 Twitter = "mattstratton"
 Website = "http://www.mattstratton.com/"
 Type = "host"
 Facebook = ""
-Linkedin = ""
+Linkedin = "mattstratton"
 Pronouns = ""
 GitHub = "mattstratton"
 Thumbnail = "img/matt.png"

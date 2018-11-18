@@ -57,6 +57,7 @@ googleAnalytics = "UA-45939822-1"
 site_theme = "grey"
 site_layout = "grid"
 enable_jumbo = "true"
+favicon = "favicon.ico"
 copyright_notice = "Copyright 2013-2018 [Arrested DevOps](https://www.arresteddevops.com)"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/www.arresteddevops.com/episode/index.xml"
@@ -68,10 +69,10 @@ mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4
 description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
   [params.feed]
-    feed_copyright = "Copyright 2016 Matt Stratton" #do not use markdown in this field; it is used in the feed
+    feed_copyright = "Copyright 2013-2018 Arrested DevOps" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
-    itunes_author = "Matt Stratton, Trevor Hess, and Bridget Kromhout" #no markdown or HTML
-    itunes_summary = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_author = "Matty Stratton, Trevor Hess, and Bridget Kromhout" #no markdown or HTML
+    itunes_summary = "Arrested DevOps is hosted by Matty Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Matt Stratton"
     itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
@@ -92,9 +93,9 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
 
   [params.authors]
     [params.authors.Matt]
-      name	= "Matt Stratton"
+      name	= "Matty Stratton"
       thumbnail = "img//matt.png"
-      bio = "Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
+      bio = "Matty Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
       [params.authors.Matt.social]
         github = "mattstratton"
         facebook = "matt.stratton"
