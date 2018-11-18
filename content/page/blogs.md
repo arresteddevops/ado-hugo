@@ -27,11 +27,10 @@ This is a list of DevOps-related blogs that we think are pretty cool.
 - [Scott Hanselman's Blog](http://www.hanselman.com/blog/)
 - [blog dot lusis](http://blog.lusis.org/)
 - [Bridget Kromhout's Blog](http://bridgetkromhout.com/)
-- [Matty Stratton's sorta-tech blog](https://www.mattstratton.io)
+- [Matty Stratton's sorta-tech blog](https://www.mattstratton.com)
 - [Cote.io](https://cote.io/)
 - [The IT Skeptic](http://www.itskeptic.org/)
 - [The New Dromologue](http://www.dromologue.com/)
 - [Everything Sysadmin](http://everythingsysadmin.com/)
 - [Can You DevOp With Windows?](http://stevenmurawski.com/)
 
-> If you know of any other awesome DevOps blogs you think should be included here, please [submit a pull request](https://github.com/arresteddevops/ado-hugo/blob/master/content/page/blogs.md)!

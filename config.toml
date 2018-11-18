@@ -48,9 +48,9 @@ googleAnalytics = "UA-45939822-1"
     url = "books"
     parent = "resources"
 [[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "books"
+    name = "Blogs"
+    identifier = "blogs"
+    url = "blogs"
     parent = "resources"
 
 [params]
@@ -62,7 +62,6 @@ itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id7738880
 android_subscribe = "http://subscribeonandroid.com/www.arresteddevops.com/episode/index.xml"
 google_play_subscribe = "https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
-soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed

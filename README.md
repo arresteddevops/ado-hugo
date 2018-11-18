@@ -24,11 +24,14 @@ Every episode needs a few images. You need the following
 4. **Guest image(s)** - These need to be PNG, 500px x 500px, and named after the guest data file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder
 
 When you create a new episode, Hugo will populate the frontmatter of the .md file with a bunch of stuff for you. These are the required items to be sure to populate:
+
+It is HIGHLY recommended to use the `hugo new episode` command to create an episode. For example, `hugo new episode/my-awesome-episode.md` will create a properly formatted file in `events/my-awesome-episode.md`.
+
 * **Description** - A string in double quotes. Please make sure that any double quotes are escaped, as such: `\"DevOps\"`
 * **podcast** - this is the URL to the podcast MP3. You may not have this at the time you are creating an epiosde page, so that's okay.
-* **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"jhand", "srosenbaum"`). The names should line up to .yml files in `data/guests`
+* **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"jhand", "srosenbaum"`). The names should line up to md files in `content/guest`
+* **hosts** - a comma separated list of the hosts, in the format first initial, last name (i.e., `"mstratton", "thess"`). The names should line up to md files in `content/host`
 * **sponsors** - comma separated list of the sponsors for the episode. Same rules apply as guests, but the data files are in `data/sponsors`
-* **friendly** - this is the shortname of the episode. It should be the name of the file minus the .md extension. I tried to automate this without success so far. Sorry :(
 * **explicit** - this is a "yes" or "no" (in quotes) value depending on if the episode has explicit language. If you are not sure, please set it to "yes".
 * **episode** - a string for the episode number, i.e., `"42"`
 * **title** - the title of the episode. It's a string inside double quotes.
@@ -36,6 +39,9 @@ When you create a new episode, Hugo will populate the frontmatter of the .md fil
 * **author** - A string that contains either "Matt", "Bridget", or "Trevor"
 * **aliases** - Array of strings for redirects. The only one you should ever need is for the episode number, i.e., `aliases = ["/27"]`
 * **youtube** - the URL of the YouTube video, if there is one. If not, delete this line from the frontmatter of the episode.
+
+## Guests
+Guest files are now Markdown files that live in `content/guest`. Use the command `hugo new guest` to create a new guest, using first initial, last name, i.e., `hugo new guest/mbluth.md`.
 
 ## Show Notes
 
