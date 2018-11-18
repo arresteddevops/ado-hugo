@@ -1,24 +1,22 @@
 +++
-Description = "There are some interesting things going on in DevOps in Chicago! Matt is joined by Jeff Smith (GrubHub), Jerry Cattell (LifeQode), and Sameer Doshi (kCura), for a panel discussion on just what makes tech and DevOps different in Chicago. Plus, special updates on the Cubs/Dodgers game. Yay sportsball!"
-aliases = ["/75","/windycity","windy-city"]
-author = "Matt"
-categories = []
-date = "2016-10-24T06:04:11-05:00"
-episode = "75"
-explicit = "yes"
-friendly = "devops-in-the-windy-city-jeff-smith-jerry-cattell-sameer-doshi"
-guests = ["jsmith","jcattell","sdoshi"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-in-the-windy-city-jeff-smith-jerry-cattell-sameer-doshi.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode075.mp3"
-podcast_duration = "01:02:32"
-sponsors = ["10thmagnitude","hired","victorops"]
-tags = []
 title = "DevOps in the Windy City with Jeff Smith, Jerry Cattell, and Sameer Doshi"
+Description = "There are some interesting things going on in DevOps in Chicago! Matt is joined by Jeff Smith (GrubHub), Jerry Cattell (LifeQode), and Sameer Doshi (kCura), for a panel discussion on just what makes tech and DevOps different in Chicago. Plus, special updates on the Cubs/Dodgers game. Yay sportsball!"
+Date = 2016-10-24T06:04:11-05:00
+PublishDate = 2016-10-24T06:04:11-05:00
+podcast_file = "arrested-devops-podcast-episode075.mp3"
+episode_image = "/episode/img/devops-in-the-windy-city-jeff-smith-jerry-cattell-sameer-doshi.png"
+episode_banner = "/episode/img/devops-in-the-windy-city-jeff-smith-jerry-cattell-sameer-doshi-banner.png"
+guests = ["jsmith","jcattell","sdoshi",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","hired","victorops",]
+episode = "75"
+images = ["/img/social/fb/devops-in-the-windy-city-jeff-smith-jerry-cattell-sameer-doshi.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/75","/windycity","windy-city",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "lBDFfC-wGls"
+hosts = ["mstratton"]
 
 +++
-
 * [ADO episode at devopsdays Chicago 2014](https://www.arresteddevops.com/devopsdays-chicago/) with J. Paul Reed
 * Jerry started his career swapping out computers for Y2K in tropical locations. Nice job to have!
 * Most sportsball talk on any episode of ADO to date!

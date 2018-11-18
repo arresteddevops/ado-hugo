@@ -1,23 +1,21 @@
 +++
-Description = "GitLab's VP of Product, Job van der Voort, joins Matt for a frank discussion on GitLab's open company culture, the history of the project, and some of the challenges and benefits of working \"in the open\"."
-aliases = ["/59"]
-author = "Matt"
-categories = []
-date = "2016-03-10T00:45:40-05:00"
-episode = "59"
-friendly = "gitlab"
-guests = ["jvandervoort"]
-images = ["https://www.arresteddevops.com/img/social/fb/gitlab.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode059.mp3"
-podcast_duration = "59:16"
-sponsors = ["datadog", "10thmagnitude"]
-tags = []
 title = "Getting Down With GitLab with Job van der Voort"
-explicit = "yes"
+Description = "GitLab's VP of Product, Job van der Voort, joins Matt for a frank discussion on GitLab's open company culture, the history of the project, and some of the challenges and benefits of working \"in the open\"."
+Date = 2016-03-10T00:45:40-05:00
+PublishDate = 2016-03-10T00:45:40-05:00
+podcast_file = "arrested-devops-podcast-episode059.mp3"
+episode_image = "/episode/img/gitlab.png"
+episode_banner = "/episode/img/gitlab-banner.png"
+guests = ["jvandervoort",] # The names of your guests, based on the filename without extension.
+sponsors = ["datadog","10thmagnitude",]
+episode = "59"
+images = ["/img/social/fb/gitlab.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/59",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
 
 +++
-
 ## Relevant Links
 
 * [GitLab Operations](https://gitlab.com/gitlab-com/operations/issues)

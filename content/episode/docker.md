@@ -1,22 +1,19 @@
 +++
-Description = "James Turnbull has traveled the world speaking about Docker, and now he's here to tell ADO all about it. The tech, the company, and the community: James has opinions and was more than willing to share them!"
-aliases = ["/31"]
-author = "Matt"
-categories = []
-date = "2015-02-26T20:52:19-05:00"
-episode = "31"
-friendly = "docker"
-guests = ["jturnbull"]
-images = ["https://www.arresteddevops.com/img/social/fb/docker.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode031.mp3"
-podcast_bytes = "49926016"
-podcast_duration = "59:26"
-sponsors = ["victrops", "datadog","10thmagnitude"]
-tags = []
 title = "Docker! Docker! Docker!"
+Description = "James Turnbull has traveled the world speaking about Docker, and now he's here to tell ADO all about it. The tech, the company, and the community: James has opinions and was more than willing to share them!"
+Date = 2015-02-26T20:52:19-05:00
+PublishDate = 2015-02-26T20:52:19-05:00
+podcast_file = "arrested-devops-podcast-episode031.mp3"
+episode_image = "/episode/img/docker.png"
+episode_banner = "/episode/img/docker-banner.png"
+guests = ["jturnbull",] # The names of your guests, based on the filename without extension.
+sponsors = ["victrops","datadog","10thmagnitude",]
+episode = "31"
+images = ["/img/social/fb/docker.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/31",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "2AqE6KMCAK4"
-explicit = "yes"
 
 +++
 James Turnbull describes Docker as “a solution that is built by people to be usable by people, as opposed to some of the previous containerized solutions which were built by engineers to be usable by a very small subset of other engineers”.

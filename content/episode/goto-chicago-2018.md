@@ -1,24 +1,22 @@
 +++
-Description = "Bridget discusses distributed systems with speakers from GOTO Chicago 2018."
-aliases = ["/107"]
-author = "Bridget"
-categories = []
-date = "2018-04-28T18:55:48-05:00"
-episode = "107"
-explicit = "yes"
-friendly = "goto-chicago-2018"
-guests = ["jhodges", "jhendricks", "estmartin", "ahall", "kkingsbury2"]
-images = ["https://www.arresteddevops.com/img/social/fb/goto-chicago-2018.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode107.mp3"
-podcast_duration = "31:11"
-sponsors = ["chef", "datadog"]
-tags = []
 title = "GOTO Chicago 2018"
+Description = "Bridget discusses distributed systems with speakers from GOTO Chicago 2018."
+Date = 2018-04-28T18:55:48-05:00
+PublishDate = 2018-04-28T18:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode107.mp3"
+episode_image = "/episode/img/goto-chicago-2018.png"
+episode_banner = "/episode/img/goto-chicago-2018-banner.png"
+guests = ["jhodges","jhendricks","estmartin","ahall","kkingsbury2",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "107"
+images = ["/img/social/fb/goto-chicago-2018.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/107",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "rT_cPdMqg5A"
+hosts = ["bkromhout"]
 
 +++
-
 Bridget curated the [distributed systems track at GOTO Chicago 2018](https://gotochgo.com/2018/tracks/65). In the last timeslot of the day, she gathered all the speakers from the track to discuss their topics.
 
 ## Show notes
@@ -42,4 +40,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 
 ### Discount codes
 - ADO2018 for 20% off lots of devopsdays, 10% off ChefConf, 5% off GopherCon.
-

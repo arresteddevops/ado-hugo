@@ -1,23 +1,21 @@
 +++
-Description = "Bridget goes to devopsdays Toronto, eh, and chats with speaker Sean Walberg (NFL), sponsor Sarah Kowalik (PagerDuty), and local organizers Steve Pereira (Statflo) and Dave Cliffe (PagerDuty). Special guest appearance by ADO editor and devopsdays Minneapolis organizer Joe Laha."
-aliases = ["/64"]
-author = "Bridget"
-categories = []
-date = "2016-05-28T13:36:25-04:00"
-episode = "64"
-friendly = "devopsdays-toronto-2016"
-guests = ["dcliffe", "skowalik", "swalberg", "spereira2", "jlaha"]
-images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-toronto-2016.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode064.mp3"
-podcast_duration = "41:01"
-sponsors = ["10thmagnitude", "datadog"]
-tags = []
 title = "devopsdays Toronto 2016"
-explicit = "yes"
+Description = "Bridget goes to devopsdays Toronto, eh, and chats with speaker Sean Walberg (NFL), sponsor Sarah Kowalik (PagerDuty), and local organizers Steve Pereira (Statflo) and Dave Cliffe (PagerDuty). Special guest appearance by ADO editor and devopsdays Minneapolis organizer Joe Laha."
+Date = 2016-05-28T13:36:25-04:00
+PublishDate = 2016-05-28T13:36:25-04:00
+podcast_file = "arrested-devops-podcast-episode064.mp3"
+episode_image = "/episode/img/devopsdays-toronto-2016.png"
+episode_banner = "/episode/img/devopsdays-toronto-2016-banner.png"
+guests = ["dcliffe","skowalik","swalberg","spereira2","jlaha",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "64"
+images = ["/img/social/fb/devopsdays-toronto-2016.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/64",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["bkromhout"]
 
 +++
-
 [devopsdays Toronto](http://www.devopsdays.org/events/2016-toronto/)
 
 ## Community & Event Stuff

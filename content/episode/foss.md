@@ -1,22 +1,21 @@
 +++
-Description = "Matty is joined by VM (aka Vicky) Brasseur, Vice President of the Open Source Initiative, for a chat about contributing to open source software."
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode114.mp3"
-podcast_duration = ""
-tags = []
-categories = []
-guests = ["vbrasseur"]
-sponsors = ["chef","datadog"]
-friendly = "foss"
-episode = "114"
 title = "Fireside Chat with VM Brasseur"
-images = ["https://www.arresteddevops.com/img/social/fb/foss.png"]
-news_keywords = []
-author = "Matt"
-aliases = ["/114"]
-explicit = "yes"
-date = "2018-08-23T17:55:48-05:00"
-+++
+Description = "Matty is joined by VM (aka Vicky) Brasseur, Vice President of the Open Source Initiative, for a chat about contributing to open source software."
+Date = 2018-08-23T17:55:48-05:00
+PublishDate = 2018-08-23T17:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode114.mp3"
+episode_image = "/episode/img/foss.png"
+episode_banner = "/episode/img/foss-banner.png"
+guests = ["vbrasseur",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "114"
+images = ["/img/social/fb/foss.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/114",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
 
++++
 Matty is joined by VM (aka Vicky) Brasseur, Vice President of the Open Source Initiative, for a chat about contributing to open source software.
 
 - [OSI](https://opensource.org/) - open source initiative

@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class = "row">
+  <div class = "col-md-12">
+    <h1>Hosts of {{ .Site.Title }}</h1>
+  </div>
+</div>
+{{ with .Content }}
+<div clas = "row">
+  <div class = "col">
+    {{ . }}
+  </div>
+</div>
+{{- end -}}
+
+{{ partial "hosts.html" . }}
+
+{{ end }}

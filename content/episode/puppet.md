@@ -1,24 +1,20 @@
 +++
-Description = "Special guest Eric Sorenson of Puppet Labs chats with Matt about all the new hotness with Puppet, including Application Orchestration. Plus, Matt and Eric put on their pundit hats and talk about the acquisition of Ansible by Red Hat."
-aliases = ["/49"]
-author = "Matt"
-categories = []
-date = "2015-11-25T08:12:13-06:00"
-episode = "49"
-friendly = "puppet"
-guests = ["esorenson"]
-images = ["https://www.arresteddevops.com/img/social/fb/puppet.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode049.mp3"
-podcast_bytes = ""
-podcast_duration = "56:44"
-sponsors = ["victorops", "datadog", "10thmagnitude"]
-tags = []
 title = "What Is New At Puppet? with Eric Sorenson"
-explicit = "yes"
-
+Description = "Special guest Eric Sorenson of Puppet Labs chats with Matt about all the new hotness with Puppet, including Application Orchestration. Plus, Matt and Eric put on their pundit hats and talk about the acquisition of Ansible by Red Hat."
+Date = 2015-11-25T08:12:13-06:00
+PublishDate = 2015-11-25T08:12:13-06:00
+podcast_file = "arrested-devops-podcast-episode049.mp3"
+episode_image = "/episode/img/puppet.png"
+episode_banner = "/episode/img/puppet-banner.png"
+guests = ["esorenson",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","datadog","10thmagnitude",]
+episode = "49"
+images = ["/img/social/fb/puppet.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/49",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
-
 Various links referenced in the episode!
 
 - [PuppetConf 2015 Videos](http://info.puppetlabs.com/PuppetConf-2015-Videos-and-Presentations.html)

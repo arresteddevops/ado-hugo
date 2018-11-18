@@ -1,24 +1,22 @@
 +++
-Description = "Matt & Nell Shamrell-Harrington of the Food Fight Show chat with Nicole Forsgren (DORA)."
-aliases = ["/93"]
-author = "Bridget"
-categories = []
-date = "2017-08-30T15:55:48-05:00"
-episode = "93"
-explicit = "yes"
-friendly = "callinshow"
-guests = ["nforsgren2", "nshamrell"]
-images = ["https://www.arresteddevops.com/img/social/fb/callinshow.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode093.mp3"
-podcast_duration = "52:59"
-sponsors = ["thoughtworks", "victorops", "10thmagnitude"]
-tags = []
 title = "Live DevOps Call in Show with Nicole Forsgren"
+Description = "Matt & Nell Shamrell-Harrington of the Food Fight Show chat with Nicole Forsgren (DORA)."
+Date = 2017-08-30T15:55:48-05:00
+PublishDate = 2017-08-30T15:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode093.mp3"
+episode_image = "/episode/img/callinshow.png"
+episode_banner = "/episode/img/callinshow-banner.png"
+guests = ["nforsgren2","nshamrell",] # The names of your guests, based on the filename without extension.
+sponsors = ["thoughtworks","victorops","10thmagnitude",]
+episode = "93"
+images = ["/img/social/fb/callinshow.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/93",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "fkCZXI8SNfk"
+hosts = ["mstratton"]
 
 +++
-
 [Food Fight Show](http://foodfightshow.org/) and Arrested DevOps joined forces to host our first live devops call in show! We featured Dr. Nicole Forsgren to answer your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!
 
 Recorded May 8, 2017.
@@ -60,4 +58,3 @@ Use code "ADO2017" for a discount on many devopsdays.
 ### Open CFPs
 
 * [lots of DevOpsDays](https://devopsdays.org/speaking)
-

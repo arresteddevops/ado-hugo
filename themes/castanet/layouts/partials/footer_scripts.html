@@ -1,0 +1,39 @@
+<script src={{ "js/castanet-min.js" | absURL }}></script>
+<script>
+    $("#share").jsSocials({
+        shares: [
+      {
+        share: "facebook",
+        logo: "fab fa-facebook",
+      },
+      {
+        share: "twitter",           // name of share
+        label: "Tweet",             // share button text (optional)
+        logo: "fab fa-twitter",
+        {{ if (isset .Site.Params.social "twitter" )}}
+          via: "{{ .Site.Params.social.twitter }}",       // custom twitter sharing param 'via' (optional)
+        {{ end }}
+        url: "{{ .Params.permalink }}",
+        text: "{{ title .Title }}"
+      },
+      {
+        share: "linkedin",
+        logo: "fab fa-linkedin"
+      },
+      {
+        share: "pinterest",
+        logo: "fab fa-pinterest"
+      }
+    ],
+    });
+</script>
+<script>
+audiojs.events.ready(function() {
+  var as = audiojs.createAll({
+    imageLocation: '{{"img/player-graphics.gif" | relURL}}',
+    retinaImageLocation: '{{"img/player-graphics@2x.gif" | relURL}}',
+    swfLocation: '{{"swf/audiojs.swf" | relURL}}'
+   });
+ });
+</script>
+{{ template "_internal/google_analytics_async.html" . }}

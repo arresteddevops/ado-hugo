@@ -1,24 +1,22 @@
 +++
-Description = "Bridget and Matt chat with Andrew Clay Shafer (Pivotal) and Bryan Cantrill (Joyent)."
-aliases = ["/84"]
-author = "Bridget"
-categories = []
-date = "2017-05-07T19:59:40-05:00"
-episode = "84"
-explicit = "yes"
-friendly = "yelling-at-cloud"
-guests = ["ashafer", "bcantrill"]
-images = ["https://www.arresteddevops.com/img/social/fb/yelling-at-cloud.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode084.mp3"
-podcast_duration = "52:42"
-sponsors = ["10thmagnitude", "victorops", "datadog"]
-tags = []
 title = "Old Geeks Yell at Cloud with Andrew Clay Shafer & Bryan Cantrill"
+Description = "Bridget and Matt chat with Andrew Clay Shafer (Pivotal) and Bryan Cantrill (Joyent)."
+Date = 2017-05-07T19:59:40-05:00
+PublishDate = 2017-05-07T19:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode084.mp3"
+episode_image = "/episode/img/yelling-at-cloud.png"
+episode_banner = "/episode/img/yelling-at-cloud-banner.png"
+guests = ["ashafer","bcantrill",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","datadog",]
+episode = "84"
+images = ["/img/social/fb/yelling-at-cloud.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/84",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "bNfAAQUQ_54"
+hosts = ["mstratton", "bkromhout"]
 
 +++
-
 Bridget and Matt chat with Andrew Clay Shafer (Pivotal) and Bryan Cantrill (Joyent).
 
 
@@ -33,4 +31,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 ### Open CFPs
 
 * [lots of DevOpsDays](https://devopsdays.org/speaking)
-

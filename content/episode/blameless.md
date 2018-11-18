@@ -1,22 +1,19 @@
 +++
-Description = "Dave Zwieback, VP of Engineering at Next Big Sound and Mike Rembetsy, VP of Technical Operations at Etsy discuss learning from the unexpected and examining failure without blame. With practical tips about technical tools and philosophical insights into the human factors and cognitive biases in play, these industry experts offer useful guidance for the thorny questions around the topic of failure."
-aliases = ["/28"]
-author = "Matt"
-categories = []
-date = "2015-01-15T20:43:37-05:00"
-episode = "28"
-friendly = "blameless"
-guests = ["dzwieback","mrembetsy"]
-images = ["https://www.arresteddevops.com/img/social/fb/blameless.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode028.mp3"
-podcast_bytes = "60357210"
-podcast_duration = "1:02:52"
-sponsors = ["pagerduty", "redgate","10thmagnitude"]
-tags = []
 title = "Incidents and Accidents: Examining Failure Without Blame"
+Description = "Dave Zwieback, VP of Engineering at Next Big Sound and Mike Rembetsy, VP of Technical Operations at Etsy discuss learning from the unexpected and examining failure without blame. With practical tips about technical tools and philosophical insights into the human factors and cognitive biases in play, these industry experts offer useful guidance for the thorny questions around the topic of failure."
+Date = 2015-01-15T20:43:37-05:00
+PublishDate = 2015-01-15T20:43:37-05:00
+podcast_file = "arrested-devops-podcast-episode028.mp3"
+episode_image = "/episode/img/blameless.png"
+episode_banner = "/episode/img/blameless-banner.png"
+guests = ["dzwieback","mrembetsy",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","redgate","10thmagnitude",]
+episode = "28"
+images = ["/img/social/fb/blameless.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/28",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "mD6zBfAvC-A"
-explicit = "yes"
 
 +++
 Dave is at Next Big Sound, which does analytics for creative industries, and he’s seen a few orgs handle failure well, and a lot of organizations handle it poorly. He got interested in blameless postmortems and human factors in discussions with John Allspaw of Etsy, and Allspaw influenced him to read the work of David Wood and Sidney Dekker on human factors. He is writing a book for O’Reilly called <a href="http://shop.oreilly.com/product/0636920033981.do">Being Blameless</a>.

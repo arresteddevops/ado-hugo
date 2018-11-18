@@ -1,24 +1,22 @@
 +++
-Description = "Bridget chats with lovable reprobate/returning guest Ben Hughes (Etsy) and badass container expert Jessie Frazelle (Mesosphere) about everyone's favorite topic: security."
-aliases = ["/63"]
-author = "Bridget"
-categories = []
-date = "2016-05-12T18:16:10-05:00"
-episode = "63"
-friendly = "containers-security"
-guests = ["bhughes", "jfrazelle"]
-images = ["https://www.arresteddevops.com/img/social/fb/containers-security.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode063.mp3"
-podcast_duration = "55:55"
-sponsors = ["10thmagnitude", "datadog"]
-tags = []
 title = "Containers and Security with Ben Hughes and Jessie Frazelle"
+Description = "Bridget chats with lovable reprobate/returning guest Ben Hughes (Etsy) and badass container expert Jessie Frazelle (Mesosphere) about everyone's favorite topic: security."
+Date = 2016-05-12T18:16:10-05:00
+PublishDate = 2016-05-12T18:16:10-05:00
+podcast_file = "arrested-devops-podcast-episode063.mp3"
+episode_image = "/episode/img/containers-security.png"
+episode_banner = "/episode/img/containers-security-banner.png"
+guests = ["bhughes","jfrazelle",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "63"
+images = ["/img/social/fb/containers-security.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/63",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "qPs5U5hdciM"
-explicit = "yes"
+hosts = ["bkromhout"]
 
 +++
-
 * [Jess on unprivileged containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 * [Ben on infosec, hubris, and impostor syndrome](https://mumble.org.uk/blog/2016/04/30/malory-isnt-the-only-imposter-in-infosec/)
 

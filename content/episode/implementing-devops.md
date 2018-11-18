@@ -1,22 +1,20 @@
 +++
-Description = "Matt and Trevor are joined by Jeanne Steinback (Rewards Network) and Chris A (MacArthur Foundation) to chat about their real-world experiences in bringing an organization through a DevOps transition."
-aliases = ["/12"]
-author = "Matt"
-categories = []
-date = "2014-06-11T12:19:38-05:00"
-episode = "12"
-friendly = "implementing-devops"
-guests = ["jteinback","candreen"]
-images = ["https://www.arresteddevops.com/img/social/fb/implementing-devops.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode012.mp3"
-podcast_bytes = "43011910"
-podcast_duration = "44:48"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "Making The DevOps Transition"
+Description = "Matt and Trevor are joined by Jeanne Steinback (Rewards Network) and Chris A (MacArthur Foundation) to chat about their real-world experiences in bringing an organization through a DevOps transition."
+Date = 2014-06-11T12:19:38-05:00
+PublishDate = 2014-06-11T12:19:38-05:00
+podcast_file = "arrested-devops-podcast-episode012.mp3"
+episode_image = "/episode/img/implementing-devops.png"
+episode_banner = "/episode/img/implementing-devops-banner.png"
+guests = ["jteinback","candreen",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "12"
+images = ["/img/social/fb/implementing-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/12",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "QjKbSPCyKUk"
-explicit = "yes"
+hosts = ["mstratton", "thess"]
 
 +++
 <h3>Agenda</h3>

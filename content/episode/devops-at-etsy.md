@@ -1,25 +1,22 @@
 +++
-Description = "The engineering team at Etsy are considered by many to be industry leaders when it comes to automation, software delivery, and general DevOps awesomeness. We will be joined by Senior Operations Engineer Jon Cowie (and others) to give an overview of how Etsy does their DevOps magic, and what we can learn from their example."
-aliases = ["/11"]
-author = "Matt"
-categories = []
-date = "2014-05-21T12:16:50-05:00"
-episode = "11"
-friendly = "devops-at-etsy"
-guests = []
-images = ["https://www.arresteddevops.com/img/social/fb/devops-at-etsy", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode011.mp3"
-podcast_bytes = "69235899"
-podcast_duration = "57:42"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "DevOps at Etsy: Not a Unicorn, Just a Sparkly Horse"
+Description = "The engineering team at Etsy are considered by many to be industry leaders when it comes to automation, software delivery, and general DevOps awesomeness. We will be joined by Senior Operations Engineer Jon Cowie (and others) to give an overview of how Etsy does their DevOps magic, and what we can learn from their example."
+Date = 2014-05-21T12:16:50-05:00
+PublishDate = 2014-05-21T12:16:50-05:00
+podcast_file = "arrested-devops-podcast-episode011.mp3"
+episode_image = "/episode/img/devops-at-etsy.png"
+episode_banner = "/episode/img/devops-at-etsy-banner.png"
+guests = [] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "11"
+images = ["/img/social/fb/devops-at-etsy.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/11",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "IDmqD-xuzOI"
-explicit = "yes"
+hosts = ["thess","mstratton"]
 
 +++
-
 <ul>
 	<li><a href="http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html" target="_blank">Episode 11: Etsy Examined - How the Best Do Their Business </a>by Food Fight</li>
 	<li><a href="http://bofh.ntk.net/BOFH/" target="_blank">BOFH</a> (the Bastard Operator From Hell)</li>

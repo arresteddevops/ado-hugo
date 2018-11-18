@@ -1,22 +1,20 @@
 +++
-Description = "A frank discussion of Continuous Integration"
-aliases = ["/5"]
-author = "Matt"
-categories = []
-date = "2014-01-29T09:54:57-05:00"
-episode = "5"
-friendly = "continuous-integration"
-guests = ["mmeyer","jhirn"]
-images = ["https://www.arresteddevops.com/img/social/fb/continuous-integration.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode005.mp3"
-podcast_bytes = "91212140"
-podcast_duration = "47:30"
-sponsors = []
-tags = []
 title = "Continuous Integration – CI Told You So!"
+Description = "A frank discussion of Continuous Integration"
+Date = 2014-01-29T09:54:57-05:00
+PublishDate = 2014-01-29T09:54:57-05:00
+podcast_file = "arrested-devops-podcast-episode05.mp3"
+episode_image = "/episode/img/continuous-integration.png"
+episode_banner = "/episode/img/continuous-integration-banner.png"
+guests = ["mmeyer","jhirn",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "5"
+images = ["/img/social/fb/continuous-integration.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/5",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "v7iS906NPOw"
-explicit = "yes"
+hosts = ["thess","mstratton"]
 
 +++
 <h2>Retro</h2>

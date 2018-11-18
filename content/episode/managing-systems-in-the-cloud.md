@@ -1,22 +1,20 @@
 +++
-Description = "Tom Limoncelli, one of the authors of _The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems_ talks with Matt and Trevor (but mostly Trevor) about the challenges of modern system management."
-aliases = ["/23"]
-author = "Matt"
-categories = []
-date = "2014-10-14T19:21:18-05:00"
-episode = "23"
-friendly = "managing-systems-in-the-cloud"
-guests = ["tlimoncelli"]
-images = ["https://www.arresteddevops.com/img/social/fb/managing-systems-in-the-cloud.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode023.mp3"
-podcast_bytes = "47376210"
-podcast_duration = "49:21"
-sponsors = ["victorops","10thmagnitude"]
-tags = []
 title = "managing systems in the cloud"
-explicit = "yes"
+Description = "Tom Limoncelli, one of the authors of _The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems_ talks with Matt and Trevor (but mostly Trevor) about the challenges of modern system management."
+Date = 2014-10-14T19:21:18-05:00
+PublishDate = 2014-10-14T19:21:18-05:00
+podcast_file = "arrested-devops-podcast-episode023.mp3"
+episode_image = "/episode/img/managing-systems-in-the-cloud.png"
+episode_banner = "/episode/img/managing-systems-in-the-cloud-banner.png"
+guests = ["tlimoncelli",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","10thmagnitude",]
+episode = "23"
+images = ["/img/social/fb/managing-systems-in-the-cloud.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/23",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "_SddIa6iej0"
+hosts = ["mstratton", "thess"]
 
 +++
 <h2>Check Outs</h2>

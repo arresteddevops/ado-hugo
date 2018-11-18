@@ -1,25 +1,22 @@
 +++
-Description = "Andy Burgin, Dustin Collins, and Nathen Harvey join Matt and Trevor to talk about what it takes to create DevOps events, Meetups, and communities."
-aliases = ["/45"]
-author = "Matt"
-categories = []
-date = "2015-10-14T09:32:23-07:00"
-episode = "45"
-friendly = "communities"
-guests = ["aburgin","dcollins", "nharvey2"]
-images = ["https://www.arresteddevops.com/img/social/fb/communities.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode045.mp3"
-podcast_bytes = "54735668"
-podcast_duration = "01:05:09"
-sponsors = ["victorops","datadog","10thmagnitude"]
-tags = []
 title = "Creating DevOps Communities and Events with Andy Burgin, Dustin Collins, and Nathen Harvey"
+Description = "Andy Burgin, Dustin Collins, and Nathen Harvey join Matt and Trevor to talk about what it takes to create DevOps events, Meetups, and communities."
+Date = 2015-10-14T09:32:23-07:00
+PublishDate = 2015-10-14T09:32:23-07:00
+podcast_file = "arrested-devops-podcast-episode045.mp3"
+episode_image = "/episode/img/communities.png"
+episode_banner = "/episode/img/communities-banner.png"
+guests = ["aburgin","dcollins","nharvey2",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","datadog","10thmagnitude",]
+episode = "45"
+images = ["/img/social/fb/communities.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/45",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "rQlZaCiLvSc"
-explicit = "yes"
+hosts = ["mstratton","thess"]
 
 +++
-
 Matt spends the entire episode claiming that Nathen was famous for being on ADO11, when in fact it was [ADO14](http://www.arresteddevops.com/how-to-eff-up-devops/).
 
 ## Check Outs

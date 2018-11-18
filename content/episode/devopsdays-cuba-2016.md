@@ -1,22 +1,19 @@
 +++
-Description = "Bridget and our audio editor, Joe, chat about their experiences at devopsdays Cuba and share some audio recorded at the event."
-aliases = ["/80"]
-author = "Bridget"
-categories = []
-date = "2017-01-17T01:59:40-05:00"
-episode = "80"
-explicit = "no"
-friendly = "devopsdays-cuba-2016"
-guests = ["bkromhout3"]
-images = ["https://www.arresteddevops.com/img/social/fb/devopsdays-cuba-2016.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode080.mp3"
-podcast_duration = "17:45"
-tags = []
 title = "devopsdays Cuba 2016"
-
+Description = "Bridget and our audio editor, Joe, chat about their experiences at devopsdays Cuba and share some audio recorded at the event."
+Date = 2017-01-17T01:59:40-05:00
+PublishDate = 2017-01-17T01:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode080.mp3"
+episode_image = "/episode/img/devopsdays-cuba-2016.png"
+episode_banner = "/episode/img/devopsdays-cuba-2016-banner.png"
+sponsors = []
+episode = "80"
+images = ["/img/social/fb/devopsdays-cuba-2016.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/80",]
+explicit = "no" # values are "yes" or "no"
+hosts = ["bkromhout", "jlaha"]
 +++
-
 Bridget and [Joe](https://twitter.com/joelaha) discuss their experiences at devopsdays Cuba and share audio from the closing session. 
 
 ### Dramatis Personae
@@ -45,5 +42,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 * [lots of DevOpsDays](https://devopsdays.org/speaking)
 * [ChefConf 2017](https://chefconf.chef.io) - closing on January 18, 2017
 * [Monitorama](http://monitorama.com/#cfp) - May 22-24 - until Feb 1
-
-

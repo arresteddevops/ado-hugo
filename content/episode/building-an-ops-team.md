@@ -1,23 +1,22 @@
 +++
-Description = "Bridget and Trevor are joined by Charity Majors (Facebook), as well as Mike Rembetsy and Patrick McDonnell (Etsy) for a frank discussion on what goes into building a great ops team."
-author = "Matt"
-categories = []
-date = "2015-07-29T10:31:20-05:00"
-episode = "40"
-friendly = "building-an-ops-team"
-guests = []
-images = ["https://www.arresteddevops.com/img/social/fb/building-an-ops-team.png"]
-news_keywords = ["ops team"]
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode040.mp3"
-podcast_bytes = "48946230"
-podcast_duration = "58:16"
-sponsors = ["victorops","10thmagnitude"]
-tags = []
 title = "Building An Ops Team with Charity Majors, Patrick McDonnell, and MCR"
+Description = "Bridget and Trevor are joined by Charity Majors (Facebook), as well as Mike Rembetsy and Patrick McDonnell (Etsy) for a frank discussion on what goes into building a great ops team."
+Date = 2015-07-29T10:31:20-05:00
+PublishDate = 2015-07-29T10:31:20-05:00
+podcast_file = "arrested-devops-podcast-episode040.mp3"
+episode_image = "/episode/img/building-an-ops-team.png"
+episode_banner = "/episode/img/building-an-ops-team-banner.png"
+guests = [] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","10thmagnitude",]
+episode = "40"
+images = ["/img/social/fb/building-an-ops-team.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = []
+explicit = "yes" # values are "yes" or "no"
 youtube = "ujBDaN1xIsE"
-explicit = "yes"
-+++
+hosts = ["bkromhout","thess"]
 
++++
 **Charity Majors (Parse/Facebook)** is an “Accidental Computerer.” She was the first infrastructure hire at Parse, which was acquired by Facebook in April 2013. Charity handles all of the backend operations and DBA work, and manages a team of 7 engineers.
 
 **Patrick McDonnell** is a web operations manager at Etsy. He made the transition from individual contributor to management a few years ago.

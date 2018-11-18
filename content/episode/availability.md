@@ -1,24 +1,21 @@
 +++
-Description = "Who owns your availability? Recent events in the npm community have rekindled the perennial discussion about dependency management and controlling points of potential failure. Long-time operations professionals Charity Majors (Hound) and Pete Cheslock (Threat Stack) join the ADO crew to discuss."
-aliases = ["/61"]
-author = "Bridget"
-categories = []
-date = "2016-03-25T15:47:22-05:00"
-episode = "61"
-friendly = "availability"
-guests = ["cmajors2", "pcheslock2"]
-images = ["https://www.arresteddevops.com/img/social/fb/availability.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode061.mp3"
-podcast_duration = "01:06:43"
-sponsors = ["10thmagnitude", "datadog"]
-tags = []
 title = "Who owns your availability? With Charity Majors and Pete Cheslock"
+Description = "Who owns your availability? Recent events in the npm community have rekindled the perennial discussion about dependency management and controlling points of potential failure. Long-time operations professionals Charity Majors (Hound) and Pete Cheslock (Threat Stack) join the ADO crew to discuss."
+Date = 2016-03-25T15:47:22-05:00
+PublishDate = 2016-03-25T15:47:22-05:00
+podcast_file = "arrested-devops-podcast-episode061.mp3"
+episode_image = "/episode/img/availability.png"
+episode_banner = "/episode/img/availability-banner.png"
+guests = ["cmajors2","pcheslock2",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","datadog",]
+episode = "61"
+images = ["/img/social/fb/availability.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/61",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "fZsYnGpIgIU"
-explicit = "yes"
 
 +++
-
 * [kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
 * [Who owns my availability?](http://www.whoownsmyavailability.com/)
 * [deb-s3](https://github.com/krobertson/deb-s3)

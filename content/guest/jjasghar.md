@@ -1,0 +1,16 @@
++++
+Title = "JJ Asghar"
+date = "2018-11-17T08:32:02-08:00"
+Twitter = "jjasghar"
+Website = ""
+Type = "guest"
+Facebook = ""
+Linkedin = ""
+Pronouns = ""
+GitHub = "jjasghar"
+Thumbnail = "img/guests/jjasghar.png"
+Pinterest = ""
+Instagram = ""
+YouTube = ""
++++
+JJ is a Sr. Partner Engineer at Chef, he was also the PTL for the Openstack-Chef project. He lives in Austin, Texas and has been part of the OpenStack community since Diablo's release. <p> He enjoys a good strong stout, hoppy IPA, and some Dwarf Fortress. He's a member of the Church of Emacs, and usually chooses Ubuntu over CentOS. <p> He's a father and husband, if he's not trying to automate his job away he's trying to convince his daughters to "let the bot's do the work for them."

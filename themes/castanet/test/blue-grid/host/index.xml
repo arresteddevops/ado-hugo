@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hosts of HugoCast on HugoCast</title>
+    <link>https://sample-castanet.netlify.com/host/</link>
+    <description>Recent content in Hosts of HugoCast on HugoCast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
+    
+	<atom:link href="https://sample-castanet.netlify.com/host/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bridget Kromhout</title>
+      <link>https://sample-castanet.netlify.com/host/bkromhout/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>https://sample-castanet.netlify.com/host/bkromhout/</guid>
+      <description>Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if &amp;ldquo;cloud&amp;rdquo; can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis.</description>
+    </item>
+    
+    <item>
+      <title>Matt Stratton</title>
+      <link>https://sample-castanet.netlify.com/host/mstratton/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>https://sample-castanet.netlify.com/host/mstratton/</guid>
+      <description>Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.</description>
+    </item>
+    
+    <item>
+      <title>Trevor Hess</title>
+      <link>https://sample-castanet.netlify.com/host/thess/</link>
+      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
+      
+      <guid>https://sample-castanet.netlify.com/host/thess/</guid>
+      <description>Trevor Hess is a Partner Solution Architect focusing on Microsoft at Chef Software, working with Microsoft to ensure that Chef is delighting customers and prospects on Windows and the many parts inside Azure!
+Coming from a background in .NET Software Development and consulting, he has worked with several large multinational organizations to help kick start their journey to the cloud and the world of DevOps practices and principals. He is excited to engage in new experiences, and learning opportunities.</description>
+    </item>
+    
+  </channel>
+</rss>

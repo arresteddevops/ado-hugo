@@ -1,24 +1,22 @@
 +++
-Description = "Matt, Trevor, and Bridget chat with Kyle Kingsbury (Stripe) about his research on failure in distributed systems."
-author = "Matt"
-categories = []
-date = "2015-08-15T09:37:51-05:00"
-episode = "41"
-friendly = "podcast-me-maybe"
-guests = ["kkingsbury"]
-images = ["http://new.arresteddevops.com/img/social/fb/podcast-me-maybe.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode041.mp3"
-podcast_bytes = "50151771"
-podcast_duration = "59:42"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "Podcast Me Maybe with Kyle Kingsbury"
+Description = "Matt, Trevor, and Bridget chat with Kyle Kingsbury (Stripe) about his research on failure in distributed systems."
+Date = 2015-08-15T09:37:51-05:00
+PublishDate = 2015-08-15T09:37:51-05:00
+podcast_file = "arrested-devops-podcast-episode041.mp3"
+episode_image = "/episode/img/podcast-me-maybe.png"
+episode_banner = "/episode/img/podcast-me-maybe-banner.png"
+guests = ["kkingsbury",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "41"
+images = ["/img/social/fb/podcast-me-maybe.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = []
+explicit = "yes" # values are "yes" or "no"
 youtube = "cSUd0sQEWNU"
-explicit = "yes"
+hosts = ["mstratton", "thess", "bkromhout"]
 
 +++
-
 Matt, Trevor, and Bridget catch up with Kyle Kingsbury about his research on failure in distributed systems, lighting rigs controlled by code, consent and representation, and more.
 
 [Call Me Maybe](https://aphyr.com/tags/jepsen): an exploration of failure in distributed systems using the Jepsen tool.

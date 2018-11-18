@@ -1,22 +1,20 @@
 +++
-Description = "DevOps from a developer perspective"
-aliases = ["/3"]
-author = "Matt"
-categories = []
-date = "2014-01-02T09:47:19-05:00"
-episode = "3"
-friendly = "the-dev-show"
-guests = ["ddigangi","dbraverman"]
-images = ["https://www.arresteddevops.com/img/social/fb/the-dev-show.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode003.mp3"
-podcast_bytes = "107281835"
-podcast_duration = "55:53"
-sponsors = []
-tags = []
 title = "the dev show"
+Description = "DevOps from a developer perspective"
+Date = 2014-01-02T09:47:19-05:00
+PublishDate = 2014-01-02T09:47:19-05:00
+podcast_file = "arrested-devops-podcast-episode03.mp3"
+episode_image = "/episode/img/the-dev-show.png"
+episode_banner = "/episode/img/the-dev-show-banner.png"
+guests = ["ddigangi","dbraverman",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "3"
+images = ["/img/social/fb/the-dev-show.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/3",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "25235P0tOJo"
-explicit = "yes"
+hosts = ["mstratton", "thess"]
 
 +++
 <h2>Retro</h2>

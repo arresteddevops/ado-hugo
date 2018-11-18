@@ -1,24 +1,23 @@
 +++
-Description = "Bridget and Matt chat with Jeff Smith (Centro) and Mark Imbriaco (Pivotal)."
-aliases = ["/86"]
-author = "Bridget"
-categories = []
-date = "2017-06-03T19:59:40-05:00"
-episode = "86"
-explicit = "yes"
-friendly = "disaster-communication"
-guests = ["jsmith2", "mimbriaco2"]
-images = ["https://www.arresteddevops.com/img/social/fb/disaster-communication.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode086.mp3"
-podcast_duration = "49:57"
-sponsors = ["10thmagnitude", "victorops", "datadog"]
-tags = []
 title = "When the Levee Breaks with Jeff Smith and Mark Imbriaco"
+Description = "Bridget and Matt chat with Jeff Smith (Centro) and Mark Imbriaco (Pivotal)."
+Date = 2017-06-03T19:59:40-05:00
+PublishDate = 2017-06-03T19:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode086.mp3"
+episode_image = "/episode/img/disaster-communication.png"
+episode_banner = "/episode/img/disaster-communication-banner.png"
+guests = ["jsmith2","mimbriaco2",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","datadog",]
+episode = "86"
+images = ["/img/social/fb/disaster-communication.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/86",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "dorCcK8dklQ"
+hosts = ["mstratton", "bkromhout"]
+
 
 +++
-
 Bridget and Matt chat with Jeff Smith (Centro) and Mark Imbriaco (Pivotal).
 
 * [Who Owns Your Availability?](https://www.arresteddevops.com/availability/)
@@ -42,4 +41,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 ### Open CFPs
 
 * [lots of DevOpsDays](https://devopsdays.org/speaking)
-

@@ -1,24 +1,22 @@
 +++
-Description = "Bridget discusses Devops Weekly with Gareth Rushgrove."
-aliases = ["/105"]
-author = "Bridget"
-categories = []
-date = "2018-03-01T18:55:48-05:00"
-episode = "105"
-explicit = "yes"
-friendly = "devops-weekly"
-guests = ["grushgrove"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-weekly.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode105.mp3"
-podcast_duration = "57:07"
-sponsors = ["chef", "datadog"]
-tags = []
 title = "Devops Weekly with Gareth Rushgrove"
+Description = "Bridget discusses Devops Weekly with Gareth Rushgrove."
+Date = 2018-03-01T18:55:48-05:00
+PublishDate = 2018-03-01T18:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode105.mp3"
+episode_image = "/episode/img/devops-weekly.png"
+episode_banner = "/episode/img/devops-weekly-banner.png"
+guests = ["grushgrove",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "105"
+images = ["/img/social/fb/devops-weekly.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/105",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "C82Mumc5ShE"
+hosts = ["bkromhout"]
 
 +++
-
 Bridget discusses Devops Weekly with Gareth Rushgrove.
 
 ## Referenced in this episode:
@@ -55,4 +53,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 ## Bridget
 * [IOT DevKit](https://aka.ms/iot-devkit)
 * [Male Ally Summit New York March 29](https://twitter.com/NatashaGreen25/status/965410109596884992)
-

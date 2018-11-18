@@ -1,25 +1,23 @@
 +++
-Description = "DevOps isn't just for startups - in fact, that argument can be made that it's even MORE important for large, enterprise-scale companies than for anyone else. What does it mean to 'do DevOps' in an enterprise? Is there a different flavor of DevOps for enterprise companies? Does CAMS work at scale? Michael Ducy (CHEF Software), Ross Clanton (Target), and Steve Pereira join Matt, Trevor, and Bridget (wat?) to finally tackle this tricky topic."
-aliases = ["/25"]
-author = "Matt"
-categories = []
-date = "2014-11-18T19:38:22-05:00"
-episode = "25"
-friendly = "enterprise-devops"
-guests = ["mducy","rclanton","spereira"]
-images = ["https://www.arresteddevops.com/img/social/fb/enterprise-devops.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode025.mp3"
-podcast_bytes = "67235758"
-podcast_duration = "46:41"
-sponsors = ["victorops","redgate","10thmagnitude"]
-tags = []
 title = "DevOps in the Enterprise"
+Description = "DevOps isn't just for startups - in fact, that argument can be made that it's even MORE important for large, enterprise-scale companies than for anyone else. What does it mean to 'do DevOps' in an enterprise? Is there a different flavor of DevOps for enterprise companies? Does CAMS work at scale? Michael Ducy (CHEF Software), Ross Clanton (Target), and Steve Pereira join Matt, Trevor, and Bridget (wat?) to finally tackle this tricky topic."
+Date = 2014-11-18T19:38:22-05:00
+PublishDate = 2014-11-18T19:38:22-05:00
+podcast_file = "arrested-devops-podcast-episode025.mp3"
+episode_image = "/episode/img/enterprise-devops.png"
+episode_banner = "/episode/img/enterprise-devops-banner.png"
+guests = ["mducy","rclanton","spereira",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","redgate","10thmagnitude",]
+episode = "25"
+images = ["/img/social/fb/enterprise-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/25",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "NbtTG3K0YrM"
-explicit = "yes"
+hosts = ["mstratton", "bkromhout", "thess"]
+
 
 +++
-
 [Transcript](http://transcripts.castingwords.com/zvzw/211654.html)
 
 <h2>Checkouts</h2>

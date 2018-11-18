@@ -1,23 +1,20 @@
 +++
-Description = "In this edition of \"big guys with beards and tattoos\", MongoDB Developer Advocate Jay Gordon waxes philosophical about the change from being on-call to being a tech evangelist, what went wrong with the GitHub memcached DDoS, and the role of fast food in DevOps."
-aliases = ["/106"]
-author = "Matt"
-categories = []
-date = "2018-03-12T08:55:48-05:00"
-episode = "106"
-explicit = "yes"
-friendly = "punk-rock"
-guests = ["jgordon"]
-images = ["https://www.arresteddevops.com/img/social/fb/punk-rock.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode106.mp3"
-podcast_duration = "57:07"
-sponsors = ["chef", "datadog"]
-tags = []
 title = "Punk Rock DevOps with Jay Gordon"
-
+Description = "In this edition of \"big guys with beards and tattoos\", MongoDB Developer Advocate Jay Gordon waxes philosophical about the change from being on-call to being a tech evangelist, what went wrong with the GitHub memcached DDoS, and the role of fast food in DevOps."
+Date = 2018-03-12T08:55:48-05:00
+PublishDate = 2018-03-12T08:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode106.mp3"
+episode_image = "/episode/img/punk-rock.png"
+episode_banner = "/episode/img/punk-rock-banner.png"
+guests = ["jgordon",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","datadog",]
+episode = "106"
+images = ["/img/social/fb/punk-rock.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/106",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
-
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) - Ashley McNamara
 - [Community Pulse podcast](http://communitypulse.io/)
 - [Developer Avocados: The Good Kind Of Fat](https://www.marythengvall.com/blog/2018/1/31/developer-avocados-the-good-kind-of-fat)
@@ -65,4 +62,4 @@ Lots of devopsdays: https://www.devopsdays.org/speaking/
 ## Check Outs
 
 - [Muzzle](https://muzzleapp.com/) - simple mac app that turns off notifications when you are screen sharing
-- [Tailor](https://itunes.apple.com/us/app/tailor-screenshot-stitching/id926653095?mt=8) - iOS app that automatically detects overlapping screenshots and merges them 
+- [Tailor](https://itunes.apple.com/us/app/tailor-screenshot-stitching/id926653095?mt=8) - iOS app that automatically detects overlapping screenshots and merges them

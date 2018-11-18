@@ -1,24 +1,22 @@
 +++
-Description = "Bridget chats with Alice Goldfuss (GitHub)."
-aliases = ["/96"]
-author = "Bridget"
-categories = []
-date = "2017-11-28T14:55:48-05:00"
-episode = "96"
-explicit = "yes"
-friendly = "alice-fireside-chat"
-guests = ["agoldfuss"]
-images = ["https://www.arresteddevops.com/img/social/fb/alice-fireside-chat.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode096.mp3"
-podcast_duration = "1:21:52"
-sponsors = ["victorops", "thoughtworks", "datadog"]
-tags = []
 title = "Fireside Chat with Alice Goldfuss"
+Description = "Bridget chats with Alice Goldfuss (GitHub)."
+Date = 2017-11-28T14:55:48-05:00
+PublishDate = 2017-11-28T14:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode096.mp3"
+episode_image = "/episode/img/alice-fireside-chat.png"
+episode_banner = "/episode/img/alice-fireside-chat-banner.png"
+guests = ["agoldfuss",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","thoughtworks","datadog",]
+episode = "96"
+images = ["/img/social/fb/alice-fireside-chat.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/96",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "2rO8iGRyIGQ"
+hosts = ["bkromhout"]
 
 +++
-
 Bridget sat down for a fireside chat with Alice Goldfuss (GitHub). No actual fires were harmed in the making of this episode.
 
 * [LISA17](https://www.usenix.org/conference/lisa17)
@@ -57,5 +55,3 @@ Use code "ADO2017" for a discount on many devopsdays.
 * [SREcon](https://www.usenix.org/conference/srecon18americas/call-for-participation) - March 27-29 2018 - CFP closes Wednesday, November 29, 2017, 11:59 pm PST
 * [ScaleConf Colombia](http://scaleconfco.com/) - April 27 - 28th 2018 - [CFP closes Jan 15](https://www.papercall.io/scaleconfco2018)
 * [Velocity San Jose](https://conferences.oreilly.com/velocity/vl-ca/public/cfp/611 ) - June 12-14 2018 - CFP closes Jan 17
-
-

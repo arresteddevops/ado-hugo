@@ -1,21 +1,21 @@
 +++
-Description = "An episode years in the making! Matt and guest J. Paul Reed talk about what DevOps could be doing better, what is going well, nerdy things about podcasting, and whether 5 Guys is better than In-And-Out Burger."
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode097.mp3"
-podcast_duration = "01:07:35"
-guests = ["preed"]
-sponsors = ["victorops", "thoughtworks", "datadog"]
-friendly = "grandpa-paul"
-episode = "97"
 title = "Fireside Chat with Grandpa Paul"
-images = ["https://www.arresteddevops.com/img/social/fb/friendly.png"]
-news_keywords = []
-author = "Matt"
-aliases = ["/97"]
-explicit = "yes"
-date = "2017-12-04T04:55:48-05:00"
+Description = "An episode years in the making! Matt and guest J. Paul Reed talk about what DevOps could be doing better, what is going well, nerdy things about podcasting, and whether 5 Guys is better than In-And-Out Burger."
+Date = 2017-12-04T04:55:48-05:00
+PublishDate = 2017-12-04T04:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode097.mp3"
+episode_image = "/episode/img/grandpa-paul.png"
+episode_banner = "/episode/img/grandpa-paul-banner.png"
+guests = ["preed",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","thoughtworks","datadog",]
+episode = "97"
+images = ["/img/social/fb/grandpa-paul.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/97",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
 
 +++
-
 * https://en.wikipedia.org/wiki/Cynefin_framework
 * http://theshipshow.com/
 * [Does Humor Belong In Technology](https://dhbit.ca/)

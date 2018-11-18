@@ -1,23 +1,20 @@
 +++
-Description = "It's information overload these days - how can a technology professional manage to keep up with everything that is new and exciting in the world of DevOps? What are the best methods for absorbing content and developing skills? Just how useful are podcasts, anyway? Matt, Trevor, and special guest Sasha Rosenbaum discuss these topics and their own personal strategies and challenges with keeping their brains from segfaulting."
-aliases = ["/8"]
-author = "Matt"
-categories = []
-date = "2014-03-11T08:54:32-05:00"
-episode = "8"
-friendly = "managing-your-mental-stack"
-guests = ["srosenbaum"]
-images = []
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode008.mp3"
-podcast_bytes = "74165205"
-podcast_duration = "1:01:48"
-sponsors = []
-tags = []
 title = "managing your mental stack"
+Description = "It's information overload these days - how can a technology professional manage to keep up with everything that is new and exciting in the world of DevOps? What are the best methods for absorbing content and developing skills? Just how useful are podcasts, anyway? Matt, Trevor, and special guest Sasha Rosenbaum discuss these topics and their own personal strategies and challenges with keeping their brains from segfaulting."
+Date = 2014-03-11T08:54:32-05:00
+PublishDate = 2014-03-11T08:54:32-05:00
+podcast_file = "arrested-devops-podcast-episode08.mp3"
+episode_image = "/episode/img/managing-your-mental-stack.png"
+episode_banner = "/episode/img/managing-your-mental-stack-banner.png"
+guests = ["srosenbaum",] # The names of your guests, based on the filename without extension.
+sponsors = []
+episode = "8"
+images = ["/img/social/fb/managing-your-mental-stack.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/8",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "oE-9shO_-1o"
-explicit = "yes"
-
+hosts = ["mstratton", "thess"]
 +++
 * Matt's popular blog post - [Configuring SharePoint 2010 Search in a one-way trust scenario](http://www.mattstratton.com/tech-tips/configuring-sharepoint-2010-search-in-a-one-way-trust-scenario/)
 * Food Fight - [Episode 36: Roles, Environments, Attributes, and Data Bags](http://foodfightshow.org/2013/01/roles.html)

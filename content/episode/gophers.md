@@ -1,24 +1,22 @@
 +++
-Description = "Bridget discusses all things Go with Brian Ketelsen and Erik St. Martin."
-aliases = ["/101"]
-author = "Bridget"
-categories = []
-date = "2018-01-23T12:55:48-05:00"
-episode = "101"
-explicit = "yes"
-friendly = "gophers"
-guests = ["bketelsen", "estmartin"]
-images = ["https://www.arresteddevops.com/img/social/fb/gophers.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode101.mp3"
-podcast_duration = "53:17"
-sponsors = ["chef", "thoughtworks"]
-tags = []
 title = "Gophers: Brian Ketelsen & Erik St. Martin"
+Description = "Bridget discusses all things Go with Brian Ketelsen and Erik St. Martin."
+Date = 2018-01-23T12:55:48-05:00
+PublishDate = 2018-01-23T12:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode101.mp3"
+episode_image = "/episode/img/gophers.png"
+episode_banner = "/episode/img/gophers-banner.png"
+guests = ["bketelsen","estmartin",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","thoughtworks",]
+episode = "101"
+images = ["/img/social/fb/gophers.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/101",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "SOMbbTM6PWs"
+hosts = ["bkromhout"]
 
 +++
-
 Bridget discusses all things Go with Brian Ketelsen and Erik St. Martin.
 
 
@@ -64,5 +62,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 * [Honeycomb engineering blog](https://honeycomb.io/blog/)
 * [Bombsheller leggings](https://shop.bombsheller.com/) (again! because people ask for this at every conference!)
 * [Leakproof Nalgene water bottle](https://www.amazon.com/dp/B0043TG59E/)
-
-

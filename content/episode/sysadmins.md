@@ -1,22 +1,20 @@
 +++
-Description = "Way back in Episode 3, we had a 'Dev focused' show. It's about time to show some sysadmin love."
-aliases = ["/18"]
-author = "Matt"
-categories = []
-date = "2014-08-20T18:09:40-05:00"
-episode = "18"
-friendly = "sysadmins"
-guests = ["cread","mfiedler","bwagner"]
-images = ["https://www.arresteddevops.com/img/social/fb/sysadmins.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode018.mp3"
-podcast_bytes = "62732447"
-podcast_duration = "1:05:21"
-sponsors = ["pagerduty","10thmagnitude"]
-tags = []
 title = "The Sysadmin Show"
+Description = "Way back in Episode 3, we had a 'Dev focused' show. It's about time to show some sysadmin love."
+Date = 2014-08-20T18:09:40-05:00
+PublishDate = 2014-08-20T18:09:40-05:00
+podcast_file = "arrested-devops-podcast-episode018.mp3"
+episode_image = "/episode/img/sysadmins.png"
+episode_banner = "/episode/img/sysadmins-banner.png"
+guests = ["cread","mfiedler","bwagner",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","10thmagnitude",]
+episode = "18"
+images = ["/img/social/fb/sysadmins.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/18",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "KwdRZOcSEWk"
-explicit = "yes"
+hosts = ["mstratton", "thess"]
 
 +++
 What exactly does it mean to be a sysadmin? How do you define “sysadmin”?

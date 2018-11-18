@@ -1,23 +1,20 @@
 +++
-Description = "Is DevOps just for the open source world? Can you do DevOps in a Microsoft shop? What are some of the tools and capabilities available for Windows, Azure, and .NET professionals who want to approach work in a DevOps model? Microsoft DevOps Evangelist Jessica DeVita and Jeffrey Snover, a Distinguished Engineer at Microsoft and the Lead Architect for the Windows Server and System Center Division, talk with the ADO crew about how Microsoft approaches DevOps."
-aliases = ["/30"]
-author = "Matt"
-categories = []
-date = "2015-02-12T21:21:05-05:00"
-episode = "30"
-friendly = "microsoft-devops"
-guests = ["jsnover","jdevita"]
-images = ["https://www.arresteddevops.com/img/social/fb/microsoft-devops.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode030.mp3"
-podcast_bytes = "67118984"
-podcast_duration = "1:19:54"
-sponsors = ["pagerduty", "datadog","10thmagnitude"]
-tags = []
 title = "DevOps in a Microsoft World with Jessica DeVita and Jeffrey Snover"
+Description = "Is DevOps just for the open source world? Can you do DevOps in a Microsoft shop? What are some of the tools and capabilities available for Windows, Azure, and .NET professionals who want to approach work in a DevOps model? Microsoft DevOps Evangelist Jessica DeVita and Jeffrey Snover, a Distinguished Engineer at Microsoft and the Lead Architect for the Windows Server and System Center Division, talk with the ADO crew about how Microsoft approaches DevOps."
+Date = 2015-02-12T21:21:05-05:00
+PublishDate = 2015-02-12T21:21:05-05:00
+podcast_file = "arrested-devops-podcast-episode030.mp3"
+episode_image = "/episode/img/microsoft-devops.png"
+episode_banner = "/episode/img/microsoft-devops-banner.png"
+guests = ["jsnover","jdevita",] # The names of your guests, based on the filename without extension.
+sponsors = ["pagerduty","datadog","10thmagnitude",]
+episode = "30"
+images = ["/img/social/fb/microsoft-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/30",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "9qfX_K-5gTk"
-explicit = "yes"
-
+hosts = ["mstratton", "thess"]
 +++
 #### What are some of the challenges traditional Microsoft IT Pro’s deal with moving to a more automated DevOps pattern?
 - Jessica:

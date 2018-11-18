@@ -1,25 +1,23 @@
 +++
-Description = "At DevOpsDays Ghent in 2014, it was joked that we are living in a 'post-DevOps world'. What are the challenges in hiring for DevOps related jobs? We be talked with panelists on all sides of the table - recruiting, hiring, and also just some rabble-rousing about why you should stop looking for 'ninjas' and 'rockstars'. Digital Ocean's Jill Jubinski, Datadog's Mike Fiedler, and rabble-rouser Josh Hertz joined Matt and Trevor to weigh in on a this complicated topic."
-aliases = ["/29"]
-author = "Matt"
-categories = []
-date = "2015-01-22T20:47:29-05:00"
-episode = "29"
-friendly = "hiring-for-devops"
-guests = ["mfiedler", "jjubinski", "jhertz"]
-images = ["https://www.arresteddevops.com/img/social/fb/hiring-for-devops.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode029.mp3"
-podcast_bytes = "54190648"
-podcast_duration = "56:27"
-sponsors = ["victrops", "datadog","10thmagnitude"]
-tags = []
 title = "Hiring in a Post-DevOps World"
+Description = "At DevOpsDays Ghent in 2014, it was joked that we are living in a 'post-DevOps world'. What are the challenges in hiring for DevOps related jobs? We be talked with panelists on all sides of the table - recruiting, hiring, and also just some rabble-rousing about why you should stop looking for 'ninjas' and 'rockstars'. Digital Ocean's Jill Jubinski, Datadog's Mike Fiedler, and rabble-rouser Josh Hertz joined Matt and Trevor to weigh in on a this complicated topic."
+Date = 2015-01-22T20:47:29-05:00
+PublishDate = 2015-01-22T20:47:29-05:00
+podcast_file = "arrested-devops-podcast-episode029.mp3"
+episode_image = "/episode/img/hiring-for-devops.png"
+episode_banner = "/episode/img/hiring-for-devops-banner.png"
+guests = ["mfiedler","jjubinski","jhertz",] # The names of your guests, based on the filename without extension.
+sponsors = ["victrops","datadog","10thmagnitude",]
+episode = "29"
+images = ["/img/social/fb/hiring-for-devops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/29",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "3AqNTU93gME"
-explicit = "yes"
+hosts = ["mstratton", "thess"]
+
 
 +++
-
 <a href="http://transcripts.castingwords.com/zzTm/195771.html" target="_blank">Transcript</a>
 <h2>Check-Outs</h2>
 <h3>Jill</h3>

@@ -1,23 +1,19 @@
 +++
-Description = "Matt, Trevor, and Bridget chat (at length) about podcasts, podcast recording, and podcast recording software. Oh, and the highlights of 2016 if they get around to it."
-aliases = ["/79"]
-author = "Bridget"
-categories = []
-date = "2016-12-31T01:59:40-05:00"
-episode = "79"
-explicit = "yes"
-friendly = "2016-wrapup"
-guests = ["mstratton2","thess","bkromhout3"]
-images = ["https://www.arresteddevops.com/img/social/fb/2016-wrapup.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode079.mp3"
-podcast_duration = "1:33:45"
-sponsors = ["10thmagnitude", "victorops", "datadog"]
-tags = []
 title = "2016 Year-End Extravaganza"
-
+Description = "Matt, Trevor, and Bridget chat (at length) about podcasts, podcast recording, and podcast recording software. Oh, and the highlights of 2016 if they get around to it."
+Date = 2016-12-31T01:59:40-05:00
+PublishDate = 2016-12-31T01:59:40-05:00
+podcast_file = "arrested-devops-podcast-episode079.mp3"
+episode_image = "/episode/img/2016-wrapup.png"
+episode_banner = "/episode/img/2016-wrapup-banner.png"
+guests = ["mstratton2","thess","bkromhout3",] # The names of your guests, based on the filename without extension.
+sponsors = ["10thmagnitude","victorops","datadog",]
+episode = "79"
+images = ["/img/social/fb/2016-wrapup.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/79",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 Matt, Trevor, and Bridget chat (at length) about podcasts, podcast recording, and podcast recording software. Oh, and the highlights of 2016 if they get around to it. (Don't miss the supercut of all 2016's cold opens, which was edited by Joe, even though Matt takes credit for it!)
 
 ### What were some of your favorite episodes?

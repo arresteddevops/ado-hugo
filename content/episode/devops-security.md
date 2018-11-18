@@ -1,25 +1,22 @@
 +++
-Description = "When we talk about DevOps, often times we focus only on the two disciplines that feature in the name - Development and Operations. But DevOps, truly, is about collaboration across all areas of the business, even those security blokes. Ben Hughes, Security Manager at Etsy, joins the ADO crew to review how to work WITH your security teams, and show that they're not really scary at all."
-aliases = ["/20"]
-author = "Matt"
-categories = []
-date = "2014-09-09T18:26:31-05:00"
-episode = "20"
-friendly = "devops-security"
-guests = ["bhughes"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-security.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode020.mp3"
-podcast_bytes = "53962437"
-podcast_duration = "56:13"
-sponsors = ["trueability","10thmagnitude"]
-tags = []
 title = "Something About Security With Ben Hughes"
+Description = "When we talk about DevOps, often times we focus only on the two disciplines that feature in the name - Development and Operations. But DevOps, truly, is about collaboration across all areas of the business, even those security blokes. Ben Hughes, Security Manager at Etsy, joins the ADO crew to review how to work WITH your security teams, and show that they're not really scary at all."
+Date = 2014-09-09T18:26:31-05:00
+PublishDate = 2014-09-09T18:26:31-05:00
+podcast_file = "arrested-devops-podcast-episode020.mp3"
+episode_image = "/episode/img/devops-security.png"
+episode_banner = "/episode/img/devops-security-banner.png"
+guests = ["bhughes",] # The names of your guests, based on the filename without extension.
+sponsors = ["trueability","10thmagnitude",]
+episode = "20"
+images = ["/img/social/fb/devops-security.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/20",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "EJeccu3Lcis"
-explicit = "yes"
+hosts = ["thess","mstratton"]
 
 +++
-
 <ul>
 	<li>What exactly do you security folks do all day?</li>
 	<li>So let's talk about ZOMG SCARY CLOUDS</li>

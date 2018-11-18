@@ -1,25 +1,22 @@
 +++
-Description = "Conferences - some people are addicted, and others have never been. What is the point of conferences? What's an unconference? Why shouldn't I just stay home and watch the livestreams? Jason Dixon (Monitorama), Bridget Kromhout (devopsdays Minneapolis), and Pete Cheslock (devopsdays Boston) give their two cents (and more) about why conferences are the place to be."
-aliases = ["/21"]
-author = "Matt"
-categories = []
-date = "2014-09-23T19:10:23-05:00"
-episode = "21"
-friendly = "devops-conferences"
-guests = ["bkromhout", "jdixon", "pcheslock"]
-images = ["https://www.arresteddevops.com/img/social/fb/devops-conferences.png", ""]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode021.mp3"
-podcast_bytes = "54889043"
-podcast_duration = "57:11"
-sponsors = ["victorops", "datadog","10thmagnitude"]
-tags = []
 title = "Conference Love"
+Description = "Conferences - some people are addicted, and others have never been. What is the point of conferences? What's an unconference? Why shouldn't I just stay home and watch the livestreams? Jason Dixon (Monitorama), Bridget Kromhout (devopsdays Minneapolis), and Pete Cheslock (devopsdays Boston) give their two cents (and more) about why conferences are the place to be."
+Date = 2014-09-23T19:10:23-05:00
+PublishDate = 2014-09-23T19:10:23-05:00
+podcast_file = "arrested-devops-podcast-episode021.mp3"
+episode_image = "/episode/img/devops-conferences.png"
+episode_banner = "/episode/img/devops-conferences-banner.png"
+guests = ["bkromhout","jdixon","pcheslock",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","datadog","10thmagnitude",]
+episode = "21"
+images = ["/img/social/fb/devops-conferences.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/21",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "dSU0j8ORafw"
-explicit = "yes"
+hosts = ["thess","mstratton"]
 
 +++
-
 <ul>
 	<li>What was the first tech conference you attended?</li>
 	<li>What are things you get from a conference that you cannot learn other ways?</li>

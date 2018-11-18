@@ -1,24 +1,19 @@
 +++
-Categories = []
-Description = "Matt & Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps."
-Tags = ["chatops", "jason"]
-Guests = ["jhand", "srosenbaum","pburkholder"]
-Sponsors = ["victorops", "datadog"]
-date = "2015-09-10T13:00:13-05:00"
 title = "ChatOps Extravaganza with Jason Hand, Sasha Rosenbaum, and Peter Burkholder"
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode042.mp3"
-friendly = "chatops"
-podcast_bytes = "39090204"
-podcast_duration = "46:32"
+Description = "Matt & Trevor sit down with Jason Hand (VictorOps), Sasha Rosenbaum (10th Magnitude), and Peter Burkholder (Chef) to discuss ChatOps."
+Date = 2015-09-10T13:00:13-05:00
+PublishDate = 2015-09-10T13:00:13-05:00
+podcast_file = "arrested-devops-podcast-episode042.mp3"
+episode_image = "/episode/img/chatops.png"
+episode_banner = "/episode/img/chatops-banner.png"
+guests = ["jhand","srosenbaum","pburkholder",] # The names of your guests, based on the filename without extension.
+sponsors = ["victorops","datadog",]
 episode = "42"
-images = ["https://www.arresteddevops.com/img/social/fb/chatops.png"]
-news_keywords = ["chatops", "devops","10thmagnitude"]
-author = "Matt"
-aliases = ["/42"]
-explicit = "yes"
-
+images = ["/img/social/fb/chatops.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/42",]
+explicit = "yes" # values are "yes" or "no"
 +++
-
 [Transcript](http://transcripts.castingwords.com/zw00/211594.html)
 
 #### Recording Live from DevOpsDays Chicago!

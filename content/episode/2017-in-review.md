@@ -1,24 +1,21 @@
 +++
-Description = "Matt, Trevor, Bridget, and Joe discuss 2017."
-aliases = ["/100"]
-author = "Bridget"
-categories = []
-date = "2018-01-08T08:55:48-05:00"
-episode = "100"
-explicit = "yes"
-friendly = "2017-in-review"
-guests = ["mstratton3","thess2","bkromhout4", "jlaha"]
-images = ["https://www.arresteddevops.com/img/social/fb/2017-in-review.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode100.mp3"
-podcast_duration = "1:31:30"
-sponsors = ["chef", "thoughtworks"]
-tags = []
 title = "2017 in review"
+Description = "Matt, Trevor, Bridget, and Joe discuss 2017."
+Date = 2018-01-08T08:55:48-05:00
+PublishDate = 2018-01-08T08:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode100.mp3"
+episode_image = "/episode/img/2017-in-review.png"
+episode_banner = "/episode/img/2017-in-review-banner.png"
+guests = ["mstratton3","thess2","bkromhout4","jlaha",] # The names of your guests, based on the filename without extension.
+sponsors = ["chef","thoughtworks",]
+episode = "100"
+images = ["/img/social/fb/2017-in-review.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/100",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "zvwoJtsJuzo"
 
 +++
-
 Matt, Trevor, Bridget, and Joe discuss 2017.
 
 ## What were some of your favorite episodes?
@@ -105,7 +102,4 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 * [Velocity San Jose](https://conferences.oreilly.com/velocity/vl-ca/public/cfp/611 ) - June 12-14 2018 - CFP closes Jan 17
 * [ChefConf 2018](https://chefconf.chef.io) - May 23-26, [CFP](https://chefconf.chef.io/cfp/) open now, closes Jan 10th
 
-Discount codes: ADO2018 for 20% off lots of devopsdays, 10% off ChefConf 
-
-
-
+Discount codes: ADO2018 for 20% off lots of devopsdays, 10% off ChefConf

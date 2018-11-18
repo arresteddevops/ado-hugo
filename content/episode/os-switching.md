@@ -1,24 +1,20 @@
 +++
-Description = "What are some of the gotcha's that exist when switching operating systems? Trevor talks with Matthew Walter about the differences that exist and their own challenges as they've started their journeys into new operating systems."
-aliases = ["/50"]
-author = "Matt"
-categories = []
-date = "2015-11-30T03:58:51-06:00"
-episode = "50"
-friendly = "os-switching"
-guests = ["mwalter"]
-images = ["https://www.arresteddevops.com/img/social/fb/os-switching.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode050.mp3"
-podcast_bytes = ""
-podcast_duration = "42:46"
-sponsors = ["datadog", "10thmagnitude"]
-tags = []
 title = "Switching Teams: From Linux to Windows and Windows to Linux"
-explicit = "yes"
-
+Description = "What are some of the gotcha's that exist when switching operating systems? Trevor talks with Matthew Walter about the differences that exist and their own challenges as they've started their journeys into new operating systems."
+Date = 2015-11-30T03:58:51-06:00
+PublishDate = 2015-11-30T03:58:51-06:00
+podcast_file = "arrested-devops-podcast-episode050.mp3"
+episode_image = "/episode/img/os-switching.png"
+episode_banner = "/episode/img/os-switching-banner.png"
+guests = ["mwalter",] # The names of your guests, based on the filename without extension.
+sponsors = ["datadog","10thmagnitude",]
+episode = "50"
+images = ["/img/social/fb/os-switching.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/50",]
+explicit = "yes" # values are "yes" or "no"
+hosts = ["", "thess"]
 +++
-
 ## Checkouts
 ### Trevor
 * [Blue Yeti Microphone](http://www.amazon.com/Blue-Microphones-Yeti-USB-Microphone/dp/B002VA464S)

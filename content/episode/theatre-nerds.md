@@ -1,24 +1,22 @@
 +++
-Description = "Arrested DevOps - Theatre Geeks Unite and Tech Over the World"
-aliases = ["/108"]
-author = "Trevor"
-categories = []
-date = "2018-05-09T17:55:48-05:00"
-episode = "108"
-explicit = "yes"
-friendly = "theatre-nerds"
-guests = ["ccondon", "nshamrell", "nharvey3"]
-images = ["https://www.arresteddevops.com/img/social/fb/theatre-nerds.png"]
-news_keywords = []
-podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode108.mp3"
-podcast_duration = "1:11:13"
-sponsors = ["stackoverflow", "chef"]
-tags = []
 title = "Theatre Geeks Unite and Tech Over the World"
+Description = "Arrested DevOps - Theatre Geeks Unite and Tech Over the World"
+Date = 2018-05-09T17:55:48-05:00
+PublishDate = 2018-05-09T17:55:48-05:00
+podcast_file = "arrested-devops-podcast-episode108.mp3"
+episode_image = "/episode/img/theatre-nerds.png"
+episode_banner = "/episode/img/theatre-nerds-banner.png"
+guests = ["ccondon","nshamrell","nharvey3",] # The names of your guests, based on the filename without extension.
+sponsors = ["stackoverflow","chef",]
+episode = "108"
+images = ["/img/social/fb/theatre-nerds.png"]
+#hosts = [] # The names of your hosts, based on the filename without extension.
+aliases = ["/108",]
+explicit = "yes" # values are "yes" or "no"
 youtube = "pm7wG4x--Tg"
+hosts = ["", "thess"]
 
 +++
-
 On this episode of Arrested DevOps, Trevor is joined by Chloe Condon, Nathen Harvey, and Nell Shamrell-Harrington. Everyone on this episode has been a part of the theater community at some point in their lives. We talk about our individual journeys from theater into tech, the lessons we learned on the way, and how we leverage those lessons every day.
 
 ## Community & Event Stuff
@@ -78,4 +76,3 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 - [Hazards of Love](https://www.amazon.com/Hazards-Love-Decemberists/dp/B001LK1LA6)
 - [JSON Viewer](https://github.com/tulios/json-viewer)
 - [Postman](https://www.getpostman.com/)
-
