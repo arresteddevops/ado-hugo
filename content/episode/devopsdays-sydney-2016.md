@@ -13,6 +13,8 @@ images = ["/img/social/fb/devopsdays-sydney-2016.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/78",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["bkromhout"]
+
 +++
 Bridget and special guest host Matt Ray of [Software Defined Talk](http://www.softwaredefinedtalk.com/) chat with Matthew Jones, Lindsay Holmwood, Mick Pollard, and Katie McLaughlin at [devopsdays Sydney 2016](https://www.devopsdays.org/events/2016-sydney/welcome/).
 

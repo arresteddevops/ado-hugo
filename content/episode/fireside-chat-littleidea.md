@@ -14,6 +14,7 @@ images = ["/img/social/fb/fireside-chat-littleidea.png"]
 aliases = ["/103",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "8Cvd8sae00Q"
+hosts = ["bkromhout"]
 
 +++
 Bridget and Matt discuss the past and future of tech with Andrew Clay Shafer.

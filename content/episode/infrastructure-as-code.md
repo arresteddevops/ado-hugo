@@ -14,6 +14,7 @@ images = ["/img/social/fb/infrastructure-as-code.png"]
 aliases = ["/44",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "7voRnzzUZb4"
+hosts = ["mstratton", "thess"]
 
 +++
 The Reddit post referenced in the episode:

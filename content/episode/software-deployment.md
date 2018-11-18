@@ -14,6 +14,7 @@ images = ["/img/social/fb/software-deployment.png"]
 aliases = ["/13",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "qFLkBEGnOfk"
+hosts = ["mstratton", "thess"]
 
 +++
 What is software delivery? There are a lot of approaches to this subject- what does "software delivery" mean at PagerDuty?

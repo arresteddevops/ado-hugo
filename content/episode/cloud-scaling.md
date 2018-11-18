@@ -14,6 +14,6 @@ images = ["/img/social/fb/cloud-scaling.png"]
 aliases = ["/10",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "Ae2usrwum2E"
-
+hosts = ["mstratton","thess"]
 +++
 

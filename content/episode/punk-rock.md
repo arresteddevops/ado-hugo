@@ -13,6 +13,7 @@ images = ["/img/social/fb/punk-rock.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/106",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 - [What is Developer Advocacy?](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) - Ashley McNamara
 - [Community Pulse podcast](http://communitypulse.io/)

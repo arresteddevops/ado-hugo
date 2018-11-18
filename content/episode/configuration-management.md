@@ -14,6 +14,6 @@ images = ["/img/social/fb/configuration-management.png"]
 aliases = ["/9",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "btr9WWi8hsc"
-
+hosts = ["mstratton","thess"]
 +++
 

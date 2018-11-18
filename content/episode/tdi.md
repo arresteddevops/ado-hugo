@@ -13,6 +13,7 @@ images = ["/img/social/fb/tdi.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/48",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 - Arthur's DevOpsDays Toronto [talk on TDI](https://youtu.be/IEQUfo0eUiI?t=248)
 - [Chef Compliance](https://www.chef.io/solutions/audit-compliance/)

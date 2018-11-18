@@ -13,6 +13,7 @@ images = ["/img/social/fb/chocolatey.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/56",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["thess"]
 +++
 * [Chocolatey.org](https://chocolatey.org)
 * [Chocolatey Mailing List](https://groups.google.com/forum/#!forum/chocolatey)

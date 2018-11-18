@@ -14,6 +14,8 @@ images = ["/img/social/fb/devopsdays-minneapolis-2016.png"]
 aliases = ["/68",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "5CM5_JkrRa4"
+hosts = ["bkromhout"]
+
 
 +++
 How do large enterprises transform the way they do IT? What does it mean for every company to become a software company? Our panel of experts at devopsdays Minneapolis 2016 has worked in some of the largest orgs out there and has seen a lot of transformation first-hand.

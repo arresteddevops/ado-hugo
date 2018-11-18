@@ -14,6 +14,7 @@ images = ["/img/social/fb/goto-chicago-2018.png"]
 aliases = ["/107",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "rT_cPdMqg5A"
+hosts = ["bkromhout"]
 
 +++
 Bridget curated the [distributed systems track at GOTO Chicago 2018](https://gotochgo.com/2018/tracks/65). In the last timeslot of the day, she gathered all the speakers from the track to discuss their topics.

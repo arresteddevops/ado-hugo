@@ -13,5 +13,7 @@ images = ["/img/social/fb/devopsdays-minneapolis.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/16",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
+
 +++
 

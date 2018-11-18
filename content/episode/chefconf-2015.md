@@ -13,6 +13,7 @@ images = ["/img/social/fb/chefconf-2015.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/34",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton","thess"]
 +++
 [Seth Falcon](https://twitter.com/sfalcon) is the Engineering General Manager for Chef Delivery.
 

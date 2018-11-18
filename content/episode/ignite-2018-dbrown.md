@@ -13,5 +13,7 @@ images = ["/img/social/fb/ignite-2018-dbrown.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/115","donovan-ignite18",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["thess", ""]
+
 +++
 Trevor and Jason are joined by Donovan Brown at Microsoft Ignite 2018, and have a quick catch up on the event and the state of the DevOps world.

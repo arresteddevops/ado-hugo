@@ -14,6 +14,8 @@ images = ["/img/social/fb/devopsdays-minneapolis-2018.png"]
 aliases = ["/111",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "SOe29S_q9jM"
+hosts = ["mstratton", "bkromhout"]
+
 
 +++
 Bridget and Matty chat about organizing conferences with guests Jamesha "Jam" Fisher, Debbie Gillespie, and Christian Herro, in front of a live studio audience at [devopsdays Minneapolis 2018](http://www.devopsdays.org/events/2018-minneapolis/welcome/).

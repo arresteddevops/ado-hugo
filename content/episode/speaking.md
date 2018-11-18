@@ -14,6 +14,7 @@ images = ["/img/social/fb/speaking.png"]
 aliases = ["/62",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "R4Cy86jcoSw"
+hosts = ["bkromhout", ""]
 
 +++
 * <a href="http://shop.oreilly.com/product/0636920039846.do">Effective DevOps</a> by Ryn Daniels & Jennifer Davis

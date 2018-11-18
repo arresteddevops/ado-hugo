@@ -14,7 +14,7 @@ images = ["/img/social/fb/made-up-words.png"]
 aliases = ["/85",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "RFY_8Q3pk20"
-
+hosts = ["mstratton", "bkromhout"]
 +++
 Bridget and Matt chat with Nicole Forsgren (DORA) and Tim Gross (Joyent).
 

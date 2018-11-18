@@ -14,6 +14,7 @@ images = ["/img/social/fb/alice-fireside-chat.png"]
 aliases = ["/96",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "2rO8iGRyIGQ"
+hosts = ["bkromhout"]
 
 +++
 Bridget sat down for a fireside chat with Alice Goldfuss (GitHub). No actual fires were harmed in the making of this episode.

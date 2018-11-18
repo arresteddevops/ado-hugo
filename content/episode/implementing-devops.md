@@ -14,6 +14,7 @@ images = ["/img/social/fb/implementing-devops.png"]
 aliases = ["/12",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "QjKbSPCyKUk"
+hosts = ["mstratton", "thess"]
 
 +++
 <h3>Agenda</h3>

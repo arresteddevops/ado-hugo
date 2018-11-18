@@ -13,6 +13,7 @@ images = ["/img/social/fb/devopsdays-madison.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/95",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", "bkromhout"]
 +++
 [Devopsdays Madison 2017](https://www.devopsdays.org/events/2017-madison/) was the second year for this event. With great speakers, workshops, open spaces, and sponsors, this event brought the community together to learn and share. 
 

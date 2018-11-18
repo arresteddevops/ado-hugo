@@ -13,6 +13,7 @@ images = ["/img/social/fb/os-switching.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/50",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["", "thess"]
 +++
 ## Checkouts
 ### Trevor

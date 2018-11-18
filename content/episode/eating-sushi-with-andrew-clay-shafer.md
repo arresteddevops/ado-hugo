@@ -13,6 +13,8 @@ images = ["/img/social/fb/eating-sushi-with-andrew-clay-shafer.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/39",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", "bkromhout"]
+
 +++
 [Transcript](http://transcripts.castingwords.com/zvzu/211640.html)
 

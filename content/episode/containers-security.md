@@ -14,6 +14,7 @@ images = ["/img/social/fb/containers-security.png"]
 aliases = ["/63",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "qPs5U5hdciM"
+hosts = ["bkromhout"]
 
 +++
 * [Jess on unprivileged containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)

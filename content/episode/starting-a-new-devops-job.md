@@ -14,6 +14,7 @@ images = ["/img/social/fb/starting-a-new-devops-job.png"]
 aliases = ["/32",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "5OSJ_X3FeAA"
+hosts = ["mstratton", "thess", "bkromhout"]
 
 +++
 Tonight's episode featured a special guest host, Julian Dunn of Chef.

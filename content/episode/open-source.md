@@ -13,6 +13,7 @@ images = ["/img/social/fb/open-source.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/55",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 * [Panel Discussion from ChefConf 2015: Have Your Bets on Open Paid Off?](https://www.youtube.com/watch?v=HZnbGNtcyMc)
 Moderated by Cade Metz, Wired Magazine

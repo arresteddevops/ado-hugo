@@ -13,6 +13,7 @@ images = ["/img/social/fb/puppet.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/49",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 Various links referenced in the episode!
 

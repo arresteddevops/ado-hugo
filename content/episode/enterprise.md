@@ -14,6 +14,8 @@ images = ["/img/social/fb/enterprise.png"]
 aliases = ["/83",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "9V0bfPLeYvo"
+hosts = ["mstratton", "bkromhout"]
+
 
 +++
 Bridget and Matt chat about devops in a large enterprise with Bryan Liles (Capital One).

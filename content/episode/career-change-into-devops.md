@@ -13,6 +13,7 @@ images = ["/img/social/fb/career-change-into-devops.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/102",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
 +++
 What is it like to change careers and get into tech later in life? Annie Hedgpeth and Megan Bohl tell their stories.
 

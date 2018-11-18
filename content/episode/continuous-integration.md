@@ -14,6 +14,7 @@ images = ["/img/social/fb/continuous-integration.png"]
 aliases = ["/5",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "v7iS906NPOw"
+hosts = ["thess","mstratton"]
 
 +++
 <h2>Retro</h2>

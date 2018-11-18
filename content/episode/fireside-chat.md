@@ -14,6 +14,8 @@ images = ["/img/social/fb/fireside-chat.png"]
 aliases = ["/72",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "lybeocYXujU"
+hosts = [ "bkromhout"]
+
 
 +++
 Bridget sits down for a classic fireside chat with Bryan Cantrill (Joyent), ranging from containers to social justice to lawn care.

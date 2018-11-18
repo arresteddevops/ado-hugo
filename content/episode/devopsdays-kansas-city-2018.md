@@ -13,5 +13,6 @@ images = ["/img/social/fb/devopsdays-kansas-city-2018.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/119","/devopsdayskansascity2018","devopsdays-kansascity-2018",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
 +++
 Matty (with special guest host Jessica DeVita) is joined by Ana Medina, Dan Barker, Ben Clayton, and Monica Hart at DevOpsDays Kansas City 2018.

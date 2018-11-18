@@ -14,6 +14,7 @@ images = ["/img/social/fb/continuous-delivery-database.png"]
 aliases = ["/26",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "QLKx3M06Tm8"
+hosts = ["thess","mstratton"]
 
 +++
 

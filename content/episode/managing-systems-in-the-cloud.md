@@ -14,6 +14,7 @@ images = ["/img/social/fb/managing-systems-in-the-cloud.png"]
 aliases = ["/23",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "_SddIa6iej0"
+hosts = ["mstratton", "thess"]
 
 +++
 <h2>Check Outs</h2>

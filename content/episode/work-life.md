@@ -13,6 +13,7 @@ images = ["/img/social/fb/work-life.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/99",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 - [Devaluing Hard Work](https://www.devopsdays.org/events/2017-chicago/program/katie-prizy/) - Katie Prizy, DevOpsDays Chicago 2017
 - [Security, Don't Fear The DevOps](https://www.devopsdays.org/events/2017-chicago/program/bill-weiss/) - Bill Weiss, DevOpsDays Chicago 2017

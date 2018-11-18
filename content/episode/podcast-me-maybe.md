@@ -14,6 +14,7 @@ images = ["/img/social/fb/podcast-me-maybe.png"]
 aliases = []
 explicit = "yes" # values are "yes" or "no"
 youtube = "cSUd0sQEWNU"
+hosts = ["mstratton", "thess", "bkromhout"]
 
 +++
 Matt, Trevor, and Bridget catch up with Kyle Kingsbury about his research on failure in distributed systems, lighting rigs controlled by code, consent and representation, and more.

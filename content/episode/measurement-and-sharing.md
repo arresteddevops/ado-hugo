@@ -13,6 +13,7 @@ images = ["/img/social/fb/measurement-and-sharing.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/52",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 - [Metrics For DevOps Initiatives](http://devopsenterprise.io/media/DOES_forum_metrics_102015.pdf) from the DevOps Enterprise Summit 2015
 - [Nicole's Working Papers](http://ssrn.com/author=2468935)

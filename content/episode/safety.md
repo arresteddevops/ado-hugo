@@ -13,6 +13,7 @@ images = ["/img/social/fb/safety.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/110",]
 explicit = "no" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 Guests J. Paul Reed and Mary Thengvall talk about resiliency, safety, and a great new conference - [REdeploy](https://re-deploy.io)!
 

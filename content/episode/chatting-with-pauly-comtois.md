@@ -15,6 +15,7 @@ podcast_duration = "01:09:12"
 sponsors = ["10thmagnitude", "datadog", "victorops"]
 tags = []
 title = "chatting with pauly comtois"
+hosts = ["mstratton"]
 
 +++
 

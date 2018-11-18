@@ -14,6 +14,8 @@ images = ["/img/social/fb/enterprise-devops.png"]
 aliases = ["/25",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "NbtTG3K0YrM"
+hosts = ["mstratton", "bkromhout", "thess"]
+
 
 +++
 [Transcript](http://transcripts.castingwords.com/zvzw/211654.html)

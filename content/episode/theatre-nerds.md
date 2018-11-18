@@ -14,6 +14,7 @@ images = ["/img/social/fb/theatre-nerds.png"]
 aliases = ["/108",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "pm7wG4x--Tg"
+hosts = ["", "thess"]
 
 +++
 On this episode of Arrested DevOps, Trevor is joined by Chloe Condon, Nathen Harvey, and Nell Shamrell-Harrington. Everyone on this episode has been a part of the theater community at some point in their lives. We talk about our individual journeys from theater into tech, the lessons we learned on the way, and how we leverage those lessons every day.

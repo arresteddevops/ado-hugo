@@ -14,6 +14,8 @@ images = ["/img/social/fb/discovery.png"]
 aliases = ["/77",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "d1P7HGo4fg4"
+hosts = ["bkromhout"]
+
 
 +++
 Distributed systems, service discovery, load balancing: [Service Discovery at Stripe](https://stripe.com/blog/service-discovery-at-stripe)

@@ -13,6 +13,7 @@ images = ["/img/social/fb/christine-spang.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/113","spang",]
 explicit = "no" # values are "yes" or "no"
+hosts = ["mstratton"]
 +++
 Matty has a chat with Christine Spang of Nylas about company culture and on-call techniques and war stories.
 

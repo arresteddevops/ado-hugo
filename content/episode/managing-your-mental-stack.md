@@ -14,7 +14,7 @@ images = ["/img/social/fb/managing-your-mental-stack.png"]
 aliases = ["/8",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "oE-9shO_-1o"
-
+hosts = ["mstratton", "thess"]
 +++
 * Matt's popular blog post - [Configuring SharePoint 2010 Search in a one-way trust scenario](http://www.mattstratton.com/tech-tips/configuring-sharepoint-2010-search-in-a-one-way-trust-scenario/)
 * Food Fight - [Episode 36: Roles, Environments, Attributes, and Data Bags](http://foodfightshow.org/2013/01/roles.html)

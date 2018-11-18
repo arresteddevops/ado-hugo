@@ -13,6 +13,7 @@ images = ["/img/social/fb/devopsdays-ams-2018.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/109",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["bkromhout","mstratton"]
 +++
 On this episode of Arrested DevOps, Matty and Bridget discuss conference speaking with participants at [devopsdays Amsterdam 2018](https://www.devopsdays.org/events/2018-amsterdam/welcome/).
 

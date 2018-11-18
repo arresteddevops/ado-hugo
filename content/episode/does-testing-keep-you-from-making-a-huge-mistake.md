@@ -14,6 +14,8 @@ images = ["/img/social/fb/does-testing-keep-you-from-making-a-huge-mistake.png"]
 aliases = ["/2",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "uVge4fkjF8w"
+hosts = ["mstratton", "thess"]
+
 
 +++
 Things get off to a great start during the retro, where Trevor complains about destroying his USB 3.0 drivers due to a Win 8.1 upgrade and Matt turns into a Cylon.

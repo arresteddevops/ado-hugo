@@ -14,6 +14,7 @@ images = ["/img/social/fb/personal-brand.png"]
 aliases = ["/60",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "TO8xiV2pXdw"
+hosts = ["mstratton", ""]
 
 +++
 [Empathy is CI For The Soul](http://www.dshack.net/2015/11/30/empathy-is-ci-for-the-soul/) by David Shackelford

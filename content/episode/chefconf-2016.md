@@ -14,6 +14,7 @@ images = ["/img/social/fb/chefconf-2016.png"]
 aliases = ["/67",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "U7i4JE4Zk7w"
+hosts = ["mstratton","thess"]
 
 +++
 Awesome videos from ChefConf:

@@ -13,6 +13,8 @@ images = ["/img/social/fb/foss.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/114",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
+
 +++
 Matty is joined by VM (aka Vicky) Brasseur, Vice President of the Open Source Initiative, for a chat about contributing to open source software.
 

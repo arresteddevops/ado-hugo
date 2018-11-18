@@ -14,6 +14,7 @@ images = ["/img/social/fb/yelling-at-cloud.png"]
 aliases = ["/84",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "bNfAAQUQ_54"
+hosts = ["mstratton", "bkromhout"]
 
 +++
 Bridget and Matt chat with Andrew Clay Shafer (Pivotal) and Bryan Cantrill (Joyent).

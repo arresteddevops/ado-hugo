@@ -7,6 +7,7 @@ podcast_file = "arrested-devops-podcast-episode120.mp3"
 episode_image = "/episode/img/devopsdays-chicago-2018.png"
 episode_banner = "/episode/img/devopsdays-chicago-2018-banner.png"
 guests = ["jsmith","kprizy","akalin","mstratton3"] # The names of your guests, based on the filename without extension.
+hosts = ["thess"]
 sponsors = ["chef","datadog","pagerduty",]
 episode = "120"
 images = ["/img/social/fb/devopsdays-chicago-2018.png"]

@@ -14,6 +14,7 @@ images = ["/img/social/fb/devops-mythbusters.png"]
 aliases = ["/6",]
 explicit = "no" # values are "yes" or "no"
 youtube = "haufNRriE70"
+hosts = ["thess","mstratton"]
 
 +++
 <h3>Myths!</h3>

@@ -14,6 +14,7 @@ images = ["/img/social/fb/callinshow.png"]
 aliases = ["/93",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "fkCZXI8SNfk"
+hosts = ["mstratton"]
 
 +++
 [Food Fight Show](http://foodfightshow.org/) and Arrested DevOps joined forces to host our first live devops call in show! We featured Dr. Nicole Forsgren to answer your DevOps questions about measuring effectiveness, ROI of DevOps initiatives, and more!

@@ -13,6 +13,8 @@ images = ["/img/social/fb/grandpa-paul.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/97",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
+
 +++
 * https://en.wikipedia.org/wiki/Cynefin_framework
 * http://theshipshow.com/

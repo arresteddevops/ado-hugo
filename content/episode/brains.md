@@ -14,6 +14,7 @@ images = ["/img/social/fb/brains.png"]
 aliases = ["/43",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "cTN62ERlHNY"
+hosts = ["bkromhout","thess"]
 
 +++
 

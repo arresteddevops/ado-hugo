@@ -14,6 +14,7 @@ images = ["/img/social/fb/velocity.png"]
 aliases = ["/94",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "9sDggm6-L3Y"
+hosts = ["bkromhout", ""]
 
 +++
 Ines Sombra (Fastly) and James Turnbull (Empatico) are chairs of the <a href="https://conferences.oreilly.com/velocity">Velocity</a> conference series, which is celebrating its 10th year in 2017. They joined Bridget to talk about the events next month in New York and London, and share tips for making the most of your conference as well as submitting talks to future conferences.

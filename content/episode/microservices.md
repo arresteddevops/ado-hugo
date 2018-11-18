@@ -14,6 +14,7 @@ images = ["/img/social/fb/microservices.png"]
 aliases = ["/90",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "Q0wKMKI61Lk"
+hosts = ["mstratton", "bkromhout"]
 
 +++
 Bridget and Matt chat with Daphne Chong (Amazon) and Kenny Bastani (Pivotal).

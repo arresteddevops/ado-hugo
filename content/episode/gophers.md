@@ -14,6 +14,7 @@ images = ["/img/social/fb/gophers.png"]
 aliases = ["/101",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "SOMbbTM6PWs"
+hosts = ["bkromhout"]
 
 +++
 Bridget discusses all things Go with Brian Ketelsen and Erik St. Martin.

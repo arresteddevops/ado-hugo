@@ -14,6 +14,7 @@ images = ["/img/social/fb/sysadmins.png"]
 aliases = ["/18",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "KwdRZOcSEWk"
+hosts = ["mstratton", "thess"]
 
 +++
 What exactly does it mean to be a sysadmin? How do you define “sysadmin”?

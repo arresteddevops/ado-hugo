@@ -13,6 +13,7 @@ images = ["/img/social/fb/openstack.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/58",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton", ""]
 +++
 * [OpenStack OSOps](https://wiki.openstack.org/wiki/Osops)
 * [Check out this tool library for OpenStack operators](http://superuser.openstack.org/articles/check-out-this-tool-library-for-openstack-operators)

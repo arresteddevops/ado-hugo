@@ -14,6 +14,8 @@ images = ["/img/social/fb/disaster-communication.png"]
 aliases = ["/86",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "dorCcK8dklQ"
+hosts = ["mstratton", "bkromhout"]
+
 
 +++
 Bridget and Matt chat with Jeff Smith (Centro) and Mark Imbriaco (Pivotal).

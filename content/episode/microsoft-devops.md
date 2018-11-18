@@ -14,7 +14,7 @@ images = ["/img/social/fb/microsoft-devops.png"]
 aliases = ["/30",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "9qfX_K-5gTk"
-
+hosts = ["mstratton", "thess"]
 +++
 #### What are some of the challenges traditional Microsoft IT Pro’s deal with moving to a more automated DevOps pattern?
 - Jessica:

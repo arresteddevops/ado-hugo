@@ -14,6 +14,7 @@ images = ["/img/social/fb/devops-in-the-windy-city-jeff-smith-jerry-cattell-same
 aliases = ["/75","/windycity","windy-city",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "lBDFfC-wGls"
+hosts = ["mstratton"]
 
 +++
 * [ADO episode at devopsdays Chicago 2014](https://www.arresteddevops.com/devopsdays-chicago/) with J. Paul Reed

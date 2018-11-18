@@ -14,6 +14,8 @@ images = ["/img/social/fb/get-help.png"]
 aliases = ["/17",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "AGpQd_ub36Q"
+hosts = ["mstratton", "thess"]
+
 
 +++
 <ul>

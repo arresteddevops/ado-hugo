@@ -14,6 +14,8 @@ images = ["/img/social/fb/devopsdays-minneapolis-2017.png"]
 aliases = ["/91",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "nlOIxfLBok4"
+hosts = ["mstratton", "bkromhout"]
+
 
 +++
 Bridget and Matt chat about enterprise transformation and open source with guests Bryan Liles, Jessie Frazelle, and Andrew Clay Shafer, in front of a live studio audience at devopsdays Minneapolis 2017.

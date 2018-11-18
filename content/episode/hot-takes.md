@@ -13,6 +13,8 @@ images = ["/img/social/fb/hot-takes.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/104",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
+
 +++
 Definition of a hot take - “a piece of commentary, typically produced quickly in response to a recent event, whose primary purpose is to attract attention.”
 

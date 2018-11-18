@@ -14,6 +14,7 @@ images = ["/img/social/fb/ci-cd.png"]
 aliases = ["/92",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "qKQ7pqQwRmM"
+hosts = ["bkromhout"]
 
 +++
 Bridget chats with Jez Humble (DORA) about continuous... everything!

@@ -14,6 +14,7 @@ images = ["/img/social/fb/the-dev-show.png"]
 aliases = ["/3",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "25235P0tOJo"
+hosts = ["mstratton", "thess"]
 
 +++
 <h2>Retro</h2>

@@ -14,6 +14,7 @@ images = ["/img/social/fb/vendors.png"]
 aliases = ["/57",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "3NBD0NQucv0"
+hosts = ["mstratton", "thess", "bkromhout"]
 
 +++
 This was a special co-production with [The Goat Farm](http:///goatcan.com). Don't forget to subscribe to their Enterprise DevOps podcast on [iTunes](https://itunes.apple.com/us/podcast/the-goat-farm/id963113606) or [Stitcher](http://www.stitcher.com/podcast/the-goat-farm/the-goat-farm?refid=stpr)!

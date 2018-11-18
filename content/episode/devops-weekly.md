@@ -14,6 +14,7 @@ images = ["/img/social/fb/devops-weekly.png"]
 aliases = ["/105",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "C82Mumc5ShE"
+hosts = ["bkromhout"]
 
 +++
 Bridget discusses Devops Weekly with Gareth Rushgrove.

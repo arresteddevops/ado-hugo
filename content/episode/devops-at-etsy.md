@@ -14,6 +14,7 @@ images = ["/img/social/fb/devops-at-etsy.png"]
 aliases = ["/11",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "IDmqD-xuzOI"
+hosts = ["thess","mstratton"]
 
 +++
 <ul>

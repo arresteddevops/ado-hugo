@@ -14,6 +14,7 @@ images = ["/img/social/fb/what-is-devops.png"]
 aliases = ["/1",]
 explicit = "no" # values are "yes" or "no"
 youtube = "88iUXN5cCas"
+hosts = ["mstratton", "thess"]
 
 +++
 [DevOps – the Title Match](http://blog.lusis.org/blog/2013/06/04/devops-the-title-match/) – John Vincent’ blog post about what DevOps is and isn’t, that Matt totally read from and referred to.

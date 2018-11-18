@@ -13,6 +13,8 @@ images = ["/img/social/fb/devopsdays-toronto-2017.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/87",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["bkromhout"]
+
 +++
 Bridget chats with devopsdays Toronto local organizer Amy Mansell & speakers Roderick Randolph, Arthur Maltson, and Aaron Aldrich.
 

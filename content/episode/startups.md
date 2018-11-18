@@ -14,6 +14,7 @@ images = ["/img/social/fb/startups.png"]
 aliases = ["/82",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "fZ4SvRqPrq0"
+hosts = ["bkromhout", ""]
 
 +++
 Bridget chats about startups with Charity Majors ([Honeycomb](https://honeycomb.io)) and Nicole Forsgren ([DORA](https://devops-research.com/)).

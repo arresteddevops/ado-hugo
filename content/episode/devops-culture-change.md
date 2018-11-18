@@ -13,6 +13,7 @@ images = ["/img/social/fb/devops-culture-change.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/33",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
 +++
 <h1><strong>How to Change the Culture of an Organization</strong></h1>
 <strong><em>“Change management rests with the how”</em></strong> – Bill Joy

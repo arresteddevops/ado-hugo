@@ -14,6 +14,7 @@ images = ["/img/social/fb/containers.png"]
 aliases = ["/89",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "p7WizGqjM5A"
+hosts = ["bkromhout","mstratton"]
 
 +++
 Bridget and Matt chat with Jérôme Petazzoni (Docker), Mark Heckler (Pivotal), and Jennifer Heckler (Edward Jones).

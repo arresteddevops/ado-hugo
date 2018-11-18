@@ -6,13 +6,13 @@ PublishDate = 2017-01-17T01:59:40-05:00
 podcast_file = "arrested-devops-podcast-episode080.mp3"
 episode_image = "/episode/img/devopsdays-cuba-2016.png"
 episode_banner = "/episode/img/devopsdays-cuba-2016-banner.png"
-guests = ["bkromhout3",] # The names of your guests, based on the filename without extension.
 sponsors = []
 episode = "80"
 images = ["/img/social/fb/devopsdays-cuba-2016.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/80",]
 explicit = "no" # values are "yes" or "no"
+hosts = ["bkromhout", "jlaha"]
 +++
 Bridget and [Joe](https://twitter.com/joelaha) discuss their experiences at devopsdays Cuba and share audio from the closing session. 
 

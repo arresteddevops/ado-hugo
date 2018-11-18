@@ -13,6 +13,8 @@ images = ["/img/social/fb/devopsdays-saltlakecity.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/112",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["mstratton"]
+
 +++
 Matty chats with Nicole Forsgren, Wes Novack, a shadowy figure known only as Chris from Qualtics, Jason Vance, and Matthew Barlocker in front of a live studio audience at [devopsdays Salt Lake City 2018](http://www.devopsdays.org/events/2018-salt-lake-city/welcome/).
 

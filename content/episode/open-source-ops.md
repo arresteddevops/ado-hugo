@@ -14,6 +14,7 @@ images = ["/img/social/fb/open-source-ops.png"]
 aliases = ["/70",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "UGUg6F4gCuM"
+hosts = ["mstratton", "bkromhout"]
 
 +++
 Matt and Bridget chat with Michael Hedgpeth (NCR) and Doug Ireton (1Strategy) about organizations adopting open source.

@@ -14,6 +14,7 @@ images = ["/img/social/fb/devops-risk.png"]
 aliases = ["/88",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "jgXB4b-B_ic"
+hosts = ["bkromhout","mstratton"]
 
 +++
 Bridget and Matt chat with Nicole Johnson (Chef), Matt Curry (Allstate), and Anthony Lee (Allstate).

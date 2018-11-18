@@ -13,5 +13,7 @@ images = ["/img/social/fb/ignite-2018-ethomson.png"]
 #hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/117","edward-ignite18",]
 explicit = "yes" # values are "yes" or "no"
+hosts = ["thess", ""]
+
 +++
 Trevor is joined by Edward Thomson at Microsoft Ignite 2018, and have a quick catch up on the event and the state of the DevOps world.

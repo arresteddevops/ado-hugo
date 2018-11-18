@@ -14,6 +14,7 @@ images = ["/img/social/fb/communities.png"]
 aliases = ["/45",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "rQlZaCiLvSc"
+hosts = ["mstratton","thess"]
 
 +++
 Matt spends the entire episode claiming that Nathen was famous for being on ADO11, when in fact it was [ADO14](http://www.arresteddevops.com/how-to-eff-up-devops/).

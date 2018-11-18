@@ -14,6 +14,7 @@ images = ["/img/social/fb/devops-security.png"]
 aliases = ["/20",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "EJeccu3Lcis"
+hosts = ["thess","mstratton"]
 
 +++
 <ul>
