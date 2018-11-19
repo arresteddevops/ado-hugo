@@ -48,6 +48,12 @@ googleAnalytics = "UA-45939822-1"
     identifier = "blogs"
     url = "blogs"
     parent = "resources"
+    
+[[Menu.Main]]
+    name = "Podcasts"
+    identifier = "podcasts"
+    url = "podcasts"
+    parent = "resources"
 
 [params]
 site_theme = "grey"
