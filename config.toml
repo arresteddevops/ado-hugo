@@ -22,18 +22,14 @@ googleAnalytics = "UA-45939822-1"
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
-# [[Menu.Main]]
-#     name = "About"
-#     identifier = "about"
-#     url = "about"
+ [[Menu.Main]]
+     name = "About"
+     identifier = "about"
+     url = "about"
  [[Menu.Main]]
     name = "Contact"
     identifier = "contact"
     url = "contact"
- [[Menu.Main]]
-    name = "Hosts"
-    identifier = "hosts"
-    url = "host"
  [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
