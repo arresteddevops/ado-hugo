@@ -1,5 +1,5 @@
 
-![Twitter Follow](https://img.shields.io/twitter/follow/arresteddevops.svg?style=social&logo=twitter&label=Follow) 
+![Twitter Follow](https://img.shields.io/twitter/follow/arresteddevops.svg?style=social&logo=twitter&label=Follow)
 ![GitHub issues](https://img.shields.io/github/issues-raw/badges/shields.svg)
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Travis](https://img.shields.io/travis/arresteddevops/ado-hugo.svg)
@@ -18,22 +18,25 @@ Here are the steps to follow to get going as an ADO content contributor (or heck
 
 Every episode needs a few images. You need the following
 
-1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. As of right now, these must be named EXACTLY the same as the episode file name (i.e., `devops-at-etsy.png`). They will live in the `static/episode/img` folder.
-2. **Episode banner** - These need to be PNG, 800px by 420 px. The need to be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in the `static/episode/img` folder.
+1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. They should be named after the episode name (i.e., `devops-at-etsy.png`). You should probably put them in the `static/episode/img` folder.
+2. **Episode banner** - These need to be PNG, 800px by 420 px. They should be named using the episode name as a template (i.e., `devops-at-etsy-banner.png`) and stored in the `static/episode/img` folder.
 3. **Facebook sharing image** - These need to be PNG, 1200px by 630 px, and named after the episode (i.e., `devops-at-etsy.png`). They are stored in the `static/img/social/fb` folder.
-4. **Guest image(s)** - These need to be PNG, 500px x 500px, and named after the guest data file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder
+4. **Guest image(s)** - These need to be PNG, 500px x 500px, and should be named after the guest  file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder
 
 When you create a new episode, Hugo will populate the frontmatter of the .md file with a bunch of stuff for you. These are the required items to be sure to populate:
 
 It is HIGHLY recommended to use the `hugo new episode` command to create an episode. For example, `hugo new episode/my-awesome-episode.md` will create a properly formatted file in `events/my-awesome-episode.md`.
 
 * **Description** - A string in double quotes. Please make sure that any double quotes are escaped, as such: `\"DevOps\"`
-* **podcast** - this is the URL to the podcast MP3. You may not have this at the time you are creating an epiosde page, so that's okay.
+* **podcast_file** - this is the URL to the podcast MP3. You may not have this at the time you are creating an epiosde page, so that's okay.
+* **podcast_duration** - the length of the podcast in minutes:seconds, etc
 * **guests** - a comma separated list of the guests, in the format first initial, last name (i.e., `"jhand", "srosenbaum"`). The names should line up to md files in `content/guest`
 * **hosts** - a comma separated list of the hosts, in the format first initial, last name (i.e., `"mstratton", "thess"`). The names should line up to md files in `content/host`
 * **sponsors** - comma separated list of the sponsors for the episode. Same rules apply as guests, but the data files are in `data/sponsors`
 * **explicit** - this is a "yes" or "no" (in quotes) value depending on if the episode has explicit language. If you are not sure, please set it to "yes".
 * **episode** - a string for the episode number, i.e., `"42"`
+* **episode_image** - the path to the image for this episode for the front page. Example: `episode/img/devops-at-etsy.png`.
+* **episode_banner** - the path to the banner image for the episode. Example: `episode/img/devops-at-etsy-banner.png`.
 * **title** - the title of the episode. It's a string inside double quotes.
 * **images** - Array of images for social sharing. You should be able to just take the default and replace the slug with the "friendly" for that episode.
 * **author** - A string that contains either "Matt", "Bridget", or "Trevor"
