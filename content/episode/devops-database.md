@@ -1,6 +1,6 @@
 +++
 Description = "in which we define DevOps and what it means for your code's database interactions"
-Date = 2018-01-08T15:04:29-06:00 # this doesn't matter
+Date = 2018-01-08T05:04:29-06:00 # this doesn't matter
 PublishDate = 2018-01-08T15:04:29-06:00 # this is the datetime for the when the episode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode124.mp3" # the name of the podcast file, after the media prefix.
 #podcast_duration = ""
