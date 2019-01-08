@@ -118,3 +118,9 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
       bio = ""
 		[params.authors.Bridget.social]
 			twitter = "bridgetkromhout"
+    [params.authors.Jessica]
+      name = "Jessica Kerr"
+      thumbnail = "img/guests/jkerr.png"
+      bio = ""
+      	[params.authors.Jessica.social]
+		twitter = "jessitron"
