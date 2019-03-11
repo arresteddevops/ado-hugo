@@ -10,10 +10,10 @@ guests = ["lbennett","bolin","rdunn","gsarti","chunt",] # The names of your gues
 sponsors = ["10thmagnitude","victorops","hired",]
 episode = "81"
 images = ["/img/social/fb/microsoft-again.png"]
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["mstratton", "thess"] # The names of your hosts, based on the filename without extension.
 aliases = ["/81","microsoft2","windows-redux","microsoft-redux",]
 explicit = "yes" # values are "yes" or "no"
-youtube = "rsnxc1l3Fz8&t=3s"
+youtube = "rsnxc1l3Fz8"
 
 +++
 [DevOps Cafe w/ Jeffery Snover](http://devopscafe.org/show/2012/11/27/devops-cafe-episode-36.html) - Linux is docs based, Windows is API based

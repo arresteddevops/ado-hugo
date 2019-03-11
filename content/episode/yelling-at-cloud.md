@@ -10,11 +10,10 @@ guests = ["ashafer","bcantrill",] # The names of your guests, based on the filen
 sponsors = ["10thmagnitude","victorops","datadog",]
 episode = "84"
 images = ["/img/social/fb/yelling-at-cloud.png"]
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["mstratton", "bkromhout"]
 aliases = ["/84",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "bNfAAQUQ_54"
-hosts = ["mstratton", "bkromhout"]
 
 +++
 Bridget and Matt chat with Andrew Clay Shafer (Pivotal) and Bryan Cantrill (Joyent).

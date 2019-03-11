@@ -10,7 +10,7 @@ guests = ["pcomtois",] # The names of your guests, based on the filename without
 sponsors = ["10thmagnitude","datadog","victorops",]
 episode = "76"
 images = ["/img/social/fb/chatting-with-pauly.png"]
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["mstratton"] # The names of your hosts, based on the filename without extension.
 aliases = ["/76","/pauly",]
 explicit = "yes" # values are "yes" or "no"
 +++
