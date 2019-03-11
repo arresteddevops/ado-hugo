@@ -10,7 +10,6 @@ guests = ["srosenbaum2","bweiss","kprizy",] # The names of your guests, based on
 sponsors = ["chef","victorops",]
 episode = "99"
 images = ["/img/social/fb/work-life.png"]
-#hosts = [] # The names of your hosts, based on the filename without extension.
 aliases = ["/99",]
 explicit = "yes" # values are "yes" or "no"
 hosts = ["mstratton", ""]

@@ -10,11 +10,10 @@ guests = ["agoldfuss",] # The names of your guests, based on the filename withou
 sponsors = ["victorops","thoughtworks","datadog",]
 episode = "96"
 images = ["/img/social/fb/alice-fireside-chat.png"]
-#hosts = [] # The names of your hosts, based on the filename without extension.
+hosts = ["bkromhout"] # The names of your hosts, based on the filename without extension.
 aliases = ["/96",]
 explicit = "yes" # values are "yes" or "no"
 youtube = "2rO8iGRyIGQ"
-hosts = ["bkromhout"]
 
 +++
 Bridget sat down for a fireside chat with Alice Goldfuss (GitHub). No actual fires were harmed in the making of this episode.
