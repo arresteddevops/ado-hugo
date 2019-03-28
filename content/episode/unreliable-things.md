@@ -30,3 +30,4 @@ https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/) by M
 * the excellent [closing loops / control plane talk](https://youtu.be/O8xLxNje30M) by Colm MacCarthaigh
 * [Safety II](http://www.safetydifferently.com/what-safety-ii-isnt/)
 * [That cool building in Sydney](https://en.wikipedia.org/wiki/One_Central_Park)
+* Credit for the drawing of Mark goes to [lyn.ia](https://www.instagram.com/lyn.ia/)
