@@ -1,7 +1,7 @@
 +++
 Description = "How do you make change in a complex system that is always failing, but must never break?"
-Date = 2019-03-22T19:49:14-05:00
-PublishDate = 2019-03-22T19:49:14-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2019-03-29T19:49:14-05:00
+PublishDate = 2019-03-29T19:49:14-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode127.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "53:55"
 #podcast_bytes = "" # the length of the episode in bytes
