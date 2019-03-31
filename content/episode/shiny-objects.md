@@ -20,6 +20,8 @@ explicit = "yes"
 
 <!-- show notes -->
 
+* This is the unofficial pilot for their new podcast: [weird trick mafia](https://weirdtrickmafia.fm/)
+
 * Jessie's job-shadowing blog posts: [Government. Medicine. Capitalism?](https://blog.jessfraz.com/post/government-medicine-capitalism/) (Wednesday, February 27, 2019) and [Trust and Integrity](https://blog.jessfraz.com/post/trust-and-integrity/) (Friday, March 1, 2019)
 
 * Andrew mentions a book: <a href="https://www.mcchrystalgroup.com/insights/teamofteams/">Team of Teams</a>
@@ -27,6 +29,7 @@ explicit = "yes"
 * Jessie wrote a blog post about [Intel SGX](https://blog.jessfraz.com/post/reflections-on-sgx/).
 
 * Image credit: <a href="https://www.flickr.com/photos/oldpatterns/3564400938/">oldpatterns</a>
+
 
 ## Upcoming talks
 
