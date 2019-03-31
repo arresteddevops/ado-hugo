@@ -31,3 +31,9 @@ https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/) by M
 * [Safety II](http://www.safetydifferently.com/what-safety-ii-isnt/)
 * [That cool building in Sydney](https://en.wikipedia.org/wiki/One_Central_Park)
 * Credit for the drawing of Mark goes to [lyn.ia](https://www.instagram.com/lyn.ia/)
+
+### Community
+
+* [Velocity San Jose](https://conferences.oreilly.com/velocity/vl-ca) June 10-13 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes.
+
+* For any [devopsdays](http://devopsdays.org), try the discount code ADO2019!
