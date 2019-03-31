@@ -34,3 +34,8 @@ Jessie: [QCon London](https://qconlondon.com/london2019/speakers/jessie-frazelle
 
 Andrew: [devopsdays Atlanta](https://www.devopsdays.org/events/2019-atlanta/welcome/)
 
+### Community
+
+* [Velocity San Jose](https://conferences.oreilly.com/velocity/vl-ca) June 10-13 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes.
+
+* For any [devopsdays](http://devopsdays.org), try the discount code ADO2019!
