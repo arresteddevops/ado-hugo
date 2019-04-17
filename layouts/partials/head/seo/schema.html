@@ -4,7 +4,7 @@
 
 <!-- Output images -->
 {{ with .Params.images }}{{ range first 6 . }}
-	<meta itemprop="image" content="{{ . }}">
+	<meta itemprop="image" content="{{ $.Site.BaseURL}}/{{ . }}">
 {{ end }}{{ end }}
 
 <!-- Output all taxonomies as schema.org keywords -->

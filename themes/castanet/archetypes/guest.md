@@ -1,6 +1,5 @@
 +++
 Date = {{ .Date }}
-title = ""
 Twitter = ""
 Website = ""
 Type = "guest"
