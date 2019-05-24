@@ -19,4 +19,4 @@ explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
 +++
-Trevor catches up with Steven Murawski, Lead Cloud Ops Advocate at Microsoft at the 2019 Microsoft Build conference!
+Trevor chats with Steven Murawski of Microsoft about Azure DevOps, Windows Terminal and all the cool things from Microsoft Build 2019.
