@@ -6,14 +6,14 @@ podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/protocols.jpg"
-#episode_banner = "episode/img/protocols-banner.png"
+episode_banner = "episode/img/protocols-banner.png"
 guests = ["mthompson"] # The names of your guests, based on the filename without extension.
 #sponsors = []
-#episode = "405"
+episode = "132"
 title = "Protocols and Sympathy with Martin Thompson"
 images = ["img/episode/default-social.jpg"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
-#aliases = ["/##"]
+aliases = ["/132"]
 #youtube = ""
 explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
