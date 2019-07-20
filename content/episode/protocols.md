@@ -1,17 +1,17 @@
 +++
-Description = "Making performance changes is about working smoothly with hardware AND with people"
+Description = "Making performance changes is about working smoothly with hardware AND with people."
 Date = 2019-07-12T15:28:55-04:00
 PublishDate = 2019-07-20T15:28:55-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "arrested-devops-podcast-episode132.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/protocols.jpg"
 episode_banner = "episode/img/protocols-banner.png"
 guests = ["mthompson"] # The names of your guests, based on the filename without extension.
-#sponsors = []
+sponsors = ["atomist","sdt"]
 episode = "132"
 title = "Protocols and Sympathy with Martin Thompson"
-images = ["img/episode/default-social.jpg"]
+images = ["img/social/fb/protocols.png"] 
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
 aliases = ["/132"]
 #youtube = ""
