@@ -1,7 +1,7 @@
 +++
 Description = "Making performance changes is about working smoothly with hardware AND with people"
 Date = 2019-07-12T15:28:55-04:00
-PublishDate = 2019-07-12T15:28:55-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2019-07-20T15:28:55-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
@@ -35,4 +35,11 @@ explicit = "no" # values are "yes" or "no"
 * [Florence Nightingale](https://www.kopisusa.com/florence-nightingale-pie-charts-birth-bi/) and Pie Charts: 
 * [Dijkstra on the radical novelty of software](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * Image credit: Ylva, Ebba, and Kashti Grimm
+
+### Community
+
+* [Velocity Berlin](https://conferences.oreilly.com/velocity/vl-eu) Nov 4-7 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes, and Best Price ends August 2.
+
+* For any [devopsdays](http://devopsdays.org), try the discount code ADO2019!
+
 
