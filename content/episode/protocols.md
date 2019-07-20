@@ -32,7 +32,7 @@ explicit = "no" # values are "yes" or "no"
   * http://perfdynamics.blogspot.com/2014/07/a-little-triplet.html 
   * http://www.vissinc.com/2012/09/07/littles-law-isnt-it-a-linear-relationship/
   * https://medium.com/@__bbak/dont-be-fooled-by-littles-law-18e18dba3717
-* [Florence Nightingale](https://www.kopisusa.com/florence-nightingale-pie-charts-birth-bi/) and Pie Charts: 
+* [Florence Nightingale](https://www.kopisusa.com/florence-nightingale-pie-charts-birth-bi/) and Pie Charts
 * [Dijkstra on the radical novelty of software](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * Image credit: Ylva, Ebba, and Kashti Grimm
 
