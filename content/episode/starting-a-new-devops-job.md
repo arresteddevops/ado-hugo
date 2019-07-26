@@ -20,7 +20,7 @@ hosts = ["mstratton", "thess", "bkromhout"]
 Tonight's episode featured a special guest host, Julian Dunn of Chef.
 
 Our panel:
-Ryn Daniels - @beerops - a web operations engineer from Etsy.
+Ryn Daniels - @rynchantress - a web operations engineer from Etsy.
 Jake Champlin - @grubernaut - an operations engineer from Minted. (Younger than Trevor!)
 
 Matt asks Ryn what it was like going to a place like Etsy - the gold standard! - what they expected, and what it was like when they got there. Ryn says that years of reading codeascraft and seeing etsy engineers speak at conferences meant that they were excited to start but also felt a little impostory. "Everyone knows that devops is the internet and the internet is cats - I show up my first day and my desk is covered in cat pictures."
