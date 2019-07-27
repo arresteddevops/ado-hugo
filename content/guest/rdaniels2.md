@@ -1,8 +1,8 @@
 +++
 Title = "Ryn Daniels"
 date = "2018-11-17T08:32:02-08:00"
-Twitter = "beerops"
-Website = "http://beero.ps/"
+Twitter = "rynchantress"
+Website = "https://ryn.works/"
 Type = "guest"
 Facebook = ""
 Linkedin = ""
