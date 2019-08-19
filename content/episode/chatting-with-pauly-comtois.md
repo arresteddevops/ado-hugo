@@ -1,7 +1,6 @@
 +++
 Description = "In the same week that the Chicago Cubs finally won the World Series, Pauly Comtois is finally a guest on Arrested DevOps! Pauly is the VP of DevOps for Heart Business Media, and he shares with us some of the challenges (and successes) of effecting a DevOps transformation at a large enterprise."
 aliases = ["/76", "/pauly"]
-author = "Matt"
 categories = []
 date = "2016-11-05T16:59:40-05:00"
 episode = "76"
