@@ -54,6 +54,10 @@ googleAnalytics = "UA-45939822-1"
     identifier = "podcasts"
     url = "podcasts"
     parent = "resources"
+[[Menu.Main]]
+    name = "Sponsor Arrested DevOps"
+    identifier = "sponsor"
+    url = "sponsorship"
 
 [params]
 site_theme = "grey"
