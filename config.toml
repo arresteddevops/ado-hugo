@@ -94,33 +94,8 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
     youtube = "arresteddevops"
 
   [params.authors]
-    [params.authors.Matt]
-      name	= "Matty Stratton"
-      thumbnail = "img//matt.png"
-      bio = "Matty Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey."
-      [params.authors.Matt.social]
-        github = "mattstratton"
-        facebook = "matt.stratton"
-        twitter = "mattstratton"
-        linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.com"
-        pinterest = "mattstratton"
-        youtube = "mattstratton"
-    [params.authors.Trevor]
-		name = "Trevor Hess"
-		thumbnail = "img/trevor.png"
+    [params.authors.Ado]
+		name = ""
+		thumbnail = "img/ado-logo-150.png"
 		bio = ""
-		[params.authors.Trevor.social]
-			twitter = "trevorghess"
-    [params.authors.Bridget]
-      name = "Bridget Kromhout"
-      thumbnail = "img/bridget.png"
-      bio = ""
-		[params.authors.Bridget.social]
-			twitter = "bridgetkromhout"
-    [params.authors.Jessica]
-      name = "Jessica Kerr"
-      thumbnail = "img/guests/jkerr.png"
-      bio = ""
-      	[params.authors.Jessica.social]
-		twitter = "jessitron"
+
