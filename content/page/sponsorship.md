@@ -9,4 +9,4 @@ title = "Sponsor Arrested DevOps"
 
 Are you interested in becoming a sponsor of Arrested DevOps? Contact us at `shows@arresteddevops.com`
 
-![Sponsor Arrested DevOps](/img/sponsor-arrested-devops.png "Sponsor Arrested DevOps")
+<img src = "/img/sponsor-arrested-devops.png" class = "img-fluid">
