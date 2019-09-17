@@ -4,6 +4,7 @@ Description = "Matty and Trevor chat with guests Jessie Frazelle, Veronica Hanus
 Date = 2019-09-17T11:23:48-05:00
 PublishDate = 2019-09-17T11:30:48-05:00
 podcast_file = "arrested-devops-podcast-episode134.mp3"
+podcast_duration = "30:26"
 episode_image = "/episode/img/devopsdays-chicago-2019.png"
 episode_banner = "/episode/img/devopsdays-chicago-2019-banner.png"
 guests = ["jfrazelle3","vhanus","jsmith",] # The names of your guests, based on the filename without extension.
