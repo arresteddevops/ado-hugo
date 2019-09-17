@@ -14,7 +14,7 @@ images = ["/img/social/fb/devopsdays-chicago-2019.png"]
 hosts = ["mstratton", "thess"]
 aliases = ["/134",]
 explicit = "yes" # values are "yes" or "no"
-youtube = ""
+youtube = "vJNxGCtmMfs"
 
 
 +++
