@@ -1,8 +1,8 @@
 +++
 title = "devopsdays Cape Town 2019"
 Description = "Bridget chats with Devi Moodley, Daniel Maher, Adrian Moisey, and Cobus Bernard at devopsdays Cape Town 2019."
-Date = 2019-09-15T21:23:48-05:00
-PublishDate = 2019-09-15T14:30:48-05:00
+Date = 2019-09-18T01:23:48-05:00
+PublishDate = 2019-09-18T04:30:48-05:00
 podcast_file = "arrested-devops-podcast-episode136.mp3"
 episode_image = "/episode/img/devopsdays-cape-town-2019.png"
 episode_banner = "/episode/img/devopsdays-cape-town-2019-banner.png"
