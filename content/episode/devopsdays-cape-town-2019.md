@@ -33,4 +33,4 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 
 ### Discount codes
 - ADO2019 for 20% off lots of devopsdays
-- [Velocity Berlin](https://conferences.oreilly.com/velocity/vl-eu) Nov 4-7 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes; early price price ends 20 September.
+- [Velocity Berlin](https://conferences.oreilly.com/velocity/vl-eu) Nov 4-7 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes.
