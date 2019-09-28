@@ -14,4 +14,4 @@ Instagram = ""
 YouTube = ""
 +++
 
-Eddie Villeba is a an Azure Global Cloud Architect focusing on Open Source Cloud and Kubernetes. He has helped many real-world users adopt Kubernetes for their applications.
+Eddie Villalba is a Principal Software Engineer for Microsoft's Commercial Software Engineering division where he helps some of the largest enterprises in the world with cloud native application design and DevOps practices. Eddie is based in Austin, Texas where he also co-leads the Austin Kubernetes Meet-up. He is an Air Force Veteran, brand new first time dad, Kubernetes Contributor and SIG Release member.
