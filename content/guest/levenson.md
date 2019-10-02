@@ -14,4 +14,4 @@ Instagram = ""
 YouTube = "LachlanEvenson"
 +++
 
-Lachlan is a principal program manager on the Container Compute team at Azure. He has spent the last few years working with Kubernetes and enabling cloud native journeys. Lachie serves as a Cloud Native ambassador and is the Kubernetes 1.16 release lead, and has deep operational knowledge of many Cloud Native projects.
+Lachlan is a principal program manager on the Container Compute team at Azure. He has spent the last few years working with Kubernetes and enabling cloud native journeys. Lachie serves as a Cloud Native ambassador and was the Kubernetes 1.16 release lead, and has deep operational knowledge of many Cloud Native projects.
