@@ -1,13 +1,13 @@
 +++
 title = "devopsdays Cape Town 2019"
 Description = "Bridget chats with Devi Moodley, Daniel Maher, Adrian Moisey, and Cobus Bernard at devopsdays Cape Town 2019."
-Date = 2019-09-18T01:23:48-05:00
-PublishDate = 2019-09-18T04:30:48-05:00
+Date = 2019-10-02T01:23:48-05:00
+PublishDate = 2019-10-02T01:30:48-05:00
 podcast_file = "arrested-devops-podcast-episode136.mp3"
 episode_image = "/episode/img/devopsdays-cape-town-2019.png"
 episode_banner = "/episode/img/devopsdays-cape-town-2019-banner.png"
 guests = ["dmoodley","dmaher","amoisey","cbernard"] # The names of your guests, based on the filename without extension.
-sponsors = ["pagerduty","atomist","sdt"]
+sponsors = ["pagerduty", "atomist", "sdt"]
 episode = "136"
 images = ["/img/social/fb/devopsdays-cape-town-2019.png"]
 hosts = ["bkromhout"]
