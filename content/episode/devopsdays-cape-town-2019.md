@@ -7,7 +7,7 @@ podcast_file = "arrested-devops-podcast-episode136.mp3"
 episode_image = "/episode/img/devopsdays-cape-town-2019.png"
 episode_banner = "/episode/img/devopsdays-cape-town-2019-banner.png"
 guests = ["dmoodley","dmaher","amoisey","cbernard"] # The names of your guests, based on the filename without extension.
-sponsors = ["sdt", "atomist", "pagerduty"]
+sponsors = ["pagerduty","atomist","sdt"]
 episode = "136"
 images = ["/img/social/fb/devopsdays-cape-town-2019.png"]
 hosts = ["bkromhout"]
@@ -33,4 +33,4 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 
 ### Discount codes
 - ADO2019 for 20% off lots of devopsdays
-- [Velocity Berlin](https://conferences.oreilly.com/velocity/vl-eu) Nov 4-7 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes; early price price ends 20 September.
+- [Velocity Berlin](https://conferences.oreilly.com/velocity/vl-eu) Nov 4-7 2019 - discount code "ADO2019" gives 20% off for Gold, Silver, and Bronze passes.
