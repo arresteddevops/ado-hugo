@@ -1,17 +1,17 @@
 +++
-Description = "In this episode, host Jessica Kerr is joined by guests Gene Connolly and Joan Freed to discuss DevOpsiCon and their DevOps transformation at Meltwater."
+Description = "In this episode, Gene Connolly and Joan Freed discuss their DevOps transformation at Meltwater."
 Date = 2019-10-23T09:13:30-05:00
 PublishDate = 2019-10-23T09:13:30-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
-episode_image = "img/episode/default.jpg"
-#episode_banner = ""
+episode_image = "/episode/img/the-meltwater-transformation.png"
+#episode_banner = "/episode/img/the-meltwater-transformation-banner.png"
 #guests = ["gconnolly", "jfreed"] # The names of your guests, based on the filename without extension.
 #sponsors = []
 #episode = "136"
 title = "The Meltwater Transformation"
-images = ["img/episode/default-social.jpg"]
+images = ["/img/static/social/fb/the-meltwater-transformation.png"]
 #hosts = [jkerr] # The names of your hosts, based on the filename without extension.
 #aliases = ["/136"]
 #youtube = ""
