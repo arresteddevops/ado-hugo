@@ -13,4 +13,4 @@ Instagram = ""
 YouTube = ""
 #Aka = []
 +++
-Gene is a Software Developer with ~20 years of experience currently working at Meltwater. He lives in Southern New Hampshire. If he isn't working, he is trying to keep up with this three children.
+Gene is a Software Developer with ~20 years of experience currently working at Meltwater. He lives in Southern New Hampshire. If he isn't working, he is trying to keep up with his three children.
