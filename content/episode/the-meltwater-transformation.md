@@ -1,7 +1,7 @@
 +++
 Description = "In this episode, Gene Connolly and Joan Freed discuss their DevOps transformation at Meltwater."
-Date = 2019-10-24T09:13:30-05:00
-PublishDate = 2019-10-24T09:13:30-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2019-10-25T09:13:30-05:00
+PublishDate = 2019-10-25T09:13:30-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode138.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "01:00:35"
 #podcast_bytes = "" # the length of the episode in bytes
