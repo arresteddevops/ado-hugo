@@ -1,8 +1,8 @@
 +++
 title = "Kubernetes Best Practices"
 Description = "Bridget chats with the authors of Kubernetes Best Practices: Brendan Burns, Eddie Villalba, Dave Strebel, and Lachlan Evenson"
-Date = 2019-11-07T18:00:48-05:00
-PublishDate = 2019-11-07T18:00:49-05:00
+Date = 2019-11-03T02:00:48-05:00
+PublishDate = 2019-11-03T02:00:49-05:00
 podcast_file = "arrested-devops-podcast-episode140.mp3"
 episode_image = "/episode/img/kubernetes-best-practices.png"
 episode_banner = "/episode/img/kubernetes-best-practices-banner.png"
