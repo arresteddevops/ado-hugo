@@ -13,7 +13,7 @@ images = ["/img/social/fb/devopsdays-philadelphia-2019.png"]
 hosts = ["bkromhout"]
 aliases = ["/139",]
 explicit = "yes" # values are "yes" or "no"
-youtube = "v=lZNgNVxu-cM"
+youtube = "lZNgNVxu-cM"
 
 
 +++
