@@ -1,8 +1,8 @@
 +++
 title = "Kubernetes Best Practices"
 Description = "Bridget chats with the authors of Kubernetes Best Practices: Brendan Burns, Eddie Villalba, Dave Strebel, and Lachlan Evenson"
-Date = 2019-11-03T02:00:48-05:00
-PublishDate = 2019-11-03T02:00:49-05:00
+Date = 2019-11-15T02:00:48-05:00
+PublishDate = 2019-11-15T02:00:49-05:00
 podcast_file = "arrested-devops-podcast-episode140.mp3"
 episode_image = "/episode/img/kubernetes-best-practices.png"
 episode_banner = "/episode/img/kubernetes-best-practices-banner.png"
@@ -52,4 +52,4 @@ If you have an upcoming conference you would like to see promoted on ADO, you ca
 - [lots of DevOpsDays](https://devopsdays.org/speaking)
 
 ### Discount codes
-- ADO2019 for 20% off lots of devopsdays
+- ADO2019 or ADO2020 for discounts on lots of devopsdays
