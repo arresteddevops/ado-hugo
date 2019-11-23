@@ -1,5 +1,92 @@
 # Change Log
 
+## [1.1.19](https://github.com/mattstratton/castanet/tree/1.1.19) (2019-11-18)
+**Closed issues:**
+
+- \[Bug\] Image Doesn't Show up on Page 2 of Episodes in List View [\#231](https://github.com/mattstratton/castanet/issues/231)
+- Replace Travis with CircleCI [\#216](https://github.com/mattstratton/castanet/issues/216)
+
+**Merged pull requests:**
+
+- Fix bug with episode banners on row view [\#232](https://github.com/mattstratton/castanet/pull/232) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.18](https://github.com/mattstratton/castanet/tree/1.1.18) (2019-11-16)
+## [1.1.17](https://github.com/mattstratton/castanet/tree/1.1.17) (2019-11-16)
+## [1.1.16](https://github.com/mattstratton/castanet/tree/1.1.16) (2019-11-16)
+## [1.1.15](https://github.com/mattstratton/castanet/tree/1.1.15) (2019-11-16)
+## [1.1.14](https://github.com/mattstratton/castanet/tree/1.1.14) (2019-11-16)
+## [1.1.13](https://github.com/mattstratton/castanet/tree/1.1.13) (2019-11-16)
+## [1.1.12](https://github.com/mattstratton/castanet/tree/1.1.12) (2019-11-16)
+## [1.1.11](https://github.com/mattstratton/castanet/tree/1.1.11) (2019-11-16)
+## [1.1.10](https://github.com/mattstratton/castanet/tree/1.1.10) (2019-11-16)
+## [1.1.9](https://github.com/mattstratton/castanet/tree/1.1.9) (2019-11-16)
+## [1.1.8](https://github.com/mattstratton/castanet/tree/1.1.8) (2019-11-16)
+## [1.1.7](https://github.com/mattstratton/castanet/tree/1.1.7) (2019-11-16)
+## [1.1.6](https://github.com/mattstratton/castanet/tree/1.1.6) (2019-11-16)
+## [1.1.5](https://github.com/mattstratton/castanet/tree/1.1.5) (2019-11-16)
+## [1.1.4](https://github.com/mattstratton/castanet/tree/1.1.4) (2019-11-16)
+## [1.1.3](https://github.com/mattstratton/castanet/tree/1.1.3) (2019-11-16)
+## [1.1.2](https://github.com/mattstratton/castanet/tree/1.1.2) (2019-11-16)
+**Merged pull requests:**
+
+- Add skeleton circleci config [\#230](https://github.com/mattstratton/castanet/pull/230) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.1](https://github.com/mattstratton/castanet/tree/1.1.1) (2019-11-16)
+**Fixed bugs:**
+
+- Drop down menu not working on iPhone  [\#228](https://github.com/mattstratton/castanet/issues/228)
+
+**Merged pull requests:**
+
+- Fix issue with navbar on mobile [\#229](https://github.com/mattstratton/castanet/pull/229) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.0](https://github.com/mattstratton/castanet/tree/1.1.0) (2019-11-11)
+**Implemented enhancements:**
+
+- Migrate from codekit to gulp [\#105](https://github.com/mattstratton/castanet/issues/105)
+
+**Fixed bugs:**
+
+- TOC in REFERENCE.md is messed up [\#223](https://github.com/mattstratton/castanet/issues/223)
+
+**Closed issues:**
+
+- \[Bug\] Can't navigate guest listing on mobile [\#217](https://github.com/mattstratton/castanet/issues/217)
+- \[BUG\] Issue generating css from scss [\#211](https://github.com/mattstratton/castanet/issues/211)
+
+**Merged pull requests:**
+
+- Move to gulp [\#224](https://github.com/mattstratton/castanet/pull/224) ([mattstratton](https://github.com/mattstratton))
+
+## [1.0.2](https://github.com/mattstratton/castanet/tree/1.0.2) (2019-11-03)
+**Closed issues:**
+
+- guid episode tag should be unique and not change [\#209](https://github.com/mattstratton/castanet/issues/209)
+
+**Merged pull requests:**
+
+- Update pagination menu on guest page for mobile [\#221](https://github.com/mattstratton/castanet/pull/221) ([mattstratton](https://github.com/mattstratton))
+
+## [1.0.1](https://github.com/mattstratton/castanet/tree/1.0.1) (2019-11-02)
+## [1.0.0](https://github.com/mattstratton/castanet/tree/1.0.0) (2019-11-02)
+**Fixed bugs:**
+
+- Theme does not work on Hugo 0.58 [\#219](https://github.com/mattstratton/castanet/issues/219)
+
+**Closed issues:**
+
+- \[Bug\] Disqus comments not working [\#212](https://github.com/mattstratton/castanet/issues/212)
+- \[Bug\] Pagination is broken on mobile and needs general improvement. [\#202](https://github.com/mattstratton/castanet/issues/202)
+
+**Merged pull requests:**
+
+- Update theme for Hugo 0.58 and above [\#220](https://github.com/mattstratton/castanet/pull/220) ([mattstratton](https://github.com/mattstratton))
+- Podlove subscribe button [\#218](https://github.com/mattstratton/castanet/pull/218) ([089](https://github.com/089))
+- Update hugo version on Netlify to 0.55.1 [\#215](https://github.com/mattstratton/castanet/pull/215) ([mattstratton](https://github.com/mattstratton))
+- Fixing disqus issues [\#213](https://github.com/mattstratton/castanet/pull/213) ([robwirving](https://github.com/robwirving))
+- Allow to specify episode guid [\#210](https://github.com/mattstratton/castanet/pull/210) ([alexmurray](https://github.com/alexmurray))
+- use global hugo function,.URL deprecated [\#207](https://github.com/mattstratton/castanet/pull/207) ([nonumeros](https://github.com/nonumeros))
+
 ## [0.14.1](https://github.com/mattstratton/castanet/tree/0.14.1) (2019-04-17)
 **Merged pull requests:**
 
@@ -216,7 +303,7 @@
 - Add podcast length [\#69](https://github.com/mattstratton/castanet/pull/69) ([mattstratton](https://github.com/mattstratton))
 - Change to remove slashes [\#65](https://github.com/mattstratton/castanet/pull/65) ([mattstratton](https://github.com/mattstratton))
 - Fix broken hamburger menu [\#59](https://github.com/mattstratton/castanet/pull/59) ([mattstratton](https://github.com/mattstratton))
-- Add contributing.json \(GitMagic\) [\#56](https://github.com/mattstratton/castanet/pull/56) ([gitmagic-bot](https://github.com/gitmagic-bot))
+- Add contributing.json \(GitMagic\) [\#56](https://github.com/mattstratton/castanet/pull/56) ([ghost](https://github.com/ghost))
 - Add grid option [\#55](https://github.com/mattstratton/castanet/pull/55) ([mattstratton](https://github.com/mattstratton))
 - Add host sidebar [\#54](https://github.com/mattstratton/castanet/pull/54) ([mattstratton](https://github.com/mattstratton))
 - Make subscribe buttons look like buttons [\#53](https://github.com/mattstratton/castanet/pull/53) ([mattstratton](https://github.com/mattstratton))

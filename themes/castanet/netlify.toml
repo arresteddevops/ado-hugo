@@ -4,17 +4,13 @@
 #  command = "bin/netlify.sh"
 # publish = "exampleSite/public"
    command = "bin/netlify-production.sh"
-   publish = "public/"
+   publish = "exampleSite/public/"
 
 # Deploy Preview context: All Deploy Previews
 # will inherit these settings.
 [context.deploy-preview]
-  publish = "public/"
+  publish = "exampleSite/public/"
   command = "bin/netlify.sh"
-
-[context.castanet]
- command = "bin/netlify-castanet.sh"
- publish = "public/"
 
   [context.production.environment]
      HUGO_VERSION = "0.58.3"

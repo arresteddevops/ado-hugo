@@ -7,7 +7,8 @@
   </div>
 
   <div class = "row">
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "episode") }}
+
+    {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
         {{ range $paginator.Pages }}
         {{ $.Scratch.Set "episode" .File.BaseFileName }}
           <div class="col-md-4 grid_episode_col">
@@ -82,9 +83,9 @@
   <!-- page # buttons -->
   {{ range $pag.Pagers }}
     {{ $cur := .PageNumber }}
-    {{- $url := trim (string .URL) "/" | absURL -}}
+    {{- $url := trim (string $.URL) "/" | absURL -}}
     {{ if in ($.Scratch.Get "show") $cur }}
-      <li class = "{{ if eq . $pag }}active{{ end }} page-item"><a href="{{ .URL }}" class="page-link hidden-md-down">{{ .PageNumber }}</a></li>
+      <li class = "{{ if eq . $pag }}active{{ end }} page-item"><a href="{{ $.Permalink }}" class="page-link hidden-md-down">{{ .PageNumber }}</a></li>
     {{ else if in (slice 2 (sub $total 1)) $cur }}
       <li class="disabled page-item"><a name="" class="page-link hidden-md-down">&hellip;</a></li>
     {{ end }}
