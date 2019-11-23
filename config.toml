@@ -60,6 +60,7 @@ googleAnalytics = "UA-45939822-1"
     url = "sponsorship"
 
 [params]
+mainSections = ["episode"]
 site_theme = "grey"
 site_layout = "grid"
 enable_jumbo = "false"

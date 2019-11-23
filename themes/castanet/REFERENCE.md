@@ -2,7 +2,31 @@
 
 # Table of contents
 
-<!-- TOC depthFrom:2 -->autoauto- [The config file](#the-config-file)auto    - [Top-level items](#top-level-items)auto    - [General Parameters](#general-parameters)auto    - [Feed Parameters](#feed-parameters)auto    - [Social Parameters](#social-parameters)auto    - [Host/Author Parameters](#hostauthor-parameters)auto        - [Host Social Parameters](#host-social-parameters)auto    - [Link Parameters](#link-parameters)auto    - [A note about `BaseURL`](#a-note-about-baseurl)auto    - [Pagination setting with grid layout](#pagination-setting-with-grid-layout)auto    - [Permalinks](#permalinks)auto    - [Menus](#menus)auto- [Episodes](#episodes)auto- [Guests](#guests)auto    - [Guest Pages](#guest-pages)auto- [Hosts](#hosts)auto    - [Host Pages](#host-pages)auto- [Sponsors](#sponsors)autoauto<!-- /TOC -->
+<!-- TOC -->
+
+- [Reference for castanet](#reference-for-castanet)
+- [Table of contents](#table-of-contents)
+    - [The config file](#the-config-file)
+        - [Top-level items](#top-level-items)
+        - [General Parameters](#general-parameters)
+        - [Feed Parameters](#feed-parameters)
+        - [Social Parameters](#social-parameters)
+        - [Host/Author Parameters](#hostauthor-parameters)
+            - [Host Social Parameters](#host-social-parameters)
+        - [Link Parameters](#link-parameters)
+        - [A note about `BaseURL`](#a-note-about-baseurl)
+        - [Pagination setting with grid layout](#pagination-setting-with-grid-layout)
+        - [Permalinks](#permalinks)
+        - [Menus](#menus)
+        - [Podlove Subscribe Button](#podlove-subscribe-button)
+    - [Episodes](#episodes)
+    - [Guests](#guests)
+        - [Guest Pages](#guest-pages)
+    - [Hosts](#hosts)
+        - [Host Pages](#host-pages)
+    - [Sponsors](#sponsors)
+
+<!-- /TOC -->
 
 ## The config file
 
@@ -11,7 +35,6 @@ You will need to add a handful of configuration items to your `config.toml` file
 ### Top-level items
 
 - `googleAnalytics` - the Google Analytics tracking ID. We use the async method. Example: `"UA-123-45"`
-- `disqusShortname` - the shortname for use in Disqus comments. Example: `"arresteddevops"`. Note: The Disqus comments will not appear if you are running on `localhost`.
 
 ### General Parameters
 
@@ -19,6 +42,7 @@ These should be set under the `[params]` section:
 
 | Field Name              | Required | Description                                                                                                                                                                                                                                                         | Example                                                                                                                                                                                                                                   |
 |-------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `mainSections`          | Yes      | Sets the page type for what shows up on the homepage. This must be set.                              | "episode"
 | `site_theme`            | No       | The color scheme for the overall site. Currently the options are `orange` (default), `grey`, and `blue`.                                                                                                                                                            | "blue"                                                                                                                                                                                                                                    |
 | `site_layout`           | No       | The layout for the home page. The options are `row` (default) or `grid`.                                                                                                                                                                                            | "grid"                                                                                                                                                                                                                                    |
 | `enable_jumbo`          | No       | When using the `row` layout, will set a jumbotron at the top instead of the sidebar.                                                                                                                                                                                | "true"                                                                                                                                                                                                                                    |
@@ -37,6 +61,7 @@ These should be set under the `[params]` section:
 | `rss_subscribe`         | No       | Optional parameter to over-ride the RSS feed URL, in case you use something like Feedburner. You likely do NOT need to set this parameter unless you have a very good reason to do so.                                                                              | "http://feeds.podtrac.com/VGAulpN7MY1U"                                                                                                                                                                                                   |
 | `description`           | Yes      | Description of your show. Can use Markdown.                                                                                                                                                                                                                         | `"The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."` |
 | `media_prefix`          | Yes      | The URL to pre-pend to your podcast files. Must end in a slash.                                                                                                                                                                                                     | "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"                                                                                                                                                            |
+| `disqusShortname`       | No       | The shortname for use in Disqus comments. Example: `"arresteddevops"`. Note: The Disqus comments will not appear if you are running on `localhost`.                                                                                                                 | "arresteddevops"                                                                                                                                                                                                                          |
 
 ### Feed Parameters
 
@@ -192,6 +217,27 @@ Example:
     parent = "resources"
     
 ```
+
+### Podlove Subscribe Button
+
+[Podlove Subscribe Button](https://subscribe-button.podlove.org/) is a universal and easy-to-use button, to subscribe to podcasts with player clients or website players. 
+To customize your button please add the following section to your `config.toml`, which covers all features which are provided by the generator on [subscribe-button.podlove.org](https://subscribe-button.podlove.org/).
+
+```
+[params.podlove]
+  subscribe_title = ""              # fallback: site title from above
+  subscribe_subtitle = ""           # fallback: ""
+  subscribe_description = ""        # fallback: ""
+  subscribe_cover = "img/logo.jpg"  # fallback: ""
+  subscribe_color = "#585e6c"       # fallback: ""
+  subscribe_size = "medium"         # options: small, medium, big
+  subscribe_format = "rectangle"    # options: rectangle, square, cover
+  subscribe_style = "filled"        # options: filled, outline, frameless
+  subscribe_language = "de"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+  subscribe_feed_type = "audio"     # options: audio, video
+  subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+```
+
 ## Episodes
 
 Every episode requires a page in the `content/episode` on your site. The command `hugo new episode/myepisode.md` should populate it properly.
@@ -242,6 +288,7 @@ Graphical user interface influencer value proposition startup hackathon iPad ana
 | `Title`            | Yes      | The title of the episode.                                                                                                                                                                                                                                         | "Back to School"                                                                                                                                                                                                                      |
 | `youtube`          | No       | The ID of the YouTube video (not the full URL). This will display the video on the episode page, and if you are using the row layout, it will display for the latest episode.                                                                                     | "8ClZXJsgpHY"                                                                                                                                                                                                                         |
 | `truncate`         | No       | The number of characters to truncate the summary on the row layout.. The default value (if not set) is 600 characters.                                                                                                                                            | "700"                                                                                                                                                                                                                                 |
+| `guid`             | No       | A fixed, globally unique identifier for the episode which should never change. If one is not specified the URL of the `podcast_file` will be used instead.                                                                                                        | "aae20190418"                                                                                                                                                                                                                         |
 ## Guests
 
 If you don't have guests on your episodes, feel free to ignore this section.

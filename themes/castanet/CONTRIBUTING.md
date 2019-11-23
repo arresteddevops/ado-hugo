@@ -3,14 +3,13 @@
 The technical details on how to set up your local development environment for making changes to the `castanet` [Hugo](https://gohugo.io/) theme for podcasts.
 
 # Table of contents
-<!-- TOC depthFrom:2 -->
+<!-- TOC depthfrom:2 -->
 
 - [Set up your environment](#set-up-your-environment)
     - [Git remote setup](#git-remote-setup)
     - [Installing dependencies](#installing-dependencies)
         - [Install Node.js and npm](#install-nodejs-and-npm)
         - [Install gulp](#install-gulp)
-        - [Install bower](#install-bower)
         - [Install node modules](#install-node-modules)
 - [How can I help?](#how-can-i-help)
 - [Making changes](#making-changes)
@@ -22,10 +21,11 @@ The technical details on how to set up your local development environment for ma
     - [Blocks](#blocks)
     - [CSS and SCSS](#css-and-scss)
         - [`site.scss`](#sitescss)
-        - [`custom-variables.scss`](#custom-variablesscss)
+        - [`color-variables.scss`](#color-variablesscss)
         - [`custom.scss`](#customscss)
     - [Javascript](#javascript)
 - [Local build and testing](#local-build-and-testing)
+    - [Build new javascript and stylesheets](#build-new-javascript-and-stylesheets)
 - [Continuous Integration](#continuous-integration)
     - [Issues](#issues)
     - [GitHub Labels](#github-labels)
@@ -43,10 +43,9 @@ The technical details on how to set up your local development environment for ma
 Prerequisites:
 
 * `make` (note - this is not needed yet)
-* `gulp` v3.9.1+ (not needed yet)
-* `bower`
+* `gulp` v4.0.0+
 * `nodejs` and `npm`
-* [hugo v0.36.1+](https://gohugo.io)
+* [hugo v0.58.3+](https://gohugo.io)
 
 Clone `castanet` from source into your working directory of choice:
 
@@ -92,8 +91,6 @@ https://docs.npmjs.com/getting-started/installing-node
 #### Install gulp
 
 `npm install --global gulp`
-#### Install bower
-`npm install --global bower`
 
 #### Install node modules
 
@@ -165,8 +162,10 @@ All CSS must be generated with SCSS. The SCSS files are located in `static/scss`
 #### `site.scss`
 This is the file that imports all the other SCSS files, including Bootstrap, font-awesome, jssocials, and the jquery oembed. It also imports our custom variables and any other customizations.
 
-#### `custom-variables.scss`
-Use this to set any SCSS variables, or to over-ride any variables used by Bootstrap.
+#### `color-variables.scss`
+Note that this refers to files like `blue-variables.scss` or `orange-variables.scss`. There is no actual file named `color-variables.scss`
+
+Use this to set any SCSS variables, or to over-ride any variables used by Bootstrap. You need one for each color theme created.
 
 #### `custom.scss`
 This is the only place you should declare custom SCSS or CSS code.
@@ -176,7 +175,11 @@ All Javascript files are combined using CodeKit. The source Javascript files can
 
 ## Local build and testing
 
-TODO - add gulp information and make scripts
+### Build new javascript and stylesheets
+
+Inside the theme directory, run `npm install`. 
+
+Run `gulp dev` to build the compiled stylesheets and Javascript files
 
 ## Continuous Integration
 The `castanet` repo has hooks into Travis, Appveyor, and Netlify. Currently, the Travis build doesn’t do very much (the intent is to add some testing using Casper.js for web testing, but no tests have been written). The Appveyor tests ensure that the site can build with Windows.
@@ -226,10 +229,10 @@ See [utils/README](https://github.com/mattstratton/castanet/blob/master/utils/RE
 
 Adding a color theme is quite simple - you will need to generate two new files for the theme:
 
-- `static/scss/<MYCOLOR>_varibles.scss`
+- `static/scss/<MYCOLOR>_variables.scss`
 - `static/scss/<MYCOLOR.scss`
 
-The `_variables.scss` file contains the Sass varibles uses to build the stylesheet. `<MYCOLOR>` should refer to the name of the style as you will set it in the `config.toml`.
+The `<MYCOLOR>_variables.scss` file contains the Sass variables uses to build the stylesheet. `<MYCOLOR>` should refer to the name of the style as you will set it in the `config.toml`.
 
 ## Developer Certification of Origin (DCO)
 
