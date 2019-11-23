@@ -45,6 +45,8 @@ It is HIGHLY recommended to use the `hugo new episode` command to create an epis
 ## Guests
 Guest files are now Markdown files that live in `content/guest`. Use the command `hugo new guest` to create a new guest, using first initial, last name, i.e., `hugo new guest/mbluth.md`.
 
+For full documentation of all the possible fields in a Guest page, see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md#guest-pages
+
 ## Show Notes
 
 When writing show notes, here are a few things to consider:
