@@ -77,7 +77,7 @@ mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4
 description = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
 media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
   [params.feed]
-    feed_copyright = "Copyright 2013-2018 Arrested DevOps" #do not use markdown in this field; it is used in the feed
+    feed_copyright = "Copyright 2013-2019 Arrested DevOps" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
     itunes_author = "Matty Stratton, Trevor Hess, Jessica Kerr, and Bridget Kromhout" #no markdown or HTML
     itunes_summary = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
@@ -94,8 +94,6 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
     facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
     twitter = "arresteddevops"
     twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus = "ArrestedDevOps"
-    pinterest = "arresteddevops"
     instagram = "arresteddevops"
     youtube = "arresteddevops"
 

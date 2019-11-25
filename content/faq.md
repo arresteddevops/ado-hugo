@@ -23,7 +23,7 @@ We will mention your event on episodes leading up to it, along with the URL for 
 *What do I need to provide to ADO in exchange for media sponsorship?*<br />
 
 1. Display the ADO logo on your event's page as a "media sponsor" along with whatever else you do with media sponsors on marketing materials for your event.
-2. Provide ADO with a discount code for your event. The amount of discount must be 20%. Please also use the discount code `ADO2018`, as it gets confusing for our listeners if there are multiple codes across events.
+2. Provide ADO with a discount code for your event. The amount of discount should be 20%. Please also use the discount code `ADOYYYY` (ex: `ADO2019`), as it gets confusing for our listeners if there are multiple codes across events.
 3. *OPTIONAL* Provide ADO with at least one free ticket to your event that we will give away via a contest of some kind to a listener.
 
 If you want to set this up, send us an email at shows [at] arresteddevops [dot] com.
@@ -34,7 +34,6 @@ If you want to set this up, send us an email at shows [at] arresteddevops [dot] 
 1. An approximately 30 second message read during the episode (we don’t hold you tight to the length, just something that sounds not too awkward and long). You can provide a different creative for each episode if you want.
 2. A landing page to whatever URL you specify. This landing page is consistent (i.e., arresteddevops.com/bluthcompany would always point to whatever URL you specify, it shouldn’t change per-episode. The reason for this is because the short arresteddevops.com landing page is memorable for people who are listening, and not clicking on links, etc)
 3. A thank you/shout out on the episode page on our site, including a banner if you would like.
-4. A thank you/shout out tweet for each episode (and a thank you at the end of the episode)
 
 *How much does sponsorship cost?*<br />
-We provide single episode pricing, as well as 6 or 12 pack episode packages for a discounted rate. We also will discuss a per-conversion package with you as well. Email us at shows [at] arresteddevops [dot] com for details.
+We provide single episode pricing, as well as 6 or 12 pack episode packages for a discounted rate. We also will discuss a per-conversion package with you as well. Please see our [sponsorship page](https://www.arresteddevops.com/sponsorship) for details.
