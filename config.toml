@@ -71,7 +71,7 @@ itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id7738880
 android_subscribe = "http://subscribeonandroid.com/www.arresteddevops.com/episode/index.xml"
 google_play_subscribe = "https://play.google.com/music/m/Ihj4yege3lfmp3vs5yoopgxijpi?t%3DArrested_DevOps"
 stitcher_subscribe = "http://www.stitcher.com/podcast/arrested-devops-2/arrested-devops"
-pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+pocketcasts_subscribe = "https://pca.st/VqEP"
 mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
