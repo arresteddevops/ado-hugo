@@ -1,5 +1,25 @@
 # Change Log
 
+## [1.1.23](https://github.com/mattstratton/castanet/tree/1.1.23) (2019-11-29)
+**Merged pull requests:**
+
+- Consolidate social partial [\#237](https://github.com/mattstratton/castanet/pull/237) ([mattstratton](https://github.com/mattstratton))
+
+## [1.1.22](https://github.com/mattstratton/castanet/tree/1.1.22) (2019-11-25)
+## [1.1.21](https://github.com/mattstratton/castanet/tree/1.1.21) (2019-11-25)
+**Closed issues:**
+
+- Grid layout page number buttons don’t work  [\#236](https://github.com/mattstratton/castanet/issues/236)
+
+## [1.1.20](https://github.com/mattstratton/castanet/tree/1.1.20) (2019-11-23)
+**Fixed bugs:**
+
+- \[Bug\] Trying to Switch Page Layouts [\#233](https://github.com/mattstratton/castanet/issues/233)
+
+**Merged pull requests:**
+
+- Fix pagination code on grid layout [\#235](https://github.com/mattstratton/castanet/pull/235) ([mattstratton](https://github.com/mattstratton))
+
 ## [1.1.19](https://github.com/mattstratton/castanet/tree/1.1.19) (2019-11-18)
 **Closed issues:**
 
