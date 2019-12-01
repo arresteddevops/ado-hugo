@@ -1,0 +1,22 @@
+# Production context: All deploys to the main
+# repository branch will inherit these settings.
+[context.production]
+#  command = "bin/netlify.sh"
+# publish = "exampleSite/public"
+   command = "bin/netlify-production.sh"
+   publish = "exampleSite/public/"
+
+# Deploy Preview context: All Deploy Previews
+# will inherit these settings.
+[context.deploy-preview]
+  publish = "exampleSite/public/"
+  command = "bin/netlify.sh"
+
+  [context.production.environment]
+     HUGO_VERSION = "0.58.3"
+
+  [context.deploy-preview.environment]
+    HUGO_VERSION = "0.58.3"
+
+  [context.branch-deploy.environment]
+    HUGO_VERSION = "0.58.3"
