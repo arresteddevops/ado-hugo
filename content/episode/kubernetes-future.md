@@ -11,7 +11,8 @@ sponsors = ["sdt"]
 episode = "142"
 images = ["/img/social/fb/kubernetes-future.png"]
 hosts = ["bkromhout"]
-aliases = ["/142",]
+aliases = ["/142"]
+podcast_duration = "44:50"
 youtube = "PKcXccvE5Fo"
 explicit = "no" # values are "yes" or "no"
 
