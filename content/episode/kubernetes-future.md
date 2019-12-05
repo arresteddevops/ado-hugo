@@ -12,7 +12,7 @@ episode = "142"
 images = ["/img/social/fb/kubernetes-future.png"]
 hosts = ["bkromhout"]
 aliases = ["/142",]
-youtube = ""
+youtube = "PKcXccvE5Fo"
 explicit = "no" # values are "yes" or "no"
 
 
