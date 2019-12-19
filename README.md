@@ -15,7 +15,8 @@ you can install hugo on your computer.
 1. Install Docker, and VSCode with Remote Extensions
 2. Clone this repo
 3. Open this repo in VSCode. When it offers to reopen in a container, say yes please.
-3. If you want to fire up a local copy to see your changes as you go, open a terminal and run `../run.sh`
+3. It'll fire up a local server to see your changes as you go. Look for
+your version on localhost:1313 (after about about a minute).
 5. If you want to make a new episode, open a terminal and run: `hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 
 ### option 2: Docker outside of VSCode
