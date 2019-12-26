@@ -30,7 +30,7 @@ your version on localhost:1313 (after about about a minute).
 ### option 3: Install hugo
 1.  Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.58.3*
 2. Clone this repo
-3. If you want to fire up a local copy to see your changes as you go: `hugo server`
+3. If you want to fire up a local copy to see your changes as you go: `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running.
 5. If you want to make a new episode, run: `hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 
