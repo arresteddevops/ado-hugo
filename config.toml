@@ -25,15 +25,15 @@ googleAnalytics = "UA-45939822-1"
  [[Menu.Main]]
      name = "About"
      identifier = "about"
-     url = "about"
+     url = "/about"
  [[Menu.Main]]
     name = "Contact"
     identifier = "contact"
-    url = "contact"
+    url = "/contact"
  [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
-    url = "guest"
+    url = "/guest"
  [[Menu.Main]]
     name = "Resources"
     identifier = "resources"
@@ -41,23 +41,23 @@ googleAnalytics = "UA-45939822-1"
  [[Menu.Main]]
     name = "Books"
     identifier = "books"
-    url = "books"
+    url = "/books"
     parent = "resources"
 [[Menu.Main]]
     name = "Blogs"
     identifier = "blogs"
-    url = "blogs"
+    url = "/blogs"
     parent = "resources"
     
 [[Menu.Main]]
     name = "Podcasts"
     identifier = "podcasts"
-    url = "podcasts"
+    url = "/podcasts"
     parent = "resources"
 [[Menu.Main]]
     name = "Sponsor Arrested DevOps"
     identifier = "sponsor"
-    url = "sponsorship"
+    url = "/sponsorship"
 
 [params]
 mainSections = ["episode"]
