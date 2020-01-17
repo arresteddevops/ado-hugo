@@ -79,7 +79,7 @@ media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arr
   [params.feed]
     feed_copyright = "Copyright 2013-2020 Arrested DevOps" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
-    itunes_author = "Matty Stratton, Trevor Hess, Jessica Kerr, and Bridget Kromhout" #no markdown or HTML
+    itunes_author = "Matt Stratton, Trevor Hess, Jessica Kerr, and Bridget Kromhout" #no markdown or HTML
     itunes_summary = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Matt Stratton"
     itunes_owner_email = "matt.stratton@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
