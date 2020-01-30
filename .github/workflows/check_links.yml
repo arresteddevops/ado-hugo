@@ -1,7 +1,7 @@
 name: Check markdown links
 on:
   schedule:
-  - cron: '0 0 1 * *'
+    - cron: '0 0 1 * *'
 jobs:
   linkChecker:
     name: Issues from Links
