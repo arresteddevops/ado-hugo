@@ -5,6 +5,7 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
+    name: Issues from Links
     steps:
       - uses: actions/checkout@v2
       - name: Link Checker
