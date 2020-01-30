@@ -11,7 +11,7 @@ Here are the steps to follow to get going as an ADO content contributor (or heck
 You can use VSCode + Remote extensions (and Docker), or you can use Docker outside of VSCode, or
 you can install hugo on your computer.
 
-### option 1: VSCode in Docker
+### Option 1: VSCode in Docker
 1. Install Docker, and VSCode with Remote Extensions
 2. Clone this repo
 3. Open this repo in VSCode. When it offers to reopen in a container, say yes please.
@@ -19,7 +19,7 @@ you can install hugo on your computer.
 your version on localhost:1313 (after about about a minute).
 5. If you want to make a new episode, open a terminal and run: `hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 
-### option 2: Docker outside of VSCode
+### Option 2: Docker outside of VSCode
 1. Install Docker
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go: `docker-compose up`
@@ -27,7 +27,7 @@ your version on localhost:1313 (after about about a minute).
 5. If you want to make a new episode, run a hugo command inside the docker container
  that docker-compose started up: `docker exec ado-hugo_hugo_1 hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 
-### option 3: Install hugo
+### Option 3: Install hugo
 1.  Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.58.3*
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go: `hugo server -w --baseUrl="http://localhost:1313"`
