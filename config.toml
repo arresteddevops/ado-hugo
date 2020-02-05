@@ -43,11 +43,6 @@ googleAnalytics = "UA-45939822-1"
     identifier = "books"
     url = "/books"
     parent = "resources"
-[[Menu.Main]]
-    name = "Blogs"
-    identifier = "blogs"
-    url = "/blogs"
-    parent = "resources"
     
 [[Menu.Main]]
     name = "Podcasts"
