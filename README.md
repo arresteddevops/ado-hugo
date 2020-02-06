@@ -85,7 +85,7 @@ The Hugo theme used is [Castanet](https://www.github.com/mattstratton/castanet).
 
 ### Updating the theme
 
-If there are new versions of [Castanet](https://www.github.com/mattstratton/castanet), all that should be required is to replace the entire `themes/castanet` directory with the new downloaded version.
+If there are new versions of [Castanet](https://www.github.com/mattstratton/castanet), all that should be required is to replace the entire `themes/castanet` directory with the new downloaded version. Check out [utils/README.md](https://github.com/arresteddevops/ado-hugo/blob/master/utils/README.md) for a helpful script to do this in a fancy automated way.
 
 
 ### Credits
