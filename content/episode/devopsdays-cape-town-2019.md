@@ -4,6 +4,7 @@ Description = "Bridget chats with Devi Moodley, Daniel Maher, Adrian Moisey, and
 Date = 2019-10-02T01:23:48-05:00
 PublishDate = 2019-10-02T01:30:48-05:00
 podcast_file = "arrested-devops-podcast-episode136.mp3"
+podcast_duration = "36:59"
 episode_image = "/episode/img/devopsdays-cape-town-2019.png"
 episode_banner = "/episode/img/devopsdays-cape-town-2019-banner.png"
 guests = ["dmoodley","dmaher","amoisey","cbernard"] # The names of your guests, based on the filename without extension.

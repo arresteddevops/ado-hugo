@@ -4,6 +4,7 @@ Description = "Bridget chats with Ian Coldwater about Kubernetes security"
 Date = 2019-11-27T02:00:48-05:00
 PublishDate = 2019-11-27T02:00:49-05:00
 podcast_file = "arrested-devops-podcast-episode141.mp3"
+podcast_duration = "22:40"
 episode_image = "/episode/img/kubernetes-security.png"
 episode_banner = "/episode/img/kubernetes-security-banner.png"
 guests = ["icoldwater"] # The names of your guests, based on the filename without extension.

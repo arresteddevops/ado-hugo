@@ -4,6 +4,7 @@ Description = "Bridget chats with guests Peter Shannon, Jocelyn Harper, and Tim 
 Date = 2019-11-03T01:23:48-05:00
 PublishDate = 2019-11-03T01:23:48-05:00
 podcast_file = "arrested-devops-podcast-episode139.mp3"
+podcast_duration = "31:13"
 episode_image = "/episode/img/devopsdays-philadelphia-2019.png"
 episode_banner = "/episode/img/devopsdays-philadelphia-2019-banner.png"
 guests = ["pshannon","jharper","tgross2"]
