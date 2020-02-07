@@ -4,6 +4,7 @@ Description = "Bridget chats with the authors of Kubernetes Best Practices: Bren
 Date = 2019-11-18T02:00:48-05:00
 PublishDate = 2019-11-18T02:00:49-05:00
 podcast_file = "arrested-devops-podcast-episode140.mp3"
+podcast_duration = "40:00"
 episode_image = "/episode/img/kubernetes-best-practices.png"
 episode_banner = "/episode/img/kubernetes-best-practices-banner.png"
 guests = ["bburns","evillalba","dstrebel","levenson"] # The names of your guests, based on the filename without extension.
