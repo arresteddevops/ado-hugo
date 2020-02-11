@@ -1,9 +1,9 @@
 +++
 Description = "In this episode, host Jessica Kerr is joined by guests Matthew Skelton and Manuel Pais to discuss their book, Team Topologies."
-Date = 2020-02-10T20:05:53-06:00
-PublishDate = 2020-02-10T20:05:53-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+Date = 2020-02-11T08:05:53-06:00
+PublishDate = 2020-02-1T08:05:53-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+podcast_file = "arrested-devops-podcast-episode146.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "53:07"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "/episode/img/team-topologies.png"
 episode_banner = "/episode/img/team-topologies-banner.png"
