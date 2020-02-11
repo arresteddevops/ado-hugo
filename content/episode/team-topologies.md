@@ -9,11 +9,11 @@ episode_image = "/episode/img/team-topologies.png"
 episode_banner = "/episode/img/team-topologies-banner.png"
 guests = ["mskelton", "mpais"] # The names of your guests, based on the filename without extension.
 #sponsors = []
-episode = "142"
+episode = "146"
 title = "Team Topologies"
 images = ["img/social/fb/team-topologies"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
-aliases = ["/142"]
+aliases = ["/146"]
 #youtube = ""
 explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
