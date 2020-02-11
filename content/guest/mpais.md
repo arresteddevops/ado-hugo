@@ -1,7 +1,7 @@
 ---
 title: "Manuel Pais"
 Twitter: "manupaisable"
-Website: "https://teamtopologies.com"
+Website: "https://manuelpais.net"
 type: "guest"
 Linkedin: "manuelpais"
 Github: "teamtopologies"
