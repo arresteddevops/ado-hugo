@@ -22,11 +22,11 @@ explicit = "no" # values are "yes" or "no"
 
 ### Historical Context
 
-The panel discusses the origins of the book Team Topologies. The project started with a [blog post.](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/)
+The panel discusses the origins of the [book Team Topologies](https://teamtopologies.com/book). The project started with a [blog post.](https://blog.matthewskelton.net/2013/10/22/what-team-structure-is-right-for-devops-to-flourish/)
 
 Matthew: “Back in 2013, I actually wrote a blog post in my personal blog. I actually wrote it in a rage.”
 
-In 2015, Manuel joined the team to help expand on the ideas from that blog post and create [Devops Toplogies.](devopstopologies.com)
+In 2015, Manuel joined the team to help expand on the ideas from that blog post and create [Devops Toplogies.](https://devopstopologies.com)
 
 Manuel: “What the hell are you calling a DevOps team? DevOps is not about creating a new team called DevOps.”
 
