@@ -1,6 +1,6 @@
 +++
 Description = "Matt and Jeff sit down with Patrick Debois to talk about Patrick's journey from systems engineer to DevOps royalty"
-Date = 2020-02-06T18:00:00Z
+Date = 2020-02-16T08:00:00Z
 PublishDate = 2020-02-16T08:35:20Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode147.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "54:27"
