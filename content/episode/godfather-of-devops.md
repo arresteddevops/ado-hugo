@@ -28,13 +28,13 @@ explicit = "yes" # values are "yes" or "no"
 - [NoEstimates: How to Measure Project Progress Without Estimating](https://www.amazon.com/NoEstimates-Measure-Project-Progress-Estimating-ebook/dp/B01FWMSBBK) is a 2016 book that explains the "No Estimates" Agile concept.
 - A trip down memory lane with the [very first DevOps Days Ghent](https://legacy.devopsdays.org/events/2009-ghent/) back in 2009.
 
-### Checkouts
+### Where you can find us
 
 #### Patrick
 
 - KubeCon in London
 - [DevOps Talks Melbourne](https://devops.talksplus.com/au/devops.html)
-- [DevSecCon Sydnesy](https://www.devseccon.com/sydney-2020/)
+- [DevSecCon Sydney](https://www.devseccon.com/sydney-2020/)
 - [O'Reilly Infrastructure Conference](https://conferences.oreilly.com/infrastructure-ops/io-cahttps://conferences.oreilly.com/infrastructure-ops/io-ca)
 
 #### Matt
