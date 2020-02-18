@@ -1,12 +1,12 @@
 +++
 Description = "Matt and Jeff sit down with Patrick Debois to talk about Patrick's journey from systems engineer to DevOps royalty"
-Date = 2020-02-16T08:00:00Z
-PublishDate = 2020-02-16T08:35:20Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2020-02-17T10:18:29-06:00
+PublishDate = 2020-02-17T10:18:29-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode147.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "54:27"
 #podcast_bytes = "" # the length of the episode in bytes
-episode_image = "/episode/img/never-stop-learning.jpg"
-episode_banner = "/episode/img/never-stop-learning.jpg"
+episode_image = "episode/img/never-stop-learning.jpg"
+episode_banner = "episode/img/never-stop-learning-banner.jpg"
 guests = ["pdebois" ] # The names of your guests, based on the filename without extension.
 #sponsors = []
 episode = "147"
