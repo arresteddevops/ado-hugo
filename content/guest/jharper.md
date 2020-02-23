@@ -1,5 +1,5 @@
 +++
-Title = "Jocelyn Gross"
+Title = "Jocelyn Harper"
 date = "2019-11-02T08:32:02-08:00"
 Twitter = "soandsos"
 Website = "https://www.jocelyn-harper.com/"
