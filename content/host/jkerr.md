@@ -1,16 +1,16 @@
 +++
 Date = 2010-12-20T15:23:13-06:00 # controls ordering on hosts page
 Twitter = "@jessitron"
-Website = "http://jessitron.com"
+Website = "http://blog.jessitron.com"
 Type = "host"
 Facebook = ""
-Linkedin = "jessitronica"
+Linkedin = "jessicakerr"
 GitHub = "jessitron"
 Thumbnail = "img/guests/jkerr.png"
 Pinterest = ""
 Twitch = "jessitronica"
 Instagram = "jessitronica"
-YouTube = "https://www.youtube.com/channel/UCWaInxwpwDYd6U4Re_N8MQQ"
+YouTube = "channel/UCWaInxwpwDYd6U4Re_N8MQQ"
 Title="Jessica Kerr"
 +++
 
