@@ -1,9 +1,9 @@
 +++
 Description = "It can be hard to get into this whole 'DevOps' thing...Laura Santamaria (LogDNA) and Matt dig into what we can do to make it more accessible"
-Date = 2020-03-17T16:55:54-05:00
-PublishDate = 2020-03-17T16:55:54-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2020-03-18T16:55:54-05:00
+PublishDate = 2020-03-18T16:55:54-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode148.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+podcast_duration = "48:15"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/beginner-friendly-devops.png"
 episode_banner = "episode/img/beginner-friendly-devops-banner.png"
