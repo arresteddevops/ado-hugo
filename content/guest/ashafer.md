@@ -13,4 +13,4 @@ Pinterest = ""
 Instagram = ""
 YouTube = ""
 +++
-solving more problems than I cause at @pivotal
+Andrew Clay Shafer stole good ideas from wherever he could and started calling them all devops. Andrew tries to solve more problems than he causes but often fails. If devops ever caused you any problems, Andrew feels bad. If devops ever helped you with anything, he also apologizes.
