@@ -1,7 +1,7 @@
 +++
 Description = "Transformation is a big deal. You can't just say \"let's just transform!\" so what are some of the things we should be thinking about?"
-Date = 2020-03-23T13:12:00-05:00
-PublishDate = 2020-03-23T13:12:00-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2020-03-25T08:00:00-05:00
+PublishDate = 2020-03-25T08:09:00-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode149.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "37:42"
 #podcast_bytes = "" # the length of the episode in bytes
