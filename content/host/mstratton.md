@@ -11,7 +11,8 @@ GitHub = "mattstratton"
 Thumbnail = "img/matt.png"
 Pinterest = "mattstratton"
 Instagram = "mattstratton"
-YouTube = ""
+YouTube = "mugsy1274"
+Twitch = "mattstratton"
 +++
 Matt Stratton is a Transformation Specialist at Red Hat and a long-time member of the global DevOps community. Back in the day, his license plate actually said "DevOps".
 
