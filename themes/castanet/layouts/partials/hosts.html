@@ -5,7 +5,7 @@
   </div>
   <div class = "row">
     <div class = "col-md-12">
-    {{ range sort (where .Site.Pages "Type" "host") }}
+    {{ range ((where .Site.Pages "Type" "host") sort .Site.Pages "Title" "desc") }}
     {{- if not (in .File.BaseFileName "_index") -}}
       <div class="row person_row">
           <div class="col-md-3">
