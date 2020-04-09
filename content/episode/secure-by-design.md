@@ -1,15 +1,15 @@
 +++
-Description = ""
-Date = 2020-03-26T13:42:40-05:00
-PublishDate = 2020-03-26T13:42:40-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-26T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+Description = "Jessica chats with Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano, authors of the book Secure by Design"
+Date = 2020-04-09T07:00:40-05:00
+PublishDate = 2020-04-09T07:00:40-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-26T04:09:45-05:00"
+podcast_file = "arrested-devops-podcast-episode150.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "55:38"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "/episode/img/secure-by-design.png"
 episode_banner = "/episode/img/secure-by-design-banner.png"
 guests = ["ddeogun", "djohnsson", "dsawano"] # The names of your guests, based on the filename without extension.
 #sponsors = []
-#episode = ""
+episode = "150"
 title = "Secure by Design"
 images = ["/img/social/fb/secure-by-design.png"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
