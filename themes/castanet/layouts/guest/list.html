@@ -15,7 +15,7 @@
 <div class = "row">
   <div class = "col">
 
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "guest") }}
+    {{ $paginator := .Paginate (where .Data.Pages.ByTitle "Type" "guest") }}
     {{ range $paginator.Pages }}
         <div class="row person_row">
           <div class="col-md-3">
@@ -55,6 +55,9 @@
             {{ end }}
             {{ with .Params.YouTube }}
               <a href = "https://www.youtube.com/{{ . }}"><i class="fab fa-youtube-square fa-2x"></i></a>
+            {{ end }}
+            {{ with .Params.Twitch }}
+              <a href = "https://twitch.tv/{{ . }}"><i class="fab fa-twitch fa-2x"></i></a>
             {{ end }}
         </div>
       </div>
