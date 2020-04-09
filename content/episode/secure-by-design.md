@@ -1,5 +1,5 @@
 +++
-Description = "Jessica chats with Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano, authors of the book Secure by Design"
+Description = "Jessica chats with Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano - authors of the book Secure by Design"
 Date = 2020-04-09T07:00:40-05:00
 PublishDate = 2020-04-09T07:00:40-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-26T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode150.mp3" # the name of the podcast file, after the media prefix.
@@ -38,7 +38,7 @@ Jessica: “I love that what you’re recommending in this part is to think hard
 
 The panel talks about the ways in which testing contributes to secure design.
 
-Danie Sawano: “It tends to be so much easier and more robust if you start defining your own domain types.”
+Daniel Sawano: “It tends to be so much easier and more robust if you start defining your own domain types.”
 
 ## Immutability
 
