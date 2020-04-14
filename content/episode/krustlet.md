@@ -1,7 +1,9 @@
 +++
 Description = "Bridget chats with Taylor Thomas and Brian Ketelsen about WebAssembly, Krustlet, and the Future."
 Date = 2020-04-13T08:00:00-05:00
-PublishDate = 2020-04-13T08:09:00-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2020-04-13T08:09:00-05:00 
+# Date = 2020-04-21T08:00:00-05:00
+# PublishDate = 2020-04-21T08:00:00-05:00 
 podcast_file = "arrested-devops-podcast-episode151.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "42:49"
 #podcast_bytes = "" # the length of the episode in bytes
