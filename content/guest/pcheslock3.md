@@ -12,7 +12,7 @@ Pinterest = ""
 Instagram = ""
 YouTube = ""
 Twitch = ""
-#Aka = []
+Aka = ["pcheslock","pcheslock1"]
 +++
- Pete is a recovering system administrator who got his start with AWS services back in 2009 while at Sonian, the first cloud based email archiving platform. Pete is now a Cloud Economist at [the Duckbill Group](https://www.duckbillgroup.com/) where he spends his time obsessing over customers' AWS bills so they don't have to. A frequent speaker at DevOps and Observability events, Pete brings a product mindset to SaaS operations. While not finding over ways to trim AWS bills, he spends his free time smoking meats and tweeting about the results.
+Pete is a recovering system administrator who got his start with AWS services back in 2009 while at Sonian, the first cloud based email archiving platform. Pete is now a Cloud Economist at [the Duckbill Group](https://www.duckbillgroup.com/) where he spends his time obsessing over customers' AWS bills so they don't have to. A frequent speaker at DevOps and Observability events, Pete brings a product mindset to SaaS operations. While not trimming AWS bills, he spends his free time smoking meats and tweeting about the results.
  
