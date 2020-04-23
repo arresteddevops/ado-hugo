@@ -12,5 +12,6 @@ Thumbnail = "img/guests/mhedgpeth2.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "mhedgpeth"
 +++
 Michael Hedgpeth leads the Application Operations and DevOps team for NCR's Hospitality division. He's most interested these days in applying DevOps to large organizations, teaching people how to make positive career changes, and incident management.

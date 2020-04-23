@@ -12,5 +12,7 @@ Thumbnail = "img/guests/jgordon.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "jgordon"
+
 +++
 Jay Gordon is a Cloud Developer Advocate at MongoDB in in New York City.  Prior to that, Jay was a SysAdmin and DevOps professional at places like Datapipe, BuzzFeed and DigitalOcean.

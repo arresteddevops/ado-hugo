@@ -12,5 +12,6 @@ Thumbnail = "img/guests/lholmwood.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "lholmwood"
 +++
 People before technology. Engineering manager, Australian Government Digital Transformation Office.
