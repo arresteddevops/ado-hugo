@@ -12,7 +12,6 @@ news_keywords = []
 podcast = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/arrested-devops-podcast-episode076.mp3"
 podcast_duration = "01:09:12"
 sponsors = ["10thmagnitude", "datadog", "victorops"]
-tags = []
 title = "chatting with pauly comtois"
 hosts = ["mstratton"]
 
