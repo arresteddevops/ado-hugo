@@ -19,6 +19,10 @@ googleAnalytics = "UA-45939822-1"
 	sponsor = "/:filename"
 	redirect = "/:filename"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
+
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
@@ -53,6 +57,11 @@ googleAnalytics = "UA-45939822-1"
     name = "Sponsor Arrested DevOps"
     identifier = "sponsor"
     url = "/sponsorship"
+
+ [[Menu.Main]]
+    name = "Search"
+    identifier = "search"
+    url = "/search"
 
 [params]
 mainSections = ["episode"]
