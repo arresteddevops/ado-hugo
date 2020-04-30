@@ -1,7 +1,7 @@
 +++
 Description = "Bridget chats with Matt Farina, Karen Chu, and Matt Butcher about the Helm community."
-Date = 2020-04-29T21:09:15-05:00
-PublishDate = 2020-04-29T21:09:15-05:00
+Date = 2020-04-30T01:09:15-05:00
+PublishDate = 2020-04-30T01:09:15-05:00
 podcast_file = "arrested-devops-podcast-episode153.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "39:52"
 #podcast_bytes = "" # the length of the episode in bytes
