@@ -22,6 +22,8 @@ explicit = "yes" # values are "yes" or "no"
 
 
 - [Helm.sh](https://helm.sh)
+- [Celebrating Helm's CNCF Graduation](https://helm.sh/blog/celebrating-helms-cncf-graduation/)
+- [CNCF announces Helm graduation](https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/)
 - [An Introduction to Helm - Matt Farina & Josh Dolitsky](https://www.youtube.com/watch?v=Zzwq9FmZdsU)
 - [Phippy and Friends](https://www.cncf.io/phippy/)
 - [Keynote: Phippy Goes to the Zoo: A Kubernetes Story - Matt Butcher & Karen Chu](https://www.youtube.com/watch?v=O1pv70lPlNc) - KubeCon North America 2018
