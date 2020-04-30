@@ -14,7 +14,7 @@ title = "Helm Community with Matt Farina, Karen Chu, and Matt Butcher"
 images = ["img/social/fb/helm-community.png"]
 hosts = ["bkromhout"] # The names of your hosts, based on the filename without extension.
 aliases = ["/153"]
-youtube = "TBD"
+youtube = "WQ7_oCpP7CU"
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
