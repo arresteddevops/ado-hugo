@@ -29,3 +29,7 @@ explicit = "yes" # values are "yes" or "no"
 - [Helm chart testing](https://github.com/helm/chart-testing)
 - [Helm hub](https://hub.helm.sh/)
 - [Helm twitter](https://twitter.com/HelmPack)
+
+Helm logo art credit: [@flynnduism](https://twitter.com/flynnduism)
+
+Banner image: [@bridgetkromhout](https://twitter.com/bridgetkromhout)
