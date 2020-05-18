@@ -12,5 +12,6 @@ Thumbnail = "img/guests/arinehart.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "arinehart"
 +++
 Aaron Rinehart currently serves as Chief Enterprise Security Architect at the UnitedHealth Group and has worked and consulted in the field of Information Security and Technology for organizations such as the Department of Homeland Security (DHS), National Aeronautics and Space Administration (NASA), and the Department of Defense (DoD). Aaron has been a featured speaker at several media outlets and conferences, most notably the National Press Club in Washington DC, RSA, HITRUST, DOES Conf and ABC News. Aaron has been interviewed and quoted in various publications including the Huffington Post, Medill News Service, and CBS MarketWatch.
