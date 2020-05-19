@@ -15,4 +15,6 @@ Twitch = ""
 #Aka = []
 #guest_group = ""
 +++
-Adrienne Tacke is a Filipina software engineer, international speaker, and published author of the book Coding for Kids: Python. She is also a LinkedIn Learning instructor who specializes in Azure and Cloud Development courses. Currently, she is a Senior Developer Advocate for MongoDB where she happily educates and empowers developers to become great ones (perhaps using MongoDB in the process 😉). She takes great delight in solving complex problems, creating awesome things, and using the right tools for the problem at hand. Most of all, she relishes the opportunity to connect with developers from around the world.
+Adrienne Tacke is a Filipina software engineer, international speaker, published author of the book Coding for Kids: Python, and a LinkedIn Learning instructor (phew!). Currently, she is a Senior Developer Advocate for MongoDB where she happily educates and empowers developers to become great ones (perhaps using MongoDB in the process 😉).
+
+Bonus Fun Facts: her favorite PC/video games are Age of Empires II, RollerCoaster Tycoon 2, and the Borderlands series; her favorite lipstick color is Bite's Aubergine; her favorite movies are *Inception* (really, anything be Christopher Nolan) and *The Matrix*.
