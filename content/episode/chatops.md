@@ -13,8 +13,8 @@ images = ["/img/social/fb/chatops.png"]
 hosts = ["mstratton", "thess"] # The names of your hosts, based on the filename without extension.
 aliases = ["/42",]
 explicit = "yes" # values are "yes" or "no"
+transcript = "/static/transcripts/chatops.txt"
 +++
-[Transcript](http://transcripts.castingwords.com/zw00/211594.html)
 
 #### Recording Live from DevOpsDays Chicago!
 
