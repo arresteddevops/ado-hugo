@@ -12,6 +12,7 @@ You can use VSCode + Remote extensions (and Docker), or you can use Docker outsi
 you can install hugo on your computer.
 
 ### option 1: VSCode in Docker
+
 1. Install Docker, and VSCode with Remote Extensions
 2. Clone this repo
 3. Open this repo in VSCode. When it offers to reopen in a container, say yes please.
@@ -20,6 +21,7 @@ your version on localhost:1313 (after about about a minute).
 5. If you want to make a new episode, open a terminal and run: `hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 
 ### option 2: Docker outside of VSCode
+
 1. Install Docker
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go: `docker-compose up`
@@ -28,7 +30,8 @@ your version on localhost:1313 (after about about a minute).
  that docker-compose started up: `docker exec ado-hugo_hugo_1 hugo new episode/my-episode-name.md` *Note - it is highly recommended that you follow this pattern rather than duplicating an existing file, as this will ensure you get the latest and greatest required frontmatter elements*
 
 ### option 3: Install hugo
-1.  Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.58.3*
+
+1.  Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.69.2*
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go: `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running.
@@ -39,9 +42,9 @@ your version on localhost:1313 (after about about a minute).
 Every episode needs a few images. You need the following
 
 1. **Episode thumbnail** - This must be square, PNG, and 500px by 500px. Enlarge it slightly if you have to. They should be named after the episode name (i.e., `my-episode-name.png`) and stored in the `static/episode/img` folder.
-2. **Episode banner** - These need to be PNG, 800px by 420 px. They should be named using the episode name as a template (i.e., `my-episode-name-banner.png`) and stored in the `static/episode/img` folder.
+2. **Episode banner** - These should be JPG, 800px by 420 px. They should be named using the episode name as a template (i.e., `my-episode-name-banner.jpg`) and stored in the `static/episode/img` folder.
 3. **Facebook sharing image** - These need to be PNG, 1200px by 630 px, and named after the episode (i.e., `my-episode-name.png`). They are stored in the `static/img/social/fb` folder.
-4. **Guest image(s)** - These need to be PNG, 500px x 500px, and should be named after the guest  file name (i.e., `mstratton.png`). They are stored in the `static/img/guests` folder
+4. **Guest image(s)** - These should be JPG, 500px x 500px, and should be named after the guest  file name (i.e., `mstratton.jpg`). They are stored in the `static/img/guests` folder
 
 When you create a new episode, Hugo will populate the frontmatter of the .md file with a bunch of stuff for you. These are the required items to be sure to populate:
 
@@ -61,8 +64,10 @@ It is HIGHLY recommended to use the `hugo new episode` command to create an epis
 * **images** - Array of images for social sharing. Should be one image. Example: `/img/social/fb/my-episode-name.png`
 * **aliases** - Array of strings for redirects. The only one you should ever need is for the episode number, i.e., `aliases = ["/27"]`
 * **youtube** - the URL of the YouTube video, if there is one. If not, delete this line from the frontmatter of the episode.
+* **transcript** - the path to the static text file with the transcript for the episode. The content should be in Markdown. Example: `/static/transcripts/chatops.txt`
 
 ## Guests
+
 Guest files are now Markdown files that live in `content/guest`. Use the command `hugo new guest` to create a new guest, using first initial, last name, i.e., `hugo new guest/mbluth.md`.
 
 For full documentation of all the possible fields in a Guest page, see https://github.com/mattstratton/castanet/blob/master/REFERENCE.md#guest-pages
@@ -71,13 +76,19 @@ For full documentation of all the possible fields in a Guest page, see https://g
 
 When writing show notes, here are a few things to consider:
 
-### Avoid using plain-text URL's
+### Avoid using plain-text URLs
+
 Just pasting in a URL is much worse for us SEO-wise, and it's also less delightful for the reader. For example, `[Jill’s awesome talk about recruiting](http://www.thing.com/stuff)` is better than `http://www.thing.com/stuff`
 
 ### Embedding tweets
+
 If you are referencing a tweet, please use the built-in shortcode to create a pretty embed for the tweet. You can do this by using the code `{{< tweet 666616452582129664 >}}` where the number is the ID of the tweet (which is the end of the tweeet's URL, for example, `https://twitter.com/spf13/status/666616452582129664`.
 
 The exception to this rule is if you suspect that the tweet might be deleted due to controversy; at that point you might consider a screenshot of the tweet.
+
+## Pull Request Workflow
+
+There is a GitHub Action that runs on all PRs that contain changed images, which will optimize any images in the repo that need it.
 
 ## Theme
 
@@ -86,7 +97,6 @@ The Hugo theme used is [Castanet](https://www.github.com/mattstratton/castanet).
 ### Updating the theme
 
 If there are new versions of [Castanet](https://www.github.com/mattstratton/castanet), all that should be required is to replace the entire `themes/castanet` directory with the new downloaded version. Check out [utils/README.md](https://github.com/arresteddevops/ado-hugo/blob/master/utils/README.md) for a helpful script to do this in a fancy automated way.
-
 
 ### Credits
 
