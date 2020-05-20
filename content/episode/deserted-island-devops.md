@@ -2,7 +2,7 @@
 Description = "The first-ever DevOps conference to take place in Animal Crossing happened on April 30. In another history-making event, Matty is joined by the largest panel of guests in ADO history, and talks with the event organizers, as well as the speakers, about what made this virtual conference so special."
 Date = 2020-05-18T16:04:12-05:00
 PublishDate = 2020-05-18T16:04:12-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "arrested-devops-podcast-episode155.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/deserted-island-devops.png"
@@ -27,6 +27,7 @@ The infamous tweet that started it all:
 
 - [Videos of talks on YouTube](https://www.youtube.com/watch?v=tb4jg06e_Vk&list=PLVUQjiv8GtwL-B9AJJ-rNdiDtcU2wo7Gy)
 - [Deserted Island DevOps Postmortem](https://aparker.io/posts/deserted-island-devops/)
+- Shoutout to [Tori Chu](https://twitter.com/f00handle) who both spoke and did the amazing in-game artwork and swag!
 
 #### Recaps
 
