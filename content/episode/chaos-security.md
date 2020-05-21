@@ -18,6 +18,8 @@ aliases = ["/154"]
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/chaos-security.txt"
+
 +++
 
 - [Last time Aaron was on ADO](https://www.arresteddevops.com/inner-source-to-open-source/)
