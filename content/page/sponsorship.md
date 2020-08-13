@@ -9,4 +9,5 @@ title = "Sponsor Arrested DevOps"
 
 Are you interested in becoming a sponsor of Arrested DevOps? Contact us at `shows@arresteddevops.com`
 
-<img src = "/img/sponsor-arrested-devops.png" class = "img-fluid">
+<img src = "https://www.arresteddevops.com/img/sponsor-arrested-devops.png" class = "img-fluid">
+In 
