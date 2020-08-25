@@ -12,6 +12,11 @@ archetypedir = "archetypes"
 paginate = 9
 googleAnalytics = "UA-45939822-1"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+
 [permalinks]
 	page = "/:filename/"
 	about = "/:filename/"
