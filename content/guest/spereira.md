@@ -12,5 +12,6 @@ Thumbnail = "img/guests/spereira.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "spereira"
 +++
 Steve is an automation fanatic with 14 years of experience in IT and software development, currently consulting for large enterprises with Myplanet in Toronto and several small startups in his spare time. Run DevOpsTO and OpenStackTO meetups. Organizing DevOpsDays Toronto 2.0 in May.

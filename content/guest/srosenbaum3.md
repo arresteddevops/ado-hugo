@@ -12,7 +12,7 @@ Thumbnail = "img/guests/srosenbaum3.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
-Aka = ["srosenbaum", "srosenbaum2"]
+guest_group = "srosenbaum"
 
 +++
 Sasha is a Program Manager on the Azure DevOps engineering team, focused on improving the alignment of the product with open source software.

@@ -5,7 +5,7 @@ Date = 2015-09-10T13:00:13-05:00
 PublishDate = 2015-09-10T13:00:13-05:00
 podcast_file = "arrested-devops-podcast-episode042.mp3"
 episode_image = "/episode/img/chatops.png"
-episode_banner = "/episode/img/chatops-banner.png"
+episode_banner = "/episode/img/chatops-banner.jpg"
 guests = ["jhand","srosenbaum","pburkholder",] # The names of your guests, based on the filename without extension.
 sponsors = ["victorops","datadog",]
 episode = "42"
@@ -13,8 +13,8 @@ images = ["/img/social/fb/chatops.png"]
 hosts = ["mstratton", "thess"] # The names of your hosts, based on the filename without extension.
 aliases = ["/42",]
 explicit = "yes" # values are "yes" or "no"
+transcript = "/static/transcripts/chatops.txt"
 +++
-[Transcript](http://transcripts.castingwords.com/zw00/211594.html)
 
 #### Recording Live from DevOpsDays Chicago!
 

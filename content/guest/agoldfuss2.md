@@ -8,10 +8,11 @@ Facebook = ""
 Linkedin = ""
 Pronouns = ""
 GitHub = ""
-Thumbnail = "img/guests/agoldfuss2.png"
+Thumbnail = "img/guests/agoldfuss2.jpg"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "agoldfuss"
 +++
 Alice Goldfuss is a systems punk currently helping GitHub run their cutting-edge container platform. She loves kernel crashes, memory design, and performance hacks. 🌈 💾 
 

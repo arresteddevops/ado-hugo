@@ -12,12 +12,21 @@ archetypedir = "archetypes"
 paginate = 9
 googleAnalytics = "UA-45939822-1"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+
 [permalinks]
 	page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
 	sponsor = "/:filename"
 	redirect = "/:filename"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
@@ -53,6 +62,11 @@ googleAnalytics = "UA-45939822-1"
     name = "Sponsor Arrested DevOps"
     identifier = "sponsor"
     url = "/sponsorship"
+
+ [[Menu.Main]]
+    name = "Search"
+    identifier = "search"
+    url = "/search"
 
 [params]
 mainSections = ["episode"]
