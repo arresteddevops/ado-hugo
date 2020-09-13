@@ -18,6 +18,7 @@ youtube = "4Xy2aBWjwk0"
 explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/service-mesh.md"
 +++
 
 
@@ -26,4 +27,3 @@ explicit = "no" # values are "yes" or "no"
 
 
 OSM logo art credit: [@flynnduism](https://twitter.com/flynnduism)
-
