@@ -10,7 +10,7 @@ episode_banner = "/episode/img/dont-worry-do-care-banner.jpg"
 guests = ["ablohowiak"] # The names of your guests, based on the filename without extension.
 sponsors = ["sdt"]
 episode = "158"
-title = "Don't Worry, Do Care"
+title = "Don't Worry, Do Care with Aaron Blohowiak"
 images = ["img/social/fb/dont-worry-do-care.png"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
 #aliases = ["/##"]
@@ -19,10 +19,6 @@ explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
 +++
-
-## Don't Worry, Do Care
-
-Guest Aaron Blohowiak joins host Jessica Kerr to discuss his DevOps work at Netflix.
 
 ## Cost Compression
 
@@ -56,5 +52,4 @@ Aaron talks about how Netflix produces original content all over the world, and 
 
 [Thinking in Systems](https://wtf.tw/ref/meadows.pdf)
 
-Aaron's blog post, [The Sufficiently Smart Engineer](https://www.linkedin.com/pulse/myth-sufficiently-smart-engineer-aaron-blohowiak/
-)
+Aaron's blog post, [The Sufficiently Smart Engineer](https://www.linkedin.com/pulse/myth-sufficiently-smart-engineer-aaron-blohowiak/)
