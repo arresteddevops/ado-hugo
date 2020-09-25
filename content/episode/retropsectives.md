@@ -2,8 +2,8 @@
 Description = "So you've had an incident. What can you learn from it afterwards? Amy Tobey, Alex Hidalgo, and Rein Heinrich talk with Matt about strategies and techniques for great incident retrospectives."
 Date = 2020-09-25T14:59:53-05:00
 PublishDate = 2020-09-25T14:59:53-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+podcast_file = "arrested-devops-podcast-episode159.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "58:38"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "/episode/img/retrospectives.png"
 episode_banner = "/episode/img/retrospectives-banner.png"
