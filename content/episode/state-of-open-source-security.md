@@ -20,6 +20,6 @@ explicit = "no" # values are "yes" or "no"
 # truncate = ""
 +++
 - Snyk's [State of Open Source Security report](https://info.snyk.io/sooss-report-2020)
-- [SnyCon](https://snyk.io/snykcon/)
+- [SnykCon](https://snyk.io/snykcon/) is coming on Oct 21-22! Register now!
 - Guess what you can threat model in devsecops! More about threat modeling in [Pushing Left With Tanya Janca](https://www.arresteddevops.com/pushing-left/)
 - [Alyss's awesome t-shirts](https://teespring.com/stores/alyssa-in-security-3)
