@@ -9,7 +9,7 @@ Linkedin = ""
 GitHub = ""
 Thumbnail = "img/guests/tbanks.jpg"
 Pinterest = ""
-Instagram = "@elchefenegro"
+Instagram = "elchefenegro"
 YouTube = ""
 Twitch = ""
 +++
