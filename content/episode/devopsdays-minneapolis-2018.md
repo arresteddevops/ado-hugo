@@ -20,7 +20,7 @@ hosts = ["mstratton", "bkromhout"]
 +++
 Bridget and Matty chat about organizing conferences with guests Jam Leomi, Debbie Gillespie, and Christian Herro, in front of a live studio audience at [devopsdays Minneapolis 2018](http://www.devopsdays.org/events/2018-minneapolis/welcome/).
 
-Jamesha "Jam" Fisher is a past organizer of devopsdays Silicon Valley, and they just moved to Minneapolis. Christian Herro is a founding organizer of devopsdays Madison, and Debbie Gillespie is a new organizer of devopsdays Minneapolis.
+Jam Leomi is a past organizer of devopsdays Silicon Valley, and they just moved to Minneapolis. Christian Herro is a founding organizer of devopsdays Madison, and Debbie Gillespie is a new organizer of devopsdays Minneapolis.
 
 
 ## Community & Event Stuff
