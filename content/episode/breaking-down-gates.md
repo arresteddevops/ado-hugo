@@ -18,6 +18,8 @@ aliases = ["/163"]
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/breaking-down-gates.md"
+
 +++
 
 - [Texas Chili Parlor](https://www.yelp.com/biz/texas-chili-parlor-austin) in Austin
