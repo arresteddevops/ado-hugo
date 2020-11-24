@@ -1,6 +1,80 @@
 # Changelog
 
-## [1.5.0](https://github.com/mattstratton/castanet/tree/1.5.0) (2020-05-18)
+## [1.11.0](https://github.com/mattstratton/castanet/tree/1.11.0) (2020-11-23)
+
+**Implemented enhancements:**
+
+- Add list of sites using theme to the README [\#270](https://github.com/mattstratton/castanet/issues/270)
+- show future episodes [\#257](https://github.com/mattstratton/castanet/issues/257)
+
+**Fixed bugs:**
+
+- \[Bug\] Navbar nests links and results in 404 error [\#269](https://github.com/mattstratton/castanet/issues/269)
+
+## [1.10.0](https://github.com/mattstratton/castanet/tree/1.10.0) (2020-09-14)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] Add itunes:subtitle tag  [\#246](https://github.com/mattstratton/castanet/issues/246)
+- Add itunes:subtitle tag [\#290](https://github.com/mattstratton/castanet/pull/290) ([darinpope](https://github.com/darinpope))
+
+## [1.9.0](https://github.com/mattstratton/castanet/tree/1.9.0) (2020-08-22)
+
+**Implemented enhancements:**
+
+- Improve favicon implementation [\#234](https://github.com/mattstratton/castanet/issues/234)
+- Improve favicon implementation [\#288](https://github.com/mattstratton/castanet/pull/288) ([darinpope](https://github.com/darinpope))
+
+**Fixed bugs:**
+
+- \[BUG\] - misleading `themesdir` inside exampleSite -\> config.toml [\#286](https://github.com/mattstratton/castanet/issues/286)
+
+## [1.8.1](https://github.com/mattstratton/castanet/tree/1.8.1) (2020-08-16)
+
+## [1.8.0](https://github.com/mattstratton/castanet/tree/1.8.0) (2020-08-16)
+
+**Implemented enhancements:**
+
+- og:type should be article if an episode [\#285](https://github.com/mattstratton/castanet/pull/285) ([darinpope](https://github.com/darinpope))
+
+**Fixed bugs:**
+
+- update Open Graph date format [\#284](https://github.com/mattstratton/castanet/pull/284) ([darinpope](https://github.com/darinpope))
+- add missing quotes [\#283](https://github.com/mattstratton/castanet/pull/283) ([darinpope](https://github.com/darinpope))
+
+## [1.7.3](https://github.com/mattstratton/castanet/tree/1.7.3) (2020-08-04)
+
+**Fixed bugs:**
+
+- add trailing slashes [\#282](https://github.com/mattstratton/castanet/pull/282) ([darinpope](https://github.com/darinpope))
+
+## [1.7.2](https://github.com/mattstratton/castanet/tree/1.7.2) (2020-07-26)
+
+**Fixed bugs:**
+
+- remove extraneous copy [\#281](https://github.com/mattstratton/castanet/pull/281) ([darinpope](https://github.com/darinpope))
+
+## [1.7.1](https://github.com/mattstratton/castanet/tree/1.7.1) (2020-07-17)
+
+## [1.7.0](https://github.com/mattstratton/castanet/tree/1.7.0) (2020-07-17)
+
+**Implemented enhancements:**
+
+- change iTunes to Apple Podcasts [\#279](https://github.com/mattstratton/castanet/pull/279) ([darinpope](https://github.com/darinpope))
+
+## [1.6.0](https://github.com/mattstratton/castanet/tree/1.6.0) (2020-06-25)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] Proposed fix to make row pagination count a param instead of hardcoded 5 [\#277](https://github.com/mattstratton/castanet/issues/277)
+
+## [1.5.1](https://github.com/mattstratton/castanet/tree/1.5.1) (2020-05-21)
+
+**Fixed bugs:**
+
+- Fix bug in episode template with transcripts [\#276](https://github.com/mattstratton/castanet/pull/276) ([mattstratton](https://github.com/mattstratton))
+
+## [1.5.0](https://github.com/mattstratton/castanet/tree/1.5.0) (2020-05-19)
 
 **Implemented enhancements:**
 
