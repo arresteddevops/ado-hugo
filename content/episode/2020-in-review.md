@@ -49,7 +49,7 @@ explicit = "yes" # values are "yes" or "no"
 #### Trevor
 
 - A year of PM land
-- Streaming fun with Shuffleboard (and a little DevOps) Royal palms shuffleboard youtube? https://youtube.com/c/royalpalmsshuffleboard Shufflinsanity
+- Streaming fun with Shuffleboard (and a little DevOps). Check out the Royal Palms Shuffleboard [Shufflinsanity](https://youtube.com/c/royalpalmsshuffleboard), or look at some [shuff.io livestreams](https://youtube.com/c/shuffio).
 - Virtual conferencing!
 - A doggo (Friday)
 

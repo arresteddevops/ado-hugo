@@ -1,9 +1,9 @@
 +++
 Title = "Trevor Hess"
-date = "2016-12-08T20:55:58-06:00"
+Date = 2020-12-18T08:44:20-06:00
 Twitter = "trevorghess"
 Website = ""
-Type = "host"
+Type = "guest"
 Facebook = ""
 Linkedin = ""
 Pronouns = ""
