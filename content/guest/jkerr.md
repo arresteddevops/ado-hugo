@@ -11,6 +11,6 @@ Thumbnail = "img/guests/jkerr.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
-#Aka = []
+guest_group = "jkerr"
 +++
 Jessica Kerr is a developer at Atomist, where she works in the domain of software development. She's obsessed with automation as a way to change-and-learn-about our own work, from delivery to code upkeep. Meanwhile she speaks at conferences about TypeScript, yak shaving, music, and symmathesy.
