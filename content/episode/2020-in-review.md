@@ -1,7 +1,7 @@
 +++
 Description = "It's that time of year again! Matty, Trevor, Bridget, Jessica, Jeff, and Joe wrap up the year with a discussion of favorite episodes, the Year That Was, and a deep dive into 90s-era sci-fi."
 Date = 2020-12-18T08:57:43-06:00
-PublishDate = 2020-12-018T08:57:43-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2020-12-18T08:57:43-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode164.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "1:25:11"
 #podcast_bytes = "" # the length of the episode in bytes
