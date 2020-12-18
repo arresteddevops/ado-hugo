@@ -2,19 +2,19 @@
 Description = "It's that time of year again! Matty, Trevor, Bridget, Jessica, Jeff, and Joe wrap up the year with a discussion of favorite episodes, the Year That Was, and a deep dive into 90s-era sci-fi."
 Date = 2020-12-09T08:57:43-06:00
 PublishDate = 2020-12-09T08:57:43-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+podcast_file = "arrested-devops-podcast-episode164.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "1:25:11"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/2020-in-review.png"
 episode_banner = "episode/img/2020-in-review-banner.png"
 guests = ["bkromhout5", "thess3", "mstratton4", "jkerr2", "jsmith2"]
 sponsors = ["circleci", "sdt"]
-#episode = ""
+episode = "164"
 title = "2020 Year-End Wrap-Up"
 #subtitle = ""
 images = ["img/social/fb/2020-in-review.png"]
 hosts = ["jlaha"]
-#aliases = ["/##"]
+aliases = ["/164"]
 #youtube = ""
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
