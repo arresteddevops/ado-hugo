@@ -14,7 +14,7 @@ title = "Doing Releases Right with Scott Hain"
 #subtitle = ""
 images = ["img/social/fb/doing-releases-right.jpg"]
 hosts = ["mstratton"] # The names of your hosts, based on the filename without extension.
-#aliases = ["/##"]
+aliases = ["/165"]
 #youtube = ""
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
