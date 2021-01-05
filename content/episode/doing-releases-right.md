@@ -1,9 +1,9 @@
 +++
 Description = "Releasing software is more that just having a clever pipeline. Scott Hain (Hashicorp) digs into some of the practical considerations of improving your release engineering process."
-Date = 2021-01-04T15:47:29-06:00
-PublishDate = 2021-01-04T15:47:29-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+Date = 2021-01-05T10:47:29-06:00
+PublishDate = 2021-01-05T10:47:29-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+podcast_file = "arrested-devops-podcast-episode165.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "48:39"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/doing-releases-right.jpg"
 episode_banner = "episode/img/doing-releases-right-banner.jpg"
