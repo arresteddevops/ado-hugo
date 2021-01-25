@@ -1,7 +1,7 @@
 +++
 Description = "Sources differ on where this started, but Kurt Vonnegut posited that there are basically six story types. Matt wondered if there was similarly only six stories that are told on tech Twitter. Guests Sasha Rosenbaum, Kat Cosgrove, Quintessence Anx, Aaron Aldrich, and Jeremy Meiss dig into this as well as discuss the ups and downs of tech Twitter culture."
-Date = 2021-01-25T10:00:48-06:00
-PublishDate = 2021-01-25T12:10:00-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2021-01-25T10:00:00-06:00
+PublishDate = 2021-01-25T10:00:00-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode166.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "1:00:48"
 podcast_bytes = "27900000" # the length of the episode in bytes
