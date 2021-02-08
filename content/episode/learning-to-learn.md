@@ -1,10 +1,10 @@
 +++
 Description = "Learning, as well as teaching, are both skills. Skills that we can develop with intentionality and practice. Shelby Spees, a Developer Advocate at Honeycomb, shares her insight into this topic. "
-Date = 2021-02-06T10:22:20-06:00
-PublishDate = 2021-02-06T10:22:20-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2021-02-08T08:22:20-06:00
+PublishDate = 2021-02-08T08:22:20-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode167.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-#podcast_bytes = "" # the length of the episode in bytes
+podcast_duration = "57:37"
+podcast_bytes = "24600000" # the length of the episode in bytes
 episode_image = "episode/img/learning-to-learn.jpg"
 episode_banner = "episode/img/learning-to-learn-banner.jpg"
 guests = ["sspees"] # The names of your guests, based on the filename without extension.
