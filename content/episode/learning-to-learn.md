@@ -17,6 +17,7 @@ hosts = ["mstratton"] # The names of your hosts, based on the filename without e
 aliases = ["/167"]
 #youtube = ""
 explicit = "yes" # values are "yes" or "no"
+transcript = "/static/transcripts/learning-to-learn.md"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
 # upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
