@@ -11,7 +11,7 @@ Thumbnail = "img/matt-new.jpg"
 Pinterest = ""
 Instagram = "mattstratton"
 YouTube = "mugsy1274"
-Twitch = "mattstratton"
+Twitch = "themattstratton"
 guest_group = "mstratton"
 +++
 Matt Stratton is a Transformation Specialist at Red Hat and a long-time member of the global DevOps community. Back in the day, his license plate actually said "DevOps".
