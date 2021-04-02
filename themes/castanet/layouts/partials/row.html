@@ -10,7 +10,7 @@
   Latest Episode
   </h2>
 
-  {{ range first 1 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+  {{ range first 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true ) }}
     {{- with .Params.truncate -}}
       {{- $.Scratch.Set "truncate" . }}
     {{- else -}}
@@ -34,7 +34,7 @@
       <div class = "row homepage_episode_row">
         <div class = "col">
           <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} youtube = {{($.Scratch.Get "youtube")}} and {{ .Params.youtube }}</small>
+          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
@@ -112,8 +112,8 @@
 <section class="episode-list">
 <!-- rest of episodes -->
 {{- if (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
-{{- $paginator := .Paginate (after 1 (where site.RegularPages "Type" "in" site.Params.mainSections)) 5 -}}
-{{- $list := (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
+{{- $paginator := .Paginate (after 1 (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true )) }}
+{{- $list := (where ( where site.RegularPages "Type" "in" site.Params.mainSections) ".Params.upcoming" "!=" true ) -}}
 {{- $len := (len $list) -}}
 <div class="row main_container">
 {{- with .Site.Params.enable_jumbo -}}

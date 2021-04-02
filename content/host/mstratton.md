@@ -11,10 +11,10 @@ GitHub = "mattstratton"
 Thumbnail = "img/matt-new.jpg"
 Instagram = "mattstratton"
 YouTube = "mugsy1274"
-Twitch = "mattstratton"
+Twitch = "themattstratton"
 +++
-Matt Stratton is a Transformation Specialist at Red Hat and a long-time member of the global DevOps community. Back in the day, his license plate actually said "DevOps".
+Matt Stratton is a Staff Developer Advocate at Pulumi and the global chair of the [DevOpsDays](https://www.devopsdays.org/) set of conferences.  
 
-Matt has over 20 years of experience in IT operations, ranging from large financial institutions such as JPMorganChase to internet firms including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including DevOps Enterprise Summit, DevOpsDays, Interop, PINK, and others worldwide. Matt is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com) podcast, as well as a global organizer of the [DevOpsDays](https://www.devopsdays.org) set of conferences.
+Matt has over 20 years of experience in IT operations and is a sought-after speaker internationally, presenting at Agile, DevOps, and cloud engineering focused events worldwide. Demonstrating his keen insight into the changing landscape of technology, he recently changed his license plate from `DEVOPS` to `KUBECTL`.
 
-He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best phở in the world.
+He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Diet Coke.  Matt is the keeper of the Thought Leaderboard for the [DevOps Party Games](https://devopspartygames.com) online game show and you can find him on Twitter at  [@mattstratton](https://twitter.com/mattstratton).

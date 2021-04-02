@@ -18,6 +18,7 @@ hosts = ["jkerr"] # The names of your hosts, based on the filename without exten
 explicit = "yes" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
 # truncate = ""
+transcript = "/static/transcripts/dont-worry-do-care.md"
 +++
 
 ## Cost Compression
