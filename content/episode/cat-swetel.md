@@ -10,10 +10,10 @@ episode_image = "img/episode/default.jpg"
 guests = ["cswetel"] # The names of your guests, based on the filename without extension.
 #sponsors = []
 #episode = ""
-title = "A Chat with Cat Swetel"
+title = "the Edge of Now with Cat Swetel"
 images = ["img/episode/default-social.jpg"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
-#aliases = ["/##"]
+aliases = ["/edge-of-now", "/feminism"]
 #youtube = ""
 explicit = "no" # values are "yes" or "no"
 # media_override # if you want to use a specific URL for the audio file
