@@ -1,15 +1,15 @@
 +++
 Description = "In this episode, Jess talks with guest Cat Swetel about her career, writings, and thoughts on DevOps."
-Date = 2021-03-20T13:10:46-05:00
-PublishDate = 2021-03-20T13:10:46-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
+Date = 2021-04-21T03:10:46-05:00
+PublishDate = 2021-04-21T03:10:46-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+podcast_file = "arrested-devops-podcast-episode170.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "37:41"
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "/episode/img/cat-swetel.png"
 episode_banner = "/episode/img/cat-swetel-banner.jpg"
 guests = ["cswetel"] # The names of your guests, based on the filename without extension.
-#sponsors = []
-#episode = ""
+sponsors = ["circleci","container-solutions","macstadium"]
+episode = "170"
 title = "the Edge of Now with Cat Swetel"
 images = ["/img/social/fb/cat-swetel.png"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
