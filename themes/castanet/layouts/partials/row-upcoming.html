@@ -14,7 +14,7 @@
 {{- else -}}
   <div class="col-md-8">
 {{- end -}}
-    {{- range $paginator.Pages -}}
+    {{- range $paginator.Pages.ByDate -}}
     {{- with .Params.truncate -}}
       {{- $.Scratch.Set "truncate" . }}
     {{- else -}}
@@ -26,39 +26,44 @@
     {{- end -}}
       <div class = "row homepage_episode_row">
         <div class = "col-md-12">
-          <a href="{{ .Permalink }}" class= "grid_episode_title"><h3 class= "grid_episode_title">{{ .Title }}</h3></a>
-          <small>Scheduled for {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+            {{ if eq .Site.Params.episode_number_style "parens" }}            
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h3>
+            {{ else if eq .Site.Params.episode_number_style "brackets" }}
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h3>
+            {{ else if eq .Site.Params.episode_number_style "dash" }}
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h3>
+            {{ else }}
+              <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a> ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h3>
+            {{ end }}
+          {{ else }}
+            <h3><a href="{{ .Permalink }}" class= "grid_episode_title">{{ .Title }}</a></h3>
+          {{ end }}          
+          <small>Scheduled for {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
       {{- if .Params.episode_image -}}
-          <div class = "col-md-4">
+          <div class = "col-md-3 homepage_episode_row_image">
             <a href="{{ .Permalink }}"><img class = "img-fluid" src = "{{ .Params.episode_image | absURL }}" /></a>
           </div>
-          <div class = "col-md-8">
+          <div class = "col-md-9 homepage_episode_row_description">
           {{- if ge (countrunes .Description ) ($.Scratch.Get "truncate") -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
           {{- else -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify }}</p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify }}</p>
           {{- end -}}
           </div>
         {{- else -}}
           <div class = "col">
           {{- if ge (countrunes .Description ) ($.Scratch.Get "truncate") -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify | truncate ($.Scratch.Get "truncate") " "}}&nbsp;<small><a href = "{{ .Permalink }}">Read More</a></small></p>
           {{- else -}}
-            <p class = "hompage_episode_description">{{ .Description | markdownify }}</p>
+            <p class = "homepage_episode_description">{{ .Description | markdownify }}</p>
           {{- end -}}
           </div>
         {{- end -}}
       </div>
-      {{- with .Params.podcast_file -}}
-        <div class = "row homepage_episode_row">
-          <div class = "col-md-12 player_row">
-            <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
-          </div>
-        </div>
-      {{- end -}}
 
     {{- end -}}
 </div>

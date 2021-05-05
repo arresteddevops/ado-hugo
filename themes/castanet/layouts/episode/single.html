@@ -1,12 +1,24 @@
 {{ define "main" }}
 
   <div class="row">
-    <div class="col">
-      <h1>{{ title .Title }}</h1>
+    <div class="col">      
+      {{ if and (isset .Site.Params "episode_number_style") (.Params.episode) }}
+        {{ if eq .Site.Params.episode_number_style "parens" }}
+          <h1>{{ title .Title }} ({{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }})</h1>
+        {{ else if eq .Site.Params.episode_number_style "brackets" }}
+          <h1>{{ title .Title }} [{{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}]</h1>
+        {{ else if eq .Site.Params.episode_number_style "dash" }}
+          <h1>{{ title .Title }} - {{ with .Site.Params.episode_number_prefix }}{{ . }}{{ end }}{{ .Params.episode }}</h1>
+        {{ else }}
+          <h1>{{ title .Title }}</h1>
+        {{ end }}
+      {{ else }}
+        <h1>{{ title .Title }}</h1>
+      {{ end }}
       {{- if ne $.Params.upcoming true -}}
-        <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+        <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
       {{- else -}}
-        <small>Scheduled for {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+        <small>Scheduled for {{ dateFormat "Monday, Jan 2, 2006" .Date }} {{ partial "episode-metadata.html" .}}</small>
       {{- end -}}
     </div>
   </div>
@@ -120,7 +132,7 @@
                     {{- end -}}
                   </div>
                   <div class="col-md-8">
-                    <h2><a href = "{{(printf "guest/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+                    <h2><a href = "{{(printf "guest/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a> {{ with .Params.Pronouns }}({{ . }}){{ end }}</h2>
                     {{ .Content }}
                     {{- with .Params.Website -}}
                       <a href="{{ . }}">
@@ -239,7 +251,7 @@
               {{- end -}}
             </div>
             <div class="col-md-8">
-              <h2><a href = "{{(printf "host/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a></h2>
+              <h2><a href = "{{(printf "host/%s/" .File.BaseFileName) | absURL }}">{{ .Title }}</a> {{ with .Params.Pronouns }}({{ . }}){{ end }}</h2>
               {{ .Content }}
               {{- with .Params.Website -}}
                 <a href="{{ . }}">
