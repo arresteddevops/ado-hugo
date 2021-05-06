@@ -21,6 +21,8 @@ explicit = "yes" # values are "yes" or "no"
 # truncate = ""
 # upcoming = true # set to true if you want this to be listed as upcoming, etc, etc
 +++
+**(episode art by [Ashton Rodenhiser](https://mindseyecreative.ca/))**
+
 - [Ashton’s ignite at devopsdays Texas](https://youtu.be/AvuWHRPqcCA?t=10741)
 - [Mike Tozer's talk at DevSecCon](https://www.youtube.com/watch?v=-o8A13J9rsI)
 - *[Visual Communication Method](https://mindseyecreative.ca/ebook)* - ebook by Ashton
