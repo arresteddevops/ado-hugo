@@ -1,7 +1,7 @@
 +++
 Description = "Matt is joined by Ashton Rodenhiser, who has become a fixture at many conferences where she provides graphic recordings of various talks and presentations!"
-Date = 2021-05-03T09:48:08-05:00
-PublishDate = 2021-05-03T09:48:08-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2021-05-06T09:48:08-05:00
+PublishDate = 2021-05-06T09:48:08-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode171.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "52:49"
 podcast_bytes = "25480397" # the length of the episode in bytes
