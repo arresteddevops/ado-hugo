@@ -31,7 +31,7 @@ your version on localhost:1313 (after about about a minute).
 
 ### option 3: Install hugo
 
-1.  Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.69.2*
+1. Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least the version specified in [netlify.toml](/netlify.toml)*
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go: `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running.
