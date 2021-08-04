@@ -1,7 +1,7 @@
 +++
 Description = "Bridget chats with Phillip Gibson and Annie Wang about multicluster service mesh."
-Date = 2021-08-03T14:16:43-05:00
-PublishDate = 2021-08-03T14:16:43-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2021-08-04T14:16:43-05:00
+PublishDate = 2021-08-04T14:16:43-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode173.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 episode_image = "episode/img/multicluster-service-mesh.png"
