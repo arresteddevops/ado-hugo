@@ -13,7 +13,7 @@ title = "Multicluster Service Mesh with Phillip Gibson and Annie Wang"
 images = ["img/social/fb/multicluster-service-mesh.png"]
 hosts = ["bkromhout"] # The names of your hosts, based on the filename without extension.
 aliases = ["/173"]
-youtube = "https://youtu.be/5LIXNtcGiWk"
+youtube = "5LIXNtcGiWk"
 explicit = "no" # values are "yes" or "no"
 +++
 
