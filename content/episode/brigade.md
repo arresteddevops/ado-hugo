@@ -1,7 +1,7 @@
 +++
 Description = "Bridget chats with Kent Rancourt about Brigade."
-Date = 2021-09-12T17:17:28-05:00
-PublishDate = 2021-09-12T17:17:28-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2021-09-16T17:17:28-05:00
+PublishDate = 2021-09-16T17:17:28-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode175.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "34:41"
 #podcast_bytes = "" # the length of the episode in bytes
@@ -31,7 +31,6 @@ Bridget chats with Kent Rancourt about Brigade, a tool for running scriptable, a
 - [Brigade GitHub org](https://github.com/brigadecore/)
 - [Brigade blog](https://blog.brigade.sh/)
 - [Brigade v2 docs](https://v2--brigade-docs.netlify.app/intro/quickstart/)
-- [Brigade on Kubernetes slack](https://kubernetes.slack.com/archives/C87MF1RFD
-)
+- [Brigade on Kubernetes slack](https://kubernetes.slack.com/archives/C87MF1RFD)
 
 [Brigade art](https://github.com/cncf/artwork/blob/master/examples/sandbox.md#brigade-logos) by [Ronan Flynn-Curran](https://ronan.design/)
