@@ -12,6 +12,7 @@ Pinterest = ""
 Instagram = ""
 YouTube = ""
 Twitch = "SashaRosenbaum"
+guest_group = "srosenbaum"
 +++
 Sasha is a Sr. Manager on the Managed OpenShift Black Belt (MOBB) team at Red Hat, where she is helping enterprise customers successfully migrate to managed OpenShift on customers’ favorite public cloud.
 
