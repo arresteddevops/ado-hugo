@@ -16,7 +16,7 @@ Title="Jessica Kerr"
 
 <!-- bio self -->
 
-Jessitron is a consultant as [Jessitron](https://blog.jessitron.com), LLC. You can hire her to [symmathesize](https://blog.jessitron.com/2018/10/25/symmathecist-n/) with your team.
+Jessitron is a [symmathecist](https://blog.jessitron.com/2018/10/25/symmathecist-n/) in the medium of code. She works at [Honeycomb](https://honeycomb.io) in developer relations. She writes about software and system on her blog at  [Jessitron.com](https://jessitron.com/blog). She teaches workshops on [Systems Thinking](https://systemsthinking.dev), and makes courses on [Graceful.dev](https://graceful.dev).
 She is into resilience engineering, domain-driven design, and of course DevOps -- all the systems-thinky things.
-She works remotely from St. Louis, MO, where she raises two daughters. Find her also on [&gt;Code](https://greaterthancode.com), and at 
+She lives in St. Louis, MO, where she raises two children and their cats. Find her also on [&gt;Code](https://greaterthancode.com), and at 
 conferences around the world.
