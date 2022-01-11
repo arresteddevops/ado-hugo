@@ -2,7 +2,7 @@
 Date = 2022-01-07T13:41:59-06:00
 title = "Arri Blais"
 Twitter = "arriIsHere"
-Website = ""
+Website = "https://arri.tech/"
 Pronouns = "She/Her"
 Type = "guest"
 Facebook = ""
