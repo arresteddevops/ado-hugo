@@ -1,14 +1,14 @@
 +++
 Description = "Roni Dover, founder of [Digma.ai](https://digma.ai), joins Jess to chat about continuous feedback and what's missing in every DevOps loop."
 Date = 2022-07-28T07:39:42-05:00
-PublishDate = 2022-07-28T07:39:42-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
-podcast_duration = ""
-#podcast_bytes = "" # the length of the episode in bytes
+PublishDate = 2022-09-20T07:39:42-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+podcast_file = "arrested-devops-podcast-episode183.mp3" # the name of the podcast file, after the media prefix.
+podcast_duration = "51:04"
+#podcast_bytes = "98076674" # the length of the episode in bytes
 episode_image = "episode/img/continuous-feedback.png"
 episode_banner = "episode/img/continuous-feedback-banner.jpg"
 guests = ["rdover"] # The names of your guests, based on the filename without extension.
-#sponsors = []
+sponsors = ["honeycomb", "rootly"]
 episode = "183"
 title = "Continuous Feedback with Roni Dover"
 #subtitle = ""
