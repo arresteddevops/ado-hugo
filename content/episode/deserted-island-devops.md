@@ -21,8 +21,6 @@ transcript = "/static/transcripts/deserted-island-devops.md"
 # truncate = ""
 +++
 
-The infamous tweet that started it all:
-{{< tweet 1245117923246485504 >}}
 
 #### Conference content
 
