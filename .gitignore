@@ -1,4 +1,5 @@
 /public
+.hugo_build.lock
 # General CodeKit files to ignore
 config.codekit
 /min
