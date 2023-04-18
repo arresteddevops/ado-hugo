@@ -12,5 +12,6 @@ Thumbnail = "img/guests/cnash.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "cnash"
 +++
 Velocity Conference Co-chair; Director of Strategic Content at O'Reilly Media
