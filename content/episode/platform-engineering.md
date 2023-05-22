@@ -27,7 +27,7 @@ explicit = "no" # values are "yes" or "no"
 - [ADO Episode - Platforms with Kelsey Hightower and Andrew Clay Shafer](https://www.arresteddevops.com/platforms/)
 - [Daniel’s Kubecon talk](https://www.youtube.com/watch?v=btUYeOa7JPI)
 - [Daniel’s blog/tweet thread the kicked off his interest in Platform Eng](https://blog.getambassador.io/is-platform-engineering-the-new-devops-or-sre-472ed97a1885)
-- [Spotify golden paths]: https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/
+- [Spotify golden paths](https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/)
 - [Crossing the Chasm - Technology Adoption Lifecycle](https://www.business-to-you.com/crossing-the-chasm-technology-adoption-life-cycle/)
 - [Backstage project](https://backstage.io/)
 - [Backstage as a service](https://roadie.io/)
