@@ -2,9 +2,9 @@
 Description = "Is DevOps dead? Did Platform Engineering kill it off? Matty chats with Daniel Bryant (Ambassador Labs) about Platform Engineering."
 Date = 2023-05-22T06:32:19-05:00
 PublishDate = 2023-05-22T06:32:19-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "arrested-devops-podcast-episode184.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "arrested-devops-podcast-episode185.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "49:25"
-#podcast_bytes = "" # the length of the episode in bytes
+podcast_bytes = "22600000" # the length of the episode in bytes
 episode_image = "episode/img/platform-engineering.png"
 episode_banner = "episode/img/platform-engineering-banner.png"
 guests = ["dbryant"] # The names of your guests, based on the filename without extension.
