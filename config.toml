@@ -84,9 +84,10 @@ pocketcasts_subscribe = "https://pca.st/VqEP"
 mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
-media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+#media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+media_prefix = "https://chrt.fm/track/224E/media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
   [params.feed]
-    copyright = "Copyright 2013-2021 Arrested DevOps" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2013-2023 Arrested DevOps" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "There's always DevOps in the Banana Stand" #no markdown or HTML
     itunes_author = "Matt Stratton, Trevor Hess, Jessica Kerr, and Bridget Kromhout" #no markdown or HTML
     itunes_summary = "Arrested DevOps is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
