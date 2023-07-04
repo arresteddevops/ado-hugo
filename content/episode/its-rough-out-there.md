@@ -24,4 +24,5 @@ explicit = "yes" # values are "yes" or "no"
 #series = []
 #tags = []
 +++
-[Sonia Gupta and Corey Quinn - Embarrassingly Large Numbers: Salary Negotiation for Human](https://www.youtube.com/watch?v=jK6yrvsSaFs)
+- [Sonia Gupta and Corey Quinn - Embarrassingly Large Numbers: Salary Negotiation for Human](https://www.youtube.com/watch?v=jK6yrvsSaFs)
+- [Talking pay in the public square](https://medium.com/@jpaulreed/talking-pay-in-the-public-square-70e588f54c8)
