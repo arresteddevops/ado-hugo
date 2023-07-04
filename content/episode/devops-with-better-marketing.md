@@ -8,7 +8,8 @@ podcast_duration = ""
 episode_image = "episode/img/devops-with-better-marketing.png"
 episode_banner = "episode/img/devops-with-better-marketing-banner.png"
 guests = ["pcheslock4"] # The names of your guests, based on the filename without extension.
-sponsors = ["drata","sysdig"]episode = "188"
+sponsors = ["drata","sysdig"]
+episode = "188"
 title = "DevOps With Better Marketing with Pete Cheslock"
 #subtitle = ""
 images = ["img/social/fb/devops-with-better-marketing.png"]
