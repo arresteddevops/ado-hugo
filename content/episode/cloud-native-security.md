@@ -27,3 +27,6 @@ explicit = "no" # values are "yes" or "no"
 - [Sysdig 2023 Cloud-Native Security and Usage Report](https://sysdig.com/2023-cloud-native-security-and-usage-report/)
 - [Pushing Left With Tanya Janca](https://www.arresteddevops.com/pushing-left/) (ADO epsiode)
 - [Shifting Left Securely](https://speaking.mattstratton.com/f8dw3L/shifting-left-securely) (Matt's talk)
+<br>
+<br>
+*DevOps World is back for 2023, and you won't want to miss out on this one-of-a-kind event! This year's program is packed with exclusive insights, immersive workshops, and unparalleled networking opportunities taking place across multiple cities in the US, UK, and Asia. Elevate your DevOps game and register using the following links: [NYC area](https://reg.rainfocus.com/flow/cloudbees/devopsnyc/webinar3/page/landing), [Chicago](https://reg.rainfocus.com/flow/cloudbees/devopschicago/webinar3/page/landing), [Silicon Valley](https://reg.rainfocus.com/flow/cloudbees/devopssiliconv/webinar3/page/landing), [Singapore](https://reg.rainfocus.com/flow/cloudbees/devopssingapore/webinar3/page/landing), and [London](https://reg.rainfocus.com/flow/cloudbees/devopslondon/webinar3/page/landing).*
