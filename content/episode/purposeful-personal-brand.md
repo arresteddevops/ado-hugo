@@ -2,7 +2,7 @@
 Description = "When you're in the tech industry, your personal brand matters both internally and externally. This brand can help you stand out in your current organization or when you're looking for new opportunities."
 Date = 2023-08-24T11:44:41-05:00
 PublishDate = 2023-08-24T11:44:41-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "arrested-devops-podcast-episode190.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "arrested-devops-podcast-episode191.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "52:05"
 podcast_bytes = "23800000" # the length of the episode in bytes
 episode_image = "episode/img/purposeful-personal-brand.png"
