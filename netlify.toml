@@ -24,3 +24,7 @@
 
   [context.branch-deploy.environment]
     HUGO_VERSION = "0.83.1"
+[build.processing]
+  skip_processing = true
+[[plugins]]
+ package = "netlify-plugin-hashfiles"
