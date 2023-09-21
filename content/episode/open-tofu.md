@@ -1,7 +1,7 @@
 +++
 Description = "Matty is joined by Ohad Maislish and Cory O'Daniel for some updates on the Open Terraform project."
-Date = 2023-09-20T06:00:15-05:00
-PublishDate = 2023-09-20T06:00:15-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+Date = 2023-09-21T06:00:15-05:00
+PublishDate = 2023-09-21T06:00:15-05:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode193.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = "38:54"
 podcast_bytes = "17800000" # the length of the episode in bytes

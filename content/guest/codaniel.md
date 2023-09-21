@@ -1,6 +1,6 @@
 +++
 Date = 2023-09-20T19:59:07-05:00
-title = "cory odaniel"
+title = "Cory Odaniel"
 Twitter = "coryodaniel"
 Website = "https://massdriver.cloud"
 Pronouns = "He/Him"
