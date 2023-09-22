@@ -2,7 +2,7 @@
 Date = 2023-09-20T19:59:28-05:00
 title = "Ohad Maislish"
 Twitter = "DevOpsOhad"
-Website = "env0.com"
+Website = "https://env0.com"
 Pronouns = "he/him"
 Type = "guest"
 Facebook = ""
