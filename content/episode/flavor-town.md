@@ -14,7 +14,7 @@ title = "Platform Engineering goes to Flavortown with Matt Kurtiz"
 #subtitle = ""
 images = ["img/social/fb/flavor-town.png"]
 hosts = ["mstratton"]
-aliases = ["/14", "flavortown"]
+aliases = ["/194", "flavortown"]
 #youtube = ""
 explicit = "yes" # values are "yes" or "no"
 #media_override # if you want to use a specific URL for the audio file
