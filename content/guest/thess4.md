@@ -12,6 +12,7 @@ Thumbnail = "img/trevor.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "thess"
 +++
 Trevor Hess is a Senior Product Manager at [Progress Software](https://www.progress.com/) working on [Chef Software](https://www.chef.io/). He currently works on the Chef Application Delivery, Compliance and Infrastructure offerings.
 

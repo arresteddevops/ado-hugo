@@ -12,5 +12,6 @@ Thumbnail = "img/guests/jreed.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "preed"
 +++
 Simply ship. Every time. Principal at Release Engineering Approaches; visiting scientist at @praxisflow; host of the @ShipShowPodcast.

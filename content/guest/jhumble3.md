@@ -12,5 +12,6 @@ Thumbnail = "img/guests/jhumble3.png"
 Pinterest = ""
 Instagram = ""
 YouTube = ""
+guest_group = "jhumble"
 +++
 Jez Humble is co-author of several books on software including Shingo Publication Award winner [Accelerate](https://bit.ly/accelerate-jez) and Jolt Award winner [Continuous Delivery](http://www.amazon.com/dp/0321601912?tag=contindelive-20). He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents. He works for [Google Cloud](https://cloud.google.com/) as a technology advocate, and [teaches at UC Berkeley](http://www.ischool.berkeley.edu/people/faculty/jezhumble).
