@@ -1,5 +1,68 @@
 # Changelog
 
+## [1.21.4](https://github.com/mattstratton/castanet/tree/1.21.4) (2023-04-17)
+
+## [1.21.3](https://github.com/mattstratton/castanet/tree/1.21.3) (2023-04-17)
+
+## [1.21.2](https://github.com/mattstratton/castanet/tree/1.21.2) (2023-04-17)
+
+## [1.21.1](https://github.com/mattstratton/castanet/tree/1.21.1) (2023-04-17)
+
+## [1.21.0](https://github.com/mattstratton/castanet/tree/1.21.0) (2023-04-17)
+
+## [1.20.0](https://github.com/mattstratton/castanet/tree/1.20.0) (2023-04-17)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - Add Mastodon to the Social options [\#392](https://github.com/mattstratton/castanet/issues/392)
+- \[ENHANCEMENT\] - Can we make an option to have youtube be a link on the main page just like spotify et al? [\#364](https://github.com/mattstratton/castanet/issues/364)
+- Add support for Mastodon for social links \(site, host, and guest\) [\#404](https://github.com/mattstratton/castanet/pull/404) ([mattstratton](https://github.com/mattstratton))
+
+**Fixed bugs:**
+
+- \[BUG\] - readme.md is out of date [\#403](https://github.com/mattstratton/castanet/issues/403)
+
+## [1.19.0](https://github.com/mattstratton/castanet/tree/1.19.0) (2022-08-10)
+
+**Implemented enhancements:**
+
+- Update Hugo to version 0.91.2 [\#389](https://github.com/mattstratton/castanet/pull/389) ([stmcallister](https://github.com/stmcallister))
+
+## [1.18.0](https://github.com/mattstratton/castanet/tree/1.18.0) (2022-08-10)
+
+**Fixed bugs:**
+
+- \[BUG\] - Issue deploying with Cloudflare pages [\#388](https://github.com/mattstratton/castanet/issues/388)
+
+## [1.17.2](https://github.com/mattstratton/castanet/tree/1.17.2) (2022-07-06)
+
+**Fixed bugs:**
+
+- Fixes Instagram icon [\#385](https://github.com/mattstratton/castanet/pull/385) ([AVGP](https://github.com/AVGP))
+
+## [1.17.1](https://github.com/mattstratton/castanet/tree/1.17.1) (2022-02-22)
+
+**Fixed bugs:**
+
+- \[BUG\] - Upper case problems in title attributes in XML RSS feed [\#337](https://github.com/mattstratton/castanet/issues/337)
+- Error when no menu items are set in config file [\#165](https://github.com/mattstratton/castanet/issues/165)
+
+## [1.17.0](https://github.com/mattstratton/castanet/tree/1.17.0) (2022-02-22)
+
+**Merged pull requests:**
+
+- Bump follow-redirects from 1.13.0 to 1.14.8 [\#372](https://github.com/mattstratton/castanet/pull/372) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [1.16.0](https://github.com/mattstratton/castanet/tree/1.16.0) (2022-02-22)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - Social links/parameters should support the full URL [\#350](https://github.com/mattstratton/castanet/issues/350)
+
+**Fixed bugs:**
+
+- \[BUG\] - Update config.toml and sample site to add trailing / for the URLs [\#361](https://github.com/mattstratton/castanet/issues/361)
+
 ## [1.15.0](https://github.com/mattstratton/castanet/tree/1.15.0) (2021-04-15)
 
 **Fixed bugs:**
