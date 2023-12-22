@@ -178,7 +178,12 @@
                     <a href="https://twitch.tv/{{ . }}">
                       <i class="fab fa-twitch fa-2x"></i>
                     </a>
-                  {{- end -}}
+                    {{- end -}}
+                    {{- with .Params.Mastodon -}}
+                    <a href="{{ . }}">
+                      <i class="fab fa-mastodon fa-2x"></i>
+                    </a>
+                    {{- end -}}
                   </div>
                   </div>
                 {{- $.Scratch.Set "guest-exist" "false" -}}
@@ -298,6 +303,11 @@
                 <i class="fab fa-twitch fa-2x"></i>
               </a>
             {{- end -}}
+            {{- with .Params.Mastodon -}}
+              <a href="{{ . }}">
+                <i class="fab fa-mastodon fa-2x"></i>
+              </a>
+            {{- end -}}
             </div>
             </div>
           {{- $.Scratch.Set "host-exist" "false" -}}
@@ -340,6 +350,16 @@
       </div>
       <!-- disqus ends -->
       {{ end }}
+      {{ with .Site.Params.giscus }}
+      <!-- giscus begins -->
+      <hr />
+      <div class="row">
+        <div class="col-md-12">
+          {{ partial "giscus.html" }}
+        </div>
+      </div>
+      {{ end }}
+      <!-- giscus ends -->
 
       <div class="row">
         <!-- pager begin -->

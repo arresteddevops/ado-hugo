@@ -25,7 +25,7 @@
           <div class="col-md-4 grid_episode_col">
             <div class="episode-image-homepage">
               <a href="{{ .Permalink }}">
-                  <img src="/{{ .Params.episode_image }}" class="img-fluid" alt="{{ .Title }}" />
+                  <img src="{{ .Params.episode_image | absURL }}" class="img-fluid" alt="{{ .Title }}" />
 
 
 

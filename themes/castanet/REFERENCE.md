@@ -9,6 +9,7 @@
     - [Feed Parameters](#feed-parameters)
     - [Favicon parameters](#favicon-parameters)
     - [Social Parameters](#social-parameters)
+    - [Giscus Parameters](#giscus-parameters)
     - [Host/Author Parameters](#hostauthor-parameters)
         - [Host Social Parameters](#host-social-parameters)
     - [Link Parameters](#link-parameters)
@@ -47,6 +48,7 @@ These should be set under the `[params]` section:
 | `episode_number_prefix`            | No       | A prefix used in the episode's RSS feed before the episode number. For example, if episode_number_prefix was set to CWC for episode 1, then the output might be Title of the Episode - CWC1.                                                                                                                                                            | "CWC"                                                                                                                                                                                                                                    |
 | `site_layout`           | No       | The layout for the home page. The options are `row` (default) or `grid`.                                                                                                                                                                                            | "grid"                                                                                                                                                                                                                                    |
 | `enable_jumbo`          | No       | When using the `row` layout, will set a jumbotron at the top instead of the sidebar.                                                                                                                                                                                | "true"                                                                                                                                                                                                                                    |
+| `disable_title_caps`          | No       | When generating the RSS XML file do not convert the episode title to Title Case (using Title Case is the default)                                                                                                                                                                               | "false"                                                                                                                                                                                                                                    |
 | `show_next_upcoming`          | No       | If there are episodes with the upcoming frontmatter set to true, then it will display the next episode on homepage. This halves the screen real estate of the latest episode section, which will then be displayed side by side.                              | "true"                                                                                                                                                                                                                                    |
 | `truncate`              | No       | The number of characters to truncate the summary on the row layout. This can be overridden per-episode as well. The default value (if not set) is 600 characters.                                                                                                   | "700"                                                                                                                                                                                                                                     |
 | `custom_css`            | No       | Array of custom CSS files for over-riding theme settings or adding your own classes. These files should be put into your `static` directory (not the `static` directory of the theme).                                                                              | ["custom.css", "other_custom.css"]                                                                                                                                                                                                        |
@@ -60,6 +62,7 @@ These should be set under the `[params]` section:
 | `soundcloud_subscribe`  | No       | The URL to your podcast's feed on Soundcloud                                                                                                                                                                                                                        | "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"                                                                                                                                                                 |
 | `pocketcasts_subscribe` | No       | The URL to your podcast's feed on Pocketcasts                                                                                                                                                                                                                       | "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"                                                                                                                                                  |
 | `spotify_subscribe` | No       | The URL to your podcast's page on Spotify                                                                                                                                                                                                                       | "https://open.spotify.com/show/7hHA2ZlfOmbwv96wEBaMR2?si=UeVjoWIVSqqLluJd4TlEUg"                                                                                                                                                  |
+| `youtube_subscribe` | No       | The URL to subscribe your podcast's channel on Spotify                                                                                                                                                                                                                       | "https://www.youtube.com/arresteddevops?sub_confirmation=1"                                                                                                                                                  |
 | `mailchimp_subscribe`   | No       | The URL for your MailChimp signup form. This can be acquired from creating a "Super Slim" Embedded form on MailChimp. Do NOT include the entire form HTML; you just need the path for the `form action`.                                                            | "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&id=154fa76bcc"                                                                                                                                           |
 | `rss_subscribe`         | No       | Optional parameter to over-ride the RSS feed URL, in case you use something like Feedburner. You likely do NOT need to set this parameter unless you have a very good reason to do so.                                                                              | "http://feeds.podtrac.com/VGAulpN7MY1U"                                                                                                                                                                                                   |
 | `description`           | Yes      | Description of your show. Can use Markdown.                                                                                                                                                                                                                         | `"The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about [podcasting](https://en.wikipedia.org/wiki/Podcast) from the most inspiring experts to ever show up on the whole internet."` |
@@ -99,7 +102,7 @@ Refer to https://realfavicongenerator.net/ for more details.
 
 ### Social Parameters
 
-These are the social network parameters for your overall site. They should be set under `[params.social]`
+These are the social network parameters for your overall site. They should be set under `[params.social]` and all of them allow either the short form (e.g. just your twitter handle) where the theme will construct the URL or the full URL beginning with https:// (with the exception of Mastodon, as that does not have a common url scheme)
 
 | Field Name       | Required | Description                                                                                                      | Example              |
 |------------------|----------|------------------------------------------------------------------------------------------------------------------|----------------------|
@@ -115,6 +118,25 @@ These are the social network parameters for your overall site. They should be se
 | `youtube`        | No       | Name of the YouTube channel.                                                                                     | "arresteddevops"     |
 | `linkedin`       | No       | LinkedIn profile name. This is the part that comes after the `https://www.linkedin.com/in/` in your profile URL. | "mattstratton"       |
 | `twitch`         | No       | Twitch channel/profile for your site. This is the part that comes after `https://twitch.tv/`                     | "mattstratton"       |
+| `mastodon`         | No       | Mastodon account for your site. This needs to be the fully qualified URL including `https`                     | "https://hachyderm.io/@mattstratton"       |
+
+### Giscus Parameters
+
+As an alternative to Disqus for comments, you can leverage GitHub discussions, right below the episodes, thanks to [Giscus](https://giscus.vercel.app/). Giscus is driven by parameters under the `[params.giscus]` section.
+
+Follow the instructions at [giscus.vercel.app](https://giscus.vercel.app/) to set it up and get the value of the parameters.
+
+Example:
+
+```toml
+  [params.giscus]
+    data_repo="github-org/repo"
+    data_repo_id="MDAaBbClcG9zaXRvcnkzNTAyOTk3OTc="
+    data_category_id="MDE8Pazekd2N1c3Npb25DYXRlZ29yeTMyOTE4MDUx"
+    data_mapping="pathname"
+    data_theme="light"
+    crossorigin="anonymous"
+```
 
 ### Host/Author Parameters
 
@@ -137,7 +159,7 @@ We use the "authors" from the configuration to list hosts in the jumbotron or si
 
 TODO: Remove these parameters from exampleSite, but also add one for the the shortname of the host for linking to host page (optional)
 
-You also will set the social parameters (all are optional) under `[params.authors.USERNAME.social]`
+You also will set the social parameters (all are optional) under `[params.authors.USERNAME.social]` and all of them allow either the short form (e.g. just your twitter handle) where the theme will construct the URL or the full URL beginning with https://
 
 | Field Name  | Required | Description                                                                                                      | Example                        |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------|--------------------------------|
@@ -150,7 +172,7 @@ You also will set the social parameters (all are optional) under `[params.author
 | `twitch`    | No       | Name of the user's Twitch profile.                                                                               | mattstratton                   |
 | `linkedin`  | No       | LinkedIn profile name. This is the part that comes after the `https://www.linkedin.com/in/` in your profile URL. | "mattstratton"                 |
 | `homepage`  | No       | The user's website, including the `http` at the beginning.                                                       | "https://www.mattstratton.com" |
-
+| `mastodon`  | No       | The user's Mastodon URL, including the `https` at the beginning.                                                       | "https://hachyderm.io/@mattstratton" |
 
 ### Link Parameters
 
@@ -245,12 +267,12 @@ Example:
     identifier = "podcasts"
     url = "books"
     parent = "resources"
-    
+
 ```
 
 ### Podlove Subscribe Button
 
-[Podlove Subscribe Button](https://subscribe-button.podlove.org/) is a universal and easy-to-use button, to subscribe to podcasts with player clients or website players. 
+[Podlove Subscribe Button](https://subscribe-button.podlove.org/) is a universal and easy-to-use button, to subscribe to podcasts with player clients or website players.
 To customize your button please add the following section to your `config.toml`, which covers all features which are provided by the generator on [subscribe-button.podlove.org](https://subscribe-button.podlove.org/).
 
 ```
@@ -375,7 +397,7 @@ Graphical user interface influencer value proposition startup hackathon iPad ana
 | `tags[]`       | No       | If you are using taxonomies, this is the array of tags for the epsiode.     | ["VR", "Technology"] |
 ### Upcoming Episodes
 
-If you would like to display upcoming episodes, you need to do a couple things. First, you will need to create a page where the upcoming episodes will be listed. You can check out `exampleSite` for an example, but basically, you want to create `content/upcoming/_index.md`. 
+If you would like to display upcoming episodes, you need to do a couple things. First, you will need to create a page where the upcoming episodes will be listed. You can check out `exampleSite` for an example, but basically, you want to create `content/upcoming/_index.md`.
 
 Any episodes that have `upcoming` in their frontmatter set to `true` will be listed here, but not listed on any other pages (feed, home page, guest pages, etc). Additionally, episodes that are marked as "upcoming" will not display a YouTube video or audio player, even if those parameters are set.
 
@@ -424,6 +446,7 @@ Spoon fresh pie ingredients groceries oranges luncheon farm. Broth chick peas Ch
 | `Instagram` | No       | Instagram profile name.                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | "mattstratton"                 |
 | `YouTube`   | No       | YouTube profile/channel name                                                                                                                                                                                                                                                                                                                                                                                                                                                                | "mattstratton"                 |
 | `Twitch`   | No       | Twitch profile/channel name                                                                                                                                                                                                                                                                                                                                                                                                                                                                | "mattstratton"                 |
+| `mastodon`  | No       | The user's Mastodon URL, including the `https` at the beginning.                                                       | "https://hachyderm.io/@mattstratton" |
 | `Aka`       | No       | **DEPRECATED - use `guest_group` instead.** The name(s) of another guest file which is an alternate identity for this guest (for example, if the bio changes, name changes, etc). This should be set in both directions (i.e., the `Aka` field should be set on `mstratton.md` and `mstratton2.md` pointing to each other).                                                                                                                                                                                                                | Aka = ["jsmith", "jsmith2"]                   |
 | `guest_group`       | No       | Set to an identifier to mark guests as being different versions of the same person. Only the most recent file in a guest group will appear on the Guests page. Additionally, all members of a guest group will display the same "other episodes" on guest pages.                                                                                                                                                                                                               | "mattstratton"                   |
 
