@@ -4,6 +4,7 @@ Description = "One of the key technologies to help automate your DevOps environm
 Date = 2014-03-29T12:10:10-05:00
 PublishDate = 2014-03-29T12:10:10-05:00
 podcast_file = "arrested-devops-podcast-episode009.mp3"
+podcast_duration = "01:05:24"
 episode_image = "episode/img/configuration-management.png"
 episode_banner = "/episode/img/configuration-management-banner.png"
 guests = ["someara","cwebber", "smurawksi"] # The names of your guests, based on the filename without extension.

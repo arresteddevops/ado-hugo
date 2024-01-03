@@ -4,6 +4,7 @@ Description = "Matt and Trevor are joined by Jeanne Steinback (Rewards Network) 
 Date = 2014-06-11T12:19:38-05:00
 PublishDate = 2014-06-11T12:19:38-05:00
 podcast_file = "arrested-devops-podcast-episode012.mp3"
+podcast_duration = "44:48"
 episode_image = "episode/img/implementing-devops.png"
 episode_banner = "/episode/img/implementing-devops-banner.png"
 guests = ["jteinback","candreen",] # The names of your guests, based on the filename without extension.

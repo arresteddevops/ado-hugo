@@ -3,6 +3,7 @@ title = "DevOps mythbusters"
 Description = "On this episode of Arrested DevOps Matt and Trevor are  joined by some of the finest minds in DevOps podcastery - Damon Edwards of DevOps Cafe and Sascha Bates of The Ship Show. The panel addresses some common beliefs on DevOps, and whether these beliefs are true...or just MYTHS."
 Date = 2014-02-10T09:56:24-05:00
 PublishDate = 2014-02-10T09:56:24-05:00
+podcast_duration = "01:06:01"
 podcast_file = "arrested-devops-podcast-episode006.mp3"
 episode_image = "episode/img/devops-mythbusters.png"
 episode_banner = "/episode/img/devops-mythbusters-banner.png"

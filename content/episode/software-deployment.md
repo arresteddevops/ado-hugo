@@ -4,6 +4,7 @@ Description = "'It doesn't count until it's in production.'' How can organizatio
 Date = 2014-06-23T12:23:24-05:00
 PublishDate = 2014-06-23T12:23:24-05:00
 podcast_file = "arrested-devops-podcast-episode013.mp3"
+podcast_duration = "46:22"
 episode_image = "episode/img/software-deployment.png"
 episode_banner = "/episode/img/software-deployment-banner.png"
 guests = ["rdey",] # The names of your guests, based on the filename without extension.

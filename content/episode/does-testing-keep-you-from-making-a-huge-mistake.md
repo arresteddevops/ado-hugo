@@ -4,6 +4,7 @@ Description = "What role does testing play in DevOps?"
 Date = 2013-12-16T09:45:16-05:00
 PublishDate = 2013-12-16T09:45:16-05:00
 podcast_file = "arrested-devops-podcast-episode002.mp3"
+podcast_duration = "01:07:19"
 episode_image = "episode/img/does-testing-keep-you-from-making-a-huge-mistake.png"
 episode_banner = "/episode/img/does-testing-keep-you-from-making-a-huge-mistake-banner.png"
 guests = ["lcreamer","nbrengle","jsheehan",] # The names of your guests, based on the filename without extension.

@@ -4,6 +4,7 @@ Description = "It's information overload these days - how can a technology profe
 Date = 2014-03-11T08:54:32-05:00
 PublishDate = 2014-03-11T08:54:32-05:00
 podcast_file = "arrested-devops-podcast-episode008.mp3"
+podcast_duration = "01:01:48"
 episode_image = "episode/img/managing-your-mental-stack.png"
 episode_banner = "/episode/img/managing-your-mental-stack-banner.png"
 guests = ["srosenbaum",] # The names of your guests, based on the filename without extension.

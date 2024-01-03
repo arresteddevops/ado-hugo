@@ -4,6 +4,7 @@ Description = "DevOps 'Thought Leaders' Pete Cheslock, Nathen Harvey, and Randi 
 Date = 2014-07-07T12:27:03-05:00
 PublishDate = 2014-07-07T12:27:03-05:00
 podcast_file = "arrested-devops-podcast-episode014.mp3"
+podcast_duration = "59:26"
 episode_image = "episode/img/how-to-eff-up-devops.png"
 episode_banner = "/episode/img/how-to-eff-up-devops-banner.png"
 guests = ["pcheslock","nharvey","rharper",] # The names of your guests, based on the filename without extension.

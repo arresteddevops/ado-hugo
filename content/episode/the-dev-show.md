@@ -4,6 +4,7 @@ Description = "DevOps from a developer perspective"
 Date = 2014-01-02T09:47:19-05:00
 PublishDate = 2014-01-02T09:47:19-05:00
 podcast_file = "arrested-devops-podcast-episode003.mp3"
+podcast_duration = "55:52"
 episode_image = "episode/img/the-dev-show.png"
 episode_banner = "/episode/img/the-dev-show-banner.png"
 guests = ["ddigangi","dbraverman",] # The names of your guests, based on the filename without extension.

@@ -4,6 +4,7 @@ Description = "How do Agile and DevOps relate?"
 Date = 2014-01-03T09:52:25-05:00
 PublishDate = 2014-01-03T09:52:25-05:00
 podcast_file = "arrested-devops-podcast-episode004.mp3"
+podcast_duration = "1:07:50"
 episode_image = "episode/img/agile-and-devops.png"
 episode_banner = "/episode/img/agile-and-devops-banner.png"
 guests = ["pobrien","llagestee"] # The names of your guests, based on the filename without extension.

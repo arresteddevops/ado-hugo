@@ -4,6 +4,7 @@ Description = "Recorded on Day 2 of DevOpsDays Chicago. Matt and Trevor are join
 Date = 2014-10-08T19:17:09-05:00
 PublishDate = 2014-10-08T19:17:09-05:00
 podcast_file = "arrested-devops-podcast-episode022.mp3"
+podcast_duration = "39:12"
 episode_image = "episode/img/devopsdays-chicago.png"
 episode_banner = "/episode/img/devopsdays-chicago-banner.png"
 guests = ["jhand","preed","mducy",] # The names of your guests, based on the filename without extension.
