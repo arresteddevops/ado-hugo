@@ -4,6 +4,7 @@ Description = "In today's world of web-scale IT, the ability to respond quickly 
 Date = 2014-05-08T12:13:44-05:00
 PublishDate = 2014-05-08T12:13:44-05:00
 podcast_file = "arrested-devops-podcast-episode010.mp3"
+podcast_duration = "51:05"
 episode_image = "episode/img/cloud-scaling.png"
 episode_banner = "/episode/img/cloud-scaling-banner.png"
 guests = ["scorona","ipapirov"] # The names of your guests, based on the filename without extension.

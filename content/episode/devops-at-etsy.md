@@ -4,6 +4,7 @@ Description = "The engineering team at Etsy are considered by many to be industr
 Date = 2014-05-21T12:16:50-05:00
 PublishDate = 2014-05-21T12:16:50-05:00
 podcast_file = "arrested-devops-podcast-episode011.mp3"
+podcast_duration = "57:41"
 episode_image = "episode/img/devops-at-etsy.png"
 episode_banner = "/episode/img/devops-at-etsy-banner.png"
 guests = ["jcowie","jallspaw", "dyurkiewicz", "pbellisano"] # The names of your guests, based on the filename without extension.

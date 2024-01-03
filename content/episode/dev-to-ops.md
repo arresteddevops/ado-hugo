@@ -4,6 +4,7 @@ Description = "What does the journey from a background based in Development and 
 Date = 2014-08-28T18:17:34-05:00
 PublishDate = 2014-08-28T18:17:34-05:00
 podcast_file = "arrested-devops-podcast-episode019.mp3"
+podcast_duration = "52:00"
 episode_image = "episode/img/dev-to-ops.png"
 episode_banner = "/episode/img/dev-to-ops-banner.png"
 guests = ["nburleson","jsmyth","ablythe",] # The names of your guests, based on the filename without extension.

@@ -4,6 +4,7 @@ Description = "When we talk about DevOps, often times we focus only on the two d
 Date = 2014-09-09T18:26:31-05:00
 PublishDate = 2014-09-09T18:26:31-05:00
 podcast_file = "arrested-devops-podcast-episode020.mp3"
+podcast_duration = "56:12"
 episode_image = "episode/img/devops-security.png"
 episode_banner = "/episode/img/devops-security-banner.png"
 guests = ["bhughes",] # The names of your guests, based on the filename without extension.

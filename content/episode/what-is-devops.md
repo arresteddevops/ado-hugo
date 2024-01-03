@@ -4,6 +4,7 @@ Description = "Matt and Trevor talk about the reason for Arrested DevOps, the fo
 Date = 2013-12-05T20:52:00-05:00
 PublishDate = 2013-12-05T20:52:00-05:00
 podcast_file = "arrested-devops-podcast-episode001.mp3"
+podcast_duration = "37:24"
 episode_image = "episode/img/what-is-devops.png"
 #episode_banner = "/episode/img/what-is-devops-banner.png"
 guests = [] # The names of your guests, based on the filename without extension.
