@@ -1,1 +1,1 @@
-hugo --buildDrafts=false --baseURL="$DEPLOY_PRIME_URL"
+hugo --buildDrafts --buildFuture --baseURL="$DEPLOY_PRIME_URL"
