@@ -2,7 +2,7 @@ BaseURL = "https://www.arresteddevops.com/"
 # BaseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Arrested DevOps"
-theme = "castanet"
+# theme = "castanet"
 canonifyurls = false
 buildFuture = false
 buildDrafts = false
@@ -11,6 +11,10 @@ disqusShortname = "arresteddevops"
 archetypedir = "archetypes"
 paginate = 9
 googleAnalytics = "UA-45939822-1"
+
+[module]
+[[module.imports]]
+    path = 'github.com/mattstratton/castanet'
 
 [markup]
   [markup.goldmark]
