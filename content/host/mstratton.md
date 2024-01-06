@@ -12,6 +12,7 @@ Thumbnail = "img/matt.png"
 Instagram = "mattstratton"
 YouTube = "mugsy1274"
 Twitch = "themattstratton"
+Threads = "mattstratton"
 +++
 Matty Stratton is the Director of Developer Relations at [Aiven](https://aiven.io), a well-known member of the DevOps community, and a global organizer of the [DevOpsDays](https://www.devopsdays.org/) set of conferences.
 

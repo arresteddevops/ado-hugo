@@ -12,6 +12,7 @@ Pinterest = ""
 Instagram = "mattstratton"
 YouTube = "mugsy1274"
 Twitch = "themattstratton"
+Threads = "mattstratton"
 guest_group = "mstratton"
 +++
 Matty Stratton is the Director of Developer Relations at [Aiven](https://aiven.io), a well-known member of the DevOps community, founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com/) podcast, and a global organizer of the [DevOpsDays](https://www.devopsdays.org/) set of conferences.
