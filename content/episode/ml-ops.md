@@ -8,13 +8,13 @@ podcast_duration = ""
 episode_image = "episode/img/ml-ops.png"
 episode_banner = "episode/img/ml-ops-banner.jpg"
 guests = ["ctroy"] # The names of your guests, based on the filename without extension
-#sponsors = []
+sponsors = ["uffizzi", "gitbook"]
 episode = "201"
 title = "Machine Learning Ops with Chelsea Troy"
 #subtitle = ""
 images = ["img/social/fb/ml-ops.png"]
 hosts = ["jkerr"] # The names of your hosts, based on the filename without extension.
-#aliases = ["/201"]
+aliases = ["/201"]
 #youtube = ""
 explicit = "no" # values are "yes" or "no"
 #media_override # if you want to use a specific URL for the audio file
