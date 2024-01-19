@@ -96,7 +96,7 @@ The Hugo theme used is [Castanet](https://www.github.com/mattstratton/castanet).
 
 ### Updating the theme
 
-If there are new versions of [Castanet](https://www.github.com/mattstratton/castanet), all that should be required is to replace the entire `themes/castanet` directory with the new downloaded version. Check out [utils/README.md](https://github.com/arresteddevops/ado-hugo/blob/master/utils/README.md) for a helpful script to do this in a fancy automated way.
+We now load [Castanet](https://www.github.com/mattstratton/castanet) as a [Hugo module](https://gohugo.io/hugo-modules/); to update to a newer version, simply edit `go.mod` to reflect the version you are looking for, and then run `hugo mod get -u`.
 
 ### Credits
 
