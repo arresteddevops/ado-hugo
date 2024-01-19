@@ -1,8 +1,8 @@
 +++
 Description = "Jessitron is joined by Chelsea Troy, Staff Data Engineer at Mozilla, and one of the all-around most interesting people in software today, to discuss staff engineering, machine learning operations, and maybe also surfing."
-Date = 2024-01-19T09:15:31-06:00
-PublishDate = 2024-01-19T09:15:31-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
+Date = 2024-01-18T09:15:31-06:00
+PublishDate = 2024-01-18T09:15:31-06:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+podcast_file = arrested-devops-podcast-episode201.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "episode/img/ml-ops.png"
