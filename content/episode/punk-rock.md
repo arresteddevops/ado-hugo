@@ -23,7 +23,7 @@ hosts = ["mstratton", ""]
 
 ### What is devrel anyway?
 
-{{< tweet 905108500757413888 >}}
+
 
 ### DevOps Music Playlist
 

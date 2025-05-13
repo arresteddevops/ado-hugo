@@ -24,6 +24,4 @@ explicit = "yes" # values are "yes" or "no"
 #series = []
 #tags = []
 +++
-{{< tweet 1452755383110545426 >}}
 
-{{< tweet 1453149040259051523 >}}

@@ -9,8 +9,8 @@ buildDrafts = false
 dataDir = "data"
 disqusShortname = "arresteddevops"
 archetypedir = "archetypes"
-paginate = 9
-googleAnalytics = "UA-45939822-1"
+pagination.pagerSize = 9
+# googleAnalytics = "UA-45939822-1"
 
 [module]
 [[module.imports]]
@@ -71,6 +71,9 @@ googleAnalytics = "UA-45939822-1"
     name = "Search"
     identifier = "search"
     url = "/search"
+[services]
+  [services.GoogleAnalytics]
+    ID = 'G-45939822'
 
 [params]
 mainSections = ["episode"]

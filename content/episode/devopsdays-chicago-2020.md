@@ -26,4 +26,3 @@ explicit = "yes" # values are "yes" or "no"
 - [Love, Yaktually video](https://www.youtube.com/watch?v=uts4RmxU1SQ)
 - [Recording of the event livestream](https://www.youtube.com/watch?v=ECMD5Yw5CxA)
 
-{{< tweet 1294825635777581056 >}}
