@@ -28,6 +28,6 @@ transcript = "/static/transcripts/breaking-down-gates.md"
 - [Lending Privilege - Anjuan Simmons](https://anjuansimmons.com/talks/lending-privilege/)
 - [levels.fyi/](https://www.levels.fyi/)
 
-{{< tweet 1326253671240228864 >}}
+
 
 Shout-out to Matt's friend [Marcelo](https://twitter.com/MTeson) for the link for Chili John's (and for taking Matt there so many years ago)

@@ -22,5 +22,4 @@ explicit = "no" # values are "yes" or "no"
 - "Solved" plugin for Discourse - https://meta.discourse.org/t/discourse-solved-accepted-answer-plugin/30155
 - Discount code for ADO listeners for $4 off Jono's book - https://www.amazon.com/gp/mpc/A2JVV0MPZUIQ7D
 
-{{< tweet 715277134978113536 >}}
 
