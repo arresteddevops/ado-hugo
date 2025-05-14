@@ -10,7 +10,8 @@
 # will inherit these settings.
 [context.deploy-preview]
   publish = "public/"
-  command = "bin/netlify.sh"
+  #command = "bin/netlify.sh"
+  command = "hugo mod get -u && hugo --gc --minify --buildDrafts --buildFuture --baseURL="$DEPLOY_PRIME_URL"
 
 [context.castanet]
  command = "bin/netlify-castanet.sh"
