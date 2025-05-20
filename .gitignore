@@ -51,3 +51,5 @@ $RECYCLE.BIN/
 .Ulysses-Group.plist
 /output
 😊
+node_modules
+hugo_stats.json
