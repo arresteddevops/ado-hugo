@@ -10,14 +10,12 @@
     "dev": "run-p dev-hugo"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.6"
-  },
-  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.6",
+    "tailwindcss": "^4.1",
     "@tailwindcss/typography": "^0.5.16"
   },
-  "optionalDependencies": {
-    "@parcel/watcher-linux-x64-glibc": "2.2.0"
-    },
+  "devDependencies": {
+  },
   "name": "ado-hugo",
   "version": "0.1.0"
 }
