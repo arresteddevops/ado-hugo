@@ -26,8 +26,8 @@
 
   [context.branch-deploy.environment]
     HUGO_VERSION = "0.147.3"
-[build.environment]
-  NPM_FLAGS = "--no-optional"
+#[build.environment]
+#  NPM_FLAGS = "--no-optional"
 #[build.processing]
 #  skip_processing = true
 #[[plugins]]
