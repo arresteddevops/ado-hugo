@@ -1,0 +1,22 @@
+{
+  "comments": {
+    "dependencies": {
+      "@tailwindcss/cli": "github.com/mattstratton/castanet/v2"
+    },
+    "devDependencies": {}
+  },
+  "scripts": {
+    "dev-hugo": "hugo server -p 1314 --disableFastRender",
+    "dev": "run-p dev-hugo"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.6",
+    "tailwindcss": "^4.1",
+    "@tailwindcss/typography": "^0.5.16"
+  },
+  "name": "ado-hugo",
+  "version": "0.1.0"
+}
