@@ -17,12 +17,11 @@ aliases = ["/203"]
 explicit = "no" # values are "yes" or "no"
 transcript = "/static/transcripts/using-ai.md"
 +++
-We’ve all been there: burning out on volatile tech jobs, tangled in impossible systems, and wondering what our work actually means. On this episode of Arrested DevOps, Matty Stratton sits down with Kat Morgan for a heartfelt, funny, and sharply observant conversation about AI—what it helps with, what it hurts, and how we navigate all of that as humans in tech.
+We’ve all been there: burning out on volatile tech jobs, tangled in impossible systems, and wondering what our work actually means. On this episode of Arrested DevOps, Matty Stratton sits down with Kat Morgan for a heartfelt, funny, and sharply observant conversation about AI: what it helps with, what it hurts, and how we navigate all of that as humans in tech.
 
 They dive deep into how large language models (LLMs) both assist and frustrate us, the ethics of working with machines trained on the labor of others, and why staying kind—to the robots and to ourselves—might be one of the most important practices we have.
 
 >“We actually have to respect our own presence enough to appreciate that what we put out in the world will also change ourselves.” – Kat Morgan
-
 
 ## Topics
 
@@ -40,4 +39,3 @@ They dive deep into how large language models (LLMs) both assist and frustrate u
 - Good context design matters. When working with AI, things like encapsulated code, clean interfaces, and checklists aren’t just best practices—they’re vital for productive collaboration.
 - Skepticism is healthy. Kat reminds us that while AI can be useful, it also messes up. A lot. And without guardrails and critical thinking, it can become more of a liability than a partner.
 - Build humane systems. From privacy risks to climate concerns, this episode underscores that responsible AI use requires ethical intent—and that starts with practitioners.
-
