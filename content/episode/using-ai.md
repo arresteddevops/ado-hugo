@@ -35,7 +35,7 @@ They dive deep into how large language models (LLMs) both assist and frustrate u
 
 ## Key Takeaways
 
-- AI isn’t magic—but it can be a helpful colleague. Kat shares how she uses LLMs to stay on task, avoid executive dysfunction, and manage complex projects with greater ease.
-- Good context design matters. When working with AI, things like encapsulated code, clean interfaces, and checklists aren’t just best practices—they’re vital for productive collaboration.
+- AI isn’t magic, but it can be a helpful colleague. Kat shares how she uses LLMs to stay on task, avoid executive dysfunction, and manage complex projects with greater ease.
+- Good context design matters. When working with AI, things like encapsulated code, clean interfaces, and checklists aren’t just best practices. They’re vital for productive collaboration.
 - Skepticism is healthy. Kat reminds us that while AI can be useful, it also messes up. A lot. And without guardrails and critical thinking, it can become more of a liability than a partner.
-- Build humane systems. From privacy risks to climate concerns, this episode underscores that responsible AI use requires ethical intent—and that starts with practitioners.
+- Build humane systems. From privacy risks to climate concerns, this episode underscores that responsible AI use requires ethical intent, which starts with practitioners.
