@@ -10,20 +10,34 @@ episode_banner = "episode/img/using-ai-banner.png"
 guests = ["kmorgan"] # The names of your guests, based on the filename without extension.
 sponsors = ["flyio"]
 episode = "203"
-title = "Navigating AI Tools with Kat Morgan"
+title = "AI, Ethics, and Empathy with Kat Morgan"
 images = ["img/social/fb/using-ai.png"]
 hosts = ["mstratton"] # The names of your hosts, based on the filename without extension.
 aliases = ["/203"]
 explicit = "no" # values are "yes" or "no"
 transcript = "/static/transcripts/using-ai.md"
 +++
-In this episode of Arrested DevOps, host Matty Stratton is joined by Kat Morgan to discuss the intricacies and impacts of AI in the world of DevOps. The conversation delves into various ethical, ecological, and accessibility considerations surrounding AI technologies like large language models (LLMs). Both Matty and Kat share personal experiences on how AI has facilitated their workflows, emphasizing the importance of maintaining good coding hygiene and task management. They also explore practical tips for safely integrating AI tools into development practices while protecting intellectual property and maintaining security. The episode concludes with a reminder on the significance of treating AI tools respectfully, much like we should treat fellow humans.
+We’ve all been there: burning out on volatile tech jobs, tangled in impossible systems, and wondering what our work actually means. On this episode of Arrested DevOps, Matty Stratton sits down with Kat Morgan for a heartfelt, funny, and sharply observant conversation about AI—what it helps with, what it hurts, and how we navigate all of that as humans in tech.
 
-00:00 Introduction and Sponsor Message
-01:11 Welcoming the Guest: Kat Morgan
-01:46 Diving into AI and Its Impacts
-04:44 Personal Experiences with AI Tools
-06:52 Challenges and Ethical Considerations
-10:19 Practical Applications and Coding with AI
-26:23 Security and Best Practices
-30:12 Final Thoughts and Wrap-Up
+They dive deep into how large language models (LLMs) both assist and frustrate us, the ethics of working with machines trained on the labor of others, and why staying kind—to the robots and to ourselves—might be one of the most important practices we have.
+
+>“We actually have to respect our own presence enough to appreciate that what we put out in the world will also change ourselves.” – Kat Morgan
+
+
+## Topics
+
+- Why strong opinions about AI often miss the nuance
+- Using LLMs to support neurodivergent workflows (executive function as a service!)
+- Treating agents like colleagues and the surprising benefits of that mindset
+- Code hygiene, documentation, and collaborating with AI in GitHub issues
+- Building private, local dev environments to reduce risk and improve trust
+- Ethical tensions: intellectual property, environmental impact, and the AI value chain
+- Why we should be polite to our agents—and what that says about how we treat people
+
+## Key Takeaways
+
+- AI isn’t magic—but it can be a helpful colleague. Kat shares how she uses LLMs to stay on task, avoid executive dysfunction, and manage complex projects with greater ease.
+- Good context design matters. When working with AI, things like encapsulated code, clean interfaces, and checklists aren’t just best practices—they’re vital for productive collaboration.
+- Skepticism is healthy. Kat reminds us that while AI can be useful, it also messes up. A lot. And without guardrails and critical thinking, it can become more of a liability than a partner.
+- Build humane systems. From privacy risks to climate concerns, this episode underscores that responsible AI use requires ethical intent—and that starts with practitioners.
+
