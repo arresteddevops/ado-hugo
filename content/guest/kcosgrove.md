@@ -13,7 +13,7 @@ Instagram = ""
 YouTube = ""
 Twitch = ""
 #Aka = []
-#guest_group = ""
+guest_group = "kcosgrove"
 +++
 Kat Cosgrove is a chronic early-adopter of new technologies and a real-life cyborg. Her professional engineering background is in web development, IoT, and programming education, but today she's a Developer Advocate for JFrog. She loves finding creative solutions for hard problems, especially if they're a little hacky.
 
