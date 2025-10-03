@@ -1,5 +1,5 @@
 +++
-Description = "The software industry is experiencing another seismic shift. After decades of agile transformations, cloud migrations, and DevOps revolutions, we're now navigating the integration of AI into the software development lifecycle. But this time feels different—the pace is faster, the technology less mature, and the stakes feel higher. Matty Stratton sat down with Hannah Foxwell and Robert Warner to explore what this transformation means for developers, operations teams, and the organizations they serve."
+Description = "The software industry is experiencing another seismic shift. After decades of agile transformations, cloud migrations, and DevOps revolutions, we're now navigating the integration of AI into the software development lifecycle. But this time feels different—the pace is faster, the technology less mature, and the stakes feel higher. Matty Stratton sat down with Hannah Foxwell and Robert Werner to explore what this transformation means for developers, operations teams, and the organizations they serve."
 Date = 2025-10-01T08:36:13-05:00
 PublishDate = 2025-10-01T08:36:13-05:00 # this is the datetime for the when the episode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "arrested-devops-podcast-episode205.mp3" # the name of the podcast file, after the media prefix.
@@ -7,7 +7,7 @@ podcast_duration = "00:39:51"
 podcast_bytes = "18200000" # the length of the episode in bytes
 episode_image = "episode/img/ai-sdlc.png"
 episode_banner = "episode/img/ai-sdlc-banner.png"
-guests = ["hfoxwell","rwarner"] # The names of your guests, based on the filename without extension.
+guests = ["hfoxwell","rwerner"] # The names of your guests, based on the filename without extension.
 sponsors = ["flyio","attribute"]
 episode = "205"
 title = "How AI is changing the SDLC with Hannah Foxwell and Robert Warner"
@@ -29,7 +29,7 @@ transcript = "/static/transcripts/ai-sdlc.md"
 
 Hannah Foxwell, who has spent over a decade in DevOps and platform engineering, draws a striking parallel to earlier transformations: "It used to be that testers didn't trust developers and ops didn't trust testers and there were all these silos. Now we're putting AI agents in the mix. Can we trust them? Should we trust them?"
 
-This isn't just déjà vu—it's a fundamental challenge that resurfaces with every major shift in how we build software. As Robert Warner points out, management had to give up control and push trust to the edges of organizations during the agile transformation. With cloud adoption came self-service and automation. Now, with AI, we're dealing with non-deterministic black boxes that we need to trust to be "right often enough."
+This isn't just déjà vu—it's a fundamental challenge that resurfaces with every major shift in how we build software. As Robert Werner points out, management had to give up control and push trust to the edges of organizations during the agile transformation. With cloud adoption came self-service and automation. Now, with AI, we're dealing with non-deterministic black boxes that we need to trust to be "right often enough."
 
 ## The Fluency Gap
 

@@ -1,6 +1,6 @@
 +++
 Date = 2025-10-03T08:42:16-05:00
-title = "Robert Warner"
+title = "Robert Werner"
 Pronouns = ""
 Twitter = ""
 Website = ""
