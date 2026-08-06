@@ -4,7 +4,7 @@
 #  command = "bin/netlify.sh"
 # publish = "exampleSite/public"
    #command = "bin/netlify-production.sh"
-   command = "hugo mod get -u && hugo --gc --minify --buildDrafts --buildFuture --baseURL=$URL"
+   command = "hugo mod get && hugo --gc --minify --buildDrafts --buildFuture --baseURL=$URL"
    publish = "public/"
 
 # Deploy Preview context: All Deploy Previews
