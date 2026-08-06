@@ -1,6 +1,6 @@
 BaseURL = "https://www.arresteddevops.com/"
 # BaseURL = "http://localhost:1313/"
-languageCode = "en-US"
+# languageCode = "en-US"
 title = "Arrested DevOps"
 # theme = "castanet"
 canonifyurls = false
