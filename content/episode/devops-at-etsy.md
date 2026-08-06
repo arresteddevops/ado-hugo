@@ -7,7 +7,7 @@ podcast_file = "arrested-devops-podcast-episode011.mp3"
 podcast_duration = "57:41"
 episode_image = "episode/img/devops-at-etsy.png"
 episode_banner = "/episode/img/devops-at-etsy-banner.png"
-guests = ["jcowie","jallspaw", "dyurkiewicz", "pbellisano"] # The names of your guests, based on the filename without extension.
+guests = ["jcowie","jallspaw", "pbellisano"] # The names of your guests, based on the filename without extension.
 sponsors = ["pagerduty","10thmagnitude",]
 episode = "11"
 images = ["/img/social/fb/devops-at-etsy.png"]
@@ -27,8 +27,6 @@ hosts = ["thess","mstratton"]
 <h3>Jon Cowie</h3>
 <a href="http://community.opscode.com/cookbooks/dmg">dmg cookbook</a>
 <a href="http://community.opscode.com/cookbooks/rbenv">rbenv cookbook</a>
-<h3>David Yurkiewicz</h3>
-<a href="http://pushover.net">Pushover.net</a>
 <h3>Pete Bellisano</h3>
 Buffalo Trace whiskey
 <h3>John Allspaw</h3>
